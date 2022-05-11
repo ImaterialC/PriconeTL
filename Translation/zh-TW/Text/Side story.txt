@@ -1,4 +1,4 @@
-イドストーリー=ide Story
+イドストーリー=支線故事
 [FF7C4E,D62146]追加データは、アプリ起動時に削除されます。[-]=[FF7C4E,D62146]Additional data is deleted at app startup.[-]
 {{B}}{{A}}サイドストーリー[-]が解放されました。[-]={{B}}The {{A}}Side Story[-] has been released.[-]
 メインクエスト{{C}}{{B}}{{A}}クリアで=Cleared Main Quest {{C}}{{B}}{{A}}
