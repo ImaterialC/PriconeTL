@@ -1,0 +1,2 @@
+sr:"^([べ-・ー＆]{2,11})からお返しをもらいました\n([べ-・ー＆]{2,11})のメモリーピース×10$"=Receive 10 $2's Memory Shard\nfrom $1's Celebrate
+sr:"^([べ-・ー＆]{2,11})「バースデーストーリー」のお返しでもらったアイテムです。$"="Item you got at celebrating of $1's "Birthday Story". "

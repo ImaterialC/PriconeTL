@@ -1,0 +1,41 @@
+ンナ=Anna
+小説執筆=Writing Novels
+
+===Bio
+【魔法】中衛から圧倒的な魔力で攻撃する、疾風の冥姫。ユニオンバーストで敵全体に大ダメージを与えるが、高すぎる魔力の為、自分自身にも相応のリスクが生じる。=[Magic] Hecate of the Gale goes by many names. Annerose von Stechpalme, The Walking Tornado, or Anna unleashes magic power from the MG. Her UB is powerful but risky.
+
+===Skills
+羅刹涅槃・極光終天冥壊破=Demonic Salvation: Apocalypse Dawn
+覇叉冥滅獄炎呪=Hellfire of the Dark Conqueror
+覇叉冥滅獄炎呪+=Hellfire of the Dark Conqueror+
+===UB (6 star)
+
+===UB (Non-6*)
+敵全体に魔法中ダメージを与えるが、使用後アンナの物理防御力と魔法防御力が特大ダウンする。=Deals moderate M.DMG to all enemies. Lowers own P.DEF and M.DEF by a massive amount after use.
+and M.DEF by a massive amount after use.
+r:"^敵全体に(\d+)の魔法ダメージ\n自分の物理防御力を0にする\n自分の魔法防御力を0にする$"=tes Deals $1 M.DMG to all enemies.\nLowers own P.DEF to 0. \nLowers own M.DEF to 0.
+===Skill 1 (with UE) (Need UE)
+r:"^敵単体に(\d+)の魔法ダメージ\n敵単体の魔法防御力を(\d+)ダウン$"=Deals $1 M.DMG to an enemy.\n Lowers an enemiey's M.DEF by $2.
+目の前の敵１キャラに魔法中ダメージを与え、さらに魔法防御力を小ダウンさせる。=Deals moderate M.DMG to an enemy directly in front and lowers its M.DEF by small amount.
+===Skill 1 (no UE) 
+目の前の敵１キャラに魔法中ダメージを与える。=Deals moderate M.DMG to an enemy directly in front.
+r:"^敵単体に(\d+)の魔法ダメージ$"=Deals $1 M.DMG to an enemy.
+===Skill 2
+
+【自爆】アンナのＨＰが最大ＨＰの１０％以下になった時に発動し、周囲の敵すべてに魔法大ダメージを与えるが、自身は戦闘不能になる。=[Self Destruct] Activates when HP falls to 10% or below. Deals large M.DMG to all enemies in range but knocks herself out.
+
+r:"^範囲内の敵に(\d+)の魔法ダメージ$"=Deals $1 M.DMG to enemies in range (600).\nApplies Invulnerability to Self for 1.9s.\nInflict Instant Death to Self.
+===Story
+前世を信じる中二病患者、「疾風の冥姫」=A delusional girl who believes she was a hero in a previous life, “Hecate of the Gale”
+
+邂逅、閃光のシグルド！=Sigurd! We Meet Again!
+盟友との共同戦線=Comrades on the Field of Battle
+喪った記憶の在処=In Search of Lost Memories
+異世界で出会う二人=Echoes of a Distant Realm
+魔狼のごとく駆け抜けろ！=Fly Like the Blazing Hellhound!
+なくした自分を取り戻せ！=In Search of Past Glory
+「組織」との対決=Rise of the Syndicate
+前世での関係=Bygone Relations
+
+===UE
+螺旋霊撃疾風飛剣=Vortex Thorn

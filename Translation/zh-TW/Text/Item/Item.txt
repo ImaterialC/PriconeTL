@@ -1,0 +1,36 @@
+プリンセスハート=Princess Heart
+プラチナガチャチケット=Premium Gacha Ticket
+選択したメモリーピース=Selected Memory Shard
+ミニEXPポーション=小型 EXP 藥水
+EXPポーション=普通 EXP 藥水
+EXPハイポーション=高劑量 EXP 藥水
+EXPメガポーション=特級 EXP 藥水
+EXPギガポーション=究極EXP藥水
+プリンセスオーブ=公主寶珠
+アストライアリング=阿斯特賴亞戒指
+精錬結晶=精練結晶
+上精錬石=上級精煉石
+精錬石=精煉石
+緑枠の原鉱=Green Ore
+紫枠の原鉱=Purple Ore
+金枠の原鉱=Gold Ore
+銀枠の原鉱=Silver Ore
+銅枠の原鉱=Copper Ore
+赤枠の原鉱=Red Ore
+橙枠の原鉱=Orange Ore
+
+スキップチケット=掃蕩券
+ミックスベリーケーキ=綜合莓果蛋糕
+アップルパイ=蘋果派
+ハートチュロ=心型吉拿棒
+=============
+大天使の泪=大天使之淚
+一見ただの飴玉だが実は霊験あらた\nかな聖遺物であり、巷では模造品や\n偽物が出回る超レアアイテム。=乍一看只是普通的糖果，實際上是有著神力的聖遺物，如同街頭巷口皆可見其模型與贗品的超稀有道具。
+
+r:"^EXPを (\d+) 獲得できる$"=Gain $1 EXP.
+r:"^キャラのLv強化に使用すると、キャラEXPが(\d+)加算される。$"=Used to upgrade a character's level. Adds $1 character EXP.
+r:"^ギルドハウス内で使用すると、キャラの絆Ptが(\d+)加算される。$"=Used in the Guildhouse. Adds $1 characterbond points.
+r:"^キャラの装備強化に使用すると、装備強化Ptが(\d+)加算される。$"=Used to refine a character's equipment. Adds $1 equipment refinement points.
+
+クリアランク★3を獲得したクエス\nトの、プレイ時間をスキップするチケット。=A ticket that can skip quests that have a 3★ clear rank.
+プラチナガチャやピックアップガ\nチャを1回引くことができるガチャチケット。=A gacha ticket that can be used to draw the Premium or Focus Gacha.

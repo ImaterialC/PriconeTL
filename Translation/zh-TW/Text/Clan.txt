@@ -1,0 +1,409 @@
+===Character Rental===
+サポートキャラを設定\\nできます=Set up Rent-Chara
+対象クエスト一覧=Available Quest List:
+対象のクエストは以下のものとなります。=The Available Quests that can\nuse Rent-Chara are as follows.
+メインクエスト{{A}}\nメインクエスト{{B}}\nメインクエスト(VERYHARD)\n探索経験値クエスト\n探索{{C}}クエスト\n聖跡調査\n神殿調査\nイベントクエスト{{A}}\nイベントクエスト{{B}}\nサイドストーリークエスト{{A}}\nサイドストーリークエスト{{B}}=Main Quest (NORMAL)\nMain Quest (HARD)\nMain Quest (VERYHARD)\nGroto EXP\nGroto Mana\nSanctum Survey\nTemple Trek\nEvent Quest (NORMAL)\nEvent Quest (HARD)\nSide Story Quest (NORMAL)\nSide Story Quest (HARD)\n
+
+{{A}}を獲得するまで表示しない。=Don't show again
+{{B}}サポート設定で獲得できる{{C}}が\n合計[-]{{A}}{{E}},{{D}},{{D}}[-]{{B}}{{C}}以上たまりました。[-]={{B}}Mana earned in Rental was\nmore than [-]{{A}}{{E}},{{D}},{{D}}[-]{{B}} Mana in total.[-]
+サポート設定へ=To Rental Room
+サポート獲得{{A}}通知=Rental Earned Mana Notification
+
+r:"^([0-9/]+)回$"=$1 Times
+
+===Clan List===
+r:"^\[FFBB00\,CE4F00\]最終ログイン:([0-9]+)時間以内\[-\]$"=[FFBB00,CE4F00]Online for: $1h[-]
+r:"^\[FFBB00\,CE4F00\]最終ログイン:([0-9]+)日前\[-\]$"=[FFBB00,CE4F00]Last Login: $1d ago[-]
+r:"^\[FFBB00\,CE4F00\]最終ログイン:([0-9]+)時間前\[-\]$"=[FFBB00,CE4F00]Last Login: $1h ago[-]
+r:"^\[FFBB00\,CE4F00\]最終ログイン:([0-9]+)分前\[-\]$"=[FFBB00,CE4F00]Last Login: $1m ago[-]
+====[FFBB00,CE4F00]最終ログイン:9時間前[-]
+
+===Clan Chat===
+==[FFBB00,CE4F00]1日前[-][3C404E][-]
+r:"^\[FFBB00\,CE4F00\]([0-9]+)日前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1d ago[-]
+r:"^\[FFBB00\,CE4F00\]([0-9]+)時間前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1h ago[-]
+r:"^\[FFBB00\,CE4F00\]([0-9]+)分前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1m ago[-]
+
+===Liked for stamnina
+sr:"^(\[.*\])(.{1,10})さんにいいねをして\nスタミナを10獲得しました。\[-\]$"=$1You Liked $2-san\nand you got 10 stamina.[-]
+[FF7C4E,D62146]いいねされたクランメンバーにはマナがおくられます。[-]=[FF7C4E,D62146]Liked clan members will receive Mana.[-]
+いいね完了=Like Complete
+
+r:"^(.{1,10})がクランに加入しました。$"=$1 has joined the clan.
+r:"^(.{1,10})がサブリーダーになりました。$"=$1 has become a sub-leader.
+r:"^(.{1,10})がクランから脱退しました。$"=$1 has left the clan.
+
+変更期限：=Change deadline:
+r:"^終了まで (\d+)時間(\d+)分$"=Ends in $1h$2m
+r:"^終了まで (\d+)分$"=Ends in $1m
+
+メンバー管理=Member Management
+プレイヤー情報を見る=View Player Information
+勧誘プレイヤーリスト=Recruitment player list
+加入申請リスト=Join application list
+加入/勧誘リスト=Join / Recruitment List
+メンバーを探す=Find a member
+この装備リクエストは終了しました。=This equipment request has ended.
+この装備リクエストは終了しました=This equipment request has ended.
+ここから未読メッセージ=Unread message from here
+自分が投稿したパーティです。=This is the party I posted.
+いいね確認=Take "Like"
+{{B}}{{B}}クランメンバーに{{A}}{{E}}[-]回いいねされて、\n{{C}}×{{A}}{{D}}[-]を獲得しました。[-][-]={{B}}{{B}}{{A}}{{E}}[-] Clan member liked\nReceive Mana×{{A}}{{D}}[-].[-][-][-]
+
+{{A}}{{F}}/{{E}}/{{C}} {{D}}:{{B}}まで=Until: {{A}}{{F}}/{{E}}/{{C}} {{D}}:{{B}}
+クランバトル開催中：=Clan battle is being held:
+
+この投稿は有効期間が終了しました。=This post has expired.
+装備リクエスト中！=Requesting equipment!
+寄付完了=Donation completion
+
+8時間経過したため、装備リクエストが終了しました。=You received the following equipment.\n8 hours have passed and the equipment request has ended.
+
+現在の装備リクエストの状況です。=Status of current equipment request.
+r:"^以下の装備をx(\d+)獲得しました。\n現在の装備リクエストの状況です。$"=You received the following equipment × $1.\nStatus of current equipment request.
+
+所持上限を超えたアイテムはプレゼントに送られました=Items that exceed the possession limit have been sent as gifts
+前回のリクエスト結果=Result of Previous Request
+リクエスト結果=Request result
+sr:"^([0-9]{1,2}月)の順位：$"=$1 Rank:
+===Clan===
+装備リクエスト=Request
+次回のモード変更開始まで\nモードは変更できません。=The mode cannot be changed\nuntil the next mode change starts.
+
+クランバトル モード変更受付終了=Mode Change Request Closed.
+開催までお待ちください。=Please wait until CB ends.
+
+ンバー情報=y Clan
+メンバーリスト=Member List
+自由にプレイ=Free to Play
+
+sr:"^クランバトル([0-9]+位)以内$"=CB Rank $1 or less
+
+脱退=Leave
+スタンプ=Sticker
+フレンドバトル=Friend Match
+メッセージを入力してください=Enter a message
+r:"^挑戦回数:([0-3‐])$"=Attem.:$1
+
+ラン=Clan 
+クランバトルへ=To Clan Battle
+リーダー=Leader
+先月=Prv
+合計スコア=T.Score
+ランキング報酬確認=Ranking Rewards
+自分の順位=YourRank
+いいね=Like
+送信=Send
+全クラン=All Clans
+パーティ{{A}}と\n対戦=Party {{A}}\nMatch
+クランチャット投稿=Clan chat posting
+編成したパーティをクランチャットに投稿できます。=You can post the organized party to the clan chat.
+このパーティでクランチャットに投稿しますか？=Do you want to post to Clan Chat at this party?
+パーティ名を編集します。=Edit the party name.
+パーティ名編集=Party Name Edit
+リクエスト=Request
+リクエスト確認=Request Item
+選択した装備の寄付をリクエストします。\nよろしいですか？=Request a donation of the selected equipment?
+8時間以内は新たにリクエストできません。=You cannot make a new request for 8 hours.
+寄付上限数=Maximum Donations
+リクエスト完了=Request Sent
+[3C404E]チャットへの投稿を完了しました。[-]=[3C404E]You've finished posting to the chat.[-]
+クランチャット投稿完了=Clan chat post completed
+[3C404E]クラン内のチャットで\n装備をリクエストしました。[-]=[3C404E]You have requested this equipment\nin the clan chat.[-]
+リクエスト状況=Request Status
+確認する=Confirm
+パーティ総戦力=Party Power
+対戦する=Match
+あなた=you
+現在の装備リクエストの状況です。=Status of current equipment request.
+寄付の情報がありません。=No donation info.
+現在の寄付数=Donations
+寄付の確認=Donate Equipment
+以下の装備を寄付します。\nよろしいですか？=Donate the following equipment?
+寄付状況=Donation Status
+r:"^\[FF7C4E,D62146\]本日の残り寄付数は(\d+)です。\[-\]$"=[FF7C4E,D62146]$1 donations left today.[-]
+ラ=R
+ンキング=anking
+
+sr:"^\[25CFDE,0E6C98\](\d+月)全クランランキング\[-\]$"=[25CFDE,0E6C98]Global Ranking($1)[-]
+===Clan Battle===
+{{A}}{{D}}日{{B}}{{C}}={{A}}-{{D}} {{B}}{{C}}
+CPと挑戦回数は毎日{{B}}:{{A}}にリセットされます。=CPs & attempts will be reset at {{B}}:{{A}}(JST) daily.
+{{B}}クランバトルの挑戦回数が[-]{{A}}{{C}}回[-]{{B}}アップしました。[-]={{B}}Your CB's attempt has increased by [-]{{A}}{{C}}[-]{{B}}.[-]
+{{B}}CPを[-]{{A}}{{C}}[-]{{B}}獲得して、[-]={{B}}Earned [-]{{A}}{{C}} [-]{{B}}CP,[-]
+{{A}}マイログに保存しますか?[-]={{A}}Do you want to save it in My Log?[-]
+マイログ保存確認=My log Save Confirmation
+模擬戦中=Training
+本日の挑戦回数の上限に達しています。=You have reached the maximum number of attempt for today.
+===Carry Over Time
+{{B}}モンスターを撃破したため\n残り時間を{{A}}{{D}}:{{C}}[-]使って\n次のバトルに挑戦できます。[-]={{B}}Since you have defeated a monster, you can use Left-Over time {{A}}{{D}}:{{C}}[-] to challenge the next battle.[-]
+残り時間持越し通知=Left-Over Time Notification
+前回の編成メンバー=Previous party members
+現在の編成メンバー=Current party members
+{{A}}発生中の持越しバトルがありません。[-]={{A}}No left-over party.[-]
+===Over kill
+{{B}}オーバーキルが発生したため\nモンスターの実際の残りHPと\n与えたダメージから換算して\n持越し時間{{A}}{{D}}:{{C}}[-]が発生します。[-]={{B}}Due to the overkill, the left-over time of {{A}}{{D}}:{{C}}[-] was generated by converting from the actual remaining HP of the monster and the damage done.[-]
+オーバーキル通知=Overkill Notification
+===Windows popup
+{{A}}クランバトル開始！！=CB-{{A}} has Started!
+期間 {{G}}/{{D}} {{F}}:{{A}} ～ {{G}}/{{C}} {{E}}:{{B}}=Start {{G}}/{{D}} {{F}}:{{A}}\nEnd {{G}}/{{C}} {{E}}:{{B}}
+クランメンバーと協力して\n強力なモンスターを討伐しよう！=Become a sleve of metas or kicked from clan!\nAll your gacha results was paid-off at here.\nGo fort Whales! Go fort Carriers! Aim to the top and flexing your precision finger at SNS!\nThe real fun has just begun
+
+{{A}}解放期間:[-]={{A}}Period:[-]
+{{A}}ボスの強さは、{{B}}クランバトル（クランモード）と同じです。[-]={{A}}The boss's strength was same as the CB ({{B}}).[-]
+カスタム=Custom
+１つ以上の段階を選択する必要があります。=You need to select one or more stages.
+トレーニング {{A}}段階目=Training Tier {{A}}
+トレーニングバトルの結果はスコアランキングに影響しません。=The result of the training battle does not affect score ranking.
+クランバトルに挑戦しよう=Clan Battle Available!
+今回のクランバトル開催期間中は表示しない=Do not display during CB
+詳細=Detail
+[FFFDF7,FFE0E9]圏外[-]=[FFFDF7,FFE0E9]N/A[-]
+バトルログ=Fight Log
+トレーニング\nモード=Training Mode
+トレーニング\\nモード=Training\\n Mode
+マイログ=My log
+バトル設定=Settings
+モンスターHPとバトル\n時間を本戦状態にする=Set HP and time to main status.
+模擬戦=Train
+本戦=Fight
+討伐情報=Clearⓘ
+確認=Check
+残り挑戦回数=Attempts
+戦績=Achievement
+伐情報=Clear info
+周回=Lap
+ヘルプ=Help
+クラン内=Rank
+ランバトル=Clan Battle
+[FF7C4E,D62146]本日の上限です[-]=[FF7C4E,D62146]Today's max[-]
+現在のCP=Current CP
+残り持越し回数=Left Over
+トレーニング=Trial Run
+r:"^(\d)段階目$"=Tier $1
+表示段階=Select Tier
+絞り込み=Search
+レポート=Report
+全て=All
+討伐情報がありません。=no clear info.
+討伐情報がありません=no clear info.
+バトル情報がありません。=no battle info.
+獲得可能なアイテムがありません。=no items that can be obtained.
+モンスター詳細=Monster Details
+開催期間が終了しました=This Clan Battle is\nno longer in progress.
+ボスを選択してトレーニングバトルに挑戦できます。=Select a boss to challenge for training.
+一覧	=All
+報酬確認=Received Rewards
+以下のモンスターを倒して報酬を受け取りました。=Defeated monsters and received rewards.
+本戦使用制限=Restricted
+[FF7C4E,D62146]トレーニングバトルでは\n報酬は獲得できません。[-]=[FF7C4E,D62146]No rewards can be earned\nin training battles.[-]
+[FF7C4E,D62146]模擬戦では報酬は獲得できません。[-]=[FF7C4E,D62146]No rewards can be earned\nfrom training battles[-].
+[FF7C4E,D62146]模擬戦設定になっています。[-]=[FF7C4E,D62146]Set to training.[-]
+※各報酬は撃破時に獲得できます。=You can get each rewards\nwhen you destroy them.
+クランメンバーのバトルと、マイログに保存したバトルのログが確認できます。=You can view the battles of your clan members.
+ダメージ=Damage
+[3C404E]このモンスターは他メンバーに先に倒されました。\n[FF7C4E,D62146]※挑戦回数は消費されません。[-][-]=[3C404E]This monster was defeated by other members.\n[FF7C4E,D62146]※ Your attempt has been refunded.[-][-]
+バトル結果確認=Battle Result Confirmation
+
+日時=Date
+使用制限=Restricted
+未所持=Not\nOwned
+模擬戦を開始=Start\nTraining
+Lv制限=Lv Limit
+[FF7C4E,D62146]バトルログがありません。[-]=[FF7C4E,D62146]There is no battle log.[-]
+このままバトルを開始しますか？=Do you want to start the battle as it is?
+模擬戦の結果はスコアランキングに影響しません。=Taining battle does not affect the score ranking
+編成メンバーが{{A}}キャラ未満です。=Less than {{A}} characters
+
+本日のCP獲得上限に達しています。=You have reached the CP acquisition limit for today.
+更新可能になるまでお待ちください。=Please wait until it can be updated.
+{{A}}{{B}}以内に\n{{C}}人が本戦を開始しました。={{C}} Player(s) started clash\nbattle within the last 1m30s.
+
+サポートキャラ確認=Rental Character Confirmation
+このキャラを借ります、よろしいですか？=Rent this character?
+獲得スコア=Score
+受けたダメージ=Damage Dealt
+サポートキャラの★変更=Support Character's ★ Change
+サポートキャラの★を変更しました。\nクランメンバーのサポートキャラのため\n変更した★はタイトルに戻るとリセットされます。=Support character's ★ has been changed.\nThe changed ★ will be reset when you return to the title because it is a support character of a clan member.
+このパーティを編成した時と★が異なるキャラがいます。\n以下は★の設定も含めて編成が保存されています。=There are characters whose ★ is different from when this party was organized. Below, the line-up is saved including the setting of ★.
+★設定の保存について=Saving ★ Settings
+[3C404E]保存時と★設定が違うキャラがいます。[-]=[3C404E]Some characters have different ★ settings than when they were saved.[-]
+・マイパーティ\n・バトルアリーナ/プリンセスアリーナの防衛設定=・ My party Battle Arena/Princess Arena Defense Settings
+挑戦回数を消費してクランバトルを開始しますか？=Use your attempt to start battle?
+[3C404E]バトルを開始した時点で挑戦回数が消費されます。\n通信環境の良い場所でプレイして下さい。[-]=[3C404E]Number of attempts will be\nconsumed upon start.\nPlease play in a place with a good connection.[-]
+
+{{A}}模擬戦のバトル結果はクランバトルの成績に反映されません。[-]={{A}}Training battle results are not reflected in clan battle results.[-]
+
+開催期間終了まで=End in:
+
+メインクエストへ=Go to Main Quest
+CPが300たまるごとに挑戦可能数がアップします。\nCPはメインクエストで獲得できます。=Spend stamina to accumulate CP,\nevery 300 CP get one attempt.
+残り挑戦可能数=Attempts
+クエストへ=Go to Quest
+
+模擬戦リタイア=Exit Training
+[3C404E]模擬戦をリタイアしますか？[-]=[3C404E]Do you want to exit from training battle?[-]
+
+[FDFFF8,CCFFEF]集計中[-]=[FDFFF8,CCFFEF]Tallying[-]
+[FFFDF7,FFE0E9]集計中[-]=[FFFDF7,FFE0E9]Tallying[-]
+集計中=Tallying
+[FF7C4E,D62146]現在ランキング集計中です。[-]=[FF7C4E,D62146]Currently being calculated[-]
+全キャラ総戦力=Total Power
+所属クランのランキング情報がありません。=No ranking information at the moment
+いいねは1日1回のみ利用可能です。=Likes can only be used once per day
+
+r:"^(\d+月)クランバトル最終日！$"=The last day of Clan Battle ($1)!
+クランバトル開催期間が終了します=The Clan Battle period will end
+r:"^本日 ([0-9/: ]+)に$"=Today $1 (JST)
+===Reward
+{{B}} {{C}}周目 {{A}}=[{{B}}]Lap {{C}}: {{A}}
+===Battle TL===
+バトル終了=End of battle
+クリップボードにコピー=Copy to clipboard
+総ダメージ=Total DMG
+ユニオンバースト発動時間=UB Timings
+バトル時間=Fight Time
+
+===OF window===
+[3C404E]持越し回数あり[-]=[3C404E]Left Over[-]
+持越し確認=Left Over
+使用可能な持越しバトルの情報を確認できます。=Available Left Overs Party.
+r:"^持越し(\d)回目$"=LO Party $1
+持越し時間=LO Time
+参加済キャラ=Used Characters
+
+持越し使用確認=Left Over Use Confirmation
+バトルに使用する持越し時間を選択します。=Select the left-over time to use.
+持越し時間を使用する=Use left over time
+持越し時間を使用しない=Not use left over time
+持越し時間を使用するとき、\n参加済キャラを編成する。=Use the characters\nfrom left over team
+r:"^あと(\d+)回$"=$1 left
+r:"^(\d)戦目\n本戦参加済$"=Used at\nParty $1
+
+クランバトル開始確認=Start Confirmation
+持越し時間を消費してクランバトルを開始しますか？=Use left over time?
+使用制限対象キャラ=Restricted characters
+使用制限対象詳細=Details
+[FF7C4E,D62146]バトルを開始した時点で上記のキャラに使用制限が\nかかり、次回本戦は編成不可となります。[-]=[FF7C4E,D62146]Once started, the above characters\nwill be restricted and cannot be used.[-]
+[FF7C4E,D62146]同時に、現在所持している持越し時間が消費されます。[-]=[FF7C4E,D62146]Any left over time will be consumed.[-]
+このバトルでは選択できません。=Cannot retire at main battle.
+===Party search===
+おすすめ編成=Recommended\nParties
+非表示キャラ=Exclude char(s)
+おすすめ編成から選択したキャラを含むパーティを除外して表示します。=Excludes parties that include characters selected.
+所持キャラ=Chars You Have
+非表示フィルタ=Exclusion Filter
+パーティ情報がまだありません。しばらくして再度ご確認ください。=There are no party information, please check back later.
+[FF7C4E,D62146]表示されている編成は、すべてAUTO・SMART設定で挑戦した編成です。[-]=[FF7C4E,D62146]All of the parties shown were played with AUTO and SMART settings.[-]
+
+===recomended party
+上級=Advanced
+中級=Intermediate
+初級=Beginner
+予想ダメージ=Damage±
+討伐時間=Time
+参考ダメージ=Damage±
+「使用」ボタンからおすすめのパーティ編成を選べます。フィルタで非表示にするキャラを設定できます。="Use" button to select a recommended party, and set a filter to hide characters.
+
+[3C404E]このおすすめ編成は、\n持越し時間[FF7C4E,D62146]{{D}}:{{C}}[-]を使用して\nバトルした編成です。[-]=[3C404E]This recommended party is\nthe formation battle using\nleft-over time [FF7C4E,D62146]{{D}}:{{C}}[-].[-]
+持越し時間について=About Left-Over Time.
+
+使用=Use
+パーティ保存=Save Party
+コピー=Copy
+閲覧=Watch
+選択中キャラ=Selected
+表示更新=Update
+リプレイ確認=Replay Confirmation
+[FF7C4E,D62146]リプレイで確認できるバトルは\n該当編成を使用した場合の一例です。[-]=[FF7C4E,D62146]The battles in replay are examples of meta comps.[-].
+[FF7C4E,D62146]予想ダメージ値と異なる\nバトル結果になる場合があります。[-]=[FF7C4E,D62146]Battle results may differ\nfrom expected damage values[-].
+クリアパーティ詳細=Party Details
+結果を通報する=Report
+通報確認=Report Confirmation
+[3C404E]このクリアパーティを運営事務局に通報します。\nよろしいですか?[-]=[3C404E]Are you sure you want to report to support of this clear party?
+===Copy Party
+パーティコピー=Copy Party 
+このパーティをコピーして、\n自分のマイパーティに保存しますか？=Copy this party and\nsave it to your party list?
+
+===ranking rewards===
+ダメージランキング報酬=Damage Ranking Reward
+討伐報酬に加え、本戦で獲得したスコアの\nクラン内ランキングに応じて以下の報酬が獲得できます。=The following rewards will be awarded according to the ranking within the clan
+
+報酬は順位が確定し次第、プレゼントに送られます。=Rewards will be sent when rankings are finalized
+
+すでに解散しているクランです。=These clan already disbanded.
+位= 
+-位=-
+
+{{A}}{{C}}クラン内ランキング\n{{B}} 全段階合計[-]={{A}}In-Clan Rankings ({{C}})\nTotal Score {{B}}: 
+{{A}}{{C}}クラン内ランキング\n{{B}} {{D}}段階目[-]={{A}}In-Clan Rankings ({{C}})\nWave {{D}} Score {{B}}: 
+
+ 全段階合計[-]= Total Score: 
+ {{A}}段階目[-]= Wave {{A}} Score:
+20001位以降=20,001 and below
+
+総合順位報酬=Overall Rank Reward
+ピリオド順位報酬=Period Rank Reward
+{{A}}のランキング結果={{A}} Ranking Results
+
+ボスモンスター　レベル（難易度）アップ=Monster Level (Difficulty) Increase
+
+[3C404E]ボスモンスターのレベル（難易度）がアップしました。\n現在のレベル（難易度）のボスモンスターとは\nいつでも模擬戦が行えるようになります。[-]=[3C404E]The level (difficulty) of the boss monster has increased. You will be able to perform simulated battles with boss monsters of the current level (difficulty) at any time.[-].
+[FF7C4E,D62146]トレーニングバトルの結果はクランバトルの成績に反映されません。[-]=[FF7C4E,D62146]Training battle results are not reflected in clan battle results.[-]
+[FF7C4E,D62146]時間持越しでのバトルのため、チャレンジ報酬は獲得できません。[-]=[FF7C4E,D62146]Challenge rewards cannot be earned due to left-over time battle.[-]
+===Boss===
+持越し時間：=C.Over Time:
+sr:"^(.+)　Lv.(\d+)$"=$1 lv.$2
+==={{A}}体目=B-{{A}}
+
+与えたダメージ=DMG Dealt
+全段階合計=All Tier Score Total
+バトルTL=Battle TL
+お気に入り=Favorite
+バトルTLをコピーしました。=Copy Battle TL.
+===lap===
+r:"^現在(\d+)周目$"=Lap $1
+r:"^(\d+)周目=Lap $1
+{{A}}(\d+月)クラン内ランキング一覧[-]={{A}}In-Clan Rankings ($1)[-]
+sr:"^(\d+月)全クランランキング$"=Global Ranking($1)
+===My Log
+イログ=y Log
+シングルモード=Single Mode
+クランモード=Clan Mode
+===Battle Log detail windows
+「１件のみ表示」は、同一編成のうちダメージが最も高いログを表示します。="Display only one" displays the log with the highest damage in the same line-up.
+１件のみ表示=Display only one
+全て表示=Show all
+「本戦」は、クランメンバー全員の本戦ログを表示します。="Fight" displays the main battle log of all clan members.
+表示ログの種類=Type of display log
+同一編成の表示=Display of the same formation
+===Ranking Result
+sr:"^(\d+月)クランバトルの順位が確定しました！$"=CB($1) ranking has been confirmed!
+バトル設定：クランモード=Battle settings: Clan Mode
+バトル設定：シングルモード=Battle settings: Clan Mode
+sr:"^\(クラン内ランキング　(\d+位)\)=(in-clan Rank $1)
+
+{{A}}{{B}}クランバトル[-]={{A}}{{B}} Clan Battle[-]
+{{A}}{{C}}{{B}}クランバトル[-]={{A}}{{C}}{{B}} Clan Battle[-]
+{{A}}{{D}}{{C}}{{B}}クランバトル[-]={{A}}{{D}}{{C}}{{B}} Clan Battle[-]
+{{A}}{{C}}{{D}}{{B}}クランバトル[-]={{A}}{{C}}{{D}}{{B}} Clan Battle[-]
+ランキング報酬=Rewards:
+ランキング発表！=Ranking Announcement!
+※報酬はプレゼントに順次、送られます。=※Rewards will be sent to Present Box.
+===NPC===
+『クランモード』はクランメンバーとボスに挑戦し他クランとランキング\nを競います。『シングルモード』は個々にボスと戦い討伐数に応じた報酬\nを獲得できます。クランリーダー、サブリーダーがモード選択できます。="Clan Mode" challenges clan members and bosses and competes with other clans for ranking. "Single mode" can individually fight bosses and earn rewards according to the number of subjugation. Clan leader and sub-leader can select the mode.
+
+他のプレイヤーと、クランを結成しましょう。\nクランを結成すると、クランバトルやダンジョンで協力して戦えます。=Let's form a clan with other players. By forming a clan, you can fight in collaboration with a cran battle or dungeon.
+『クランモード』はクランメンバーとボスに挑みランキングを競います。\n『シングルモード』は個々に挑み、討伐数に応じた報酬を獲得できます。\nクエストや調査で勝利し、CPを貯めることでボスに挑戦できますよ。=In Clan Battle, clan compete to achieve the highest total score over the entire period. Complete Main Quest stages and collect 300 CP to earn a Clan Battle attempt. Each player  can earn up three attempt per day.
+『クランモード』の主な報酬は、メンバー全員に贈られます。\n『シングルモード』では、個人の達成度に応じて個人ごとに贈られます。\nパーティ編成を試行錯誤しながら、強敵とのバトルに挑みましょう。=Team up with other players to form a clan.\nDoing so allows you to fight alongside each other in Clan Battle and Dungeons.
+装備をクランのメンバー同士で贈りあいましょう。\n一部の装備は、装備リクエストできないのでご注意ください。=Be sure to gift equipment to yourfellow clan members.\n Please note that some equipment cannot be requested.
+次回クランバトル開催までお待ちください。=Please wait until the next Clan Battle begin.
+ こちらではクランバトルに\n 参加された仲間のみなさんの\n 活躍を振り返ることができます=Here you can look back at the activities of friends who participated in the clan battle.
+主さま、今回のクランバトルでの\nご活躍が記録されています\nバトルの参考にいたしましょう=My lord, your activities in this Clan Battle have been recorded you can now review them for future battles.
+今回のクランバトルでの戦績を\nおさらいできますよ！\n私にも見せてください☆=You can go over your Battle Record for this Battle!\nLet me have a look too☆~!
+模擬戦の戦績もアンタが\n気に入ったものがあれば\n記録しておけるのね=Look like you can save Battle Records of your favorite practice runs.
+===Damage Log===
+===(?!.*My)^.*$
+sr:"^([べ-・ー＆]{2,11})に$"=hit $1 for
+r:"^\[FFBB00\,CE4F00\]([0-9]+)\[-\]\[3C404E\]ダメージ\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Damage[-]
+r:"^\[FFBB00\,CE4F00\]([0-9]+)\[-\]\[3C404E\]ダメージ\[-\]\[3C404E\]で撃破\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Damage[-][3C404E](kill)[-]

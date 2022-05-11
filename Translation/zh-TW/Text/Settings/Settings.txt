@@ -1,0 +1,25 @@
+アイテム=Items
+設定=Setting
+ニュー=Menu
+メ=
+タイトルへ戻る=Return to Title
+SDカード保存設定=Transfer data to SD
+サイドストーリー=Side-Story
+称号=Title
+実績=Performance
+コード入力=Input Code
+アカウント連携=Social Media Bind
+{{A}}コマまんが=4-koma Manga
+サポート=Support
+フレンド=Friend
+アルバム=Album
+ジュエル\nショップ=Jewel Shop
+プロフィール=Profile
+思い出\nアルバム=Memories\nAlbum
+絆の記憶=Bonds Memories
+
+
+===code input===
+一定期間内に無効なシリアルコードを3回連続で\n入力すると1時間入力できなくなります。=若在一定期間內連續輸入3次無效序號，\n將於1小時內無法再次輸入。
+半角英数字のみ入力できます。=只能輸入半形英數字。
+シリアルコードを入力してください。=請輸入序號。

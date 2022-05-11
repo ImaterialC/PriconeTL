@@ -1,0 +1,6 @@
+号=itle
+称=T
+入手条件=Condition
+指定なし=None
+選択中の称号=Selected Title
+現在の称号=Current Title

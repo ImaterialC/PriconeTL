@@ -1,0 +1,196 @@
+===Event Banner===
+終了まであと=Event end in:
+日=Day
+時間=Time
+分=m
+開演直前=Coming soon
+r:"^開催期間 : ([0-9/]+)～([0-9/]+)$"=Event Period: $1 to $2
+r:"^([0-9/ :]+) ～ ([0-9/ :]+)まで$"=$1 to $2
+
+
+イベントを進めてボスを討伐しよう！\n残り{{A}}体 BOSS討伐で解放=Let's advance the event and subdue the boss! \nReleased by subduing the remaining {{A}} BOSS
+r:"^(\d+)体撃破$"=$1 × Defeated
+r:"^スキップチケットとボスチケットを消費して\n(\d+)体ボスを撃破します。よろしいですか？$"=Defeat $1 bosses by consuming\n skip tickets and boss tickets.\n\nIs this OK??
+
+[FFBB00,CE4F00]30[-][3C404E]枚で挑戦[-]=[FFBB00,CE4F00]30[-][3C404E]Tixs[-]
+[FFBB00,CE4F00]20[-][3C404E]枚で挑戦[-]=[FFBB00,CE4F00]20[-][3C404E]Tixs[-]
+===Event===
+イ= 
+登録中=Registered
+ドロップ報酬=Drop reward
+ボス詳細=Boss Details
+第一の忠臣！=1st loyal retainer!
+信頼度=Reliability
+消費ボスチケット=Boss Tix Cost
+見放題=All-you-can-see
+まで開催中=Until the Event
+r:"^推奨プレイヤーLv : (\d+)$"=Suggested Lv: $1
+イベントへ=To the Event
+イベント開催期間が終了します=Event period will end
+※この設定は後から［設定］で変更できます。=※This setting can be changed later in [Settings].
+イベント開催予定！=Upcoming event!
+イベント開催終了！=The event is over!
+ボスバトルは終了しました。=The boss battle has ended.
+イベントクエストは終了しました。=Event quest has ended.
+r:"^開催日時:([0-9/: ]{11})～([0-9/: ]{11})$"=Period: $1 to $2
+イベント=Event
+ベント=Event
+討伐証=Medals
+討伐証交換=Medal Gacha
+ボスチケット=Boss Tickets
+イベントクエスト=Event Quest
+イベント\nミッション=Event\nMissions
+ベントミッション=Event Mission
+所持上限を超えたアイテムはプレゼントに送られます。=Any items that exceed your limit will be sent as a gift.
+スペシャル=Special
+スキップ結果=Skip Results
+スキップ完了=Skip Complete!
+合計獲得報酬=Total Reward
+スキップチケット確認=Skip Tickets
+r:"^イベントクエスト(.+)クリアで解放$"=Clear event quest $1 to unlock.
+r:"^イベントクエスト(.+)をクリアで解放されます。$"=Clear event quest $1 to unlock.
+r:"^ボスバトル(.+)クリアで解放$"=Clear Boss Battle $1 to unlock.
+信=Trust
+頼度= Stories
+信頼度プレゼント一覧=Trust Gift List
+プレゼント一覧=Gift List
+信頼度を{{A}}まで到達させよう=Let's get the trust level up to {{A}}
+信頼度をMAXにしよう=Max out the trust level
+
+「VERY HARD」ボスは、１日１体討伐できます。="Very Hard" Boss can only be defeated once per day.
+ボスチケットの所持数が足りません。=Do not have enough boss tickets
+残り討伐体数=Ramining Attempts
+ボスチケット枚数=Boss Tickets
+合計討伐数=#Victory
+r:"^\[FF7C4E,D62146\]([0-9]+)体目出現！\[-\]$"="[FF7C4E,D62146]$1 Boss has Appeared![-]"
+r:"^【(\d)回挑戦中】$"=[Number of Challenge: $1]
+r:"^([0-9]+)回目の討伐証交換ラインナップ$"=Victory Medal Gacha Box No.$1
+EXHIBITION討伐数=EXHIBITION count
+スキップチケットとスタミナを消費してクエストを\n実行します。よろしいですか？=Use skip tickets and stamina\nto play this quest?
+消費スタミナ=Use Stamina
+消費チケット=Ticket Cost
+限定キャラ加入\nミッション完了！=Event Character\nMission Complete!
+伐証交換=edal Gacha
+討=M
+討伐証を集めて、メモリーピースをGET!=Collect Medals to get Memory Shards!
+全ラインナップ詳細=All Lineups
+便利設定=Options
+r:"^([1-9])回目の報酬をリセット$"=Reward Reset $1
+報酬をリセット=Reset Rewards
+もう一度交換=Exchange Again
+獲得した報酬は所持アイテムに直接付与されます。=The rewards earned will be given directly to the your own.
+現在のラインナップ=Current Lineup
+リンノート=udding Notes
+
+信頼度エピソード解放=Trust Episode Unlocked
+閲覧する=Browse
+
+スキップチケット解放=Skip Ticket Release
+
+
+ダメージ割合=DMG Ratio
+与えた総ダメージ=Total DMG
+
+んなの想い= Feelings
+編成不可=Cannot\nUse
+こ=Let's
+れからも一緒に= be together
+前編へ=To Part 1
+後編へ=To Part 2
+[3C404E]リタイアするとボスバトル報酬を\n獲得することができません。\nボスチケットは消費されません。\n\nよろしいですか？\n[-]=[3C404E]You will not be able to earn boss battle rewards if you retire.\nBoss tickets are not consumed.\n\nIs this OK?[-]
+ボスバトルリタイア=Retire Boss Battle
+===Login===
+イベントログインボーナス獲得=Event Login Bonus Received
+r:"^(\d+)日目のログインボーナスとして以下のアイテムを獲得しました。$"=You received the following items as a bonus for logging on the day $1.
+
+===exhibition===
+バトルログがまだありません。=There is no battle log.
+エキシビションモード バトルログ=Exhibition Mode Battle Log
+バトルログは最大60件までしか保存できません。=You can only store up to 60 battle logs.
+バトルログがありません。=There is no battle log.
+推奨プレイヤーLv=Suggested Lv
+
+現在の挑戦回数=Attempts
+
+r:"^挑戦回数[\r]*\n(\d+)回$"=$1pan
+討伐日時=Time:
+
+r:"^挑戦(\d+)回目$"=Party $1
+===lineup===
+
+交換=×Roll
+r:"^(\d+)枚消費$"=Exchange $1
+r:"^(\d+)回目$"="Line $1"
+r:"^(\d+)回目～$"="Line $1+"
+全ラインナップの確認=Full Lineup
+リセット対象報酬=Reset Rewards
+通常報酬=Normal Rewards
+設定可能!=Configurable!
+まとめて交換=All at Once
+すべて交換=Exchange
+報酬ラインナップリセットについて=Reward Lineup Resets
+リセットする=Reset
+獲得一覧へ=To List
+リセット確認=Reset Confirmation
+リセットすると元に戻すことはできません。\nリセットすることにより、\n新しい報酬ラインナップに切り替わります。\n\nよろしいですか？=Resetting cannot be undone; resetting will switch you to the new reward lineup.\n\nAre you sure?
+リセット完了=Reset Complete
+報酬ラインナップをリセットしました。=The reward lineup has been reset.
+r:"^合計 (\d+)$"=Total $1
+r:"^残り ([0-9/]+)$"=$1 Remaining
+r:"^(\d)回目の報酬ラインナップをすべて獲得しました。$"=You have obtained all of the $1 reward lineup.
+次の報酬ラインナップに切り替えます。=Switch to the next reward lineup.
+
+討伐証交換で、リセット対象アイテムを入手すると、即時ラインナップのリセットが行えます。\n\nリセット対象アイテムを入手した後も、リセットせずに引き続き同じラインナップ内から交換することも可能です。\n\n{{A}}回目以降のラインナップリセットは、討伐証交換報酬のラインナップを交換しきった場合に限り、リセットを行えます。=Once you have obtained the lineup reset rewards from the Victory Medal Gacha, you can reset the lineup immediately.\n\nYou also have the option to continue using the same lineup without resetting.\n\nFrom lineup 5 onward, you can reset only after obtaining the entire Victory Medal lineup.
+
+まとめて交換確認=Exchange at Once Confirmation 
+交換後のBOX状況=BOX Status
+リセットするBOX数=BOX Reset
+r:"^(\d)枚の討伐証をまとめて交換しますか？$"=Do you want exchange\n\n$1 Victory Medals at Once?
+
+r:"^討伐証(\d+)枚を消費して、以下のアイテムを獲得できます。$"=Exchange $1 Victory Medals and received the following items.
+確定で獲得できる報酬はありません。=There are no Fixed rewards.
+まとめて交換詳細=Exchange at Once Details 
+リセットされないBOXの報酬は、未確定のためこの一覧に含まれません。=BOX rewards that are not reset are not included in this list as they are undecided.
+
+まとめて交換完了=Exchange at Once Completed
+リセットしたBOX数=BOX Reset
+交換結果は以下になりました。=The results of the exchange are as follows.
+討伐証を所持していません。=You do not have any Victory Medals.
+r:"^(\d)回交換はできません。$"=You do not have any Victory Medals.
+===medal gacha settings===
+回=×
+スキップする=Skip
+スキップしない=Don't Skip
+交換設定=Draw Count
+全て引く=Draw All
+回交換=Exchange
+まとめて交換設定=Draw All-at-Once Seting
+6回目以降のラインナップで、所持討伐証をまとめて交換する設定です。=It is a setting that will Draw All-at-Once after 6th Lineup.
+まとめて交換しない=Don't Draw All-at-Once
+まとめて交換する=Draw All-at-Once
+
+討伐証交換の回数の設定です。=Choose how many Victory Medal Gacha draws to perform at once.
+交換演出設定=Gacha Cutscene Settings
+討伐証交換の演出スキップの設定です。=Settings for skipping the cutscene for Victory Medal Gacha.
+スキップ設定をONにした場合リセット対象の報酬を獲得時以外、演出は再生されません。=Setting skip to ON will cause the Gacha cutscene\nto only be shown when drawing a lineup reset item.
+
+まとめて交換確認ダイアログを表示するか設定します。=Display dialog after draw.
+まとめて交換時の確認ダイアログ表示=Display dialog after draw
+
+50回以上交換の場合スキップ設定をOFFにしていても演出は再生されません。=The cutscene will not play after 50 tries even if Skip is set to OFF.
+===Item line up list===
+sr:"^\[3C404E\](\S)\[-\]$"=[3C404E]$1[-]
+sr:"^\[3C404E\](\S) x\[-\]\[FFBB00,CE4F00\](\d)\[-\]$"=[3C404E]$1 × [-][FFBB00,CE4F00]$1[-]
+
+===NPC (Karin)===
+お疲れ様です！\nここでは、討伐証と報酬を\n交換することができます！=Otsukaresama! You can exchange Victory Medals for rewards here!
+受け取ることができる\n報酬があるようです\n確認してみてください=You've got rewards\nwaiting to be collected!
+報酬がもらえますよ！\nチェックしてみてください=Don't forget to collect!\nYour Mission reward!
+終わっちゃいましたねー\n討伐証は努力の証！\n報酬と交換しましょう！=That's it for the event! Those Victory Medal are proof of your efforts, though, so don't forget to exchange them!
+お疲れ様でした\n討伐証の交換、\nお忘れないように！=Welcome back! Don't let those Victory Medals go unexchanged!
+ギルド管理協会です！\n討伐証をお持ちでしたら、\n報酬交換できますよ=It is a guild management association! If you have a defeat, you can exchange rewards
+イベントでは、特別なストーリーを楽しめます。\nイベントストーリーはイベントクエストを進めると解放されていきます。=This event featuees a special story.\nNew episodes will be unlocked as you progress through the event quest.
+強力なボス、VERY HARDが登場します。\nVERY HARDボスは１日に１体討伐が可能です。\n準備をしっかりして、気を引き締めて挑みましょう。=This event featuees a powerful Very Hard difficulty boss.\n it can only be defeated once each day.\n You will need to prepare well if you hope to conquer it.
+討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラ{{A}}もあります。\nたくさん集めてキャラを仲間にしましょう。=The Victory Medal Exchange is an opportunity to obtain rewards.\nAmong these rewards are Memory Shards for characters related to the Event. Try to collect plenty of them to unlock new party members!
+スペシャルバトルはバトルモードが３段階変化するバトルです。\nより豪華な報酬やミッション報酬をゲットしましょう。期間中１体しか討伐できないので編成を工夫して挑戦しましょう。=Special battle is a battle in which the battle mode changes in 3 mode. Get more luxurious rewards and mission rewards. Only once can be subdued during the period, so let's devise an organization and challenge.
+エキシビションモードは、SPECIALのボスと何度も戦えます。\nまた、バトルのログを保存して振り返ることができるので、\n独自の攻略法を見つけたり、様々な編成を試してみましょう。=Exhibition mode allows you to fight SPECIAL bosses many times. You can also save and look back at battle logs, so find your own strategy and experiment with different formations.
