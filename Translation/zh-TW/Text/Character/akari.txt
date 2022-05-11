@@ -18,12 +18,12 @@ r:"^味方全体の魔法攻撃力を([0-9]+)アップ\n味方全体の魔法ク
 
 ===Skill 1 (with UE)
 目の前の敵１キャラに魔法大ダメージを与え、さらに魔法防御力を小ダウンさせる。=Deals moderate M.DMG to an enemy directly in front and lowers M.DEF by a small amount.
-r:"^敵単体に([0-9]+)の魔法ダメージ\n敵単体の魔法防御力を([0-9]+)ダウン$"=Deals $1 M.DMG to an enemy.\nLowers an enemy’s M.DEF by $2 for 12s.
+r:"^敵単体に([0-9]+)の魔法ダメージ\n敵単体の魔法防御力を([0-9]+)ダウン$"=對敵方單體造成$1的魔法傷害\n 降低敵方單體$2的魔法防禦力
 
 ===Skill 1 (no UE) (Need Non-UE)
 ===Skill 2
 目の前の敵１キャラの魔法防御力を大ダウンさせる。=Lowers M.DEF of an enemy directly in front by a moderate amount.
-r:"^敵単体の魔法防御力を([0-9]+)ダウン"=Lowers an enemy’s M.DEF by $1 for 12s.
+r:"^敵単体の魔法防御力を([0-9]+)ダウン"=降低敵方單體$1的魔法防禦力
 ===Unique
 デモンズ{{A}}=Demon's {{A}}
 

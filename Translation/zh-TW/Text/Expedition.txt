@@ -1,5 +1,5 @@
-査=xpedition
-調=E
+査=查
+調=調
 
 聖跡調査=Sanctum Survey
 神殿調査=Temple Trek
