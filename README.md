@@ -38,7 +38,7 @@ the files that must delete for uninstalling were:
 ## SETTING AND OPTIONS
 Press F4 to fullscreen
 
-# About it
+## 中文說明
  這裡是為了將日文翻譯成繁體中文而設置，請將`AutoTranslatorConfig.ini`檔案內
  ```
  [General]
@@ -53,5 +53,5 @@ Press F4 to fullscreen
  ```
  以套用繁體中文設置。
 
-# Team
+## 關於翻譯
  本翻譯由雪楓Yuki(@yotv2000tw)以及AC編(@andyching168)共同製作，並同時以So-net代理之「超異域公主連結 Re：Dive」為基準做翻譯，如果尚未有代理翻譯的部分，則由我們自行翻譯。
