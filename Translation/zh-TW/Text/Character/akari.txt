@@ -11,7 +11,7 @@
 スウィートイグニッション+=Sweet Ignition+
 
 ===UB (6 star)
-味方全体の魔法攻撃力を特大アップさせ、魔法クリティカルを大アップさせ、次の攻撃のダメージ量に応じ\nて追加でＨＰを回復させる。さらに敵全体の魔法防御力を小ダウンさせる。=Moderate boost to all allies’ M.ATK and large boost to all allies’ M.Crit Rate. Heals all allies based on the damage of their next attack. Lowers M.DEF of all enemies by a small amount.
+"^味方全体の魔法攻撃力を特大アップさせ、魔法クリティカルを大アップさせ、次の攻撃のダメージ量に応じ\nて追加でＨＰを回復させる。さらに敵全体の魔法防御力を小ダウンさせる。$"=Moderate boost to all allies’ M.ATK and large boost to all allies’ M.Crit Rate. Heals all allies based on the damage of their next attack. Lowers M.DEF of all enemies by a small amount.
 
 r:"^味方全体の魔法攻撃力を([0-9]+)アップ\n味方全体の魔法クリティカルを([0-9]+)アップ\n敵全体の魔法防御力を([0-9]+)ダウン$"=Grants lifesteal to all allies' next attack.\nBoosts all allies’ M.ATK by $1 for 18s.\nBoosts all allies’ M.CRIT by $2 for 18s.\nLowers all enemy’s M.DEF by $3 for 18s.
 ===UB (Need Non-6*)
