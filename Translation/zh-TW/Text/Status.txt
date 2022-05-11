@@ -35,7 +35,7 @@ TP消費軽減=TP消費減輕
 あなたのターンです。=Your turn.
 
 バージョンエラー=Version error
-特殊スキル=Special skill
+特殊スキル=特殊技能
 
 ===Status Popup===
 

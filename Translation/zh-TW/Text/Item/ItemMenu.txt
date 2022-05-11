@@ -1,5 +1,5 @@
-イテム一覧=Item list
-ア= 
+イテム一覧=具一覽
+ア=道
 売却=Sell
 売却マナ=Mana Value
 

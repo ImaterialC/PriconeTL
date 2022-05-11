@@ -38,7 +38,7 @@ r:"^敵単体に(\d+)の物理ダメージ\n自分のＴＰを(\d+)回復$"=Deal
 //ex
 竜巻の攻刃+=Tornado Blade+
 剣聖の賦性=Sword Saint
-===Same with Christine===バトル開始時に自分の物理攻撃力を大アップさせる。=Large boost to own physical attack at start of battle.
+===Same with Christine===バトル開始時に自分の物理攻撃力を大アップさせる。=戰鬥開始時，大幅度提升自己的物理攻擊力。
 ===Same with Christine===r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
 //UE
 アシュケロン=Aschallon

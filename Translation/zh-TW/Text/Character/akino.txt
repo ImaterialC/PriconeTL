@@ -31,4 +31,4 @@ r:"^敵単体に(\d+)の物理ダメージ\n範囲内の敵に(\d+)の物理ダ�
 r:"^毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Deploys a 150 radius field that recovers HP of all allies in it by $1 every second for 8s.
 
 r:"^自分の物理攻撃力を(\d+)アップ\n自分の物理防御力を(\d+)アップ$"=Boosts own P.ATK by $1.\nBoosts own P.DEF by $2.
-バトル開始時に自分の物理攻撃力を中アップさせ、さらに自分の物理防御力を小アップさせる。=Moderate boost to own physical attack at start of battle.\nSmall boost to own physical defense at start of battle.
+バトル開始時に自分の物理攻撃力を中アップさせ、さらに自分の物理防御力を小アップさせる。=戰鬥開始時，中幅度提升自己的物理攻擊力，並小幅度提升自己的物理防禦力。

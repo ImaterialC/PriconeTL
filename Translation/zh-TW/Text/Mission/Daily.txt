@@ -1,5 +1,5 @@
 ==Daily==
-ッション=Mission
+ッション=任務
 ミ= 
 デイリー=Daily
 ノーマル=Normal

@@ -40,4 +40,4 @@ r:"^敵全体を挑発する\n自分の物理防御力を(\d+)アップ\n自分�
 r:"^自分の魔法防御力を(\d+)アップ"=Boost own magic defense by $1.
 自分の魔法防御力を大アップする。=Moderate boost to own magic defense.
 ===EX skill
-バトル開始時に自分の魔法防御力を大アップさせる。=Large boost to own magic defense at start of battle.
+バトル開始時に自分の魔法防御力を大アップさせる。=戰鬥開始時，大幅度提升自己的魔法防禦力。
