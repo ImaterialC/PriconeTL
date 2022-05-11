@@ -1,0 +1,100 @@
+character name and her (variant)
+^(・|)([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)$
+([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)
+([べ-・ー＆]{2,11})
+Player Name
+(.{1,10})
+
+Currency
+([べ-・ー]{2,12})
+
+digit
+(\d+)
+
+And not expression
+(?!.*My)^.*$
+^(?!.*My).*$
+
+Text Colour  
+all text color
+(\[[0-9A-F,]{6,13}\])
+(\[[0-9A-F]{6,8}\])
+(\[[0-9A-F]{6}\])
+
+
+Hiragana = [ぁ-ゔゞ゛゜ー]  // 0x3041-0x3094, 0x309E, 0x309B, 0x309C, 0x30FC
+Katakana = [ァ-・ヽヾ゛゜ー]  // 0x30A1-0x30FB, 0x30FD, &#x30FE, 0x309B, 0x309C, 0x30FC
+Hiragana or katakana = [ぁ-ゔゞァ-・ヽヾ゛゜ー]  // 0x3041-0x3094, 0x309E, 0x30A1-0x30FB, 0x30FD, &#x30FE, 0x309B, 0x309C, 0x30FC
+==Color Text Code==
+[FF7C4E,D62146]=\[FF7C4E,D62146\]
+[FFBB00,CE4F00]=\[FFBB00,CE4F00\]
+[FF9393,E82F71]=\[FF9393,E82F71\]
+[FFD200,CC8200]=\[FFD200,CC8200\]
+[B3C0DF,616593]=\[B3C0DF,616593\]
+[FEAC7B,BA5E36]=\[FEAC7B,BA5E36\]
+[76C5FD,3F75C7]=\[76C5FD,3F75C7\]
+[7C9EE3,4960A2]=\[7C9EE3,4960A2\]
+[C9AD3D,9D7632]=\[C9AD3D,9D7632\]
+[2874AE,12304D]=\[2874AE,12304D\]
+[25CFDE,0E6C98]=\[25CFDE,0E6C98\]
+[FFFDF7,FFE0E9]=\[FFFDF7,FFE0E9\]
+[f374ff,95289f]=\[f374ff,95289f\]
+[ff5c77,CE0030]=\[ff5c77,CE0030\]
+[ffae00,cc2200]=\[ffae00,cc2200\]
+[2db075,31635c]=\[2db075,31635c\]
+[FDFFF8,CCFFEF]=\[FDFFF8,CCFFEF\]
+[FFA9DE,9549E3]=\[FFA9DE,9549E3\]
+[E8A31E,8E5707]=\[E8A31E,8E5707\]
+[64C9FD,0060BA]=\[64C9FD,0060BA\]
+[E7BF53,FFEBA5]=\[E7BF53,FFEBA5\]
+[93BEEE,93BEEE]=\[93BEEE,93BEEE\]
+[FF9DC3,EC4B89]=\[FF9DC3,EC4B89\]
+[3C404EFF]=\[3C404EFF\]
+[3C404E]=\[3C404E\]
+[3B3F4D]=\[3B3F4D\]
+[475F7B]=\[475F7B\]
+[EF5B02]=\[EF5B02\]
+[FFFFFF]=\[FFFFFF\]
+[-]=\[-\]
+
+Gold shine to higghlight text stamina, gacha, item etc
+[FFBB00,CE4F00]新キャラ「シノブ（パイレーツ）」登場！\n期間中出現率UP！[-]=[FFBB00, CE4F00] New character "Shinobu (Pirates)" appeared! 
+
+Gold dark
+[E8A31E,8E5707]2022/05/03 19:00～05/11 11:59まで[-]
+
+[3C404E] = black?  \[3C404E\]
+[3C404E] = text at windows pop up
+[FF7C4E,D62146] = Red, warning info
+[FFBB00,CE4F00] = Gold High Light
+sr:"^\[3C404E\]
+×
+(\d+)
+(\d+月)
+1秒=1s
+1分=1m
+1時=1h
+12月=Dec
+11月=Nov
+10月=Oct
+09月=Sep
+08月=Aug
+07月=Jul
+06月=Jun
+05月=May
+04月=Apr
+03月=Mar
+02月=Feb
+01月=Jan
+9月=Sep
+8月=Aug
+7月=Jul
+6月=Jun
+5月=May
+4月=Apr
+3月=Mar
+2月=Feb
+1月=Jan
+スタミナ
+マナ
+位

@@ -1,0 +1,59 @@
+チュートリアル=tutorial
+クリアランク=Clear rank
+連携=Link
+sr:"^(\[[0-9A-F]{6}\])プレイヤーLvを([0-9]+)にしよう\[-\]$"="$1Reach player level $2[-]"
+sr:"^(\[[0-9A-F]{6}\])(メイン|イベント)クエスト(.+)をクリアしよう\[-\]$"="$1Clear Main Quest $3[-]"
+sr:"^(\[[0-9A-F]{6}\])クリアランクの☆を([0-9]+)個集めよう\[-\]$"="$1Gather clear rank stars $2☆[-]"
+
+sr:"^(\[[0-9A-F]{6}\])([1-9]+月)クランバトル \(クランモード\)で([1-9])段階目に到達しよう\[-\]$"="$1Reach Tier $3 Boss in Clan Battle ($2)[-]"
+sr:"^(\[[0-9A-F]{6}\])フレンドバトルで([0-9]+)回戦おう\[-\]$"="$1Do $2 times Friend Match[-]"
+sr:"^(\[[0-9A-F]{6}\])([0-9]+)キャラ獲得しよう\[-\]$"="$1Recruit a total of $2 characters[-]"
+sr:"^(\[[0-9A-F]{6}\])聖跡調査クエストLv([0-9]+)をクリアしよう\[-\]$"="$1Clear Sanctum Survey Quest Lv$2[-]"
+sr:"^(\[[0-9A-F]{6}\])神殿調査クエストLv([0-9]+)をクリアしよう\[-\]$"="$1Clear Temple Trek Quest Lv$2[-]"
+sr:"^(\[[0-9A-F]{6}\])([0-9]+)キャラをRANK([0-9]+)にしよう\[-\]$"="$1Promote $2 characters to RANK $3[-]"
+sr:"^(\[[0-9A-F]{6}\])(バトルアリーナ|プリンセスアリーナ)で([0-9]+)(回勝利しよう|勝しよう)\[-\]$"="$1Win $3 Times at $2[-]"
+sr:"^(\[[0-9A-F]{6}\])バトルアリーナで([0-9]+)回勝利しよう\[-\]$"="$1Win $2 Times at Battle Arena[-]"
+sr:"^(\[[0-9A-F]{6}\])ルナの塔([0-9]+)階をクリアしよう\[-\]$"="$1Clear $2 floor of Luna Tower[-]"
+
+sr:"^(\[[0-9A-F]{6}\])★([1-6])のキャラを獲得しよう\[-\]$"="$1Recruit a $2★ character[-]"
+sr:"^(\[[0-9A-F]{6}\])ギルドハウスアイテムを([0-9]+)個設置しよう\[-\]$"="$1Install $2 guild house items[-]"
+
+[3C404E]ダンジョンEXVボスバトルでMODE1に勝利しよう[-]=[3C404E]Clear Dungeon EX-V Mode 1[-]
+[3C404E]ダンジョンEXVボスバトルでMODE2に勝利しよう[-]=[3C404E]Clear Dungeon EX-V Mode 2[-]
+[3C404E]チュートリアルをクリアしよう[-]=[3C404E]Clear the tutorial[-]
+[3C404E]クランでダンジョンのサポートキャラを設定しよう[-]=[3C404E]Set a Rental Character for Dungeon in the Clan[-]
+[3C404E]クランでクランバトル・ルナの塔のサポートキャラを設定しよう[-]=[3C404E]Set Rental Character for CB/Luna in the Clan[-]
+[3C404E]フレンドでクエストのサポートキャラを設定しよう[-]=[3C404E]Set Rental Character for Quest in the Clan[-]
+[3C404E]フレンドをつくろう[-]=[3C404E]Let's make a friend[-]
+[3C404E]データ連携、またはアカウント連携を設定しよう[-]=[3C404E]Set data link or account link[-]
+[3C404E]称号を受け取ろう[-]=[3C404E]Receive a title[-]
+[3C404E]ダンジョン「天上の浮城」を制覇しよう[-]=[3C404E]Clear Dungeon "Heaven's Fortress"[-]
+[3C404E]ダンジョン「天上の浮城」を制覇しよう（追加）[-]=[3C404E]Clear Dungeon "Heaven's Fortress" (Sub)[-]
+[3C404E]ダンジョン「雲海の山脈」を制覇しよう[-]=[3C404E]Clear Dungeon "Cloudtop Peak"[-]
+[3C404E]ダンジョン「密林の大樹」を制覇しよう[-]=[3C404E]Clear Dungeon "Deepwood Oak"[-]
+[3C404E]ダンジョン「断崖の遺跡」を制覇しよう[-]=[3C404E]Clear Dungeon "Sheercliff Ruins"[-]
+[3C404E]ダンジョン「蒼海の孤塔」を制覇しよう[-]=[3C404E]Clear Dungeon "Tideborne Tower"[-]
+[3C404E]ダンジョン「毒瘴の闇稜」を制覇しよう[-]=[3C404E]Clear Dungeon "Darkblight Crag"[-]
+[3C404E]ダンジョン「緑竜の骸嶺」を制覇しよう[-]=[3C404E]Clear Dungeon "Dragoncorpse Peak"[-]
+[3C404E]ダンジョン「砂瀑の底都」を制覇しよう[-]=[3C404E]Clear Dungeon "Sandfall Depths Capital"[-]
+
+[FFFFFF]ダンジョンEXVボスバトルでMODE1に勝利しよう[-]=[FFFFFF]Clear Dungeon EX-V Mode 1[-]
+[FFFFFF]ダンジョンEXVボスバトルでMODE2に勝利しよう[-]=[FFFFFF]Clear Dungeon EX-V Mode 2[-]
+[FFFFFF]チュートリアルをクリアしよう[-]=[FFFFFF]Clear the tutorial[-]
+[FFFFFF]クランでダンジョンのサポートキャラを設定しよう[-]=[FFFFFF]Set a Rental Character for Dungeon in the Clan[-]
+[FFFFFF]クランでクランバトル・ルナの塔のサポートキャラを設定しよう[-]=[FFFFFF]Set Rental Character for CB/Luna in the Clan[-]
+[FFFFFF]フレンドでクエストのサポートキャラを設定しよう[-]=[FFFFFF]Set Rental Character for Quest in the Clan[-]
+[FFFFFF]フレンドをつくろう[-]=[FFFFFF]Let's make a friend[-]
+[FFFFFF]データ連携、またはアカウント連携を設定しよう[-]=[FFFFFF]Set data link or account link[-]
+[FFFFFF]称号を受け取ろう[-]=[FFFFFF]Receive a title[-]
+[FFFFFF]ダンジョン「天上の浮城」を制覇しよう[-]=[FFFFFF]Clear Dungeon "Heaven's Fortress"[-]
+[FFFFFF]ダンジョン「天上の浮城」を制覇しよう（追加）[-]=[FFFFFF]Clear Dungeon "Heaven's Fortress" (Sub)[-]
+[FFFFFF]ダンジョン「雲海の山脈」を制覇しよう[-]=[FFFFFF]Clear Dungeon "Cloudtop Peak"[-]
+[FFFFFF]ダンジョン「密林の大樹」を制覇しよう[-]=[FFFFFF]Clear Dungeon "Deepwood Oak"[-]
+[FFFFFF]ダンジョン「断崖の遺跡」を制覇しよう[-]=[FFFFFF]Clear Dungeon "Sheercliff Ruins"[-]
+[FFFFFF]ダンジョン「蒼海の孤塔」を制覇しよう[-]=[FFFFFF]Clear Dungeon "Tideborne Tower"[-]
+[FFFFFF]ダンジョン「毒瘴の闇稜」を制覇しよう[-]=[FFFFFF]Clear Dungeon "Darkblight Crag"[-]
+[FFFFFF]ダンジョン「緑竜の骸嶺」を制覇しよう[-]=[FFFFFF]Clear Dungeon "Dragoncorpse Peak"[-]
+[FFFFFF]ダンジョン「砂瀑の底都」を制覇しよう[-]=[FFFFFF]Clear Dungeon "Sandfall Depths Capital"[-]
+
+

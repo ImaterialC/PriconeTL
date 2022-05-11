@@ -1,0 +1,6 @@
+then open regedit, go to the folder H_Key_Current_User\Software\Cygames\PrincessConnectRedive
+and search for and delete the following two strings:
+M3F1YSNkOnF0_h4073495316
+MHx5cg==_h786395497
+do this after you sign in with the new account but before you launch the game again
+this will delete the account stored on the computer without deleting the game itself

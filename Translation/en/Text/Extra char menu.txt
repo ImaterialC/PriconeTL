@@ -1,0 +1,16 @@
+クストラキャラ= Character
+エ=Extra
+
+説明=Desc
+セットする=Set
+アイテム交換=Item Exchange
+アイテムを集めてキャラを解放=Collect items to free your character.
+
+セットするマナの量を指定してください。=Specify the amount of Mana.
+r:"^最小単位は([0-9,]+)です。$"=Minimum unit is $1.
+
+必要アイテム=Required Items
+
+メモリーピース(選択可)=Memory shard (Selected)
+
+所持している、才能開花が★5以上のすべてのキャラの\nメモリーピースから使用数を指定してセットできます。\n女神の秘石を代わりにのメモリーピース個使用してセットできます。=You can only select memory shards of characters that are already 5★ or use Divine Amulets.

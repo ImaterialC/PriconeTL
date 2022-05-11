@@ -1,0 +1,50 @@
+
+ユミ=Ayumi
+ストーキングマント=Stalking Cloak
+===Bio
+【物理】中衛で、どたばたと敵をかく乱する、純情少女。敵をスタンさせるスキルのほか、ユニオンバーストでは暗闇と混乱を付与することで敵を邪魔することができる。=[Physical]A purehearted girl who wildly disrupts the enemy from the MG. Aside from stunning foes with her skills, she can also inflict Blind and Confusion with her UB to prevent their attacks from finding their mark.
+
+===Profile
+観察=Observation
+
+===Skills
+勇気を出して突撃です～！=Be Brave and Charge!
+湧き出す勇気=Burst of Courage
+湧き出す勇気+=Burst of Courage+
+
+===UB (6 star)
+
+===UB 
+【物理】中衛で、どたばたと敵をかく乱する、純情少女。敵をスタンさせるスキルのほか、ユニオンバーストでは暗闇と混乱を付与することで敵を邪魔することができる。=[Physics] A pure girl who disturbs the enemy and the enemy in the MG. She can disturb her enemy by giving darkness and confusion in UB in addition to the skills to stun the enemy.
+
+r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵を暗闇状態にする\n範囲内の敵を混乱させる$"=Deals  $1 P.DMG to all enemies within range to enemies within 1200 range\nBlinds enemies in range for 6s.\nConfuses enemies in range for 4s.
+前方範囲内の敵すべてに物理中ダメージを与え、さらに暗闇・混乱状態にする。=Deals moderate P.DMG to all enemies in range and inflicts Blind and Confuse.
+
+===Skill 1 (UE)
+自分を中心とした範囲内の敵すべてに物理中ダメージを与え、さらに物理攻撃力を中ダウンさせる。=Deals moderate P.DMG to all enemies and lowers their P.ATK by a moderate amount.
+
+===Skill 1 
+r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵の物理攻撃力を(\d+)ダウン$"=Deals $1 P.DMG  to all enemies.\nLowers all enemies’ P.ATK by $2 for 12s.
+
+自分を中心とした範囲内の敵すべてに物理小ダメージを与え、さらに物理攻撃力を小ダウンさせる。=Deals small P.DMG to all enemies and lowers their P.ATK by a small amount.
+
+===Skill 2
+r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵を一定時間行動不能にする$"=Deals $1 P.DMG to all enemies within 1200 range.\nRenders enemies in range immobile for 2.4s.
+前方範囲内の敵すべてに物理小ダメージを与え、さらにスタンさせる。=Deals small P.DMG to all enemies in range and inflicts stun.
+
+
+===Skill EX
+r:"^自分の物理防御力を(\d+)アップ$"=Boosts own P.DEF by $1.
+バトル開始時に自分の物理防御力を大アップさせる。=Large boost to own physical defense at start of battle.
+
+===Story
+どこまでも一途に慕う、純情乙女=A pure-hearted girl who loves with all her heart
+
+名前も知らないあの人=My Nameless Hero
+恥ずかしパニックガール=Perpetual Panic
+幸せな迷い道=Lost and Found
+名前を呼ばれて=From Those Lips
+アドバイスは気合と勇気=Assertive Advice
+出会った頃とは違う距離=Somehow Closer Than Before
+振り絞る勇気の一歩=A Brave Step Forward
+憧れの始まり=Where It All Began

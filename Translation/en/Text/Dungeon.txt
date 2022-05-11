@@ -1,0 +1,89 @@
+ンジョン=ungeon
+ダ=D
+帰還する=Return
+現在の階数=Progress
+プレイヤー名=Player Name
+対戦相手=Opponent
+戦闘可能キャラ=Available Characters
+パック有効=Pack Validity
+報酬受け取り=Received Rewards
+
+パーティ編成=Assemble Party
+現在のメンバー=Current Party
+
+ダンジョンへ=To Dungeon
+キャラ一覧へ=To Character List
+
+砂=S
+瀑の底都=andfall Depths Capital
+砂瀑の底都=Sandfall Depths Capital
+
+戦闘不能=KO
+登録済みのパーティを呼び出してバトルに挑めます。=Choose your registered party.
+パーティ選択=Party Selection
+以下のキャラは制限のため編成できません。=The following characters cannot be used due to restrictions.
+このダイアログを表示しない=Do not show this dialog
+sr:"^あと(\d+)時間(\d+)分は選択できません。$"=Cannot select for $1h $2m.
+
+[FF7C4E,D62146]一度選択したエリアは帰還するまで変更できません。[-]=[FF7C4E,D62146]Once an area is selected,\nit cannot be changed until you return.[-]
+このダンジョンのボスを倒すと、スキップが可能になります。=Defeat this dungeon boss to skip.
+===Return===
+帰還確認=Return
+[3C404E]帰還しますか？[-]=[3C404E]Return from this dungeon? [-]
+[FF7C4E,D62146]帰還すると最初からのスタートになります。[-]=[FF7C4E,D62146]You will have to start the dungeon over\nfrom the beginning if you return.[-]
+[FF7C4E,D62146]獲得した報酬は失われません。[-]=[FF7C4E,D62146]Rewards earned will not be lost.[-]
+
+上の浮城= Fortress
+天=Heaven's
+天上の浮城=Heaven's Fortress
+
+===Select===
+エリア選択確認=Area Selection
+エリア「雲海の山脈」に挑戦しますか？=Do you want to challenge the area\n"Cloudtop Peak"?
+エリア「密林の大樹」に挑戦しますか？=Do you want to challenge the area\n"Deepwood Oak"?
+エリア「断崖の遺跡」に挑戦しますか？=Do you want to challenge the area\n"Sheercliff Ruins"?
+エリア「蒼海の孤塔」に挑戦しますか？=Do you want to challenge the area\n"Tideborne Tower"?
+エリア「毒瘴の闇稜」に挑戦しますか？=Do you want to challenge the area\n"Darkblight Crag"?
+エリア「緑竜の骸嶺」に挑戦しますか？=Do you want to challenge the area\n"Dragoncorpse Peak"?
+エリア「天上の浮城」に挑戦しますか？=Do you want to challenge the area\n"Heaven's Fortress"?
+エリア「砂瀑の底都」に挑戦しますか？=Do you want to challenge the area\n"Sandfall Depths Capital"?
+
+===Dungeon names===
+[2874AE,12304D]雲海の山脈[-]=[2874AE,12304D]Cloudtop Peak[-]
+雲をつらぬく山脈=A mountain that\npierces the clouds.
+
+[2874AE,12304D]密林の大樹[-]=[2874AE,12304D]Deepwood Oak[-]
+深い森の奥に存在する1本の大樹=A massive tree\ndeep within the forest.
+
+断崖の遺跡=Sheercliff Ruins
+[2874AE,12304D]断崖の遺跡[-]=[2874AE,12304D]Sheercliff Ruins[-]
+断崖絶壁で発見された遺跡=Ruins discovered on a\ntreacherous cliff.
+
+[2874AE,12304D]蒼海の孤塔[-]=[2874AE,12304D]Tideborne Tower[-]
+大海原にそびえる謎の巨塔=A tall and lonely tower\nsurrounded by ocean.
+
+[2874AE,12304D]毒瘴の闇稜[-]=[2874AE,12304D]Darkblight Crag[-]
+瘴気渦巻く常闇の孤峰=A region of eternal night,\ntainted by dark energies.
+
+[2874AE,12304D]緑竜の骸嶺[-]=[2874AE,12304D]Dragoncorpse Peak[-]
+厳峰に佇む竜の寝床=A dragon's resting place\nthat lies on the peak.
+
+[2874AE,12304D]天上の浮城[-]=[2874AE,12304D]Heaven's Fortress[-]
+天空の番人が静かに眠る聖城=The divine fortress where\nthe guardians sleep.
+
+[2874AE,12304D]砂瀑の底都[-]=[2874AE,12304D]Sandfall Depths\nCapital[-]
+砂の大瀑布が落ちゆく果ての都=The Capital on the\nEnd of the Great Sandfall
+
+r:"^([1-9/]{3})階$"=Floor $1
+===Boss Name
+最大HP=Max HP
+モンスター詳細一覧=Monster Details List
+ゴブリンロード＆ゴブミニオン=Goblin Lord & Goblin Minion
+ゴブリンメイスター=Goblin Meister
+ゴブリンロード=Goblin Lord
+===Tips and Help Button===
+ボスバトル=Boss battle
+確認したい遊び方を選択してください=Please select how to play want to check
+仲間にしたすべてのキャラで挑む総力戦です。\n各階層を突破すると「ダンジョンコイン」とランダムで「装備アイテム」\n「メモリーピース」といった報酬が獲得できます。=It is a total war to challenge with all the characters you made friends with. If you break through each level, you can get rewards such as "dungeon coins" and "equipment items" and "memory pieces" at random.
+各ダンジョンの最後にいるモンスターを倒すとギルドハウスで役に立つ\nアイテムをもらえます。それぞれギルドハウスに設置するとスタミナを\n生産します。アイテムGETを目指し、ダンジョンを進みましょう。=Defeat the monster at the end of each dungeon to get useful items in the guild house. Each will produce stamina when installed in a guild house. Go through the dungeon to get the item.
+ダンジョン「砂瀑の底都」のボスバトルではバトルモードが３段階\n変化します。モンスター詳細を確認して、それぞれのバトルでどう\n戦うか、しっかり作戦を立ててくださいまし。=In the boss battle of the dungeon "Sandfall Bottom City", the battle mode changes in 3 stages. Please check the details of the monsters and plan how to fight in each battle.

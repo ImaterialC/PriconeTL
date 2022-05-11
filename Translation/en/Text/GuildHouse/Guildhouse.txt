@@ -1,0 +1,209 @@
+===Guildhouse===
+
+んなのカレンダー=Calendar
+イラスト一覧=Illustration list
+ギルドハウス遷移時に演出を再生するか\nメニューから設定を変更できます。=You can replay the scene at the guild house\nor change the setting from the menu.
+カレンダーストーリーをスキップしますか？=Do you skip calendar stories?
+『みんなのカレンダー』では、毎日少しずつランドソルを囲む壁に\n壁画が描き足されていく様子を楽しむことができます。\n主さま、ご一緒にみなさまの活動を見届けましょう。="Everyone's calendar" can enjoy the way the mural will be drawn by the wall that surrounds the Landsol every day. Main, let's watch everyone's activities together.
+カレンダーから日付を選択して、過去の出来事を\n見返すこともできますよ。活動を振り返りたくなったときや、\n見逃してしまったときは、カレンダーを開いてくださいまし。=You can also select a date from the calendar and revert the past events. When you want to look back on the activities, or miss it, please open the calendar.
+カレンダーストーリー確認=Calendar Story Confirmation
+もう一度カレンダーストーリーを再生しますか？=Do you want to play the calendar story again?
+口ではそう言っても=Even if you say that in your mouth
+魔法少女？=Magical girl?
+ボクと癒やしタイム=Bok and healing time
+全て既読=All read
+来月へ=Next month
+先月へ=Last month
+ふわふわ=fluffy
+焼きたてほやほや=Freshly baked
+Lvアップ=LV up
+情報=Info
+移動=Move
+
+Lv上限：=Max Lv:
+r:"^(\d+)ルピを消費してLvアップ可能$"=Ready to Lv up using [FFBB00,CE4F00]$1[-] Rupies
+Lvアップ可能な家具があります。=There is furniture that can be leveled up.
+
+家具効果=Furniture\nEffect
+収納BOX=Storage
+一括収納=Store All
+キャラ\n配置=Place\nCharacter
+ランダム\nお出かけ=Random\nOuting
+メンバー\n訪問=Visit\nMember
+Like情報=Like Info
+マイセット=My Sets
+一括受取=Claim\nAll
+家具ショップ=Furniture\nShop
+ゲームテーブル=Game\nTable
+カレンダー=Calendar
+サポート設定=Support\nSettings
+メンバー情報=Member\nInfo
+寄付する=Donate
+コッコロのおさいふ=Kokkoro's\nWallet
+ギフト=Gift
+1Fのメンバー=1F Party
+2Fのメンバー=2F Party
+3Fのメンバー=3F Party
+同名キャラ\n選択中=Char Already\nSelected
+同名キャラ\n設置中=Char Already\nPlaced
+報酬受取=Claim All
+以下のアイテムを受け取りました。=You have received the following items.
+引き出せるマナがありません。=There is no mana to take out.
+
+設置=Place
+売却不可=Cannot Sell
+設置済み=Already\nPlaced
+設置中売却不可=Cannot sell\nWhile Placed
+
+この階の家具をすべて収納します。よろしいですか？=Store all Furniture on this floor?
+
+壁家具=Wall Furniture
+効果つき家具=Enchanted Furniture
+床家具=Floor Furniture
+
+一括収納はやりなおしができません。=Store All cannot be undone.
+収納すると効果つき家具の生産はリセットされます。=Storing enchanted Furniture will reset production.
+収納数に収まらなかった家具は残ります。=Furnitures that would not fit in storage will be left out.
+
+カレンダーへ=Calendar
+この月は選択できません。=Cannot select this month
+受け取っていないアイテムはありません。=No items you can collect at the moment.
+
+===gifting===
+絆ランクアップに必要なギフトアイテムが足りません。=There is not enough gift items needed for the rankup.
+これ以上絆ランクを上げられません。=You can't raise the bond rank anymore.
+贈ったギフトアイテムは消費されます。=The gift item you give will be consumed.
+絆ランクが最大です。=Max bond ranks.
+
+ギフトアイテムを贈るキャラをタップしてください=Tap the character you want to give the gift to.
+以下のギフトアイテムを贈ります。よろしいですか？=Send the following gift?
+ギフト消費後の絆ランク=Bond Level After Gift
+消費ギフト=Consumed
+贈る=Give
+ストーリー解放=Story Unlock
+
+r:"^絆ランク (\d+)$"=Bond\nRank $1
+
+===Games===
+購入価格=Price
+み=Everyone's 
+んなのゲームテーブル=Game Table
+レッツ・クッキング！\nミヤコとプリンを作って食べて\nプリンの道を極めよう！=Let's Cook! Let's make and eat pudding with Miyako to master the way of pudding!
+こちらは1,000ルピで\n販売中！\nぜひ購入して\n遊んでくださいね！=This one's on sale for 1,000 rupees, so buy it and play with it!
+楽しいミニゲームをご紹介！\nあなたはどのミニゲームで\n遊びますか？=Here are some fun mini-games! Which mini-game will you play?
+動くハートに合わせてタップ！\nシズルさんとエリコさんの\nチョコレートケーキ作りを\nお手伝いしましょう！=Tap on the moving hearts to help Shizuru and Eriko make their chocolate cake!
+愛情たっぷりのチョコレートケー\nキを完成させよう！\n超キュートなタップゲーム！=Complete the loving chocolate cake in this super cute tap game!
+様々なミニゲームをご用意してい\nますよ！\nどのミニゲームで遊びますか？=We have a variety of mini-games for you to play!
+素材購入=Buy stuff
+エピソード=Episode
+エピソードリスト=List of Episodes
+
+===Random menu===
+ランダムお出かけ確認=Visit Random Guildhouse?
+[3C404E]他のプレイヤーのギルドハウスに\nランダムで訪問します。\nよろしいですか？[-]=[3C404E]Would you like to randomly visit the Guildhouse of another Player? [-]
+
+===Like Info===
+今日Likeした数=Today's Likes by You
+今日Likeされた数=Today's Likes
+Likeされた総数=Total Likes
+Likeしてくれた人=Liked You
+Likeした人=Liked by You
+クランメンバー=Clan Members
+最近のLike情報はありません。=There is no recent LIKE information.
+
+===Furniture shop===
+sr:"^(\d+)年(\d+月)(\d+)日 ([0-9:]+)まで=Untill $3 $2 $1 $4(JST)
+該当する家具はありません。=There is no applicable furniture.
+テーマ=Theme
+インテリア=Decor
+生活用品=Furniture
+戻る=Back
+ベッド=Beds
+収納=Storage
+椅子=Chairs
+机=Tables
+パーテーション=Partitions
+植物=Plants
+美術品=Art
+ラグ・タイル=Rugs & Tiles
+背景=Backgrounds
+階段=Stairs
+壁=Walls
+床=Floors
+設置数=Placed
+設置購入=Buy & Set
+収納購入=Buy & Store
+アクション=Interactable
+購入=Purchase
+以下の家具を購入しますか？=Would you like to purchase the following furniture?
+[3C404E]収納BOXに収納しました。[-]=[3C404E]Stored into Storage Box.[-]
+以下の家具を購入しました。=You bought the following furniture.
+
+
+===my sets===
+反転=Turn
+クリア=Clear
+名前変更=Change Name
+現在の配置を保存=Save Current Setup
+マイセット保存確認=Save My Sets
+この配置で模様替え=Apply This Setup
+現在の配置を上書保存=Overwrite with Current Setup
+
+下記のスロットに現在の配置情報を保存します。\nよろしいですか？=Save your current setup in the following slot?
+
+マイセット名=My Set Name
+r:"^マイセット(\d+)$"=My set $1
+家具の配置を保存し手軽に呼び出すことができます。=You can save your furniture setup.
+r:"^\[3C404E\]現在の配置をマイセット(\d+)に保存しました。\[-\]$"=[3C404E]Save the current placement to My Sets $1.[-]
+
+sr:"^\[3C404E\]\[D13250\](.+)\[-\]\[3C404E\]を\n収納します。よろしいですか？\[-\]\[-\]$"=[3C404E]Put [D13250]$1[-]\nin storage. Is this OK?[-]
+[3C404E]設定よりダウンロードした動画の端末保存選択ができます。[-]=[3C404E]You can select to save the downloaded\nvideo to the device from the settings.[-]
+[3C404E]未保存のミニゲームプレイ動画をダウンロードします。[-]=[3C404E]Download unsaved mini gameplay videos.[-]
+===Like a Room===
+ルピが得られるのは１日あたり10件です。=You can get Rupies 10 times per day.
+ルピが上限に達している場合、報酬は受け取れません。=Reward can't be received if Rupies reach the Limit.
+獲得ルピ=Earn Rupies
+このギルドハウスにLikeしました。=You liked this Guildhouse.
+Like報酬獲得=Reward Received
+Like済み=LIKE
+Like人数=Liked by
+訪問者にLikeされました。=A visitor liked your Guildhouse
+
+Like報酬=Reward
+Like日時=Date
+[FFBB00,CE4F00]5ルピ獲得[-]=[FFBB00,CE4F00]Earn 5 Rupies[-]
+クランメンバーがいません。=No clan members.
+このプレイヤーにはすでにLike済みです。=You have already liked this Player.
+===Kokkoro's wallet===
+マナが所持上限に達しているため引き出せません。=Mana can not be pulled out because the possession limit is reached.
+引き出し後の所持マナ=Current Mana
+ストックしたマナを引き出します。=Withdrawa stocked Mana.
+マナを引き出す=Mana Withdraw
+引き出し結果=Result of Withdraw
+r:"^\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]マナを引き出しました。\[-\]$"=[3C404E]Withdraw [FFBB00,CE4F00]$1[-] Manas.[-]
+引き出せるマナがありません。=There is no mana that can be withdraw.
+===upgrade notification===
+r:"^プレイヤーLv(\d+)以上 / (\d+)ルピ$"=P. Lv$1 or more & $2 Rupies
+
+ルピ=Rupies
+消費ルピ=Use
+Lvアップ条件=LV up Req.
+Lvアップする=Lv Up
+Lvアップ確認=LV up Confirmation
+必要時間=Time
+中止=cancel
+以下の家具をLvアップさせます。よろしいですか？=The following furniture will be upgraded. Is this OK?
+Lvアップが完了し、アイテムの生産が開始されました。=LV up has been completed\nand Item production has been started.
+===upgrade done===
+r:"^\[3C404E\]Lv(\d+)→\[-\]\[FFBB00,CE4F00\]Lv(\d+)\[-\]$"=[3C404E]Lv$1→[-][FFBB00,CE4F00]Lv$2[-]
+
+sr:"^(\d+時間|)(\d+分|)で(.+)×(\d+)生産、(\d+)まで保管可能\(あと(\d+時間|)(\d+分|)(\d+秒|)\)$"=$3 × $4 every $1$2. Can be store up to $5.($6$7$8 left)
+sr:"^(\d+時間|)(\d+分|)で(.+)×(\d+)生産、(\d+)まで保管可能$"=$3 × $4 every $1$2. Can be store up to $5.
+r:"^(\d+)秒$"=$1s
+r:"^(\d+)分$"=$1m
+r:"^(\d+)時間$"=$1h
+===NPC===
+ギルドハウスの\n使い心地は\nどうですか？=How is the\nguild house\ncomfortable isn't it?
+ご用があれば\nなんでも言って\nくださいね～♪=Please tell me\nif you need\nsomething~♪
+お見舞い？=Did you call?
+ふぁ～…あっ\n見られちゃい\nましたか？=Ah...\nChould be\nyou see it?

@@ -1,0 +1,49 @@
+プレゼントボックス=Present Box
+すべて受け取る=Receive All
+受け取り履歴=History
+[FF7C4E,D62146]期限が切れたプレゼントは自動的に削除されます。一度に受け取れるプレゼントは100件までです。[-]=[FF7C4E,D62146]Presents will be automatically deleted once their time limit expires.\nUp to 100 presents can be received at once.[-]
+
+新しい順=Newest
+古い順=Oldest
+家具=Furniture
+ギルドハウス家具は、メインクエスト2-1（NORMAL）クリアで受け取れます。=Guild House Furniture can be received by clearing the main quest $1.
+[FF7C4E,D62146]受け取れるアイテムがありません。[-]=[FF7C4E,D62146]There are no items.[-]
+
+以下のプレゼントをまとめて受け取りますか？=Whould you like to accept all of the following presents?
+プレゼント受け取り=Receive Present
+報酬はプレゼントに送られました。=Reward have been sent to the Present Box.
+所持上限を超えたアイテムはプレゼントに送られました。=Items that exceed the possession limit have been sent as gifts.
+===Item List Receive===A->Item,B->Number
+
+===Item Receive===
+sr:"^\[3C404E\]([\S\s]+)×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]$"=[3C404E]$1 × [-][FFBB00,CE4F00]$2[-]
+sr:"^(.{3,18})×(\d+)$"=$1 × $2
+===sort===
+フィルタ=Filter
+期限あり=Limited Time
+期限なし=No Limit
+プレゼントの種類=Present Type
+メモリーピース=Memo Shards
+コイン=Coins
+その他=Other
+
+===items===
+受け取り期限=Deadline
+獲得日時=Earned date and time
+受け取り日時=Date and time
+プリンセスアリーナの防衛報酬です。=Princess Arena defense reward.
+バトルアリーナの防衛報酬です。=Battle Arena defense reward.
+
+sr:"^(バトルアリーナ|プリンセスアリーナ)(\d+位)のランキング報酬です。$"="$1 $2 ranking reward."
+sr:"^([0-9]{1,2}月)クランバトルランキング(\d+位)の報酬です。$"="Clan Battle ($1) $2 ranking reward."
+みんなのカレンダー内で獲得したアイテムです。=This item was acquired in everyone's calendar.
+
+===Login Bonus===
+r:"^「ログインボーナス」(\d+)日目で獲得したアイテムです。$"="Item obtained on day $1 "Login Bonus"."
+r:"^「イベントログインボーナス」(\d+)日目で獲得したアイテムです。$"="Item obtained on day $1 "Event Login Bonus"."
+r:"^「復刻イベントログインボーナス」(\d+)日目で獲得したアイテムです。$"="Item obtained on day $1 "Revival Event Login Bonus"."
+
+r:"^「スタートダッシュログインキャンペーン」(\d+)日目で獲得したアイテムです。$"="Item obtained on day $1 "Start Dash Log In Campaign"."
+r:"^「事前登録キャンペーン」の(\d+)万人達成報酬です。$"="Item obtained on day $1 "Pre-registration Campaign"."
+
+運営からのプレゼントです。=Gift from the management.
