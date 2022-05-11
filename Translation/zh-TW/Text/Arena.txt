@@ -1,7 +1,7 @@
 ===Arena===
-リンセスアリーナ=rincess Arena
-トルアリーナ=attle Arena
-バ=B
+リンセスアリーナ=主競技場
+トルアリーナ=鬥競技場
+バ=戰
 リプレイ=Replay
 マイパーティ保存=Save Party
 ダメージレポート=Damage Report
