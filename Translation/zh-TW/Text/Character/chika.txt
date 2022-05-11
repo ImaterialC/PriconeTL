@@ -1,5 +1,5 @@
-チ=C
-カ=hika
+チ=千
+カ=歌
 ===Bio
 【魔法】後衛から、前衛の戦いをサポートする唱喚士。ユニオンバーストで、味方の回復と敵への攻撃を行う精霊を最前線に唱喚する。=[Magic] A Song Summoner who supports her allies from the RG. Her UB heals allies while also summoning a spirit who will attack the enemy from the front lines.
 

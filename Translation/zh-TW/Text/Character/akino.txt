@@ -1,11 +1,11 @@
 CharaCustom/CustomControl/CanvasDraw=ChangeFontSizeByPercentage(0.5)
-キノ=Akino
-紅輝石ウィスタリア=Red Pyroxene Wistalia
+キノ=秋乃
+紅輝石ウィスタリア=紫藤紅輝石
 ===Bio
-【物理】前衛で大暴れして攻める、令嬢剣士。自分の周りに、味方を回復するフィールドを作り出し、自ら前線を支え導く姿も、名家を背負う者のあるべき姿。=[Physical]A wealthy young lady and swordswoman with incredible power. She creates a healing field for allies around her. She brings a noble but powerful presence.
+【物理】前衛で大暴れして攻める、令嬢剣士。自分の周りに、味方を回復するフィールドを作り出し、自ら前線を支え導く姿も、名家を背負う者のあるべき姿。=【物理】位於前衛，能大鬧攻擊，是一名千金小姐劍士。\n能夠在自身周遭創造出能使夥伴恢復的領域。而挺身佇立前線的無畏身影，更不負身為名家之名。
 
 ===Profile
-慈善事業=Charitable Business Ventures
+慈善事業=慈善事業
 
 ===Skills
 ノーブルアサルト=Noble Assault

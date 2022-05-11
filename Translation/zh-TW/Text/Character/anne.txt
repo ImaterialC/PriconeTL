@@ -1,5 +1,5 @@
-ン=Anne
-読書=Reading
+ン=安
+読書=讀書
 アンの魔導書=Grimoire Ann
 ===Bio
 【魔法】後衛で、英霊の召喚術を武器に戦うお姫様。味方に英霊の加護を付与するスキルによるサポーターと、高威力の魔法によるアタッカーの二つの役割を併せ持つ。=[Magic] Manaria’s genius princess. She summons spirits from the backline to provide blessings to her allies and deal devastating damage to her enemies.
