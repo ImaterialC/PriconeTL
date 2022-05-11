@@ -33,7 +33,7 @@ r:"^第(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"=
 キャラクター=Character
 絆ランクUPで\n新しい物語が\n追加されます=Increasing Bond Level will add new stories.
 
-現在公開されているストーリーはここまでです。=No further story is currenly available
+現在公開されているストーリーはここまでです。=目前公開之最新劇情到此為止。
 
 
 ===Bond Rank Story==
@@ -53,17 +53,17 @@ r:"^第(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"=
 主を慕う、小さなガイド役=A little guide who takes care of her lord
 
 ===Bond Stuff===
-絆ランク=Bond
-r:"^第(\d+)話$"=Episode $1
+絆ランク=羈絆Rank
+r:"^第(\d+)話$"=第$1話
 キャラストーリー=Character Story
-ステータスアップボーナス=Stats Boost Bonus
+ステータスアップボーナス=額外的狀態提升
 絆ランクアップ=Bond Rank Up
 ステータスアップ対象キャラクター=Target Characters
 該当キャラのストーリー初回閲覧で、\nステータスアップボーナスを獲得できます。=Get stat boost bonuses for characters\nby viewing their story for the first time.
-r:"^第(\d+)話ステータスアップボーナス$"=Episode $1 Stats Boost Bonus
+r:"^第(\d+)話ステータスアップボーナス$"=第$1話能力提升獎勵
 ===Chara story===
 
-r:"^(\d+) 第(\d+)話$"=$1 Episode $2
+r:"^(\d+) 第(\d+)話$"=$1 第$2話
 連続で閲覧できるストーリーがあります。=There is next story that can be viewed.
 連続ストーリー閲覧確認=Confirmation of Maraton Story Viewing
 

@@ -80,8 +80,8 @@ r:"^プレイヤーLv:([0-9～ ]+)$"=Player Lv: $1
 
 設定しているパーティはありません。=No party is set up.
 自分の設定したパーティと対戦できます=You can play against your own party
-残りHP=HP Left
-残りHP合計=HP Left T.
+残りＨＰ=ＨＰ Left
+残りＨＰ合計=ＨＰ Left T.
 
 
 

@@ -1,7 +1,7 @@
 クストラキャラ= Character
 エ=Extra
 
-説明=Desc
+説明=説明
 セットする=Set
 アイテム交換=Item Exchange
 アイテムを集めてキャラを解放=Collect items to free your character.

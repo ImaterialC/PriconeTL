@@ -1,7 +1,7 @@
 リサ=Arisa
 クインティタニアス=Quintitanius
 ===Bio
-【物理】後衛の、長期戦に優れた、森の守護者見習い。ＴＰ回復によるユニオンバーストの速攻が可能。さらに使用後はスキル効果が上昇するため高い殲滅力を誇る。=[Physical] An aspiring forest guardian who excels at drawn-out battles from the RG. Her rapid TP recovery allows constant firing of her UB, boosting her power every use.
+【物理】後衛の、長期戦に優れた、森の守護者見習い。ＴＰ回復によるユニオンバーストの速攻が可能。さらに使用後はスキル効果が上昇するため高い殲滅力を誇る。=[Physical] An aspiring forest guardian who excels at drawn-out battles from the RG. Her rapid ＴＰ recovery allows constant firing of her UB, boosting her power every use.
 
 ===Profile
 キレイな葉っぱを集めること=Collecting Beautiful Leaves
@@ -26,8 +26,8 @@ r:"^敵単体に(\d+)の物理ダメージ\n敵単体の行動速度を一定時
 ===Skill 1 
 
 ===Skill 2
-r:"^自分のＴＰを(\d+)回復\nユニオンバースト使用後、自分のＴＰを(\d+)回復$"=Recovers own TP by $1. \nAfter using UB, recovers own TP by $2.
-自分のＴＰを中回復する。既にユニオンバーストを使用していた場合、回復量が増加する。=Recovers own TP by a moderate amount. This amount increases when a UB has been used.
+r:"^自分のＴＰを(\d+)回復\nユニオンバースト使用後、自分のＴＰを(\d+)回復$"=Recovers own ＴＰ by $1. \nAfter using UB, recovers own ＴＰ by $2.
+自分のＴＰを中回復する。既にユニオンバーストを使用していた場合、回復量が増加する。=Recovers own ＴＰ by a moderate amount. This amount increases when a UB has been used.
 
 ===Story
 

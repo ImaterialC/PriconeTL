@@ -19,7 +19,7 @@
 [FFFFFF]討伐証交換の報酬ラインナップを5回リセットしよう[-]=[FFFFFF]Reset the reward lineup of subjugation exchange 5 Time[-]
 
 sr:"^(\[[0-9A-F]{6}\])スペシャルバトルのMODE([1-9])をクリアしよう\[-\]$"="$1Clear Special Boss Battle MODE $2[-]"
-sr:"^(\[[0-9A-F]{6}\])スペシャルバトルのボスのHPを(\d+)まで減らそう\[-\]$"="$1Damage Special Boss's $2 HP[-]"
+sr:"^(\[[0-9A-F]{6}\])スペシャルバトルのボスのＨＰを(\d+)まで減らそう\[-\]$"="$1Damage Special Boss's $2 ＨＰ[-]"
 sr:"^(\[[0-9A-F]{6}\])(.+)に1回挑戦しよう（全難易度共通） \[-\]$"="$1Battle $2 1 time (Any Difficulty)[-]"
 sr:"^(\[[0-9A-F]{6}\])(.+)を(\d+)体倒そう \(全難易度共通\)\[-\]$"="$1Defeat $2 $3 times (Any Difficulty)[-]"
 

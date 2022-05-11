@@ -8,7 +8,7 @@
 マナ=瑪娜
 ルピ=盧幣
 ジュエル=寶石
-プレイヤー経験値=玩家經驗值
+プレイヤー経験値=玩家經驗値
 ランダム装備BOX=Random Equipment BOX
 みんなでお花見=Everyone cherry blossom viewing
 

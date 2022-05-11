@@ -1,14 +1,14 @@
-ヒューマン、エルフ=Humanfolk, Elvenfol
--月-日=n/a
--型=n/a
-切磋琢磨=Working Hard
-【物理】中衛で背を預けあう最高の好敵手で親友の二人。味方の物理攻撃をサポートしつつＨＰとＴＰを継続回復しＨＰが多いほど威力が増すＵＢで、共に勝利の道を征く。=[Physics]The best friend-rival who keep their backs in the MG. Buffing the P.ATK of allies, give HP and TP regen, and the more HP there is, the more powerful the UB.
-メルクリウス財団、サレンディア救護院=Mercurius Foundation, Sarendia Orphan
-ノーブルブレイズ=Noble Blaze
+ヒューマン、エルフ=人族、精靈族
+【物理】中衛で背を預けあう最高の好敵手で親友の二人。味方の物理攻撃をサポートしつつＨＰとＴＰを継続回復しＨＰが多いほど威力が増すＵＢで、共に勝利の道を征く。=【物理】位於中衛，既是最好的敵人也是最好的朋友，相互分享彼此背影的兩人。支援我方的物理攻撃，同時不斷回復ＨＰ與ＴＰ，使用ＨＰ越多威力就越大的必殺技，一起征服勝利之路。
+两个最好的敌人和最好的朋友，他们分享彼此的背影。 他们支持盟友的物理攻击，同时不断恢复ＨＰ和ＴＰ，他们的ＨＰ越多，他们就越强大。 他们一起征服了优步的胜利之路。
+メルクリウス財団、サレンディア救護院=墨丘利財團、咲戀育幼院
+===UB
+ノーブルブレイズ=高貴烈焰
+目の前の敵１キャラに物理特大ダメージを与える。自分の残りＨＰが高い程、このダメージがアップする。さらにその敵を中心として物理ダメージフィールドを展開する。=對面前的１名敵人造成特大幅度的物理傷害。提升傷害的效果値，依照剩餘的ＨＰ多寡而有所增加。並以該敵人為中心，展開造成物理傷害的領域。
+r:"^敵単体に(\d+)の物理ダメージ\n毎秒(\d+)の物理ダメージを与えるフィールドを展開する$"=對敵方單體造成$1的物理傷害\n展開毎秒能夠造成$2物理傷害的領域
 
-目の前の敵１キャラに物理特大ダメージを与える。自分の残りＨＰが高い程、このダメージがアップする。さらにその敵を中心として物理ダメージフィールドを展開する。=Deals massive P.DMG to an enemy directly in front. The higher the remaining HP, the higher this damage. In addition, it develops P.DMG fields around the enemies.
-ノーブルブレイズ=Noble blaze
+===Skill 1
+ファイアエンハンスメント=
 
 
-
-Inflicts extraordinary physical damage on one enemy character in front of you. The higher your remaining HP, the higher this damage. Furthermore, the physical damage field is expanded around the enemy.
+Inflicts extraordinary physical damage on one enemy character in front of you. The higher your remaining ＨＰ, the higher this damage. Furthermore, the physical damage field is expanded around the enemy.

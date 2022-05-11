@@ -1,6 +1,6 @@
-アイテム=Items
-設定=Setting
-ニュー=Menu
+アイテム=道具
+設定=設定
+ニュー=目錄
 メ=
 タイトルへ戻る=Return to Title
 SDカード保存設定=Transfer data to SD
@@ -14,7 +14,7 @@ SDカード保存設定=Transfer data to SD
 フレンド=Friend
 アルバム=Album
 ジュエル\nショップ=Jewel Shop
-プロフィール=Profile
+プロフィール=個人頁面
 思い出\nアルバム=Memories\nAlbum
 絆の記憶=Bonds Memories
 

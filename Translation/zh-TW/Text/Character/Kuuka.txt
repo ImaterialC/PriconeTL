@@ -22,19 +22,19 @@
 妄想プロテクション=Sheltered by Fantasy
 
 ===UB *6
-r:"^(\d+)ダメージ分の魔法吸収バリアを展開する\n自分のＨＰを(\d+)回復\n自分が受ける魔法ダメージを25％カット$"=Deploys barrier that absorbs $1 M.DMG.\nRecovers own HP by $2. M.DMG cut to own by 25％.
+r:"^(\d+)ダメージ分の魔法吸収バリアを展開する\n自分のＨＰを(\d+)回復\n自分が受ける魔法ダメージを25％カット$"=Deploys barrier that absorbs $1 M.DMG.\nRecovers own ＨＰ by $2. M.DMG cut to own by 25％.
 
-自分に魔法吸収バリアを展開し、ＨＰを中回復する。さらに自分に魔法ダメージカット効果を付与する。=Set a barrier around oneself that absorb M.DMG, and recovers own HP by a moderate amount, and grant m. damage cut to own.
+自分に魔法吸収バリアを展開し、ＨＰを中回復する。さらに自分に魔法ダメージカット効果を付与する。=Set a barrier around oneself that absorb M.DMG, and recovers own ＨＰ by a moderate amount, and grant m. damage cut to own.
 
 ===UB
-r:"^(\d+)ダメージ分の魔法吸収バリアを展開する\n自分のＨＰを(\d+)回復$"=Deploys barrier that absorbs $1 M.DMG.\nRecovers own HP by $2.
+r:"^(\d+)ダメージ分の魔法吸収バリアを展開する\n自分のＨＰを(\d+)回復$"=Deploys barrier that absorbs $1 M.DMG.\nRecovers own ＨＰ by $2.
 
-自分に魔法吸収バリアを展開し、さらにＨＰを中回復する。=Deploy a barrier around oneself that absorb M.DMG, and recovers own HP by a moderate amount.
+自分に魔法吸収バリアを展開し、さらにＨＰを中回復する。=Deploy a barrier around oneself that absorb M.DMG, and recovers own ＨＰ by a moderate amount.
 
 ===Skill 1+
-r:"^敵全体を挑発する\n自分の物理防御力を(\d+)アップ\n自分のＨＰを(\d+)回復$"=Provokes all enemies for 16.6-17.1s.\nBoosts own P.DEF by $1.\nRecovers own HP by $2.
+r:"^敵全体を挑発する\n自分の物理防御力を(\d+)アップ\n自分のＨＰを(\d+)回復$"=Provokes all enemies for 16.6-17.1s.\nBoosts own P.DEF by $1.\nRecovers own ＨＰ by $2.
 
-【挑発】敵全体を挑発し、自分の物理防御力を大アップさせる。さらに自分のＨＰを中回復させる。=[Taunt] Taunt all enemies.\nLarge boost to own P.DEF, and recovers own HP by moderate amount.
+【挑発】敵全体を挑発し、自分の物理防御力を大アップさせる。さらに自分のＨＰを中回復させる。=[Taunt] Taunt all enemies.\nLarge boost to own P.DEF, and recovers own ＨＰ by moderate amount.
 
 ===Skill 2
 r:"^自分の魔法防御力を(\d+)アップ"=Boost own magic defense by $1.

@@ -76,7 +76,7 @@ sr:"^あと(\d+)時間(\d+)分は選択できません。$"=Cannot select for $1
 
 r:"^([1-9/]{3})階$"=Floor $1
 ===Boss Name
-最大HP=Max HP
+最大ＨＰ=Max ＨＰ
 モンスター詳細一覧=Monster Details List
 ゴブリンロード＆ゴブミニオン=Goblin Lord & Goblin Minion
 ゴブリンメイスター=Goblin Meister

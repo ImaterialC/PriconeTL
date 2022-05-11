@@ -14,24 +14,24 @@ RANK{{B}}/Lv{{A}}/装備強化MAX/RANKボーナスを含むステータスです
 所持スキル=持有技能
 イベント限定キャラをGET！=活動限定角色GET！
 ===Stat===
-HP吸収=HP吸收
-HP自動回復=HP自動回復
-TP上昇=TP上升
-TP自動回復=TP自動回復
-TP消費軽減=TP消費減輕
-物理攻撃力=物理攻擊力
+ＨＰ吸収=ＨＰ吸收
+ＨＰ自動回復=ＨＰ自動回復
+ＴＰ上昇=ＴＰ上升
+ＴＰ自動回復=ＴＰ自動回復
+ＴＰ消費軽減=ＴＰ消費減輕
+物理攻撃力=物理攻撃力
 物理防御力=物理防禦力
-物理クリティカル=物理爆擊
-魔法攻撃力=魔法攻擊力
+物理クリティカル=物理爆撃
+魔法攻撃力=魔法攻撃力
 魔法防御力=魔法防禦力
-魔法クリティカル=魔法爆擊
+魔法クリティカル=魔法爆撃
 回復量上昇=回復量上升
 命中=命中
 回避=迴避
 強化スキル=強化技能
 戦力=戰力
 
-現在のHP=Boss HP
+現在のＨＰ=Boss ＨＰ
 あなたのターンです。=Your turn.
 
 バージョンエラー=Version error
@@ -51,23 +51,23 @@ r:"^物理防御力アップ\+(\d+)$"="Physical defense up +$1"
 r:"^物理防御力ダウン\+(\d+)$"="Physical Defense Down +$1"
 r:"^物理ダメージ\+(\d+)$"="Physical damage +$1"
 
-r:"^HP自動回復＋(\d+)$"="HP Regen +$1"
-r:"^HP吸収＋(\d+)$"="HP Drain +$1"
-r:"^ＨＰ回復量\+(\d+)$"="HP Recovery Amount +$1"
-r:"^TP自動回復＋(\d+)$"="TP Regen +$1"
-r:"^ＴＰ回復量\+(\d+)$"="TP Recovery Amount +$1"
+r:"^ＨＰ自動回復＋(\d+)$"="ＨＰ Regen +$1"
+r:"^ＨＰ吸収＋(\d+)$"="ＨＰ Drain +$1"
+r:"^ＨＰ回復量\+(\d+)$"="ＨＰ Recovery Amount +$1"
+r:"^ＴＰ自動回復＋(\d+)$"="ＴＰ Regen +$1"
+r:"^ＴＰ回復量\+(\d+)$"="ＴＰ Recovery Amount +$1"
 r:"^回復量\+(\d+)$"="Recovery Amount +$1"
 r:"^回復量上昇＋(\d+)$"="Recovery Amount Increase +$1"
 
 r:"^回避＋(\d+)$"="Dodge +$1"
 r:"^命中＋(\d+)$"="Accuracy +$1"
-r:"^ＴＰダメージ\+(\d+)$"="TP Damage +$1"
+r:"^ＴＰダメージ\+(\d+)$"="ＴＰ Damage +$1"
 
 r:"^反撃時の物理ダメージ\+(\d+)$"="P.DMG during Counterattack +$1"
 r:"^１秒当たりのダメージ量\+(\d+)$"="Damage per Second +$1"
-r:"^１秒当たりのＨＰ回復量\+(\d+)$"="HP Recovery per Second +$1"
+r:"^１秒当たりのＨＰ回復量\+(\d+)$"="ＨＰ Recovery per Second +$1"
 r:"^無効ダメージ量\+(\d+)$"="Null damage amount +$1"
-r:"^最大ＨＰアップ\+(\d+)$"="Max HP up +$1"
+r:"^最大ＨＰアップ\+(\d+)$"="Max ＨＰ up +$1"
 r:"^吸収ダメージ量\+(\d+)$"="Absorp Damage +$1"
 r:"^継続時間\+([0-9\.]+)秒$"="Duration +$1"
 r:"^無敵時間\+([0-9\.]+)秒$"="Invincible Time +$1"
@@ -91,13 +91,13 @@ r:"^\[FF7C4E,D62146\]装備必要キャラLv：(\d+)\[-\]$"="[FF7C4E,D62146]LV R
 r:"^強化Lv上限  (\d+)$"="Max Lv $1"
 r:"^上限Lv(\d+)$"="Lv. $1"
 ===Status UP Equip===
-r:"^HP吸収＋(\d+)$"="HP Drain +$1"
-r:"^HP自動回復＋(\d+)$"="HP Regen +$1"
+r:"^ＨＰ吸収＋(\d+)$"="ＨＰ Drain +$1"
+r:"^ＨＰ自動回復＋(\d+)$"="ＨＰ Regen +$1"
 r:"^回復量上昇＋(\d+)$"="Heal Bonus +$1"
 
-r:"^TP上昇＋(\d+)$"="TP Boost +$1"
-r:"^TP自動回復＋(\d+)$"="TP Regen +$1"
-r:"^TP消費軽減＋(\d+)$"="TP Retain +$1"
+r:"^ＴＰ上昇＋(\d+)$"="ＴＰ Boost +$1"
+r:"^ＴＰ自動回復＋(\d+)$"="ＴＰ Regen +$1"
+r:"^ＴＰ消費軽減＋(\d+)$"="ＴＰ Retain +$1"
 
 r:"^物理攻撃力＋(\d+)$"="Physical ATK +$1"
 r:"^物理防御力＋(\d+)$"="Physical DEF +$1"

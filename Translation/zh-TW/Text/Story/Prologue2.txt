@@ -20,6 +20,6 @@
 {{A}}お任せくださいませ。=Please leave {{A}}.
 {{A}}攻撃をしたり受けたりしているうちに、=While you are attacking and receiving {{A}}
 {{A}}\n青いゲージで示されている={{A}} indicated by the blue gauge
-{{A}}「TP」が溜まります。={{A}} "TP" accumulates.
+{{A}}「ＴＰ」が溜まります。={{A}} "ＴＰ" accumulates.
 {{A}}強力な「ユニオンバースト」を使えます。={{A}} You can use strong "Union Burst".
 {{A}}ご指示をお願いいたします。={{A}} Please give me a instruction.

@@ -2,7 +2,7 @@ CharaCustom/CustomControl/CanvasDraw=ChangeFontSizeByPercentage(0.5)
 キノ=秋乃
 紅輝石ウィスタリア=紫藤紅輝石
 ===Bio
-【物理】前衛で大暴れして攻める、令嬢剣士。自分の周りに、味方を回復するフィールドを作り出し、自ら前線を支え導く姿も、名家を背負う者のあるべき姿。=【物理】位於前衛，能大鬧攻擊，是一名千金小姐劍士。\n能夠在自身周遭創造出能使夥伴恢復的領域。而挺身佇立前線的無畏身影，更不負身為名家之名。
+【物理】前衛で大暴れして攻める、令嬢剣士。自分の周りに、味方を回復するフィールドを作り出し、自ら前線を支え導く姿も、名家を背負う者のあるべき姿。=【物理】位於前衛，能大鬧攻撃，是一名千金小姐劍士。\n能夠在自身周遭創造出能使夥伴恢復的領域。而挺身佇立前線的無畏身影，更不負身為名家之名。
 
 ===Profile
 慈善事業=慈善事業
@@ -21,14 +21,14 @@ r:"^敵単体に(\d+)の物理ダメージ\n毎秒(\d+)の物理ダメージを�
 ===UB (Need Non-6*)
 
 ===Skill 1 (with UE)
-目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を中アップ、ＴＰ上昇を小アップさせ挑発する。笑っている間に攻撃されると、前方範囲内の敵に反撃する。=Deals moderate P.DMG to an enemy directly in front. Small boost to own P.ATK and TP Boost. Taunts the enemy. If attacked while laughing, counterattack on enemies in range.
+目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を中アップ、ＴＰ上昇を小アップさせ挑発する。笑っている間に攻撃されると、前方範囲内の敵に反撃する。=Deals moderate P.DMG to an enemy directly in front. Small boost to own P.ATK and ＴＰ Boost. Taunts the enemy. If attacked while laughing, counterattack on enemies in range.
 
-r:"^敵単体に(\d+)の物理ダメージ\n範囲内の敵に(\d+)の物理ダメージ\n自分の物理攻撃力を(\d+)アップ\n自分のＴＰ上昇を(\d+)アップ$"=Provokes all enemies for 5s\nDeals $1 P.DMG to an enemy.\nDeals $2 P.DMG to all enemies within 320 range.\nBoosts own P.ATK by $3 for 12s.\nBoosts own TP Boost by $4 for 12s.
+r:"^敵単体に(\d+)の物理ダメージ\n範囲内の敵に(\d+)の物理ダメージ\n自分の物理攻撃力を(\d+)アップ\n自分のＴＰ上昇を(\d+)アップ$"=Provokes all enemies for 5s\nDeals $1 P.DMG to an enemy.\nDeals $2 P.DMG to all enemies within 320 range.\nBoosts own P.ATK by $3 for 12s.\nBoosts own ＴＰ Boost by $4 for 12s.
 ===Skill 1 (no UE) (Need Non-UE)
 
 ===Skill 2
-自分の周囲に、範囲内の味方すべてを小回復するフィールドを展開する。=Deploys a Field that recovers HP of all nearby allies by a small amount.
-r:"^毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Deploys a 150 radius field that recovers HP of all allies in it by $1 every second for 8s.
+自分の周囲に、範囲内の味方すべてを小回復するフィールドを展開する。=Deploys a Field that recovers ＨＰ of all nearby allies by a small amount.
+r:"^毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Deploys a 150 radius field that recovers ＨＰ of all allies in it by $1 every second for 8s.
 
 r:"^自分の物理攻撃力を(\d+)アップ\n自分の物理防御力を(\d+)アップ$"=Boosts own P.ATK by $1.\nBoosts own P.DEF by $2.
-バトル開始時に自分の物理攻撃力を中アップさせ、さらに自分の物理防御力を小アップさせる。=戰鬥開始時，中幅度提升自己的物理攻擊力，並小幅度提升自己的物理防禦力。
+バトル開始時に自分の物理攻撃力を中アップさせ、さらに自分の物理防御力を小アップさせる。=戰鬥開始時，中幅度提升自己的物理攻撃力，並小幅度提升自己的物理防禦力。

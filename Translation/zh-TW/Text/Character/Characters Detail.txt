@@ -22,9 +22,9 @@ O型=O型
 
 現在のランク以降に必要な装備の確認ができます。=You can check the necessary equipment after the current rank.
 現在より高いRANKで必要な装備の確認ができます。=View equipment required for future ranks.
-r:"^絆ランク演出(\d+)$"=Bond Level $1
-r:"^解放演出(\d+)$"=Unlock Animation $1
-r:"^★(\d)才能開花演出$"=★$1 Ascension
+r:"^絆ランク演出(\d+)$"=羈絆Rank表演$1
+r:"^解放演出(\d+)$"=解放表演$1
+r:"^★(\d)才能開花演出$"=★$1才能開花表演
 [FF7C4E,D62146]絆ランクを上げると閲覧できる演出が追加されます[-]=[FF7C4E,D62146]Raise the bond rank and to unlock.[-]
 
 オ=Io

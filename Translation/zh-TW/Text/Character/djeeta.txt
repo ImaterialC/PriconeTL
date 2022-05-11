@@ -14,8 +14,8 @@
 ===Same with pecorine===r:"^敵単体に(\d+)の物理ダメージ$"=Deals $1 physical damage to an enemy.
 //S2
 ======ウェポンバースト=Weapon Burst
-自分のＴＰを中回復する。=Recovers own TP by a moderate amount.
-r:"^自分のＴＰを(\d+)回復$"=Recovers own TP by $1.
+自分のＴＰを中回復する。=Recovers own ＴＰ by a moderate amount.
+r:"^自分のＴＰを(\d+)回復$"=Recovers own ＴＰ by $1.
 //ex
 竜巻の攻刃=Tornado Blade
 バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
@@ -30,15 +30,15 @@ r:"^敵単体に(\d+)の物理ダメージ\n自分の物理攻撃力を(\d+)ア�
 //S1
 =============ワイドブレード+=Wild Blade+
 
-目の前の敵１キャラに物理特大ダメージを与える。さらに、自分のＴＰを中回復し、自分以外の味方全てのＴＰを小回復させる。=Deals large physical damage to an enemy directly in front. Recovers own TP by a moderate amount, and all other allies' TP by a small amount.
-r:"^敵単体に(\d+)の物理ダメージ\n自分のＴＰを200回復\n自分以外の味方全員のＴＰを100回復$"=Deals $1 physical damage to an enemy.\nRecovers own TP by 200.\nRecovers all other allies' TP by 100.
+目の前の敵１キャラに物理特大ダメージを与える。さらに、自分のＴＰを中回復し、自分以外の味方全てのＴＰを小回復させる。=Deals large physical damage to an enemy directly in front. Recovers own ＴＰ by a moderate amount, and all other allies' ＴＰ by a small amount.
+r:"^敵単体に(\d+)の物理ダメージ\n自分のＴＰを200回復\n自分以外の味方全員のＴＰを100回復$"=Deals $1 physical damage to an enemy.\nRecovers own ＴＰ by 200.\nRecovers all other allies' ＴＰ by 100.
 //S2
-目の前の敵１キャラに物理大ダメージを与え、さらに自分のＴＰを大回復する。=Deals large P.DMG to an enemy directly in front, and recovers own TP by a large amount.
-r:"^敵単体に(\d+)の物理ダメージ\n自分のＴＰを(\d+)回復$"=Deals $1 physical damage to an enemy.\nRecovers own TP by $2.
+目の前の敵１キャラに物理大ダメージを与え、さらに自分のＴＰを大回復する。=Deals large P.DMG to an enemy directly in front, and recovers own ＴＰ by a large amount.
+r:"^敵単体に(\d+)の物理ダメージ\n自分のＴＰを(\d+)回復$"=Deals $1 physical damage to an enemy.\nRecovers own ＴＰ by $2.
 //ex
 竜巻の攻刃+=Tornado Blade+
 剣聖の賦性=Sword Saint
-===Same with Christine===バトル開始時に自分の物理攻撃力を大アップさせる。=戰鬥開始時，大幅度提升自己的物理攻擊力。
+===Same with Christine===バトル開始時に自分の物理攻撃力を大アップさせる。=戰鬥開始時，大幅度提升自己的物理攻撃力。
 ===Same with Christine===r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
 //UE
 アシュケロン=Aschallon

@@ -1,7 +1,7 @@
 リスティーナ=Christina
 強敵との闘争=Fighting strong opponents
 傍若無人な王宮騎士団副団長=The audacius vice-Captain of Nightmare
-【物理】前衛で、絶対的な制圧力を誇る『誓約女君』。攻防一体かつ超大な破壊力を誇るユニオンバーストと、その発動を加速するＴＰ上昇アップスキルを併せ持つ。=[Physical]The peerless Regina Geas who exerts herdominance from the FL. Her destructive UB annihilates foes while also protecting her from harm, and thanks to TP-boosting skill, she uses it with alarming frequency.
+【物理】前衛で、絶対的な制圧力を誇る『誓約女君』。攻防一体かつ超大な破壊力を誇るユニオンバーストと、その発動を加速するＴＰ上昇アップスキルを併せ持つ。=[Physical]The peerless Regina Geas who exerts herdominance from the FL. Her destructive UB annihilates foes while also protecting her from harm, and thanks to ＴＰ-boosting skill, she uses it with alarming frequency.
 聖域剣アヴァロン=Sacred Sword Avalon
 ===Story
 『七冠』の余暇は３０分="Seven Crowns" leisure for 30 minutes
@@ -20,9 +20,9 @@ r:"^敵単体に(\d+)の物理ダメージ\n一定時間全ての物理攻撃を
 目の前の敵１キャラに物理大ダメージを与え、さらに自分は一定時間全ての物理攻撃を回避する。この攻撃は必ず命中し、クリティカルする。=Deals large P.DMG to an enemy directly in front and dodges all P.ATKs for set period of time. This attack never misses and is always a critical hit.
 
 ===Skill 1+
-r:"^自分の物理攻撃力を(\d+)アップ\n自分のＴＰ上昇を(\d+)アップ\n自分のＴＰを(\d+)回復\n自分の物理攻撃クリティカル時のダメージを10％アップ$"=Boosts own P.ATK by $1.\nBoosts own TP Boost by $2 for 15s.\nRecover own TP by $3.\nBoosts own physical crit damage by 10% for 180s.
+r:"^自分の物理攻撃力を(\d+)アップ\n自分のＴＰ上昇を(\d+)アップ\n自分のＴＰを(\d+)回復\n自分の物理攻撃クリティカル時のダメージを10％アップ$"=Boosts own P.ATK by $1.\nBoosts own ＴＰ Boost by $2 for 15s.\nRecover own ＴＰ by $3.\nBoosts own physical crit damage by 10% for 180s.
 
-自分の物理攻撃力を特大アップさせ、ＴＰ上昇を中アップさせ、ＴＰを中回復し、さらに物理攻撃クリティカル時のダメージを小アップさせる。=Large boost to own P.ATK. Moderate boost to own TP Boost. Recover own TP by a large amount and small boost to own physical critical damage.
+自分の物理攻撃力を特大アップさせ、ＴＰ上昇を中アップさせ、ＴＰを中回復し、さらに物理攻撃クリティカル時のダメージを小アップさせる。=Large boost to own P.ATK. Moderate boost to own ＴＰ Boost. Recover own ＴＰ by a large amount and small boost to own physical critical damage.
 
 ===Skill 2
 r:"^敵単体に(\d+)の物理ダメージ\n敵単体の物理防御力を(\d+)ダウン$"=Deals $1 P.DMG to an enemy.\nLowers an enemy's P.DEF by $2 for 12s.
@@ -30,4 +30,4 @@ r:"^敵単体に(\d+)の物理ダメージ\n敵単体の物理防御力を(\d+)�
 
 ===EX+
 r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own P.ATK by $1.
-バトル開始時に自分の物理攻撃力を大アップさせる。=戰鬥開始時，大幅度提升自己的物理攻擊力。
+バトル開始時に自分の物理攻撃力を大アップさせる。=戰鬥開始時，大幅度提升自己的物理攻撃力。

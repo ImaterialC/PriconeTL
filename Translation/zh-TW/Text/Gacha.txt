@@ -91,7 +91,7 @@ sr:"^(\[[0-9a-fA-F,]{6,13}\])新キャラ「([べ-・ー＆]{2,11})(\（.{3,10}\
 {{A}}限定キャラ復刻！出現率が期間中UP！\n『{{B}}回引く』で{{C}}等以上{{D}}個確定！[-]={{A}}Limited Character Replay! Appearance rate will increase during the period! "Draw 10 times" will guarantee 1 time 5th prize or higher[-]
 
 [FFBB00,CE4F00]プラチナガチャはキャラのみ出現！[-]=[FFBB00,CE4F00]Platinum Gacha only appears for characters![-].
-キャラ交換Ptの説明=Character exchange Pt description
+キャラ交換Ptの説明=角色交換Pt的説明
 {{A}}有効期間:{{B}}{{I}}/{{H}}/{{F}} {{F}}:{{C}} ～ {{H}}/{{E}} {{G}}:{{D}}[-]={{A}}Period: {{B}}{{I}}/{{H}}/{{F}} {{F}}:{{C}} to {{H}}/{{E}} {{G}}:{{D}} (JST)[-]
 {{A}}有効期間:{{B}}{{J}}/{{I}}/{{F}} {{G}}:{{C}} ～ {{I}}/{{E}} {{H}}:{{D}}[-]={{A}}Period: {{B}}{{J}}/{{I}}/{{F}} {{G}}:{{C}} to {{I}}/{{E}} {{H}}:{{D}} (JST)[-]
 {{A}}有効期間:{{B}}{{K}}/{{I}}/{{E}} {{G}}:{{C}} ～ {{H}}/{{J}} {{F}}:{{D}}[-]={{A}}Period:{{B}}{{K}}/{{I}}/{{E}} {{G}}:{{C}} to {{H}}/{{J}} {{F}}:{{D}} (JST)[-]
