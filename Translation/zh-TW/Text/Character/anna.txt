@@ -1,41 +1,41 @@
-ンナ=Anna
+ンナ=杏奈
 小説執筆=Writing Novels
 
 ===Bio
-【魔法】中衛から圧倒的な魔力で攻撃する、疾風の冥姫。ユニオンバーストで敵全体に大ダメージを与えるが、高すぎる魔力の為、自分自身にも相応のリスクが生じる。=[Magic] Hecate of the Gale goes by many names. Annerose von Stechpalme, The Walking Tornado, or Anna unleashes magic power from the MG. Her UB is powerful but risky.
+【魔法】中衛から圧倒的な魔力で攻撃する、疾風の冥姫。ユニオンバーストで敵全体に大ダメージを与えるが、高すぎる魔力の為、自分自身にも相応のリスクが生じる。=【魔法】可從中衛發動壓倒性的魔力來攻擊敵人，人稱之疾風之冥姬。\n施展必殺技能雖能給予敵軍全體大規模的傷害，\n然而卻因這份魔力過於強大，對自己也有相當的風險。
 
 ===Skills
-羅刹涅槃・極光終天冥壊破=Demonic Salvation: Apocalypse Dawn
-覇叉冥滅獄炎呪=Hellfire of the Dark Conqueror
-覇叉冥滅獄炎呪+=Hellfire of the Dark Conqueror+
+羅刹涅槃・極光終天冥壊破=羅剎涅槃・極光終天冥壞破	
+覇叉冥滅獄炎呪=霸叉冥滅獄炎咒
+覇叉冥滅獄炎呪+=霸叉冥滅獄炎咒+
 ===UB (6 star)
 
 ===UB (Non-6*)
-敵全体に魔法中ダメージを与えるが、使用後アンナの物理防御力と魔法防御力が特大ダウンする。=Deals moderate M.DMG to all enemies. Lowers own P.DEF and M.DEF by a massive amount after use.
+敵全体に魔法中ダメージを与えるが、使用後アンナの物理防御力と魔法防御力が特大ダウンする。=對全體敵人造成中幅度的魔法傷害，但使用此招後，杏奈的物理防禦力及魔法防禦力會極大幅降低。
 and M.DEF by a massive amount after use.
-r:"^敵全体に(\d+)の魔法ダメージ\n自分の物理防御力を0にする\n自分の魔法防御力を0にする$"=tes Deals $1 M.DMG to all enemies.\nLowers own P.DEF to 0. \nLowers own M.DEF to 0.
+r:"^敵全体に(\d+)の魔法ダメージ\n自分の物理防御力を0にする\n自分の魔法防御力を0にする$"=對敵方全體造成 $1 魔法傷害 \n將自身的物理防禦力降為0 \n將自身的魔法防禦力降為0
 ===Skill 1 (with UE) (Need UE)
-r:"^敵単体に(\d+)の魔法ダメージ\n敵単体の魔法防御力を(\d+)ダウン$"=Deals $1 M.DMG to an enemy.\n Lowers an enemiey's M.DEF by $2.
-目の前の敵１キャラに魔法中ダメージを与え、さらに魔法防御力を小ダウンさせる。=Deals moderate M.DMG to an enemy directly in front and lowers its M.DEF by small amount.
+r:"^敵単体に(\d+)の魔法ダメージ\n敵単体の魔法防御力を(\d+)ダウン$"=ˇ對敵方單體造成 $1 的魔法傷害\n 降低敵方單體 $2 的魔法防禦力.
+目の前の敵１キャラに魔法中ダメージを与え、さらに魔法防御力を小ダウンさせる。=對面前的 1 名敵人造成中幅度的魔法傷害，並小幅度降低其魔法防禦力。
 ===Skill 1 (no UE) 
-目の前の敵１キャラに魔法中ダメージを与える。=Deals moderate M.DMG to an enemy directly in front.
-r:"^敵単体に(\d+)の魔法ダメージ$"=Deals $1 M.DMG to an enemy.
+目の前の敵１キャラに魔法中ダメージを与える。=對面前的 1 名敵人造成中幅度的魔法傷害。
+r:"^敵単体に(\d+)の魔法ダメージ$"=對敵方單體造成 $1 的魔法傷害.
 ===Skill 2
 
-【自爆】アンナのＨＰが最大ＨＰの１０％以下になった時に発動し、周囲の敵すべてに魔法大ダメージを与えるが、自身は戦闘不能になる。=[Self Destruct] Activates when HP falls to 10% or below. Deals large M.DMG to all enemies in range but knocks herself out.
+【自爆】アンナのＨＰが最大ＨＰの１０％以下になった時に発動し、周囲の敵すべてに魔法大ダメージを与えるが、自身は戦闘不能になる。=【自爆】當杏奈的HP降於10%以下時便會發動，能對自己周圍的所有敵人造成大幅度的魔法傷害，但自己則無法繼續戰鬥。
 
-r:"^範囲内の敵に(\d+)の魔法ダメージ$"=Deals $1 M.DMG to enemies in range (600).\nApplies Invulnerability to Self for 1.9s.\nInflict Instant Death to Self.
+r:"^範囲内の敵に(\d+)の魔法ダメージ$"=對範圍內的敵人造成 $1 的魔法傷害.\n備註：此範圍為600，並且本技能施放經過1.9秒後\n自身會立刻死亡。
 ===Story
 前世を信じる中二病患者、「疾風の冥姫」=A delusional girl who believes she was a hero in a previous life, “Hecate of the Gale”
 
-邂逅、閃光のシグルド！=Sigurd! We Meet Again!
-盟友との共同戦線=Comrades on the Field of Battle
-喪った記憶の在処=In Search of Lost Memories
-異世界で出会う二人=Echoes of a Distant Realm
-魔狼のごとく駆け抜けろ！=Fly Like the Blazing Hellhound!
-なくした自分を取り戻せ！=In Search of Past Glory
-「組織」との対決=Rise of the Syndicate
-前世での関係=Bygone Relations
+邂逅、閃光のシグルド！=邂逅，閃光的吉格魯特！
+盟友との共同戦線=與盟友的共同戰線
+喪った記憶の在処=喪失記憶的所在之處
+異世界で出会う二人=在異世界相遇的兩人
+魔狼のごとく駆け抜けろ！=如魔狼一般奔馳吧！
+なくした自分を取り戻せ！=取回失去的自我！
+「組織」との対決=與「組織」的對決
+前世での関係=在前世的關係
 
 ===UE
-螺旋霊撃疾風飛剣=Vortex Thorn
+螺旋霊撃疾風飛剣=螺旋靈擊疾風飛劍

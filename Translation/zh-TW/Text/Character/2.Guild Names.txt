@@ -1,6 +1,6 @@
 トゥインクルウィッシュ=破曉之星
-美食殿=Gourmet Guild
-カルミナ=Carmina
+美食殿=美食殿堂
+カルミナ=慈樂之音
 ラビリンス=Labyrinth
 リトルリリカル=Little Lyrical
 フォレスティエ=Forestier
