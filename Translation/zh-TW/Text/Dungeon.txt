@@ -1,8 +1,8 @@
-ンジョン=ungeon
-ダ=D
-帰還する=Return
+ンジョン=下城
+ダ=地
+帰還する=返回
 現在の階数=Progress
-プレイヤー名=Player Name
+プレイヤー名=玩家名稱
 対戦相手=Opponent
 戦闘可能キャラ=Available Characters
 パック有効=Pack Validity

@@ -1,6 +1,6 @@
-ガ=G
-チャ=acha
-チャ結果=acha Results
+ガ=轉
+チャ=蛋
+チャ結果=蛋結果
 Sダッシュ=S:Dash
 プリフェス=PriFES
 プリフェスガチャ=PriFES Gacha
@@ -38,20 +38,20 @@ r:"^\[3C404E\]あと\[-\]\[FFBB00,CE4F00\]([\d]+)セット購入\[-\]\[3C404E\]�
 交換ラインナップ=Exchange Lineup
 所持キャラ交換Pt=Char. Exchange Pts
 所持数=Held
-有償=Paid
+有償=有償
 
-無償=Free
+無償=無償
 プライズ=Prize
-キャラ詳細=Characters Details
-有償ジュエルで！=Use Paid Jewels!
-毎日   時にリセット=Resets daily
+キャラ詳細=角色詳細資訊
+有償ジュエルで！=使用有償寶石！
+毎日   時にリセット=每日   點重置　　　
 
 
-r:"^ストーリー ([\d]+)話$"=Story Episode $1
+r:"^ストーリー ([\d]+)話$"=劇情 第$1話
 
-キャラ交換=Character Exchange
+キャラ交換=角色交換
 
-キャラ交換Ptを200Pt消費して、\n対象のラインナップから1キャラ仲間にできます。=You can use 200 Character Exchange Points to recruit one character from the lineup.
+キャラ交換Ptを200Pt消費して、\n対象のラインナップから1キャラ仲間にできます。=消耗角色交換Pt200Pt，\n能從目標清單中選1個角色成為夥伴。
 
 おまけ:=Bonus
 秘石交換=Trade for Amulets

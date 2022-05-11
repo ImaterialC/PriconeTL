@@ -1,5 +1,5 @@
-トーリー=tories
-ス=S
+トーリー=情
+ス=劇
 インストーリー= Stories
 追加ストーリー情報=Sub Story Information
 [3C404E]未読の[FFBB00,CE4F00]メインストーリー[-]があります。\nストーリーを読んで報酬を獲得しましょう。[-]=[3C404E]Unreaded [FFBB00,CE4F00]Main Story[-].\nRead the story and earn a reward.[-]

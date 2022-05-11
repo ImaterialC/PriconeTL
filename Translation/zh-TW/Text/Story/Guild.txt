@@ -1,8 +1,8 @@
 ====Guild Story====
-ルドストーリー=uild Story
-ギ=G
-ギルドメンバー=Guild member
-ギルド紹介=Guild info
-ギルドメンバー確認=Guild Member List
+ルドストーリー=會故事
+ギ=公
+ギルドメンバー=公會成員
+ギルド紹介=公會介紹
+ギルドメンバー確認=公會成員確認
 
 ===Bisokuden

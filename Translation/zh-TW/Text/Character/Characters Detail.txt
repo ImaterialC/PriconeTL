@@ -1,16 +1,16 @@
 ===char profile===
-ステータス=Status
-ランク詳細=Rank Details
-身長=Height
-体重=Weight
+ステータス=狀態
+ランク詳細=Rank 詳細資訊
+身長=身高
+体重=體重
 血液型=血型
-誕生日=Birthday
-種族=Race
-趣味=Hoby
-A型=Type A
-B型=Type B
-AB型=Type AB
-O型=Type O
+誕生日=生日
+種族=種族
+趣味=興趣
+A型=A型
+B型=B型
+AB型=AB型
+O型=O型
 お菓子作り=making sweets
 獣人族=獸人族
 魔族=魔族

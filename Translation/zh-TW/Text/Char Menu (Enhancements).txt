@@ -1,10 +1,10 @@
-専用装備=Unique
-才能開花=Ascension
-スキル強化=Skills
-Lv強化=Level Up
-装備=Equipment
-絆ストーリー=Story
-★変更=★Change
+専用装備=專用裝備
+才能開花=才能開花
+スキル強化=技能強化
+Lv強化=Lv 強化
+装備=裝備
+絆ストーリー=羈絆劇情
+★変更=★更改
 おまかせ強化=Optimize
 まとめて装備=Equip All
 装備する=Equip
