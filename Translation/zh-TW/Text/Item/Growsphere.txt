@@ -5,7 +5,7 @@
 各Lv=Into LV
 現在の無料分=Current free minutes
 使用する=Use
-閉じる=Close
+閉じる=關閉
 グロウスフィア一覧=Growsphere List
 強化内容に記載されているRANKになった時、装備はついていない状態になります。=It will not give any equips when it goes to maximum possible RANK.
 使用可能なグロウスフィアを所持していません。=Don't have any Growsphere.
