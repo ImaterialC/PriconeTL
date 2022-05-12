@@ -2,7 +2,7 @@
 ュエルショップ=ewel Shop
 　ジュエル・その他購入=Jewels/Other Purchases
 所持ジュエル確認=Check Jewels Held
-マナ購入=Mana Exchange
+マナ購入=瑪那購買
 所持マナ確認=Check Mana Held
 収納BOX拡張=Expand Storage
 スタミナ回復=Recharge Stamina

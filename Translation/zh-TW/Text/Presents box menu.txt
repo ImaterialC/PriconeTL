@@ -23,7 +23,7 @@ sr:"^(.{3,18})×(\d+)$"=$1 × $2
 期限あり=Limited Time
 期限なし=No Limit
 プレゼントの種類=Present Type
-メモリーピース=Memo Shards
+メモリーピース=記憶碎片
 コイン=Coins
 その他=Other
 
