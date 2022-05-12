@@ -1,13 +1,7 @@
 イテム一覧=道具一覽
-<<<<<<< HEAD
-ア= 
+ア=道
 売却=販賣
 売却マナ=販賣瑪那
-=======
-ア=道
-売却=Sell
-売却マナ=Mana Value
->>>>>>> f85214ee9b593475de6379b6024c65b4646d2bb7
 
 確認したいアイテムを選択してください=Select the item you want to see
 所持していません。=You don't have it.
