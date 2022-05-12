@@ -17,21 +17,21 @@ r:"^ボイスなし\n\(([.0-9]+) ([MG])B\)$"=Voice OFF\n($1 $2B)
 オートON=Auto-on
 
 このムービーをスキップしてもよろしいですか？=Are you sure you want to skip this movie?
-r:"^第(\d+)章 第(\d+)話が\n解放可能になりました。$"=Ch $1 Ep $2\nStory has release.
+r:"^第(\d+)章 第(\d+)話が\n解放可能になりました。$"=第$1章 第$2話已解放。
 r:"^第(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"=Arc $1 Ch $2 Ep $3\nStory has release.
 ===Story Menu==
 
-メイン=Main
-アストライア大陸を\n舞台にした物語を\n見ることができます=View stories set on the Continent of Astraea.
+メイン=主要
+アストライア大陸を\n舞台にした物語を\n見ることができます=可以在此處閱覽\n阿斯特賴亞大陸\n上的故事
 
-エクストラ=Extra
-ちょっと特別な\n物語を見ることが\nできます=View stories that are just a wee-bit special.
+エクストラ=額外
+ちょっと特別な\n物語を見ることが\nできます=可以回顧那些\n有點特別的故事
 
-ギルド=Guild
-女の子たちの日常を\n見ることができます=See snippets of daily life for the girls.
+ギルド=公會
+女の子たちの日常を\n見ることができます=在這裡可以看到\n女孩的日常故事
 
-キャラクター=Character
-絆ランクUPで\n新しい物語が\n追加されます=Increasing Bond Level will add new stories.
+キャラクター=角色
+絆ランクUPで\n新しい物語が\n追加されます=提升羈絆Rank後\n會追加新的故事
 
 現在公開されているストーリーはここまでです。=目前公開之最新劇情到此為止。
 

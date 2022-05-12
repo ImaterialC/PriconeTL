@@ -16,7 +16,7 @@
 ピュアメモリーピース=Pure Shards
 レア度=Rarity
 アイテム種類=Item Type
-チケット=Tickets
+チケット=券
 １クエストの使用チケット枚数=Tickets used per quest
 全クエスト=All Quests
 サイドスト…=Side-story

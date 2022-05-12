@@ -1,12 +1,12 @@
 エスト=險 
 ク=冒
-r:"^スタミナ回復まで残り ([0-9]{2}):([0-9]{2})$"=Stamina refill in $1m$2s
+r:"^スタミナ回復まで残り ([0-9]{2}):([0-9]{2})$"=距離體力恢復還剩下 $1:$2
 マップ=Map
-r:"^([0-9]+)枚$"=$1 Tixs
-r:"^([0-9]+)枚 使う$"=Use $1
+r:"^([0-9]+)枚$"=$1 張
+r:"^([0-9]+)枚 使う$"=使用 $1 張
 
-r:"^あと (\d+)"=remaining $1
-クリアパーティ一覧=Clear Party List
+r:"^あと (\d+)"=還需要$1
+クリアパーティ一覧=已通關隊伍一覽
 リセット=重置
 情報が更新されるまで、時間がかかる場合があります。=It may take some time until the information is updated.
 　現在、対象プレイヤーの情報がありません。=　Currently, there is no information on the target player.
@@ -17,7 +17,7 @@ r:"^\[3C404E\]現在、撃破数が(\d+)体に設定されています。\n設�
 スキップチケット枚数リセット確認=Skip Ticket Number Reset
 
 ====Menu===
-次へ=Next
+次へ=下一步
 勝利数=Win
 編成完了=Done
 
@@ -39,38 +39,38 @@ r:"^\[3C404E\]現在、撃破数が(\d+)体に設定されています。\n設�
 インクエスト=線任務
 メ=主
 同キャラ\n編成中=Already\nAssigned
-バトル開始=Begin Battle
-挑戦する=Start
-チケットを使って、ゲームをショートカット!=Use skip tickets to save time!
-クリアパーティ=Past Parties
-報酬=Reward
-モンスター=Monsters
-獲得アイテム=Items Earned
+バトル開始=戰鬥開始
+挑戦する=進行挑戰
+チケットを使って、ゲームをショートカット!=使用掃蕩券，來縮短遊戲！
+クリアパーティ=通關隊伍
+報酬=獎勵
+モンスター=怪物
+獲得アイテム=獲得道具
 フレンド以外のサポートキャラは、\nステータスが補正されている場合があります。=Rantal characters other than friends\nmay have their status corrected.
 設定できるサポートキャラがいません。=No rental character can be set.
 消費した{{B}}は{{A}}に変換されました。=The consumed stamina was converted to Master Coin.
 Lv上限に達した状態で消費した{{B}}は\n{{A}}に変換されます。=The consumed stamina was converted to Master Coin.
 プレイヤー経験値は最大に達しているので受け取れませんでした。=The Player EXP could not be received because You reached the max Level.
 経験値の最大値が更新されるまで表示しない=Do not display until the maximum\nvalue of the exp value is updated
-チケットで再戦=Use Skip Tix
+チケットで再戦=以掃蕩券再戰
 このキャラのユニオンバースト中は速度を変更できません=Speed cannot be changed during Union Burst of this character
 ===Posting===
 ※80文字以下=※ More than 80 characters
 バトルログをクランチャットに投稿しますか？=Do you want to post battle log to clan chat?
-投稿する=Post
-バトルログ投稿確認=Battle Log Post Confirmation
+投稿する=投稿
+バトルログ投稿確認=戰鬥履歷投稿確認
 ===Re enter===AB->Text color,C-> stamina,D number
-再戦する=Retry
+再戦する=再次挑戰
 
 r:"^\[3C404E\]スタミナを\[FFBB00,CE4F00\](\d)\[-\]消費して、同じパーティで\nもう一度クエストをプレイします。\[-\]$"=[3C404E]Use [FFBB00,CE4F00]$1[-] Staminas to play quest\none more time with same party.[-]
-
+===重新挑戰冒險無法正常套用
 r:"^\[3C404E\]ボスチケットを\[FFBB00,CE4F00\](\d)\[-\]枚消費して、同じパーティで\nもう一度クエストをプレイします。\[-\]$"=[3C404E]Use [FFBB00,CE4F00]$1[-] Boss Tickets to play quest\none more time with same party.[-]
-よろしいですか？=Is this OK?
-[3C404E]よろしいですか？[-]=[3C404E]Is this OK?[-]
+よろしいですか？=確定要進行嗎？
+[3C404E]よろしいですか？[-]=[3C404E]確定要進行嗎？[-]
 
-クエストリトライ=Retry Quest
+クエストリトライ=重新挑戰冒險
 ===Abort===
-リタイア=Quit
+リタイア=退出
 sr:"^\[3C404E\]リタイアするとクエスト報酬を獲得できず、\nスタミナが\[FFBB00,CE4F00\]([0-9])\[-\]消費されます。\n\nよろしいですか？\[-\]$"=[3C404E]You will not receive any rewards if you quit,\nand stamina is consumed [FFBB00,CE4F00]$1 [-].\n\nIs this OK?[-]
 
 ===Recharges stamina===

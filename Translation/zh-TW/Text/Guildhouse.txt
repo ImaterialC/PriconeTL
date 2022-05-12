@@ -78,7 +78,7 @@ Like情報=Like Info
 ギフト消費後の絆ランク=Bond Level After Gift
 消費ギフト=Consumed
 贈る=Give
-ストーリー解放=Story Unlock
+ストーリー解放=劇情解放
 
 絆ランク {{A}}=Bond\nRank {{A}}
 
@@ -115,7 +115,7 @@ Likeした人=Liked by You
 テーマ=Theme
 インテリア=Decor
 生活用品=Furniture
-戻る=Back
+戻る=返回
 ベッド=Beds
 収納=Storage
 椅子=Chairs

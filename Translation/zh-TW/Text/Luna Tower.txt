@@ -4,14 +4,14 @@
 {{A}}階 EX={{A}}F EX
 階=F
 回廊探索=Corridor
-パーティ=Party
-保存パーティ=Save Party
+パーティ=隊伍
+保存パーティ=儲存隊伍
 ルナの塔においてバトル速度の上限を設定できます。=You can set the upper limit\nof battle speed in the Luna Tower
 {{A}}この設定は後から［設定］で変更できます。[-]={{A}} This setting can be changed later in [Settings].[-]
 バトル速度の上限設定=Battle Speed Upper Limit Setting
-このパーティを保存しますか？=Do you want to save this party?
-対象タブ=Tab
-パーティ名=Party Name
+このパーティを保存しますか？=要儲存這個隊伍嗎？
+対象タブ=目標標籤
+パーティ名=隊伍名稱
 残り挑戦回数がリセットされるまでお待ちください。=Please wait until your attempt limit resets.
 
 キャラ全回復=Full Heal
@@ -50,13 +50,13 @@ EXクエスト一覧=EX Floors
 
 模擬戦では報酬は獲得できません。=No rewards can be\nearned in mock battles.
 
-進行中バトル=Battle in progress
+進行中バトル=進行中的戰鬥
 ルナの塔へ=To Luna Tower
 
-パーティ編成使用確認=Confirm Party Selection
-このパーティ編成を使用しますか？=Do you want to use this party setup?
+パーティ編成使用確認=隊伍編組使用確認
+このパーティ編成を使用しますか？=確定要使用這個隊伍編組嗎？
 未所持/制限Lv以下のキャラは編成できません。=Characters you do not own\nor under leveled cannot be used.
-今後このメッセージを表示しない\n※この設定は後から［設定］で変更できます。=Do not display this message in the future.\nThis setting can be changed later in [Settings].
+今後このメッセージを表示しない\n※この設定は後から［設定］で変更できます。=今後不再顯示此訊息\n※此項設定之後可以至〔設定〕進行變更。
 
 クエストリタイア=Leave Quest
 {{A}}リタイアするとクエスト報酬を\n獲得することができません。\n\nよろしいですか？[-]={{A}}You will not receive any rewards if you quit.\n\nAre you sure?[-]]
@@ -65,7 +65,7 @@ EXクエスト一覧=EX Floors
 {{A}}階 クリアパーティ一覧={{A}} Floor Clear Party List
 このパーティはバトルに参加していません。=This party has not participated in the battle.
 同名キャラ編成の設定が「編成不可」になっています。=The setting of the same name character organization is "not organized".
-未所持のキャラは編成できません。=Characters you do not own cannot be assigned to a party.
+未所持のキャラは編成できません。=無法編組未持有的角色。
 変更可=Changing
 変更不可=can't change
 選択したパーティの★=selected Party ★
