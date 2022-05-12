@@ -4,11 +4,11 @@
 聖跡調査=Sanctum Survey
 神殿調査=Temple Trek
 
-跡調査=Survey
-聖=Sanctum 
+跡調査=anctum Survey
+聖=S
 
-殿調査=Trek
-神=Temple 
+殿調査=emple Trek
+神=T
 ナクエスト=ana Quest
 専用装備に必要な\nハートの欠片を獲得=Earn a piece of heart needed for UE
 

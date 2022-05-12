@@ -363,7 +363,7 @@ sr:"^(.+)　Lv.(\d+)$"=$1 lv.$2
 バトルTLをコピーしました。=Copy Battle TL.
 ===lap===
 r:"^現在(\d+)周目$"=Lap $1
-r:"^(\d+)周目=Lap $1
+r:"^(\d+)周目$"=Lap $1
 {{A}}(\d+月)クラン内ランキング一覧[-]={{A}}In-Clan Rankings ($1)[-]
 sr:"^(\d+月)全クランランキング$"=Global Ranking($1)
 ===My Log
@@ -381,7 +381,7 @@ sr:"^(\d+月)全クランランキング$"=Global Ranking($1)
 sr:"^(\d+月)クランバトルの順位が確定しました！$"=CB($1) ranking has been confirmed!
 バトル設定：クランモード=Battle settings: Clan Mode
 バトル設定：シングルモード=Battle settings: Clan Mode
-sr:"^\(クラン内ランキング　(\d+位)\)=(in-clan Rank $1)
+sr:"^\(クラン内ランキング　(\d+位)\)$"=(in-clan Rank $1)
 
 {{A}}{{B}}クランバトル[-]={{A}}{{B}} Clan Battle[-]
 {{A}}{{C}}{{B}}クランバトル[-]={{A}}{{C}}{{B}} Clan Battle[-]

@@ -12,8 +12,10 @@ r:"^(\d+)階$"=Floor $1
 IDコピー=Copy ID
 自己紹介=Intro
 所属クラン=Clan
-{{B}}{{C}}年{{A}}合計スコア=Total Score {{A}},{{B}}{{C}} 
-{{B}}{{C}}年{{A}}={{A}}, {{B}}{{C}}
+sr:"^(\d{4})年(\d+月)合計スコア$"=Total Score $2, $1
+sr:"^(\d{4})年(\d+月)$"=$2, $1
+
+2022年4月合計スコア
 
 全キャラ戦力=Total Power
 プロフ作成=Profile
@@ -25,7 +27,7 @@ IDコピー=Copy ID
 お気に入り設定=Set Favorites
 お気に入りキャラ=Favorite Character
 差を表示する=Display
-{{A}}{{B}}日={{A}} {{B}}
+sr:"^(\d+月)(\d{1,2})日"=$1 $2
 ===Profile Card===
 保存=Save
 買うぜ？=Buy?
@@ -54,14 +56,14 @@ Twitter投稿=Post to Twitter
 ※全角{{A}}文字以内=※Up to {{A}} characters.
 コメントを入力してください。=Please enter a comment.
 コメント編集=Comment Edit
-{{A}}編集した内容を保存しました。[-]={{A}}Edited content has been saved.[-]
-{{A}}編集した内容を破棄し、前回保存したときの状態に戻りますがよろしいですか？[-]={{A}}Discard the edited contents and return to the state when it was saved last time.\nis this OK? [-]
+[3C404E]編集した内容を保存しました。[-]={{A}}Edited content has been saved.[-]
+[3C404E]編集した内容を破棄し、前回保存したときの状態に戻りますがよろしいですか？[-]=[3C404E]Discard the edited contents and return to the state when it was saved last time.\nis this OK? [-]
 前回保存したときの状態に戻りました。=Returned to the state when it was saved last time.
 ※全角{{A}}文字以内=※ Under full angle {{A}} character
-{{A}}編集した内容を保存していません。\nこのまま画面遷移してよろしいですか？[-]={{A}}You have not saved your edits.\nAre you sure you want to change the screen as it is?[-]
-{{A}}画像の保存に失敗しました。\n保存領域が確保されているかご確認ください。[-]={{A}}Save Image saving failed.\nMake sure you have enough storage.[-]
+[3C404E]編集した内容を保存していません。\nこのまま画面遷移してよろしいですか？[-]=[3C404E]You have not saved your edits.\nAre you sure you want to change the screen as it is?[-]
+[3C404E]画像の保存に失敗しました。\n保存領域が確保されているかご確認ください。[-]=[3C404E]Save Image saving failed.\nMake sure you have enough storage.[-]
 画像保存完了=Image Storage Completed
-{{A}}画像を保存しました。[-]={{A}}The image has been saved.[-]
+[3C404E]画像を保存しました。[-]=[3C404E]The image has been saved.[-]
 プレイヤーIDをコピーしました。=Copied player ID.
 友達を招待=Invite friends
 所属なし=No affiliation
@@ -73,8 +75,6 @@ Twitter投稿=Post to Twitter
 メンバー数=Member
 未参加=Join
 承認あり=Approval
-{{B}}／{{A}}人={{B}}／{{A}}
-{{A}}／{{A}}人={{A}}／{{A}}
 ランプロフカード=Clan Profile Card
 平均プレイヤーLv=Average P. LV
 作戦説明=Operation description
@@ -91,7 +91,7 @@ Twitter投稿=Post to Twitter
 ===Name& Self Introduce===
 ※{{B}}文字以上{{A}}文字以内=※Between {{B}} and {{A}} characters
 プレイヤー名を入力してください。=Please enter a Player Name.
-{{A}}個人情報や、公序良俗に反する内容は\n入力しないでください。[-]={{A}}Please refrain from including any\npersonal information and indecent  content.[-]
+[FF7C4E,D62146]個人情報や、公序良俗に反する内容は\n入力しないでください。[-]=[FF7C4E,D62146]Please refrain from including any\npersonal information and indecent  content.[-]
 プレイヤー名編集=Edit Player Name
 
 自己紹介を入力してください。=Please enter a Self Introduction..

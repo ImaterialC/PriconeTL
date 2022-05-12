@@ -15,7 +15,6 @@
 キャラ=Characters
 キ= 
 ャラ一覧=Chara List
-
 後衛=Back
 中衛=Mid
 前衛=Front
