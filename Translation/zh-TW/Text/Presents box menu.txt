@@ -1,7 +1,7 @@
 プレゼントボックス=Present Box
 すべて受け取る=Receive All
 受け取り履歴=History
-[FF7C4E,D62146]期限が切れたプレゼントは自動的に削除されます。一度に受け取れるプレゼントは100件までです。[-]=[FF7C4E,D62146]Presents will be automatically deleted once their time limit expires.\nUp to 100 presents can be received at once.[-]
+[FF7C4E,D62146]期限が切れたプレゼントは自動的に削除されます。一度に受け取れるプレゼントは100件までです。[-]=[FF7C4E,D62146]超過期限的禮物將會自動被系統刪除。單次能領取的禮物最大件數為100件。[-]
 
 新しい順=Newest
 古い順=Oldest
