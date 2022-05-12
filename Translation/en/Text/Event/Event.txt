@@ -10,7 +10,7 @@ r:"^([0-9/ :]+) ～ ([0-9/ :]+)まで$"=$1 to $2
 
 イベントを進めてボスを討伐しよう！\n残り{{A}}体 BOSS討伐で解放=Let's advance the event and subdue the boss! \nReleased by subduing the remaining {{A}} BOSS
 r:"^(\d+)体撃破$"=$1 × Defeated
-r:"^スキップチケットとボスチケットを消費して\n(\d+)体ボスを撃破します。よろしいですか？$"=Defeat $1 bosses by consuming\n skip tickets and boss tickets.\n\nIs this OK??
+r:"^スキップチケットとボスチケットを消費して\n(\d+)体ボスを撃破します。よろしいですか？$"=Defeat $1 bosses by consuming\n skip tickets and boss tickets.\nIs this OK??
 
 [FFBB00,CE4F00]30[-][3C404E]枚で挑戦[-]=[FFBB00,CE4F00]30[-][3C404E]Tixs[-]
 [FFBB00,CE4F00]20[-][3C404E]枚で挑戦[-]=[FFBB00,CE4F00]20[-][3C404E]Tixs[-]
@@ -26,7 +26,8 @@ r:"^スキップチケットとボスチケットを消費して\n(\d+)体ボス
 まで開催中=Until the Event
 r:"^推奨プレイヤーLv : (\d+)$"=Suggested Lv: $1
 イベントへ=To the Event
-イベント開催期間が終了します=Event period will end
+r:"^([0-9/: ]{11})に$"=$1
+イベント開催期間が終了します=The event period will end.
 ※この設定は後から［設定］で変更できます。=※This setting can be changed later in [Settings].
 イベント開催予定！=Upcoming event!
 イベント開催終了！=The event is over!
@@ -65,6 +66,7 @@ r:"^ボスバトル(.+)クリアで解放$"=Clear Boss Battle $1 to unlock.
 r:"^\[FF7C4E,D62146\]([0-9]+)体目出現！\[-\]$"="[FF7C4E,D62146]$1 Boss has Appeared![-]"
 r:"^【(\d)回挑戦中】$"=[Number of Challenge: $1]
 r:"^([0-9]+)回目の討伐証交換ラインナップ$"=Victory Medal Gacha Box No.$1
+挑戦途中のボスはスキップできません。=Bosses in the middle of the challenge cannot be skipped.
 EXHIBITION討伐数=EXHIBITION count
 スキップチケットとスタミナを消費してクエストを\n実行します。よろしいですか？=Use skip tickets and stamina\nto play this quest?
 消費スタミナ=Use Stamina

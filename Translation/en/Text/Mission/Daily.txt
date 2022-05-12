@@ -1,6 +1,6 @@
 ==Daily==
-ッション=Mission
-ミ= 
+ッション=ssion
+ミ=Mi
 デイリー=Daily
 ノーマル=Normal
 チャレンジ=Challenge
