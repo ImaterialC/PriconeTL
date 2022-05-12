@@ -24,14 +24,14 @@ r:"^\[3C404E\]現在、撃破数が(\d+)体に設定されています。\n設�
 消費挑戦回数=Use attempts
 
 みんなの手本=Example
-メインクエスト=Main Quest
+メインクエスト=主線任務
 開催中=Underway!
-クランバトル=Clan Battle
-ダンジョン=Dungeon
+クランバトル=戰隊競賽
+ダンジョン=地下城
 調査=Expedition
-探索=Grotto
-バトルアリーナ=Battle Arena
-プリンセスアリーナ=Princess Arena
+探索=探索
+バトルアリーナ=戰鬥競技場
+プリンセスアリーナ=公主競技場
 キャンペーン中=Campaign
 
 ★3クリアで使用できます。=Can use it once clear with 3★.

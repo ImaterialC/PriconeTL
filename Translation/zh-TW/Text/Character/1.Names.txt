@@ -82,7 +82,7 @@
 チエル=Chieru
 ネネカ=Neneka
 ナナカ=Nanaka
-イノリ=Inori
+イノリ=祈梨
 マヒル=Mahiru
 ホマレ=Homare
 カリン=Karin
@@ -91,7 +91,7 @@
 マホ=Maho
 ユイ=Yui
 チカ=Chika
-カヤ=Kaya
+カヤ=嘉夜
 トモ=Tomo
 リノ=Rino
 イオ=Io
