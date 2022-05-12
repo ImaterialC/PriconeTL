@@ -1,4 +1,4 @@
-[FF7C4E,D62146]異なるOSにデータ連携した場合、連携前のOSで\n所持していた有償ジュエルと有償マナは連携後の\nOSでは使用できません。\n連携前のOSに戻ると使用できるようになります。[-]=[FF7C4E,D62146]Paid Jewel and any Paid Packages\nare not transfer-able between OS[-]
+[FF7C4E,D62146]異なるOSにデータ連携した場合、連携前のOSで\n所持していた有償ジュエルと有償マナは連携後の\nOSでは使用できません。\n連携前のOSに戻ると使用できるようになります。[-]=[FF7C4E,D62146]Paid Jewel, Mana, and any Paid\nPackages are not transfer-able between OS[-]
 データ連携を行うことで、複数の端末でプ{{A}}セスコネクト！Re:Diveのゲームデータを共有してプ{{B}}できます。データ連携には「プレイヤーID」と「連携パスワード」が必要です。=By using this menu, you can transfer your "Priconne ID" to any OS Available.\nTo do this, you must provide Bind ID and Bind Password.\n \nAre you sure to do this operation?
 [3C404E]連携パスワードを再設定する[-]=[3C404E]Reset Link Password [-]
 [3C404E]連携パスワードを入力して引き継ぐ[-]=[3C404E]Transfer Using Link Password [-]
