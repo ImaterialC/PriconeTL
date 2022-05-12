@@ -33,6 +33,9 @@ r:"^自分のＨＰを(\d+)消費\n範囲内の敵に(\d+)の魔法ダメージ$
 ===EX skill
 血の契約+=Blood Pact+
 血の契約=Blood Pact
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boost own magic attack by $1.
+
+バトル開始時に自分の魔法攻撃力を大アップさせる。=戰鬥開始時，大幅度提升自己的魔法攻撃力。
 
 ===Unique
 闇斧ナハトファング=Dark Axe Nachfang

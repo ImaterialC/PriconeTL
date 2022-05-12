@@ -1,65 +1,65 @@
-通常=Normal
+通常=一般
 Pアリーナ=公主競技場
 アリーナ=競技場
-マスター=Master
-限定=Bonus
-購入する=Buy
-r:"^所持数：(\d+)$"=Held: $1
+マスター=大師
+限定=限定
+購入する=購買
+r:"^所持数：(\d+)$"=持有數：$1
 sr:"^(\d+月)(\d+)日まで販売中$"=Sale Until $1 $2
 残り0回=Sold out
 r:"^残り([2-9])回$"=$1 Times Left
 残り1回=1 Time Left
 
 残り購入回数=Remain
-すべて選択=Select All
-全て解除=Clear
-全て選択=Select All
+すべて選択=全選
+全て解除=全部解除
+全て選択=全選
 すべて解除=Cancel
 [FF7C4E,D62146]限定キャラはメモリーピースによる解放はできません。[-]=[FF7C4E,D62146]Limited characters can not be\nreleased by Memory Shards.[-]
-主さま、旅の準備を整えて\nより充実した冒険をいたし\nましょう=My Lord, let us prepare for our journey. It will make for an even more fulfilling adventure.
+主さま、旅の準備を整えて\nより充実した冒険をいたし\nましょう=主人，做好行前準備\n一起完成充實的冒險吧。
 
 これ以上、\n購入できません=Cannot purchase\nany more.
 これ以上、\\n購入できません=Cannot purchase\nany more.
 所持コイン=Coins Held:
 
-ポーション=EXP Potion
-r:^"([0-9,]+)でまとめて購入する$"=Buy All with: $1
+ポーション=EXP藥水
+r:^"([0-9,]+)でまとめて購入する$"=用$1一次購買
 まとめて購入する=Buy All
 ===Confirm===
-sr:"^\[3B3F4D\]([べ-・ー]{2,12})×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しますか\?\[-\]$"=[3B3F4D]Use $1 × [FFBB00,CE4F00]$2[-]\nto purchase the following items?[-]
+sr:"^\[3B3F4D\]([べ-・ー]{2,12})×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しますか\?\[-\]$"=[3B3F4D]確定要消耗$1✕[FFBB00,CE4F00]$2[-]來購買以下的道具嗎？[-]
 
 ===Bough List===
-sr:"^\[3B3F4D\]([べ-・ー]{2,12})×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しました。\[-\]$"=[3B3F4D]You used $1 × [FFBB00,CE4F00]$2[-]\n to buy the following items.[-]
+sr:"^\[3B3F4D\]([べ-・ー]{2,12})×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しました。\[-\]$"=[3B3F4D]消耗$1✕[FFBB00,CE4F00]$2[-]\n購買了以下道具。[-]
 
 
 
-sr:"^\[3C404E\]([べ-・ー]{2,12})×\[FFBB00,CE4F00\](\d+)\[-\]を消費して\n(.+)×\[FFBB00,CE4F00\](\d+)\[-\]を購入しました。\[-\]$"=[3C404E]You used $1 × [FFBB00,CE4F00]$2[-]\nto buy $3 × [FFBB00,CE4F00]$4[-].[-]
+sr:"^\[3C404E\]([べ-・ー]{2,12})×\[FFBB00,CE4F00\](\d+)\[-\]を消費して\n(.+)×\[FFBB00,CE4F00\](\d+)\[-\]を購入しました。\[-\]$"=[3C404E]You used $1✕[FFBB00,CE4F00]$2[-]\nto buy $3 × [FFBB00,CE4F00]$4[-].[-]
 
 ===sort order===
-ピュアメモリー\nピースのみ=Pure memory\nshard only
-メモリーピースのみ=Memory shard only
-表示項目=Display item
-ポジション=Position
-価格順=Price
-入手順=Date
-決定=OK
-ョップ=hop
-シ=S
+ピュアメモリー\nピースのみ=僅限\n純淨記憶碎片
+メモリーピースのみ=僅限記憶碎片
+表示項目=顯示項目
+ポジション=位置
+価格順=價格順序
+入手順=取得順序
+決定=確定
+ョップ=店
+シ=商
 
 ===purchase window===
-購入完了=Purchase Complete
+購入完了=購買完成
 ショップを閉じる=關閉商店
-購入確認=Buy Items?
-所持マナ=Mana Held:
+購入確認=購買確認
+所持マナ=持有瑪那
 女神の秘石必要数確認=Exchange Divine Amulet Confirmation
 
 ===bonus===
 限定ショップ （準備中）=Bonus Shop(Closed)
 
-限定ショップの出現回数上限に達しました。\n04:59まで限定ショップは出現しません。=The maximum number of times the Bonus Shop can appear has been reached, and the Bonus Shop will not appear until 04:59(JST).
+限定ショップの出現回数上限に達しました。\n04:59まで限定ショップは出現しません。=The maximum number of times the Bonus Shop can appear has been reached, and the Bonus Shop will not appear until 04:59(UTC+9).
 
 ショップ閉店確認=關閉商店確認
-[3C404E]今日の限定ショップを今すぐ閉店しますか？\n限定ショップを閉店した場合、\n次の開店は[FFBB00,CE4F00]05:00以降[-]になります。[-]=[3C404E]Do you want to close\ntoday's bonus shop now?\n\nThe next opening will be [FFBB00,CE4F00]after 05:00(JST).[-][-]
+[3C404E]今日の限定ショップを今すぐ閉店しますか？\n限定ショップを閉店した場合、\n次の開店は[FFBB00,CE4F00]05:00以降[-]になります。[-]=[3C404E]Do you want to close\ntoday's bonus shop now?\n\nThe next opening will be [FFBB00,CE4F00]after 05:00(UTC+9).[-][-]
 
 限定ショップ=Bonus Shop
 必要マナ=Mana Req
@@ -78,7 +78,7 @@ sr:"^\[3C404E\]([べ-・ー]{2,12})×\[FFBB00,CE4F00\](\d+)\[-\]を消費して\
 リセット対象のアイテムがありません。=There are no items to reset.
 
 r:"^(\d+)で一部ラインナップを今すぐ更新$"=Reset some lineup: $1
-一部ラインナップは毎日5:00更新=Some lineup Reset Daily at 5:00(JST)
+一部ラインナップは毎日5:00更新=Some lineup Reset Daily at 5:00(UTC+9)
 r:"^([0-9/]+) 枚$"=$1 Coin
 
 ===npc
@@ -92,12 +92,13 @@ r:"^([0-9/]+) 枚$"=$1 Coin
 メモリーピース購入数に応じて、1個あたりの女神の秘石の\n必要数が異なります。詳細は下記をご覧ください。=The required number of Divine Amulet per piece\ndepends on the number of memory shards has purchased.\nSee below for details.
 メモリーピース単価一覧=Memory Shard unit Price List
 sr:"^([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)のメモリーピースの購入数が(\d)になりました。$"=The number of purchases of $1$2 now $4.
+アイテム名を入力してください=請輸入道具名稱
 
 ====Reset
-r:"^([0-9,]+)で今すぐ更新$"=$1: To Reset
+r:"^([0-9,]+)で今すぐ更新$"=用$1立即更新
 sr:"^\[3B3F4D\]([べ-・ー]{2,12})を\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]個使用して\nショップの内容をリセットしますか\?\[-\]$"=[3B3F4D]Use $1 ×[FFBB00,CE4F00]$2[-]\nto reset the contents of the shop?[-]
 
-r:"^次回ラインナップは(\d+):00更新$"=Next Reset at $1:00(JST)
-毎日5:00ラインナップ更新=Reset Daily at 5:00(JST)
+r:"^次回ラインナップは(\d+):00更新$"=下一輪品項將於$1:00(UTC+9)更新
+毎日5:00ラインナップ更新=每日5:00(UTC+9)更新商品
 毎日5:00更新　出現数4/5
-r:"^毎日5:00更新　出現数(\d)/5$"=Reset Daily at 5:00(JST) Up:$1/5
+r:"^毎日5:00更新　出現数(\d)/5$"=Reset Daily at 5:00(UTC+9) Up:$1/5

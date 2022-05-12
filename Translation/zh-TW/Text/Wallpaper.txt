@@ -1,19 +1,23 @@
-カスタムマイページ=Home Settings
+カスタムマイページ=自訂主頁
 ストーリーイベント=Story Event
-設定完了=Save
-順番入れ替え=Order
+設定完了=設定完成
+順番入れ替え=交替順序
 ミニゲーム=Mini Game
-カスタムマイページ{{A}}=Slot {{A}}
-変更=+
-はずす=-
-マイページに移動する\nたびにランダム表示する=Randomize
-BGM変更=BGM
-現在のBGM=♪Playing
-表示設定=Display Settings
+r:"^カスタムマイページ([1-5])$"=自訂主頁$1
+変更=變更
+はずす=卸下
+マイページに移動する\nたびにランダム表示する=每當移動到主頁時\n隨機顯示
+BGM変更=更改背景音樂
+現在のBGM=現在的背景
+表示設定=設定顯示
 マイページBGM設定=BGM Settings
 初期BGMに戻す=Default BGM
 BGM購入へ=Buy BGM
 変更確認=Setting Confirmation
+初期BGM=初期\n背景音樂
+
+
+
 
 最低1つ以上設定する必要があります。=There must be at least one.
 

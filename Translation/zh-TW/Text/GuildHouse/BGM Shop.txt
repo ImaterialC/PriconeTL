@@ -1,7 +1,7 @@
 GM変更=GM Change
 GM購入=uy BGM
 BGM購入=Buy BGM
-BGM変更=BGM
+BGM変更=更改BGM
 
 BGM変更へ=Change BGM 
 所持ルピ=Rupies Held
