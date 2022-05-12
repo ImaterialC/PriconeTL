@@ -7,7 +7,7 @@ r:"^([0-9]+)枚 使う$"=Use $1
 
 r:"^あと (\d+)"=remaining $1
 クリアパーティ一覧=Clear Party List
-リセット=Reset
+リセット=重置
 情報が更新されるまで、時間がかかる場合があります。=It may take some time until the information is updated.
 　現在、対象プレイヤーの情報がありません。=　Currently, there is no information on the target player.
 [3C404E]残り挑戦回数が0になりました。\n回復しますか?[-]=[3C404E]Your remaining attempts have reached 0.\nRestore?

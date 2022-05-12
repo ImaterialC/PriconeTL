@@ -72,7 +72,7 @@ r:"^ストーリー ([\d]+)話$"=劇情 第$1話
 
 
 ==Banner time
-sr:"^(\[[0-9a-fA-F,]{6,13}\])([0-9/ :]{16})～([0-9/ :]{11,16})まで\[-\]$"="$1$2 to $3 (JST)[-]"
+sr:"^(\[[0-9a-fA-F,]{6,13}\])([0-9/ :]{16})～([0-9/ :]{11,16})まで\[-\]$"="$1$2 to $3 (UTC+9)[-]"
 ==Banner Description==
 sr:"^(\[[0-9a-fA-F,]{6,13}\])新キャラ「([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)」登場！\n期間中出現率UP！\[-\]$"="$1Boosted rates for the New character $2$3![-]"
 
@@ -92,13 +92,13 @@ sr:"^(\[[0-9a-fA-F,]{6,13}\])新キャラ「([べ-・ー＆]{2,11})(\（.{3,10}\
 
 [FFBB00,CE4F00]プラチナガチャはキャラのみ出現！[-]=[FFBB00,CE4F00]Platinum Gacha only appears for characters![-].
 キャラ交換Ptの説明=角色交換Pt的説明
-{{A}}有効期間:{{B}}{{I}}/{{H}}/{{F}} {{F}}:{{C}} ～ {{H}}/{{E}} {{G}}:{{D}}[-]={{A}}Period: {{B}}{{I}}/{{H}}/{{F}} {{F}}:{{C}} to {{H}}/{{E}} {{G}}:{{D}} (JST)[-]
-{{A}}有効期間:{{B}}{{J}}/{{I}}/{{F}} {{G}}:{{C}} ～ {{I}}/{{E}} {{H}}:{{D}}[-]={{A}}Period: {{B}}{{J}}/{{I}}/{{F}} {{G}}:{{C}} to {{I}}/{{E}} {{H}}:{{D}} (JST)[-]
-{{A}}有効期間:{{B}}{{K}}/{{I}}/{{E}} {{G}}:{{C}} ～ {{H}}/{{J}} {{F}}:{{D}}[-]={{A}}Period:{{B}}{{K}}/{{I}}/{{E}} {{G}}:{{C}} to {{H}}/{{J}} {{F}}:{{D}} (JST)[-]
+{{A}}有効期間:{{B}}{{I}}/{{H}}/{{F}} {{F}}:{{C}} ～ {{H}}/{{E}} {{G}}:{{D}}[-]={{A}}Period: {{B}}{{I}}/{{H}}/{{F}} {{F}}:{{C}} to {{H}}/{{E}} {{G}}:{{D}} (UTC+9)[-]
+{{A}}有効期間:{{B}}{{J}}/{{I}}/{{F}} {{G}}:{{C}} ～ {{I}}/{{E}} {{H}}:{{D}}[-]={{A}}Period: {{B}}{{J}}/{{I}}/{{F}} {{G}}:{{C}} to {{I}}/{{E}} {{H}}:{{D}} (UTC+9)[-]
+{{A}}有効期間:{{B}}{{K}}/{{I}}/{{E}} {{G}}:{{C}} ～ {{H}}/{{J}} {{F}}:{{D}}[-]={{A}}Period:{{B}}{{K}}/{{I}}/{{E}} {{G}}:{{C}} to {{H}}/{{J}} {{F}}:{{D}} (UTC+9)[-]
 
 ===Banner==
 
-無料で10回ガチャは\n毎日5時と12時にリセットされます。=Free 10x Gacha resets daily at\n5:00 and 12:00 (JST).
+無料で10回ガチャは\n毎日5時と12時にリセットされます。=Free 10x Gacha resets daily at\n5:00 and 12:00 (UTC+9).
 ノーマルガチャを無料で10回引きます。\nよろしいですか？=Draw Normal Gacha 10x for free?
 キャラ交換Ptリセット=Char Exchange Pt Reset
 ガチャが更新されました。\n所持していたキャラ交換Ptがリセットされました。\n\n※キャラ交換PtはPt数と同枚数、\n{{A}}に変換されました。=The Gacha has been updated, and the Character Exchange Points you had have been reset.\n\nThe same number of Character Exchange Points as the number of Pt have been converted into Skip Tickets.

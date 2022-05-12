@@ -34,6 +34,8 @@ r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵を一定時間
 
 
 ===Skill EX
+r:"^自分の物理防御力を(\d+)アップ$"=Boosts own P.DEF by $1.
+バトル開始時に自分の物理防御力を大アップさせる。=戰鬥開始時，大幅度提升自己的物理防禦力。
 
 ===Story
 どこまでも一途に慕う、純情乙女=A pure-hearted girl who loves with all her heart

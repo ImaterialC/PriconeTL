@@ -29,3 +29,5 @@ r:"^敵単体に(\d+)の物理ダメージ\n敵単体の物理防御力を(\d+)�
 目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。=Deals moderate P.DMG to an enemy directly in front and lowers their P.DEF by a small amount.
 
 ===EX+
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own P.ATK by $1.
+バトル開始時に自分の物理攻撃力を大アップさせる。=戰鬥開始時，大幅度提升自己的物理攻撃力。
