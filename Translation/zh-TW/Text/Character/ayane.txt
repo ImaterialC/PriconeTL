@@ -35,8 +35,6 @@ r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵の物理防御
 自分を中心とした範囲内の敵すべてに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。=Deals small P.DMG to enemies in range and lowers their P.DEF by a small amount.
 
 ===EX
-r:"^自分の物理攻撃力を(\d+)アップ\n自分の魔法防御力を(\d+)アップ$"=Boosts own P.ATK by $1.\nBoosts own M.DEF by $2.
-バトル開始時に自分の物理攻撃力を中アップさせ、さらに自分の魔法防御力を小アップさせる。=戰鬥開始時，中幅度提升自己的物理攻撃力，並小幅度提升自己的魔法防禦力。
 
 ===Story
 ぷうきちといつも一緒！=Always with Poukichi!
