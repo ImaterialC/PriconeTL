@@ -69,7 +69,7 @@ Lv上限に達しているため強化できません。=cannot be refined becau
 [FF7C4E,D62146]キャラのRANKが7以上で装備できます。[-]=[FF7C4E,D62146]Equippable at RANK 7.[-]
 
 このキャラの★6は今後登場予定です。=A ★6 of this character will be\ncoming in the future.
-パーティ情報がありません。=There is no party information.
+パーティ情報がありません。=無隊伍資訊
 ===Equip===
 以下のアイテムを消費して装備しますか？=Do you want to consume and equip the following items?
 まとめて装備確認=Equip All?
@@ -135,7 +135,7 @@ EXスキルスロット=EX skill slot
 キャラLv上限=Char Lv Limit
 スキルLv上限=Skill Lv Limit
 限界突破=LB
-なし=None
+なし=無
 
 使用するアストライアリングを選択してください。キャラの最大Lv上限を上昇できます。=Choose the Astrial Ring you wish to use\nit will increase your character's maximum level
 

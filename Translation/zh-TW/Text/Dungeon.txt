@@ -8,8 +8,8 @@
 パック有効=Pack Validity
 報酬受け取り=Received Rewards
 
-パーティ編成=Assemble Party
-現在のメンバー=Current Party
+パーティ編成=編組隊伍
+現在のメンバー=當前的成員
 
 ダンジョンへ=To Dungeon
 キャラ一覧へ=To Character List
@@ -19,7 +19,7 @@
 砂瀑の底都=Sandfall Depths Capital
 
 戦闘不能=KO
-登録済みのパーティを呼び出してバトルに挑めます。=Choose your registered party.
+登録済みのパーティを呼び出してバトルに挑めます。=可以找來已登錄的隊伍進行戰鬥。
 パーティ選択=Party Selection
 以下のキャラは制限のため編成できません。=The following characters cannot be used due to restrictions.
 このダイアログを表示しない=Do not show this dialog
