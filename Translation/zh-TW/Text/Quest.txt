@@ -36,8 +36,8 @@ r:"^\[3C404E\]現在、撃破数が(\d+)体に設定されています。\n設�
 
 ★3クリアで使用できます。=Can use it once clear with 3★.
 スキップ=Skip
-インクエスト=ain Quest
-メ=M
+インクエスト=線任務
+メ=主
 同キャラ\n編成中=Already\nAssigned
 バトル開始=Begin Battle
 挑戦する=Start

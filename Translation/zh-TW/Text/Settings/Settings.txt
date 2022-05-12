@@ -15,7 +15,7 @@ SDカード保存設定=Transfer data to SD
 アルバム=Album
 ジュエル\nショップ=Jewel Shop
 プロフィール=個人頁面
-思い出\nアルバム=Memories\nAlbum
+思い出\nアルバム=回憶相簿
 絆の記憶=Bonds Memories
 
 
