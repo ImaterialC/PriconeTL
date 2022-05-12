@@ -21,18 +21,3 @@
 かくれんぼの助っ人=Hide-and-Seeker
 へんたいふしんしゃさん=A Lolimancer
 
-===Skill name
-コスモブループラネット=Cosmo Blue Planet
-コスモブルーフラッシュ=Cosmo Blue Flash
-小さな勇気+=Pinch of Bravery+
-小さな勇気=Pinch of Bravery
-
-===UB *6
-目の前の敵１キャラに魔法大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Deals large M.DMG to anenemy directly in front.\nWhen critical occurs\ndeals ４x damage instead ２x.
-r:"^敵単体に(\d+)の魔法ダメージ$"=Deals $1 M.DMG to an enemy.
-
-===Skill 1+
-目の前の敵１キャラに魔法特大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Deals massive M.DMG to an enemy directly in front.\nWhen critical occurs\ndeals ４x damage instead ２x.
-
-===Skill 2
-自分の魔法攻撃力を短時間大アップさせる。=Large boost to own magic attack for brief period (9s).

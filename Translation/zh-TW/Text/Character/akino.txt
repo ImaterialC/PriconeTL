@@ -6,29 +6,3 @@ CharaCustom/CustomControl/CanvasDraw=ChangeFontSizeByPercentage(0.5)
 
 ===Profile
 慈善事業=慈善事業
-
-===Skills
-ノーブルアサルト=Noble Assault
-ノーブルプロミネンス=Noble Prominence
-フレイムソウル+=Flame Soul+
-フレイムソウル=Flame Soul
-
-===UB (6 star)
-目の前の敵１キャラに物理特大ダメージを与え、その敵を中心として物理ダメージフィールドを展開し、自分の物理攻撃力を特大アップさせ、さらに物理/魔法吸収バリアを展開する。=Deals Massive P.DMG to an enemy directly in front and creates a burning field around them that deals P.DMG every second to all enemies in range. Massive boost to own P.ATK and deploys a barrier around oneself that absorbs P.DMG and M.DMG.
-
-r:"^敵単体に(\d+)の物理ダメージ\n毎秒(\d+)の物理ダメージを与えるフィールドを展開する\n自分の物理攻撃力を(\d+)アップ\n(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=Deals $1 P.DMG to an enemy. \nDeploys a 400 radius field that deals $2 every second for 15.5s. \nBoosts own P.ATK by $3 for 12s. \nDeploys a barrier that absorbs $4 physical and magic damage for 18s.
-
-===UB (Need Non-6*)
-
-===Skill 1 (with UE)
-目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を中アップ、ＴＰ上昇を小アップさせ挑発する。笑っている間に攻撃されると、前方範囲内の敵に反撃する。=Deals moderate P.DMG to an enemy directly in front. Small boost to own P.ATK and ＴＰ Boost. Taunts the enemy. If attacked while laughing, counterattack on enemies in range.
-
-r:"^敵単体に(\d+)の物理ダメージ\n範囲内の敵に(\d+)の物理ダメージ\n自分の物理攻撃力を(\d+)アップ\n自分のＴＰ上昇を(\d+)アップ$"=Provokes all enemies for 5s\nDeals $1 P.DMG to an enemy.\nDeals $2 P.DMG to all enemies within 320 range.\nBoosts own P.ATK by $3 for 12s.\nBoosts own ＴＰ Boost by $4 for 12s.
-===Skill 1 (no UE) (Need Non-UE)
-
-===Skill 2
-自分の周囲に、範囲内の味方すべてを小回復するフィールドを展開する。=Deploys a Field that recovers ＨＰ of all nearby allies by a small amount.
-r:"^毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Deploys a 150 radius field that recovers ＨＰ of all allies in it by $1 every second for 8s.
-
-r:"^自分の物理攻撃力を(\d+)アップ\n自分の物理防御力を(\d+)アップ$"=Boosts own P.ATK by $1.\nBoosts own P.DEF by $2.
-バトル開始時に自分の物理攻撃力を中アップさせ、さらに自分の物理防御力を小アップさせる。=戰鬥開始時，中幅度提升自己的物理攻撃力，並小幅度提升自己的物理防禦力。

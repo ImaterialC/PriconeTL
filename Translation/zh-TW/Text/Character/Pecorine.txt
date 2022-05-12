@@ -23,25 +23,3 @@
 おいしい持ち込み大歓迎！=歡迎帶來好吃的東西！
 再会はごはんの匂い=再會有米飯的香味
 
-===Skill name
-プリンセスヴァリアント=Princess Valiant
-プリンセスストライク=Princess Strike
-プリンセスフォース=Princess Power
-プリンセスフォース+=Princess Power+
-
-===UB *6
-r:"^敵単体に(\d+)の物理ダメージ\n自分の物理防御力を(\d+)アップ\n自分の魔法防御力を(\d+)アップ\n自分の物理攻撃力を(\d+)アップ$"=Deals $1 P.DMG to an enemy.\nBoosts own P.DEF by $2 for 18s.\nBoosts own M.DEF by $3 for 18s.\nBoosts own P.ATK by $4 for 18s.
-目の前の敵１キャラに物理特大ダメージを与え、物理防御力と魔法防御力を特大アップさせ、物理攻撃力を中アップさせる。物理攻撃力アップの効果値は、残りＨＰが高い程増加する。=Deals massive P.DMG to an enemy directly in front. Massive boost to own P.DEF and M.DEF. Moderate boost to own P.ATK (Amount of P.ATK buff increase based on how high Pecorine's current ＨＰ.)
-
-===Skill 1+
-r:"^自分の魔法防御力を(\d+)アップ\n自分のＨＰを(\d+)回復\n(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=Boosts own M.DEF by $1 for 12s.\nRecovers own ＨＰ by $2.\nDeploy Barrier that absorbs $3 P.DMG and M.DMG for 8s.
-自分の魔法防御力を中アップさせ、さらにＨＰを大回復し、自分に物理/魔法吸収バリアを展開する。=Increases own M.DEF by a small amount. Deploy a barrier around oneself that absorbs P.DMG and M.DMG.
-
-===Skill 2
-目の前の敵１キャラに物理中ダメージを与える。=Deals moderate P.DMG to an enemy directly in front.
-r:"^敵単体に(\d+)の物理ダメージ$"=Deals $1 P.DMG to an enemy.
-
-===Skill EX
-バトル開始時に自分の最大ＨＰを大アップさせる。=戰鬥開始時，大幅度提升自己的最大ＨＰ。
-r:"^自分の最大ＨＰを(\d+)アップさせる$"=Boosts own max ＨＰ by $1.
-===(temp)
