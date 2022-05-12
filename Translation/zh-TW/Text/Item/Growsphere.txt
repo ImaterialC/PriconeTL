@@ -1,5 +1,5 @@
 スフィア=Sphere
-注意事項=Details
+注意事項=注意事項
 所持グロウスフィア一覧=Growsphere in Possesion
 選択中のグロウスフィアの効果=Selected Growsphere Effect
 各Lv=Into LV

@@ -35,7 +35,7 @@ r:"^ジュエル×([\d]+)を消費して$"=Use $1 Jewels
 r:"^\[3C404E\]あと\[-\]\[FFBB00,CE4F00\]([\d]+)セット購入\[-\]\[3C404E\]で、おまけで探索回数もGET！\[-\]$"=[3C404E]Buy[FFBB00,CE4F00] $1 more sets[-], to get bonus Grotto attempts![-]
 おまけ=Bonus
 ===
-交換ラインナップ=Exchange Lineup
+交換ラインナップ=交換清單
 所持キャラ交換Pt=Char. Exchange Pts
 所持数=Held
 有償=有償
@@ -58,9 +58,9 @@ r:"^ストーリー ([\d]+)話$"=劇情 第$1話
 
 もう一度引く=Try Again
 キャラ交換Ptが不足しています。=Insufficient character exchange Pt.
-[FF7C4E,D62146]すでに仲間になったキャラは女神の秘石に変換されます。[-]=[FF7C4E,D62146]Duplicate characters will be converted to Divine Amulets.[-]
+[FF7C4E,D62146]すでに仲間になったキャラは女神の秘石に変換されます。[-]=[FF7C4E,D62146]將已成為夥伴的角色轉換為女神的秘石。[-]
 
-[FF7C4E,D62146]すでに仲間になったキャラは女神の秘石に変換されます。\nおまけで獲得できるメモリーピースは直接付与されます。[-]=[FF7C4E,D62146]Duplicate characters will be\nconverted to Divine Amulets.[-]
+[FF7C4E,D62146]すでに仲間になったキャラは女神の秘石に変換されます。\nおまけで獲得できるメモリーピースは直接付与されます。[-]=[FF7C4E,D62146]將已成為夥伴的角色轉換為女神的秘石。\n可以得到附贈的記憶碎片時，會直接發送。[-]
 追加データは、アプリ起動時に削除されます。=Additional data is deleted at app startup.
 
 未解放キャラを仲間にする際に、1キャラあたり\n最大55MBの追加データをダウンロードします。=You will download up to 55MB of additional\ndata per unowned character.
@@ -188,7 +188,7 @@ sr:"^(\[[0-9a-fA-F,]{6,13}\])新キャラ「([べ-・ー＆]{2,11})(\（.{3,10}\
 スペシャル キャラ交換ガチャセットについて=About Special Character Exchange
 [3C404E]外部ブラウザを開きますがよろしいですか？[-]=[3C404E]您確定要開啟外部瀏覽器嗎？[-]
 交換可能=Purchased
-交換する=Exchange
+交換する=交換
 スペシャル交換チケット=Special Exchange Ticket
 チケットガチャ=Ticket Gacha
 所持チケット=Tickets Owned
