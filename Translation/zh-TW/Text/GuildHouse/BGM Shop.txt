@@ -6,7 +6,7 @@ BGM変更=BGM
 BGM変更へ=Change BGM 
 所持ルピ=Rupies Held
 ===bgm shop===
-初期設定に戻す=Revert to default
+初期設定に戻す=回歸初始設定
 
 ギルドハウス3F=3F
 ギルドハウス2F=2F

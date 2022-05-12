@@ -37,7 +37,7 @@ r:"^\[3C404E\]あと\[-\]\[FFBB00,CE4F00\]([\d]+)セット購入\[-\]\[3C404E\]�
 ===
 交換ラインナップ=交換清單
 所持キャラ交換Pt=Char. Exchange Pts
-所持数=Held
+所持数=持有數
 有償=有償
 
 無償=無償
@@ -182,7 +182,7 @@ sr:"^(\[[0-9a-fA-F,]{6,13}\])新キャラ「([べ-・ー＆]{2,11})(\（.{3,10}\
 4th Anniv. SPキャラ交換ガチャセット=4th Anniv. Special Character Exchange
 選択可能キャラ一覧=Select a char
 キャラ一覧から仲間にしたいキャラを選択してください。=Choose the character you want.
-未解放=Unowned
+未解放=未開放
 解放済み=Unlocked
 限定キャラ=Limited
 スペシャル キャラ交換ガチャセットについて=About Special Character Exchange
