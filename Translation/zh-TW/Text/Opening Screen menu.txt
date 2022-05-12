@@ -1,28 +1,28 @@
 ===Menu===
-キャンセル=Cancel
-一括ダウンロード=Download All
-お問い合わせ=Contact Us
-データ修復=Data Repair
-データ\n連携=Data\nLink
-メニュー=Menu
-ゲーム起動中=Game Start
-データダウンロード=Data Download
-ＳＤカード保存設定=SDCard Storage Setting
+キャンセル=取消
+一括ダウンロード=整合下載
+お問い合わせ=與客服聯繫
+データ修復=數據修復
+データ\n連携=資料\n連動
+メニュー=選單
+ゲーム起動中=遊戲啟動中
+データダウンロード=
+ＳＤカード保存設定=ＳＤ卡保存設定
 
 
 ===Data Link===
-既にプリンセスコネクト！Re:Diveをプレイしている場合は「データ連携」を選択してください。\n以前のゲームデータと連携してプレイすることが出来ます。=Please select "Data Link" if you are already playing Princess! Re: Dive.\nThis will allow you to link your existing game data.
-連携方法を選択してください。=Please select a linkage method.
-連携方法を選ぶ=Select Link Method
-パスワードを使う=Use a Password
-[3C404E]連携パスワードを入力して連携する[-]=[3C404E]Link Using a Link Password[-]
-[3C404E]連携パスワードを設定する[-]=[3C404E]Set a link password[-]
-プレイヤーIDと連携パスワードを入力してください。=Please enter your Player ID and link password.
-プレイヤーID=Player ID
-連携パスワード=Link Password
+既にプリンセスコネクト！Re:Diveをプレイしている場合は「データ連携」を選択してください。\n以前のゲームデータと連携してプレイすることが出来ます。=已經擁有本遊戲帳號的情況下，\n請選擇「帳號引繼」。\n可以繼承先前已有的遊戲進度。
+連携方法を選択してください。=請選擇綁定方式。
+連携方法を選ぶ=選擇引繼方式
+パスワードを使う=使用密碼
+[3C404E]連携パスワードを入力して連携する[-]=[3C404E]輸入引繼密碼進行其他帳號的引繼[-]
+[3C404E]連携パスワードを設定する[-]=[3C404E]設定引繼密碼[-]
+プレイヤーIDと連携パスワードを入力してください。=請輸入玩家ID與引繼密碼。
+プレイヤーID=玩家ID
+連携パスワード=引繼密碼
 
 ===Data Repair===
-[3C404E]データ修復を行うと動作が軽くなることがあります。\nプレイ中のゲームデータは削除されません。\n\nデータ修復を行う際\nタイトルに戻り、再度データをダウンロードします。\nタイトルに戻るまでに時間がかかる場合がございます。\nアプリを強制終了させないように、ご注意ください。\nまた、通信状況により、データダウンロードに\n時間がかかる場合があります。\n\nデータ修復を行いますか？[-]=[3C404E]Data repair may make the operation lighter.\nThe game data being played will not be deleted.\nWhen repairing data, Game will return to title and download data again.\nPlease be careful not to kill the app.\nIt may take some time to return to the title.\nIn addition, it may take some time to download the data depending on conection status.\n\nDo you want to repair the data?[-]
+[3C404E]データ修復を行うと動作が軽くなることがあります。\nプレイ中のゲームデータは削除されません。\n\nデータ修復を行う際\nタイトルに戻り、再度データをダウンロードします。\nタイトルに戻るまでに時間がかかる場合がございます。\nアプリを強制終了させないように、ご注意ください。\nまた、通信状況により、データダウンロードに\n時間がかかる場合があります。\n\nデータ修復を行いますか？[-]=[3C404E]執行資料修復會減輕系統負擔。\n不會山出玩家資料。\n\n執行資料修復時\n會回到標題畫面，重新下載資料。\n回到標題畫面時有可能會耗費一點時間。\n請注意不要強制結束遊戲。\n另外由於網路狀況，下載資料時\n有可能需要較長的時間。\n\n要執行資料修復嗎？[-]
 ===inquiry form===
 お問い合わせフォームを開きます。よろしいですか？=Open the inquiry form. Is this OK?
 問い合わせる=Inquire
@@ -32,6 +32,6 @@
 ※チェックされた情報は、アプリからお問い合わせフォームに\n引き継がれ、お客様のご利用状況を確認するために使用します。\n情報がない場合、確認や調査ができないことがございます。=※The checked information will be carried over from the app to the inquiry form and used to check the usage status of the customer.\nIf there is no information, we may not be able to confirm or investigate.
 ご利用機種の\nOSバージョン=Your Device\nOS version
 ===Download All===
-r:"^\[3C404E\]すべてのデータのダウンロードを行います。\n通信環境の良いところでの\nダウンロードを推奨いたします。\nダウンロードを開始してよろしいですか？\n\(([0-9.]+) ([MG])B\)\[-\]$"=[3C404E]Download all data.\nWe recommend downloading in a good connection.\nAre you sure you want to start the download?\n($1 $2B)[-]
+r:"^\[3C404E\]すべてのデータのダウンロードを行います。\n通信環境の良いところでの\nダウンロードを推奨いたします。\nダウンロードを開始してよろしいですか？\n\(([0-9.]+) ([MG])B\)\[-\]$"=[3C404E]將會進行所有資料的下載。\n建議在通訊良好的環境中下載。\n確定要開始下載嗎？\n($1 $2B)[-]
 
-[3C404E]ダウンロードが完了しました。\n再起動します。[-]=[3C404E]Download is completed.\nRestart.[-]
+[3C404E]ダウンロードが完了しました。\n再起動します。[-]=[3C404E]下載已完成。\n重新啟動。[-]

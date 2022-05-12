@@ -186,7 +186,7 @@ sr:"^(\[[0-9a-fA-F,]{6,13}\])新キャラ「([べ-・ー＆]{2,11})(\（.{3,10}\
 解放済み=Unlocked
 限定キャラ=Limited
 スペシャル キャラ交換ガチャセットについて=About Special Character Exchange
-[3C404E]外部ブラウザを開きますがよろしいですか？[-]=[3C404E]Are you sure you want to open an external browser?[-]
+[3C404E]外部ブラウザを開きますがよろしいですか？[-]=[3C404E]您確定要開啟外部瀏覽器嗎？[-]
 交換可能=Purchased
 交換する=Exchange
 スペシャル交換チケット=Special Exchange Ticket
