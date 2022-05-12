@@ -24,8 +24,8 @@
 クエストクリア後のフレンド申請ダイアログ表示=Show Friend Request Dialog
 フレンドでないプレイヤーからサポートキャラをレンタルした場合、\nフレンド申請ダイアログを表示するか設定します。=Sets whether or not to display a friend request dialog when you select a support character\nfrom a player who is not your friend.
 
-サポート設定の獲得{{A}}通知=Notifications for Mana Earned from Support Characters
-サポート設定で獲得している{{A}}が{{C}},{{B}},{{B}}以上の場合に、通知を表示するか設定します。=Set whether or not to show a notification\nif more than {{C}},{{B}},{{B}} Mana is earned from Support.
+サポート設定の獲得マナ通知=Notifications for Mana Earned from Support Characters
+サポート設定で獲得しているマナが5,000,000以上の場合に、通知を表示するか設定します。=Set whether or not to show a notification\nif more than 5,000,000 Mana is earned from Support.
 
 未読ストーリーの通知=Unread Story Notifications
 未読のストーリーがある場合、通知を表示するか設定します。=Set whether or not to show a notification if there are unread stories.
