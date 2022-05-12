@@ -7,8 +7,6 @@
 r:"^開催期間 : ([0-9/]+)～([0-9/]+)$"=舉行期間: $1 to $2
 r:"^([0-9/ :]+) ～ ([0-9/ :]+)まで$"=$1 ～ $2 為止
 
-[FFBB00,CE4F00]解放済み[-]=[FFBB00,CE4F00]已解放[-]
-
 イベントを進めてボスを討伐しよう！\n残り{{A}}体 BOSS討伐で解放=Let's advance the event and subdue the boss! \nReleased by subduing the remaining {{A}} BOSS
 r:"^(\d+)体撃破$"=$1 × Defeated
 r:"^スキップチケットとボスチケットを消費して\n(\d+)体ボスを撃破します。よろしいですか？$"=Defeat $1 bosses by consuming\n skip tickets and boss tickets.\n\nIs this OK??

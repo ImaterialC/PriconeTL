@@ -1,9 +1,9 @@
-イテム一覧=具一覽
-ア=道
-売却=Sell
-売却マナ=Mana Value
+イテム一覧=道具一覽
+ア= 
+売却=販賣
+売却マナ=販賣瑪那
 
 確認したいアイテムを選択してください=Select the item you want to see
 所持していません。=You don't have it.
 
-アイテム詳細=Item Info
+アイテム詳細=道具詳細
