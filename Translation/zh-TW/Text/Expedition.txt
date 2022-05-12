@@ -1,18 +1,18 @@
 査=查
 調=調
 
-聖跡調査=Sanctum Survey
-神殿調査=Temple Trek
+聖跡調査=聖跡調査
+神殿調査=神殿調査
 
-跡調査=Survey
-聖=Sanctum 
+跡調査=跡調査
+聖=聖
 
-殿調査=Trek
-神=Temple 
+殿調査=殿調査
+神=神e 
 ナクエスト=ana Quest
-専用装備に必要な\nハートの欠片を獲得=Earn a piece of heart needed for UE
+専用装備に必要な\nハートの欠片を獲得=獲得專用裝備\n所需的公主之心碎片
 
-★6に必要な\n解放アイテムを獲得=Earn released items required for 6★
+★6に必要な\n解放アイテムを獲得=獲得★6所需要的\n解放道具
 
 
 残り挑戦回数回復=Restore Attempts

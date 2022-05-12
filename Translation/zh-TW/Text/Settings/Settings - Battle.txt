@@ -1,67 +1,68 @@
-バトル=Battle
-スキ{{A}}ットイン=Skill Cut-in
-「1日1回見る」を設定すると、各キャラのカットインが毎日初回発動分のみ表示されます。=Selecting "once per day" will set each char's cut-ins to appear\nonly the first time they use a skill that day.
-1日1回見る=Once Per Day
+バトル=戰鬥
+スキルカットイン=技能切入
+「1日1回見る」を設定すると、各キャラのカットインが毎日初回発動分のみ表示されます。=若設定為「1 天只看 1 次」時，各角色的技能切入，將會只在第一次發動技能時有動畫演出。
+1日1回見る=1天只看1次
 
-フレームレート（fps）=Frame Rate (FPS)
-バトル中のフレームレート（fps）の設定です。設定は次回のバトルから反映されます。=Sets the FPS during battle.
+フレームレート（fps）=畫面幀率(FPS)
+バトル中のフレームレート（fps）の設定です。設定は次回のバトルから反映されます。=調整戰鬥中的畫面幀率（FPS）設定。此設定將會從下一次的戰鬥開始生效。
 
-消費電力を抑えられます=Reduce power consumption.
-高=High
-標準=Normal
-バトルアリーナ＆プリンセスアリーナスキップ=Battle Arena & Princess Arena Skip
-バトルアリーナとプリンセスアリーナでパーティ決定直後にスキップを行うか設定します。=Set to skip Battle Arena and Princess Arena.
-両方スキップ=Skip both.
-Bアリーナ=B Arena
+消費電力を抑えられます=降低電力消耗
+高=高
+標準=標準
+バトルアリーナ＆プリンセスアリーナスキップ=跳過戰鬥競技場＆公主競技場
+バトルアリーナとプリンセスアリーナでパーティ決定直後にスキップを行うか設定します。=設定在戰鬥競技場和公主競技場決定隊伍後是否跳過。
+両方スキップ=皆跳過
+Bアリーナ=戰鬥競技場
 
-特定のキャラのユニオンバースト速度設定=UB Speed settings for Prifes.
+特定のキャラのユニオンバースト速度設定=設定特定角色的必殺技速度
 
-特定のキャラのユニオンバースト演出速度を設定できます。\n※対象キャラは、「ペコリーヌ（プリンセス）」・「コッコロ（プリンセス）」・「ユイ（プリンセス）」・\n「ヒヨリ（プリンセス）」・「キャル（プリンセス）」・「レイ（プリンセス）」です。=Set UB animation speed for prifes chars.\n※Target is:「Pecorine(Princess)」・「Kokkoro(Princess)」・「Yui(Princess)」・\n「Hiyori(Princess)」・「Kyaru(Princess)」・「Rei(Princess)」
+特定のキャラのユニオンバースト演出速度を設定できます。\n※対象キャラは、「ペコリーヌ（プリンセス）」・「コッコロ（プリンセス）」・「ユイ（プリンセス）」・\n「ヒヨリ（プリンセス）」・「キャル（プリンセス）」・「レイ（プリンセス）」です。=可以設定特定角色的必殺技動畫速度。\n※可設定角色為「貪吃佩可（公主）」‧「可可蘿（公主）」‧「優衣（公主）」‧\n「日和（公主）」‧「凱留（公主）」‧「怜（公主）」。
 ===特定のキャラのユニオンバースト演出速度を設定できます。\n※対象キャラは、「ペコリーヌ（プリンセス）」・「コッコロ（プリンセス）」・「ユイ（プリンセス）」・\n「ヒヨリ（プリンセス）」・「キャル（プリンセス）」・「レイ（プリンセス）」です。=Set UB animation speed for prifes chars.
-高速=High Speed
+高速=高速
 
-クランバトル開始前の確認ダイアログ=CB Start Confirmation Prompt
-クランバトルの挑戦回数を消費してバトルを開始する前に、確認ダイアログを開きます。\n※持越し時間を消費してバトルを開始する場合、確認ダイアログは必ず開きます。=Show a confirmation prompt before starting a Clan Battle using attempts or left-over time.
+クランバトル開始前の確認ダイアログ=戰隊競賽開始前的確認對話
+クランバトルの挑戦回数を消費してバトルを開始する前に、確認ダイアログを開きます。\n※持越し時間を消費してバトルを開始する場合、確認ダイアログは必ず開きます。=每當要消耗挑戰次數開始戰隊競賽時，將會自動打開消耗的確認對話。\n※要消耗保留時間開始戰鬥時，一定會開啟確認對話。
 
-クランバトル 編成アラート=CB Party Alert
-本戦バトルを開始する前に、編成キャラ数が5キャラ未満の場合、アラートを表示します。=An alert will be displayed if the number of characters in a party is less than 5.
+クランバトル 編成アラート=戰隊競賽 編組提醒
+本戦バトルを開始する前に、編成キャラ数が5キャラ未満の場合、アラートを表示します。=在本戰鬥開始前，編組角色數量未達5位時，會出現提醒。
 
-クランバトル バトル速度の上限設定=CB Speed Limit Settings
-クランバトルの模擬戦・トレーニングバトルにおいて、バトル速度の上限を設定できます。=Settings to adjust speed in training battles for CB.
-倍速=2x
-4倍速=4x
+クランバトル バトル速度の上限設定=設定戰隊競賽的戰鬥速度上限
+クランバトルの模擬戦・トレーニングバトルにおいて、バトル速度の上限を設定できます。=可以設定在戰隊競賽模擬戰、訓練戰的戰鬥速度上限。
+倍速=倍速
+4倍速=4倍速
 
-クランバトル バトル速度設定の確認ダイアログ=CB Confirmation Prompt for Battle Speed Settings
-クランバトルを開始する前に、模擬戦・トレーニングバトルのバトル速度設定を確認するダイアログを開きます。=Confirmation for battle speed settings for CB training.
+クランバトル バトル速度設定の確認ダイアログ=設定戰隊競賽戰鬥速度的確認對話
+クランバトルを開始する前に、模擬戦・トレーニングバトルのバトル速度設定を確認するダイアログを開きます。=開始戰隊競賽之前，顯示模擬戰、訓練戰的戰鬥速度設定確認對話。
 
-ルナの塔バトル開始前の確認ダイアログ=Tower of Luna Confirmation Prompt
-クランバトルを開始する前に、模擬戦・トレーニングバトルのバトル速度設定を確認するダイアログを開きます。=A confirmation prompt  will appear before starting a battle in Tower of Luna
+ルナの塔バトル開始前の確認ダイアログ=露娜之塔戰鬥開始前的確認對話
+クランバトルを開始する前に、模擬戦・トレーニングバトルのバトル速度設定を確認するダイアログを開きます。=開始戰隊競賽之前，顯示模擬戰、訓練戰的戰鬥速度設定確認對話。
 
-ルナの塔 バトル速度の上限設定=Tower of Luna Battle Speed Settings
-ルナの塔において、バトル速度の上限を設定できます。=Settings to adjust speed in Tower of Luna
+ルナの塔 バトル速度の上限設定=露娜之塔 設定戰鬥速度上限
+ルナの塔において、バトル速度の上限を設定できます。=可以設定在露娜之塔的戰鬥速度上限。
 
-ルナの塔 スキップ確認ダイアログ=Tower of Luna Skip Confirmation Prompt
-ルナの塔において現在の階層がスキップ可能な場合、確認ダイアログを開きます。=Opens a confirmation prompt if the current level in Tower of Luna is skippable.
+ルナの塔 スキップ確認ダイアログ=露娜之塔 掃蕩確認對話
+ルナの塔において現在の階層がスキップ可能な場合、確認ダイアログを開きます。=如果露娜之塔所在的階層可以進行掃蕩的話，會顯示確認對話。
 
-マルチターゲット演出=Multi-Target Animation
-マルチターゲットのモンスターが登場するバトルを開始した際の演出を表示するかどうかの設定です。\n「1日1回見る」を設定すると、毎日初回挑戦時のみ表示されます。=Whether or not to show the effect for multi-targeted monsters.
+マルチターゲット演出=複數目標動畫
+マルチターゲットのモンスターが登場するバトルを開始した際の演出を表示するかどうかの設定です。\n「1日1回見る」を設定すると、毎日初回挑戦時のみ表示されます。=此為開始複數目標怪物登場的戰鬥時，是否要顯示動畫的設定。\n若設定為「1 天只看 1 次」時，將會只在每天第一次挑戰時有動畫演出。
 
-クイックスタート機能使用時の確認ダイアログ=Quick Start Confirmation Prompt
-クリアパーティ一覧画面でクイックスタート機能を使用するときに、確認ダイアログを開きます。=Opens a confirmation prompt when using the Quick Start function on the Clear Party List.
+クイックスタート機能使用時の確認ダイアログ=使用快速開始功能時的確認訊息
+クリアパーティ一覧画面でクイックスタート機能を使用するときに、確認ダイアログを開きます。=從已通關隊伍一覽畫面使用快速開始功能時，會出現確認訊息。
 
-バトルのAUTO・SMART・SPEED=AUTO, SMART and SPEED Battle Settings
-バトルのAUTOとSMARTとSPEEDの設定です。\n『引き継ぐ』に設定するとバトル中に変更したAUTO・SMART・SPEEDの設定を引き継ぎます。\n※AUTOとSMARTとSPEEDを個別に引き継ぎ設定はできません。=You can set the AUTO, SMART, and SPEED settings for battles.
-引き継がない=Do not\nSwitch
-引き継ぐ=Switch
+バトルのAUTO・SMART・SPEED=戰鬥的AUTO、SMART、SPEED
+バトルのAUTOとSMARTとSPEEDの設定です。\n『引き継ぐ』に設定するとバトル中に変更したAUTO・SMART・SPEEDの設定を引き継ぎます。\n※AUTOとSMARTとSPEEDを個別に引き継ぎ設定はできません。=戰鬥中的AUTO、SMART與SPEED的相關設定。\n若選擇了『繼承』的設定，那麼在戰鬥中變更的AUTO、SMART與SPEED狀態將會延續到下一場戰鬥。\n※AUTO、SMART與SPEED無法各別設定是否繼承。
+引き継がない=不繼承
+引き継ぐ=引繼
 
-ルナの塔バトルの本戦を開始する前に、確認ダイアログを開きます。=Opens a confirmation prompt before starting Tower of Luna.
+ルナの塔バトルの本戦を開始する前に、確認ダイアログを開きます。=露娜之塔戰鬥的本戰開始之前，將會開啟確認對話。
 
-ルナの塔 バトル速度設定の確認ダイアログ=Tower of Luna Confirmation prompt for Battle Speed Settings
+ルナの塔 バトル速度設定の確認ダイアログ=露娜之塔 設定戰鬥速度的確認對話
 
-ルナの塔を開始する前に、バトル速度設定を確認するダイアログを開きます。=Opens a dialog box to confirm your battle speed settings.
-
+ルナの塔を開始する前に、バトル速度設定を確認するダイアログを開きます。=開始露娜之塔之前，顯示設定戰鬥速度的確認對話。
+UB即発動モードの設定=UB立刻發動模式設定
+UB即発動モードを使用するか設定できます。=是否啟用UB立刻發動模式
 UB即発動モードを有効にする=Enable UB prompt mode
-各キャラがユニオンバーストを発動する度に、UB即発動モードを解除するか設定できます。=Each time character activates UB, you can set whether to cancel the UB prompt mode.
-ユニオンバースト発動時にUB即発動モードを解除=Cancel UB prompt mode when union burst is activated
+各キャラがユニオンバーストを発動する度に、UB即発動モードを解除するか設定できます。=每次角色觸發UB後，可以選擇是否解除UB立刻發動模式
+ユニオンバースト発動時にUB即発動モードを解除=當UB立刻發動模式觸發時即解除
 ルナの塔において、バトル速度の上限を設定できます。設定は次回のバトルから反映されます。=You can set an upper limit for battle speed in the Tower of Luna.\n The settings will be reflected from the next battle.
 クランバトルの模擬戦・トレーニングバトルにおいて、バトル速度の上限を設定できます。\n設定は次回のバトルから反映されます。=You can set the upper limit of the battle speed in the mock battle of the clan battle.\nThe settings will be reflected from the next battle.

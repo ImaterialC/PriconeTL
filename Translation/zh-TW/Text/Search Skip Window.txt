@@ -10,8 +10,8 @@
 まとめてスキップ=Skip
 アイテム名から検索=Item Name
 アイテム長押しで詳細を=Hold to check for item info.
-選択全解除=Clear
-選択中アイテム=Selected
+選択全解除=選擇全取消
+選択中アイテム=選擇的道具
 装備品=Equip
 ピュアメモリーピース=Pure Shards
 レア度=Rarity

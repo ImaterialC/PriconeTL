@@ -18,8 +18,8 @@ r:"^プレイヤーLv:([0-9～ ]+)$"=Player Lv: $1
 サポート時間=Duration
 獲得マナ=Mana
 
-サ=S
-ポート設定=upport Settings
+サ=支
+ポート設定=援設定
 
 サポート終了=End
 フ=F

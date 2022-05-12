@@ -1,4 +1,4 @@
-イドストーリー=ide Story
+イドストーリー=線劇情
 [3C404E][FFBB00,CE4F00]サイドストーリー[-]が解放されました。[-]=[3C404E]The [FFBB00,CE4F00]Side Story[-] has been released.[-]
 sr:"^メインクエスト([0-9\-\(\)\w ]*)クリアで$"=Cleared Main Quest $1
 
@@ -6,12 +6,12 @@ sr:"^メインクエスト([0-9\-\(\)\w ]*)クリアで$"=Cleared Main Quest $1
 
 エンディング=ending
 イベントストーリー一覧=Event Story List
-入手できるメモリーピースで絞り込み=Filter by Memory Shards
+入手できるメモリーピースで絞り込み=以可以取得的記憶碎片來篩選
 クエストが解放されていません。=The quest has not been unlocked.
-全キャラ=All Char
+全キャラ=全角色
 
-未クリア=Not Cleared
-開催順=Release Order
+未クリア=未通關
+開催順=舉辦順序
 
 ボスバトル（NORMAL）をクリアで解放されます。=Defeat Normal Boss First
 
