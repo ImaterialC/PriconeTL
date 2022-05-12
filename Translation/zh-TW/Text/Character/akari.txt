@@ -1,46 +1,35 @@
 ===Bio
-【魔法】中衛で、魔法パーティの強化を担う、双子の妹。敵の魔法防御力を大幅に下げるスキルや、魔法攻撃力を上昇させ、回復効果を付与するユニオンバーストを使う。=[Magic]A younger twin who strengthens magic-oriented parties from MG. Has skills that drastically reduce enemy M.DEF and a UB that boosts M.ATK and grants healing effect.
+【魔法】中衛で、魔法パーティの強化を担う、双子の妹。敵の魔法防御力を大幅に下げるスキルや、魔法攻撃力を上昇させ、回復効果を付与するユニオンバーストを使う。=【魔法】位於中衛，擔任魔法隊中強化與恢復的角色，是雙胞胎中的妹妹。\n擁有能大幅降低敵人魔法防禦力的技能，以及可提升魔法攻擊力及擁有恢復效果的必殺技。
 
 ===Profile
-サックス=Playing the saxophone
+サックス=薩克斯風
 
 ===Skills
-スイートデビルエール=Sweet Devil Yell
-メルティデビルチャーム=Melty Devil Charm
-スウィートイグニッション=Sweet Ignition
-スウィートイグニッション+=Sweet Ignition+
+スイートデビルエール=甜蜜惡魔的聲援
+メルティデビルチャーム=融心惡魔的魅惑
+シャドウボルト=闇影箭
+シャドウボルト+=闇影箭+
+小悪魔のキス=小惡魔的親吻
+スウィートイグニッション=甜美燃燒
+スウィートイグニッション+=甜美燃燒+
 
-===UB (6 star)
-"^味方全体の魔法攻撃力を特大アップさせ、魔法クリティカルを大アップさせ、次の攻撃のダメージ量に応じ\nて追加でＨＰを回復させる。さらに敵全体の魔法防御力を小ダウンさせる。$"=Moderate boost to all allies’ M.ATK and large boost to all allies’ M.Crit Rate. Heals all allies based on the damage of their next attack. Lowers M.DEF of all enemies by a small amount.
-
-r:"^味方全体の魔法攻撃力を([0-9]+)アップ\n味方全体の魔法クリティカルを([0-9]+)アップ\n敵全体の魔法防御力を([0-9]+)ダウン$"=Grants lifesteal to all allies' next attack.\nBoosts all allies’ M.ATK by $1 for 18s.\nBoosts all allies’ M.CRIT by $2 for 18s.\nLowers all enemy’s M.DEF by $3 for 18s.
-===UB (Need Non-6*)
-
-===Skill 1 (with UE)
-目の前の敵１キャラに魔法大ダメージを与え、さらに魔法防御力を小ダウンさせる。=Deals moderate M.DMG to an enemy directly in front and lowers M.DEF by a small amount.
-r:"^敵単体に([0-9]+)の魔法ダメージ\n敵単体の魔法防御力を([0-9]+)ダウン$"=對敵方單體造成$1的魔法傷害\n降低敵方單體$2的魔法防禦力
-
-===Skill 1 (no UE) (Need Non-UE)
-===Skill 2
-目の前の敵１キャラの魔法防御力を大ダウンさせる。=Lowers M.DEF of an enemy directly in front by a moderate amount.
-r:"^敵単体の魔法防御力を([0-9]+)ダウン"=降低敵方單體$1的魔法防禦力
 ===Unique
-デモンズ{{A}}=Demon's {{A}}
+デモンズトライデント=惡魔三叉戟
 
 ===Story
-カリ=Akari
-甘え上手なみんなの人気者=The town darling who everyone want to dote on
+カリ=茜里
+甘え上手なみんなの人気者=愛撒嬌又受大家喜歡
 
-等身大の『自分らしさ』=Life-Size "Personality"
-感謝の気持ちを音に乗せて=Put Your Gratitude On the Sound
-背伸びをしてみたら=If you Try to Stretch
-一番かわいくなるために=To be the Cutest
+等身大の『自分らしさ』=最真實的「自我風格」
+感謝の気持ちを音に乗せて=將感謝之意化為音樂
+背伸びをしてみたら=試著裝大人
+一番かわいくなるために=為了成為世界上最可愛的人
 
-お兄ちゃんじゃなきゃダメ=Just Sight of Your Face
-お兄ちゃんと初めての……=Our First Time Together..
-好みに合わせますよ♪=Whatever You Like Best♪
-お兄ちゃん、たくましい♪=So Big and Strong♪
-教えるの上手ですね♪=You Teach Me So Much♪
-お願いします、コーチ！=Train Me, Coach!
-もう限界ですぅ=I'm at My Limit!
-{{A}}、落ちちゃうよぉ！=Catch Me in Your Arms!
+お兄ちゃんじゃなきゃダメ=不是哥哥的話就不行
+お兄ちゃんと初めての……=和哥哥第一次的……
+好みに合わせますよ♪=配合哥哥的喜好呦♪
+お兄ちゃん、たくましい♪=哥哥，真強壯♪
+教えるの上手ですね♪=真是擅長教人呢♪
+お願いします、コーチ！=拜託你了，教練！
+もう限界ですぅ=已經極限了
+アカリ、落ちちゃうよぉ！=茜里，要掉下去了啦！
