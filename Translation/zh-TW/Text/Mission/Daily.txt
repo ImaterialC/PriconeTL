@@ -3,11 +3,11 @@
 ミ= 
 デイリー=毎日
 ノーマル=普通
-チャレンジ=Challenge
-状況=Status
+チャレンジ=挑戰
+状況=狀況
 共通 =共通
-達成状況=Completion
-期限=EoD
+達成状況=達成狀況
+期限=期限
 獲得した報酬はありません=No rewards earned
 
 獲得したプレイヤー経験値はダンジョンコインに変換されました。=Player Exp points earned have been converted\ninto Dungeon Coins.

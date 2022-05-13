@@ -1,50 +1,50 @@
-検索=Search
-チェック全解除=Uncheck All
-リスト切替=Switch
-クエスト一覧=Quest List
-チェックのみ=Check Only
-検索結果=Search Results
+検索=搜尋
+チェック全解除=勾選全取消
+リスト切替=切換清單
+クエスト一覧=冒險一覽
+チェックのみ=只顯示勾選
+検索結果=搜尋結果
 絞り込み中=Filtering
 絞り込みが設定されています。=Selection filtered.
-対象のクエストがありません。=No checked quests.
-まとめてスキップ=Skip
-アイテム名から検索=Item Name
-アイテム長押しで詳細を=Hold to check for item info.
+対象のクエストがありません。=沒有對應的冒險。
+まとめてスキップ=全部跳過
+アイテム名から検索=以道具名稱進行搜尋
+アイテム長押しで詳細を=長按道具查看詳細說明\n進行確認
 選択全解除=選擇全取消
 選択中アイテム=選擇的道具
-装備品=Equip
-ピュアメモリーピース=Pure Shards
-レア度=Rarity
-アイテム種類=Item Type
+装備品=裝備品
+ピュアメモリーピース=純淨記憶碎片
+レア度=稀有度
+アイテム種類=道具種類
 チケット=券
-１クエストの使用チケット枚数=Tickets used per quest
-全クエスト=All Quests
+１クエストの使用チケット枚数=1次冒險需使用的票券張數
+全クエスト=搜尋結果
 サイドスト…=Side-story
 残り挑戦回数がありません。=There are no challenges remaining.
 実行可能なクエストがありません。=There are no available quests.
 本日挑戦できないクエストのみ選択されています。=Only quests that cannot be challenged\nare selected.
-装備済み=Equipped
-装備可能キャラ=Equipable
+装備済み=裝備完畢
+装備可能キャラ=可裝備的角色
 装備可能なキャラがいません=No chars available.
 チェックしたクエストがありません。=There are no quests selected.
 以下クエストは次回まとめてスキップの対象外です=These quests are not eligible for batch skip.
 スタミナ、挑戦回数不足のため\n実行できないクエストがあります。=Some quests cannot be performed\ndue to lack of stamina or challenges.
-チェック済みのクエストがあります。=There are quests that have already been checked.
-同時に検索できるアイテムは３個までです。=Only up to three items that can be searched at the same time.
+チェック済みのクエストがあります。=有已選取的冒險。
+同時に検索できるアイテムは３個までです。=可以同時搜尋的道具最多為 3 個。
 サイドストーリー HARD=Side Story(HARD)
-プリセット編集=Edit Preset Name
-スキップボーナス=Skip Bonus
+プリセット編集=編組預設隊伍
+スキップボーナス=掃蕩獎勵
 キャラを選択してください。=Please select a character
-
-スキップするクエスト=# of Quests
-合計スキップ回数=# of skip tix
+スキップ完了!=掃蕩完成！
+スキップするクエスト=掃蕩的冒險
+合計スキップ回数=合計掃蕩次數
 
 確認できます。= 
-クエスト検索=Confirm
+クエスト検索=搜尋冒險
 
-表示クエスト=Display Quest
-キャンペーン一覧=Campaign List
-スタミナ不足のため実行できないクエストがあります。=Some quests cannot be performed\ndue to lack of stamina.
+表示クエスト=顯示冒險
+キャンペーン一覧=活動一覽
+スタミナ不足のため実行できないクエストがあります。=有冒險由於體力不足無法執行
 
 回復なしで次へ=Don't Reset
 回復する=Reset
@@ -53,11 +53,11 @@
 残り挑戦回数が0のクエストがあります。=These quests have 0 runs remaining.
 ジュエルを消費して、以下のクエストの\n残り挑戦回数をまとめて回復しますか？=Do you want to reset with Jewels?
 
-まとめてスキップ確認=Skip Confirmation
-スキップチケットとスタミナを消費して、以下のクエストを実行します。よろしいですか？=Spend skip tickets and stamina to do the following quests.
+まとめてスキップ確認=全部跳過確認
+スキップチケットとスタミナを消費して、以下のクエストを実行します。よろしいですか？=將消耗掃蕩券與體力進行以下冒險。確定嗎？
 
 スキップ済み確認=Skip Confirmation
 前回まとめてスキップ時にスキップできなかった\nクエストが次回まとめてスキップの対象となります。=Quest that could not be skipped will be skipped next time.
 
-対象のアイテムがありません。=There is no target item.
+対象のアイテムがありません。=沒有目標道具。
 対象クエストの残り挑戦回数を超えてスキップはできません。=You cannot skip beyond the number of remaining attempts in the target quest.

@@ -18,8 +18,8 @@ r:"^プレイヤーLv:([0-9～ ]+)$"=Player Lv: $1
 サポート時間=Duration
 獲得マナ=Mana
 
-サ=支
-ポート設定=援設定
+サ= 
+ポート設定=支援設定
 
 サポート終了=End
 フ=F
@@ -32,7 +32,7 @@ r:"^プレイヤーLv:([0-9～ ]+)$"=Player Lv: $1
 [FF7C4E,D62146]該当Lv帯のプレイヤーが見つかりませんでした。[-]=[FF7C4E,D62146]The corresponding Lv band player was not found.[-]
 フレンド管理は\nこちらになります\n新しいフレンドとの出会いを\n楽しんでくださいね！=Friend management will be here. Please enjoy meeting new friends!
 
-最終ログイン=Last Login
+最終ログイン=最後登入時間
 
 申請中リスト=Pending
 [FF7C4E,D62146]フレンド申請中のプレイヤーはいません。[-]=[FF7C4E,D62146]You have not added anyone yet.[-]

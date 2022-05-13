@@ -12,30 +12,30 @@
 r:"^([0-9/]+)回$"=$1 Times
 
 ===Clan List===
-r:"^\[FFBB00\,CE4F00\]最終ログイン:([0-9]+)時間以内\[-\]$"=[FFBB00,CE4F00]Online for: $1h[-]
-r:"^\[FFBB00\,CE4F00\]最終ログイン:([0-9]+)日前\[-\]$"=[FFBB00,CE4F00]Last Login: $1d ago[-]
-r:"^\[FFBB00\,CE4F00\]最終ログイン:([0-9]+)時間前\[-\]$"=[FFBB00,CE4F00]Last Login: $1h ago[-]
-r:"^\[FFBB00\,CE4F00\]最終ログイン:([0-9]+)分前\[-\]$"=[FFBB00,CE4F00]Last Login: $1m ago[-]
+r:"^\[FFBB00\,CE4F00\]最終ログイン:([0-9]+)時間以内\[-\]$"=[FFBB00,CE4F00]最後登入時間:$1小時以內[-]
+r:"^\[FFBB00\,CE4F00\]最終ログイン:([0-9]+)日前\[-\]$"=[FFBB00,CE4F00]最後登入時間:$1 天以前[-]
+r:"^\[FFBB00\,CE4F00\]最終ログイン:([0-9]+)時間前\[-\]$"=[FFBB00,CE4F00]最後登入時間:$1小時以前[-]
+r:"^\[FFBB00\,CE4F00\]最終ログイン:([0-9]+)分前\[-\]$"=[FFBB00,CE4F00]最後登入時間:$1分以前[-]
 ====[FFBB00,CE4F00]最終ログイン:9時間前[-]
 
 ===Clan Chat===
 ==[FFBB00,CE4F00]1日前[-][3C404E][-]
-r:"^\[FFBB00\,CE4F00\]([0-9]+)日前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1d ago[-]
-r:"^\[FFBB00\,CE4F00\]([0-9]+)時間前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1h ago[-]
-r:"^\[FFBB00\,CE4F00\]([0-9]+)分前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1m ago[-]
+r:"^\[FFBB00\,CE4F00\]([0-9]+)日前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1 天以前[-]
+r:"^\[FFBB00\,CE4F00\]([0-9]+)時間前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1 小時以前[-]
+r:"^\[FFBB00\,CE4F00\]([0-9]+)分前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1 分鐘以前[-]
 
 ===Liked for stamnina
 sr:"^(\[.*\])(.{1,10})さんにいいねをして\nスタミナを10獲得しました。\[-\]$"=$1You Liked $2-san\nand you got 10 stamina.[-]
 [FF7C4E,D62146]いいねされたクランメンバーにはマナがおくられます。[-]=[FF7C4E,D62146]Liked clan members will receive Mana.[-]
 いいね完了=Like Complete
 
-r:"^(.{1,10})がクランに加入しました。$"=$1 has joined the clan.
+r:"^(.{1,10})がクランに加入しました。$"=$1已加入戰隊。
 r:"^(.{1,10})がサブリーダーになりました。$"=$1 has become a sub-leader.
-r:"^(.{1,10})がクランから脱退しました。$"=$1 has left the clan.
-
+r:"^(.{1,10})がクランから脱退しました。$"=$1已退出戰隊。
+r:"^(.{1,10})をクランから除名しました。$"=$1已被戰隊剔除。
 変更期限：=Change deadline:
-r:"^終了まで (\d+)時間(\d+)分$"=Ends in $1h$2m
-r:"^終了まで (\d+)分$"=Ends in $1m
+r:"^終了まで (\d+)時間(\d+)分$"=距離結束$1小時$2分鐘
+r:"^終了まで (\d+)分$"=距離結束$1分鐘
 
 メンバー管理=Member Management
 プレイヤー情報を見る=View Player Information
@@ -54,7 +54,7 @@ r:"^終了まで (\d+)分$"=Ends in $1m
 クランバトル開催中：=Clan battle is being held:
 
 この投稿は有効期間が終了しました。=This post has expired.
-装備リクエスト中！=Requesting equipment!
+装備リクエスト中！=裝備請求中！
 寄付完了=Donation completion
 
 8時間経過したため、装備リクエストが終了しました。=You received the following equipment.\n8 hours have passed and the equipment request has ended.
@@ -65,67 +65,67 @@ r:"^以下の装備をx(\d+)獲得しました。\n現在の装備リクエス�
 所持上限を超えたアイテムはプレゼントに送られました=Items that exceed the possession limit have been sent as gifts
 前回のリクエスト結果=Result of Previous Request
 リクエスト結果=Request result
-sr:"^([0-9]{1,2}月)の順位：$"=$1 Rank:
+sr:"^([0-9]{1,2}月)の順位：$"=$1的排名:
 ===Clan===
-装備リクエスト=Request
-次回のモード変更開始まで\nモードは変更できません。=The mode cannot be changed\nuntil the next mode change starts.
-
+装備リクエスト=裝備請求
+次回のモード変更開始まで\nモードは変更できません。=在下次的模式變更開始之前，\n無法變更模式。
 クランバトル モード変更受付終了=Mode Change Request Closed.
 開催までお待ちください。=Please wait until CB ends.
 
-ンバー情報=y Clan
-メンバーリスト=Member List
-自由にプレイ=Free to Play
+ンバー情報=成員資訊
+メンバーリスト=成員清單
+自由にプレイ=自由的遊玩
 
 sr:"^クランバトル([0-9]+位)以内$"=CB Rank $1 or less
 
-脱退=Leave
-スタンプ=Sticker
-フレンドバトル=Friend Match
+脱退=退出
+スタンプ=貼圖
+フレンドバトル=好友對戰
 メッセージを入力してください=請輸入訊息
-r:"^挑戦回数:([0-3‐])$"=Attem.:$1
+r:"^挑戦回数:([0-3‐])$"=挑戰次數:$1
 
-ラン=Clan 
-クランバトルへ=To Clan Battle
-リーダー=Leader
-先月=Prv
-合計スコア=T.Score
-ランキング報酬確認=Ranking Rewards
-自分の順位=YourRank
-いいね=Like
-送信=Send
-全クラン=All Clans
+ラン=戰隊
+クランバトルへ=前往戰隊競賽
+リーダー=隊長
+先月=上月
+合計スコア=合計分
+ランキング報酬確認=排名報酬確認
+自分の順位=你的排名
+いいね=讚
+送信=送出
+全クラン=全戰隊
 パーティ{{A}}と\n対戦=Party {{A}}\nMatch
 クランチャット投稿=Clan chat posting
 編成したパーティをクランチャットに投稿できます。=You can post the organized party to the clan chat.
 このパーティでクランチャットに投稿しますか？=Do you want to post to Clan Chat at this party?
 パーティ名を編集します。=Edit the party name.
 パーティ名編集=Party Name Edit
-リクエスト=Request
-リクエスト確認=Request Item
-選択した装備の寄付をリクエストします。\nよろしいですか？=Request a donation of the selected equipment?
-8時間以内は新たにリクエストできません。=You cannot make a new request for 8 hours.
-寄付上限数=Maximum Donations
-リクエスト完了=Request Sent
+リクエスト=請求
+リクエスト確認=裝備請求確認
+選択した装備の寄付をリクエストします。\nよろしいですか？=將請求選取裝備之捐贈。\n確定要這麼做嗎？
+8時間以内は新たにリクエストできません。=8小時以內無法在提出新的請求。
+寄付上限数=捐贈上限數量
+リクエスト完了=請求已經發出
 [3C404E]チャットへの投稿を完了しました。[-]=[3C404E]聊天室投稿完畢[-]
 クランチャット投稿完了=Clan chat post completed
-[3C404E]クラン内のチャットで\n装備をリクエストしました。[-]=[3C404E]You have requested this equipment\nin the clan chat.[-]
-リクエスト状況=Request Status
-確認する=Confirm
+[3C404E]クラン内のチャットで\n装備をリクエストしました。[-]=[3C404E]在戰隊裡的聊天室上，\n發布了該裝備的請求。[-]
+リクエスト状況=請求狀況
+確認する=進行確認
 パーティ総戦力=Party Power
 対戦する=Match
 あなた=you
-現在の装備リクエストの状況です。=Status of current equipment request.
-寄付の情報がありません。=No donation info.
-現在の寄付数=Donations
+現在の装備リクエストの状況です。=這是目前請求裝備的狀況
+寄付の情報がありません。=沒有任何捐贈的資訊。
+現在の寄付数=當前的捐贈數
 寄付の確認=Donate Equipment
 以下の装備を寄付します。\nよろしいですか？=Donate the following equipment?
 寄付状況=Donation Status
 r:"^\[FF7C4E,D62146\]本日の残り寄付数は(\d+)です。\[-\]$"=[FF7C4E,D62146]$1 donations left today.[-]
-ラ=R
-ンキング=anking
+ラ= 
+ンキング=排名
 
-sr:"^\[25CFDE,0E6C98\](\d+月)全クランランキング\[-\]$"=[25CFDE,0E6C98]Global Ranking($1)[-]
+sr:"^\[25CFDE,0E6C98\](\d+月)全クランランキング\[-\]$"=[25CFDE,0E6C98]$1全戰隊排名[-]
+
 ===Clan Battle===
 {{A}}{{D}}日{{B}}{{C}}={{A}}-{{D}} {{B}}{{C}}
 CPと挑戦回数は毎日{{B}}:{{A}}にリセットされます。=CPs & attempts will be reset at {{B}}:{{A}}(UTC+9) daily.
@@ -157,7 +157,7 @@ CPと挑戦回数は毎日{{B}}:{{A}}にリセットされます。=CPs & attemp
 トレーニングバトルの結果はスコアランキングに影響しません。=The result of the training battle does not affect score ranking.
 クランバトルに挑戦しよう=Clan Battle Available!
 今回のクランバトル開催期間中は表示しない=Do not display during CB
-詳細=Detail
+詳細=詳細資訊
 [FFFDF7,FFE0E9]圏外[-]=[FFFDF7,FFE0E9]N/A[-]
 バトルログ=Fight Log
 トレーニング\nモード=Training Mode
@@ -170,17 +170,17 @@ CPと挑戦回数は毎日{{B}}:{{A}}にリセットされます。=CPs & attemp
 討伐情報=Clearⓘ
 確認=Check
 残り挑戦回数=剩餘挑戰次數
-戦績=Achievement
+戦績=戰績
 伐情報=Clear info
 周回=Lap
 ヘルプ=幫助
-クラン内=Rank
+クラン内=戰隊內
 ランバトル=Clan Battle
 [FF7C4E,D62146]本日の上限です[-]=[FF7C4E,D62146]Today's max[-]
 現在のCP=Current CP
 残り持越し回数=Left Over
 トレーニング=Trial Run
-r:"^(\d)段階目$"=Tier $1
+r:"^(\d)段階目$"=第$1階段
 表示段階=Select Tier
 絞り込み=篩選
 レポート=Report
@@ -192,7 +192,7 @@ r:"^(\d)段階目$"=Tier $1
 モンスター詳細=Monster Details
 開催期間が終了しました=This Clan Battle is\nno longer in progress.
 ボスを選択してトレーニングバトルに挑戦できます。=Select a boss to challenge for training.
-一覧	=All
+一覧	=一覽
 報酬確認=Received Rewards
 以下のモンスターを倒して報酬を受け取りました。=Defeated monsters and received rewards.
 本戦使用制限=Restricted
@@ -206,7 +206,7 @@ r:"^(\d)段階目$"=Tier $1
 バトル結果確認=Battle Result Confirmation
 
 日時=Date
-使用制限=Restricted
+使用制限=使用限制
 未所持=Not\nOwned
 模擬戦を開始=Start\nTraining
 Lv制限=Lv Limit
@@ -219,8 +219,9 @@ Lv制限=Lv Limit
 更新可能になるまでお待ちください。=Please wait until it can be updated.
 {{A}}{{B}}以内に\n{{C}}人が本戦を開始しました。={{C}} Player(s) started clash\nbattle within the last 1m30s.
 
-サポートキャラ確認=Rental Character Confirmation
-このキャラを借ります、よろしいですか？=Rent this character?
+サポートキャラ確認=支援角色確認
+このキャラを借ります、よろしいですか？=確定要借用此角色嗎？
+途中でリタイアした場合、この内容はキャンセルされます。=在中途退出時，會取消此內容。
 獲得スコア=Score
 受けたダメージ=受到傷害
 サポートキャラの★変更=Support Character's ★ Change
@@ -248,7 +249,7 @@ CPが300たまるごとに挑戦可能数がアップします。\nCPはメイ�
 [FFFDF7,FFE0E9]集計中[-]=[FFFDF7,FFE0E9]Tallying[-]
 集計中=Tallying
 [FF7C4E,D62146]現在ランキング集計中です。[-]=[FF7C4E,D62146]Currently being calculated[-]
-全キャラ総戦力=Total Power
+全キャラ総戦力=全角色總戰鬥力
 所属クランのランキング情報がありません。=No ranking information at the moment
 いいねは1日1回のみ利用可能です。=Likes can only be used once per day
 
@@ -329,7 +330,7 @@ r:"^(\d)戦目\n本戦参加済$"=Used at\nParty $1
 ダメージランキング報酬=Damage Ranking Reward
 討伐報酬に加え、本戦で獲得したスコアの\nクラン内ランキングに応じて以下の報酬が獲得できます。=The following rewards will be awarded according to the ranking within the clan
 
-報酬は順位が確定し次第、プレゼントに送られます。=Rewards will be sent when rankings are finalized
+報酬は順位が確定し次第、プレゼントに送られます。=獎勵將會在確定了排名後，由禮物的形式發放
 
 すでに解散しているクランです。=These clan already disbanded.
 位= 
@@ -357,7 +358,7 @@ sr:"^(.+)　Lv.(\d+)$"=$1 lv.$2
 ==={{A}}体目=B-{{A}}
 
 与えたダメージ=給予傷害
-全段階合計=All Tier Score Total
+全段階合計=全階段合計
 バトルTL=Battle TL
 お気に入り=Favorite
 バトルTLをコピーしました。=Copy Battle TL.
