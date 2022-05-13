@@ -88,7 +88,7 @@ sr:"^(\[[0-9a-fA-F,]{6,13}\])★3キャラ出現率2倍！限定「([べ-・ー�
 {{B}}{{D}}キャラ目は{{A}}★{{E}}キャラ確定！[-]\n対象キャラを仲間にする度に{{A}}対象メモピ{{C}}個[-]GET！[-]={{B}}A {{A}}★3 character[-] is guaranteed with each 10x draw!\n※Each pull a target Character, {{A}}Gets a Bonus of {{C}} Memory Shards[-].[-]
 
 [FFBB00,CE4F00]プラチナガチャはキャラのみ出現！[-]=[FFBB00,CE4F00]Platinum Gacha only appears for characters![-].
-キャラ交換Ptの説明=角色交換Pt的説明
+キャラ交換Ptの説明=Character exchange Pt description
 
 ===Banner==
 
