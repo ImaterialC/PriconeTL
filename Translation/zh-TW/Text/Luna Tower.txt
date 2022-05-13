@@ -58,7 +58,7 @@ EXクエスト一覧=EX Floors
 未所持/制限Lv以下のキャラは編成できません。=Characters you do not own\nor under leveled cannot be used.
 今後このメッセージを表示しない\n※この設定は後から［設定］で変更できます。=今後不再顯示此訊息\n※此項設定之後可以至〔設定〕進行變更。
 
-クエストリタイア=Leave Quest
+クエストリタイア=退出冒險
 {{A}}リタイアするとクエスト報酬を\n獲得することができません。\n\nよろしいですか？[-]={{A}}You will not receive any rewards if you quit.\n\nAre you sure?[-]]
 ルナの塔{{A}}階 EXクエスト=Luna Tower {{A}} Floor EX Quest
 ルナの塔{{A}}階=Luna Tower {{A}}F

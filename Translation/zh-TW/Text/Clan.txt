@@ -206,7 +206,7 @@ r:"^(\d)段階目$"=第$1階段
 バトル結果確認=Battle Result Confirmation
 
 日時=Date
-使用制限=Restricted
+使用制限=使用限制
 未所持=Not\nOwned
 模擬戦を開始=Start\nTraining
 Lv制限=Lv Limit
@@ -219,8 +219,9 @@ Lv制限=Lv Limit
 更新可能になるまでお待ちください。=Please wait until it can be updated.
 {{A}}{{B}}以内に\n{{C}}人が本戦を開始しました。={{C}} Player(s) started clash\nbattle within the last 1m30s.
 
-サポートキャラ確認=Rental Character Confirmation
-このキャラを借ります、よろしいですか？=Rent this character?
+サポートキャラ確認=支援角色確認
+このキャラを借ります、よろしいですか？=確定要借用此角色嗎？
+途中でリタイアした場合、この内容はキャンセルされます。=在中途退出時，會取消此內容。
 獲得スコア=Score
 受けたダメージ=受到傷害
 サポートキャラの★変更=Support Character's ★ Change

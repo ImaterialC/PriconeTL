@@ -1,4 +1,4 @@
-イドストーリー=線劇情
+イドストーリー=支線劇情
 [3C404E][FFBB00,CE4F00]サイドストーリー[-]が解放されました。[-]=[3C404E]The [FFBB00,CE4F00]Side Story[-] has been released.[-]
 sr:"^メインクエスト([0-9\-\(\)\w ]*)クリアで$"=Cleared Main Quest $1
 
@@ -19,9 +19,9 @@ sr:"^メインクエスト([0-9\-\(\)\w ]*)クリアで$"=Cleared Main Quest $1
 
 討伐済みです。=Already Cleared
 
-これまでのイベントで登場した\n限定キャラを仲間にできたり\nメモリーピースが手に入る\nみたいですよ。やばいですね☆=It seems that you'll be able befriend limited characters from previous events and get their memory shards. Yabai~
+これまでのイベントで登場した\n限定キャラを仲間にできたり\nメモリーピースが手に入る\nみたいですよ。やばいですね☆=好像還能獲得\n能讓至今活動中登場的\n限定角色成為夥伴的\n記憶碎片哦。太讚了吧☆
 
-過去のストーリーイベントを\n楽しめちゃいますよ！\n遊んだことのないものがあれば\n一緒にやってみましょう♪=You can enjoy story events from the past, and if there's one you haven't played before, we'll do it with you.
+過去のストーリーイベントを\n楽しめちゃいますよ！\n遊んだことのないものがあれば\n一緒にやってみましょう♪=享受過去的\n劇情活動吧！\n如果有尚未遊玩過的活動，\n就一起玩玩看吧♪
 [3C404E]討伐完了[-]=[3C404E]Subjugation Completed[-]
 ===NPC===
 ミッションをクリアして、\n報酬をゲットしましょう！=Clear the mission and get a reward!

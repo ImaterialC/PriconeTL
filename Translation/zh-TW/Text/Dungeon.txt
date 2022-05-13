@@ -6,7 +6,7 @@
 対戦相手=Opponent
 戦闘可能キャラ=Available Characters
 パック有効=Pack Validity
-報酬受け取り=Received Rewards
+報酬受け取り=領取獎勵
 
 パーティ編成=編組隊伍
 現在のメンバー=當前的成員

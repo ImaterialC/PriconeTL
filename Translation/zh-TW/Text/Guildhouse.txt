@@ -45,7 +45,7 @@ Like情報=Like Info
 同名キャラ\n選択中=Char Already\nSelected
 同名キャラ\n設置中=Char Already\nPlaced
 報酬受取=Claim All
-以下のアイテムを受け取りました。=You have received the following items.
+以下のアイテムを受け取りました。=已經領取下列道具。
 引き出せる{{A}}がありません。=There is no mana to take out.
 
 設置=Place
