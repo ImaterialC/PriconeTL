@@ -1,0 +1,41 @@
+Chika 
+//Profile
+チカ=Chika 
+人々を守るために歌う、唱喚士の少女=A summoner who sings to protect others
+
+//Skills
+//UB
+シルフィードブレス=Sylvan Blessing
+【召喚】チカの背後にいないすべての味方のＨＰを中回復し、さらに最も前の味方のそばに精霊を唱喚する。=Recovers HP of all allies in front of her by a moderate amount and summons a fairy beside the foremost ally.
+r:"^範囲内の味方のＨＰを(\d+)回復\n精霊を唱喚する$"=Recovers HP of all allies in range by $1.\nSummons a spirit.
+//S1
+チアーソング=Rousing Ballad
+最も前の味方を中心として、範囲内の全味方の物理攻撃力を中アップさせる。=Small boost to physical attack of all allies in a radius around the foremost ally.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ$"=Boosts physical attack of all allies in range by $1.
+//S2
+フェアリーズララバイ=Fairy's Lullaby
+目の前の敵１キャラの物理攻撃力を中ダウンさせる。=Lowers physical attack of an enemy directly in front by a moderate amount.
+r:"^敵単体の物理攻撃力を(\d+)ダウン$"=Lowers an enemy's physical attack by $1.
+//ex
+ギフテッドボイス=Gifted Voice
+バトル開始時に自分の魔法攻撃力を中アップさせる。=Moderate boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+
+//Skills+
+//UB
+シルフィードオーケストラ=Sylpheed orchestra
+【召喚】味方全体のＨＰを中回復し、物理攻撃力を特大アップさせ、物理攻撃クリティカル時のダメージを中アップさせ、継続ＨＰ回復状態を付与する。さらに最も前の味方のそばに精霊を唱喚する。=[Summon] The HP of all allies is recovered, the physical attack power is increased, and the damage during physical attack critical is improved, and a continuous HP recovery state is granted. Furthermore, call a spirit near the previous ally.
+r:"^味方全体のＨＰを(\d+)回復\n味方全体の物理攻撃力を(\d+)アップ\n味方全体の物理攻撃クリティカル時のダメージを28％アップ\n毎秒ＨＰを(\d+)回復する\n精霊を唱喚する$"=Recovery of the HP of all allies $1\nUp $1 of physical attack power of all allies\n28 % increase in damage to physical attack critical to all allies\nRecovers HP every second $1\nRecall the spirit
+//S1
+チアーソング+=Cheer song+
+最も前の味方を中心として、範囲内の味方すべての物理攻撃力を大アップ、物理クリティカルを中アップさせ、さらに範囲内の味方すべてを小回復するフィールドを展開する。=Located by the previous ally, the physical attack power of all allies within the range will be greatly improved, physical criticals will be improved, and a field will be developed to recover all the ally in the range.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ\n範囲内の味方の物理クリティカルを(\d+)アップ\n毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Up $1 the physical attack power of allies within the range\nUp $1 the physical critical of allies within the range\nExpand the field to recover the HP per second to recover
+//S2
+
+r:"^$"=
+//ex
+ギフテッドボイス+=Gifted Voice+
+バトル開始時に自分の魔法攻撃力を中アップさせ、さらに自分の魔法防御力を小アップさせる。=Moderate boost to own magical attack and small boost to magical defense at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ\n自分の魔法防御力を(\d+)アップ$"=Boosts own magic attack by $1.\nBoosts own magic defense by $1.
+//UE
+翠霊譜ルーンノーツ=Midori Spirit Runes Notes

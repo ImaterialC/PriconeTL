@@ -1,0 +1,40 @@
+Anna 
+//Profile
+アンナ=Anna 
+前世を信じる中二病患者、「疾風の冥姫」=A delusional girl who believes she was a hero in a previous life, "Hecate of the Gale"
+
+//Skills
+//UB
+羅刹涅槃・極光終天冥壊破=Demonic Salvation: Apocalypse Dawn
+敵全体に魔法中ダメージを与えるが、使用後アンナの物理防御力と魔法防御力が特大ダウンする。=Deals moderate magical damage to all enemies. Lowers own physical and magical defense by a massive amount after use.
+r:"^敵全体に(\d+)の魔法ダメージ\n自分の物理防御力を0にする\n自分の魔法防御力を0にする$"=Deals $1 magic damage to all enemies.\nLowers own physical defense to 0.\nLowers own magical defense to 0.
+//S1
+羅刹涅槃・無式=Demonic Salvation: Infinity
+目の前の敵１キャラに魔法中ダメージを与える。=Deals moderate magical damage to an enemy directly in front.
+r:"^敵単体に(\d+)の魔法ダメージ$"=Deals $1 magic damage to an enemy.
+//S2
+冥空天昇=Void Accession
+【自爆】アンナのＨＰが最大ＨＰの１０％以下になった時に発動し、周囲の敵すべてに魔法大ダメージを与えるが、自身は戦闘不能になる。=[Self Destruct] Activates when HP falls to 10% or below. Deals large magical damage to all enemies in range but knocks herself out.
+r:"^範囲内の敵に(\d+)の魔法ダメージ$"=Deals $1 magic damage to enemies in range.
+//ex
+覇叉冥滅獄炎呪=Hellfire of the Dark Conqueror
+バトル開始時に自分の魔法攻撃力を中アップさせる。=Moderate boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+羅刹涅槃・無式+=Demonic Salvation: Infinity+
+目の前の敵１キャラに魔法中ダメージを与え、さらに魔法防御力を小ダウンさせる。=Deals moderate magical damage to an enemy directly in front and lowers its magical defense by a small amount.
+r:"^敵単体に(\d+)の魔法ダメージ\n敵単体の魔法防御力を(\d+)ダウン$"=Deals $1 magic damage to an enemy.\nLowers an enemy's magic defense by $1.
+//S2
+
+r:"^$"=
+//ex
+覇叉冥滅獄炎呪+=Hellfire of the Dark Conqueror+
+バトル開始時に自分の魔法攻撃力を大アップさせる。=Large boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+//UE
+螺旋霊撃疾風飛剣=Vortex Thorn

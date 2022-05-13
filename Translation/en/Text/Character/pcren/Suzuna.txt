@@ -1,0 +1,41 @@
+Suzuna 
+//Profile
+スズナ=Suzuna 
+天真爛漫で人気者のカリスマモデル=A charismatic fashion model who's naïve yet popular
+
+//Skills
+//UB
+ハートブレイク=Heart Breaker
+目の前の敵１キャラに物理特大ダメージを与える。このスキルは必ずクリティカルする。=Deals large physical damage to an enemy directly in front. This always results in a critical hit.
+r:"^敵単体に(\d+)の物理ダメージ$"=Deals $1 physical damage to an enemy.
+//S1
+おこぷんダーツ=Meany Missile
+目の前の敵１キャラに物理中ダメージを与える。このスキルは必ずクリティカルする。=Deals moderate physical damage to an enemy directly in front. This always results in a critical hit.
+r:"^敵単体に(\d+)の物理ダメージ$"=Deals $1 physical damage to an enemy.
+//S2
+カリスマオーラ♪=Charming Aura ♪
+自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+//ex
+もにカワフィーリング=Super Cute Sensation
+バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+
+//Skills+
+//UB
+オートクチュール・ハート=Auto Couture Heart
+自分の物理攻撃クリティカル時のダメージを中アップさせる。さらに目の前の敵１キャラに物理特大ダメージを与える。このスキルの１ヒットのダメージは必ずクリティカルする。=Upload the damage during your physical attack critical. Furthermore, it deals physical oversized damage to one enemy in front of you. Be sure to crity the damage of one hit in this skill.
+r:"^自分の物理攻撃クリティカル時のダメージを25％アップ\n敵単体に(\d+)の物理ダメージ$"=Improve the damage during your physical attack critical by 25 %\nPhysical damage of $1 to the enemy alone
+//S1
+おこぷんダーツ+=Okopon Darts+
+目の前の敵１キャラに計３回ヒットし、クリティカル時のダメージが２倍ではなく３倍になる物理大ダメージを与える。このスキルの１ヒットのダメージは必ずクリティカルする。=It hits one character in front of you three times, causing a physical -size damage that makes the critical damage three times more than twice. Be sure to crity the damage of one hit in this skill.
+r:"^敵単体に(\d+)の物理ダメージ\n敵単体に(\d+)の物理ダメージ\n敵単体に(\d+)の物理ダメージ$"=Physical damage of $1 to the enemy alone\nPhysical damage of $1 to the enemy alone\nPhysical damage of $1 to the enemy alone
+//S2
+
+r:"^$"=
+//ex
+もにカワフィーリング+=Super Cute Sensation+
+バトル開始時に自分の物理攻撃力を大アップさせる。=Large boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+//UE
+クリティカルキス=Critical kiss

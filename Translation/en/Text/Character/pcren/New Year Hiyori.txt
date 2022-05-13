@@ -1,0 +1,40 @@
+New Year Hiyori 
+//Profile
+ヒヨリ（ニューイヤー）=New Year Hiyori 
+人助けが大好き！　前向き格闘娘=An optimistic fighter who loves helping people
+
+//Skills
+//UB
+ヒヨリハッピースタンプ=Hiyori Happy Stamp
+目の前の敵１キャラに物理特大ダメージを与え、さらに物理防御力とＴＰ上昇を小ダウンさせる。=Deals massive physical damage to an enemy directly in front and lowers their physical defense and TP Boost by a small amount.
+r:"^敵単体に(\d+)の物理ダメージ\n敵単体の物理防御力を(\d+)ダウン\n敵単体のＴＰ上昇を(\d+)ダウン$"=Deals $1 physical damage to an enemy.\nLowers an enemy's physical defense by $1.\nLowers an enemy's TP Boost by $1.
+//S1
+肉球チャージ=Paw-Paw Charge
+自分の物理攻撃力を中アップさせ、さらに物理攻撃を行うすべての味方キャラの物理攻撃力を中アップさせる。=Large boost to own physical attack, and moderate boost to the physical attack of all allies that use physical attacks.
+r:"^自分の物理攻撃力を(\d+)アップ\n対象の味方の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.\nBoosts target allies' physical attack by $1.
+//S2
+グッドラックパンチ=Good Luck Punch
+目の前の敵１キャラに物理中ダメージを与える。=Deals moderate physical damage to an enemy directly in front.
+r:"^敵単体に(\d+)の物理ダメージ$"=Deals $1 physical damage to an enemy.
+//ex
+ハッピーストレングス=Strength of Happiness
+バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+肉球チャージ+=Paw Charge+
+自分の物理攻撃力を特大アップさせ、さらに物理攻撃を行うすべての味方キャラの物理攻撃力を特大アップ、物理クリティカルを中アップさせる。=Extras your physical attack power, and also increase the physical attack power of all allies characters that perform physical attacks, and improve physical criticals.
+r:"^自分の物理攻撃力を(\d+)アップ\n対象の味方の物理攻撃力を(\d+)アップ\n対象の味方の物理クリティカルを(\d+)アップ$"=$1 up your physical attack power\nUp $1 the physical attack power of the target ally\nUp $1 the physical critical of the target ally
+//S2
+
+r:"^$"=
+//ex
+ハッピーストレングス+=Strength of Happiness+
+バトル開始時に自分の物理攻撃力を大アップさせる。=Large boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+//UE
+猫明神ニャンフィスト=Cat Meijin Nyan Fist

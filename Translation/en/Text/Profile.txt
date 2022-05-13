@@ -1,6 +1,6 @@
 ロフィール=rofile
 プ=P
-r:"^([0-9/]+)人$"=$1 People
+r:"^(\d+)/(\d+)人$"=$1/$2 People
 ===Menu===
 ウィークリー=Weekly
 EXクエスト=EX Quest

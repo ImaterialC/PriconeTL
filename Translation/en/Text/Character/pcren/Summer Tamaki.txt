@@ -1,0 +1,40 @@
+Summer Tamaki 
+//Profile
+タマキ（サマー）=Summer Tamaki 
+弱きを助け強きをくじく猫娘=A catgirl who fights against the strong on behalf of the weak
+
+//Skills
+//UB
+ねこねこサマーレイブ=Kitty-Cat Summer Rave
+前方範囲内のランダムな敵キャラに、単体物理中ダメージを計４回与える。=Deals moderate physical damage to a random enemy in range 4 times.
+r:"^敵単体に(\d+)の物理ダメージ\n敵単体に(\d+)の物理ダメージ\n敵単体に(\d+)の物理ダメージ\n敵単体に(\d+)の物理ダメージ$"=Deals $1 physical damage to an enemy.\nDeals $1 physical damage to an enemy.\nDeals $1 physical damage to an enemy.\nDeals $1 physical damage to an enemy.
+//S1
+サマービーチアブソーブ=Summer Sun Absorption
+目の前の敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復する。=Lowers the TP of an enemy directly in front by a small amount and recovers own TP by a small amount.
+r:"^敵単体のＴＰを(\d+)失わせる\n自分のＴＰを(\d+)回復$"=Reduces an enemy's TP by $1.\nRecovers own TP by $1.
+//S2
+アイスブレイク=Ice Breaker
+自分の物理攻撃力を中アップさせ、さらに行動速度を大アップさせる。=Large boost to own physical attack and action speed.
+r:"^自分の物理攻撃力を(\d+)アップ\n自分の行動速度アップ$"=Boosts own physical attack by $1.\nBoosts own action speed.
+//ex
+キャッツインパラダイス=Kitty in Paradise
+バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+サマービーチアブソーブ+=Summer Beach Abseaub+
+目の前の敵１キャラのＴＰを小ダウンさせ、自分のＴＰを小回復する。さらに目の前の敵１キャラの物理攻撃力を大ダウンさせ、自分の物理攻撃力を特大アップさせる。=Let the TP of one character in front of you in front of you and recover your TP small. Furthermore, the physical attack power of one character in front of you in front of you will be greatly reduced and your physical attack power will be increased.
+r:"^敵単体のＴＰを(\d+)失わせる\n自分のＴＰを(\d+)回復\n敵単体の物理攻撃力を(\d+)ダウン\n自分の物理攻撃力を(\d+)アップ$"=Lost the TP of the enemy alone $1\nRecovery of your TP $1\nThe physical attack power of the enemy alone $1 down\n$1 up your physical attack power
+//S2
+
+r:"^$"=
+//ex
+キャッツインパラダイス+=Kitty in Paradise+
+バトル開始時に自分の物理攻撃力を大アップさせる。=Large boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+//UE
+氷鯛アイスダガー=Ice bream ice dagger

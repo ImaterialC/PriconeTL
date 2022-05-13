@@ -1,0 +1,41 @@
+Rino 
+//Profile
+リノ=Rino 
+人懐っこくてマシンガントークな妹系少女=A little sister-type who's friendly and talkative
+
+//Skills
+//UB
+アローレイン=Arrow Rain
+前方範囲内の敵すべてに物理中ダメージを与える。=Deals moderate physical damage to all enemies in range.
+r:"^範囲内の敵に(\d+)の物理ダメージ$"=Deals $1 physical damage to enemies in range.
+//S1
+コンセントレーション=Concentration
+自分の物理攻撃力と物理クリティカルを中アップさせる。=Moderate boost to own physical attack and physical critical rate.
+r:"^自分の物理攻撃力を(\d+)アップ\n自分の物理クリティカルを(\d+)アップ$"=Boosts own physical attack by $1.\nBoosts own physical critical rate by $1.
+//S2
+ブレイクアロー=Crushing Shot
+目の前の敵１キャラに物理中ダメージを与える。=Deals moderate physical damage to an enemy directly in front.
+r:"^敵単体に(\d+)の物理ダメージ$"=Deals $1 physical damage to an enemy.
+//ex
+ペネトレーション=Penetration
+バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+
+//Skills+
+//UB
+コロナレイン=Coronalin
+前方範囲内の敵すべてに物理大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく3.5倍になる。=Damage to all enemies within the front range. The damage when this skill is critical is 3.5 times rather than twice.
+r:"^範囲内の敵に(\d+)の物理ダメージ$"=Physical damage of $1 to enemies in the range
+//S1
+コンセントレーション+=Concentration+
+自分の物理攻撃力を大アップ、物理クリティカルを中アップさせ、さらに行動速度を大アップさせる。=Large boost to own physical attack and action speed, and moderate boost to own physical critical rate.
+r:"^自分の物理攻撃力を(\d+)アップ\n自分の物理クリティカルを(\d+)アップ\n自分の行動速度アップ$"=Boosts own physical attack by $1.\nBoosts own physical critical rate by $1.\nBoosts own action speed.
+//S2
+
+r:"^$"=
+//ex
+ペネトレーション+=Penetration+
+バトル開始時に自分の物理攻撃力を大アップさせる。=Large boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+//UE
+プロミネンスアロー=Prominence Arrow

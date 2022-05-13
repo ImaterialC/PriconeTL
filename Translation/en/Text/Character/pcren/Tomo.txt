@@ -1,0 +1,40 @@
+Tomo 
+//Profile
+トモ=Tomo 
+義理堅くてからかい好きな剣術少女=A swordfighter with a strong sense of duty who loves to tease
+
+//Skills
+//UB
+ミクマ流奥義・阿修羅=Mikuma Hidden Art: Asura
+目の前の敵１キャラに物理大ダメージを与え、さらに自分の物理攻撃力を特大アップさせ、行動速度を中アップさせる。=Deals moderate physical damage to an enemy directly in front. Massive boost to own physical attack and moderate boost to own action speed.
+r:"^敵単体に(\d+)の物理ダメージ\n自分の物理攻撃力を(\d+)アップ\n自分の行動速度アップ$"=Deals $1 physical damage to an enemy.\nBoosts own physical attack by $1.\nBoosts own action speed.
+//S1
+ミクマ流剣術・陣風=Mikuma Style: Gale Strike
+前方範囲内の敵すべてに物理小ダメージを与える。=Deals moderate physical damage to all enemies in range.
+r:"^範囲内の敵に(\d+)の物理ダメージ$"=Deals $1 physical damage to enemies in range.
+//S2
+ミクマ流剣術・燕返し=Mikuma Style: Returning Swallow
+目の前の敵１キャラに物理中ダメージを与え、さらに自分のＴＰを小回復させる。=Deals moderate physical damage to an enemy directly in front and recovers own TP by a small amount.
+r:"^敵単体に(\d+)の物理ダメージ\n自分のＴＰを(\d+)回復$"=Deals $1 physical damage to an enemy.\nRecovers own TP by $1.
+//ex
+気脈呼応・波動の型=Vital Resonance: Sheer Focus
+バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+ミクマ流剣術・陣風+=Mikuma Style: Gale Strike+
+前方範囲内の敵すべてに物理中ダメージを与える。前方範囲内の敵の数に応じて、ダメージが増加する。=Deals moderate physical damage to all enemies in range. Damage increases based on the number of targets.
+r:"^範囲内の敵に(\d+)の物理ダメージ$"=Deals $1 physical damage to enemies in range.
+//S2
+
+r:"^$"=
+//ex
+気脈呼応・波動の型+=Vital Resonance: Sheer Focus+
+バトル開始時に自分の物理攻撃力を大アップさせる。=Large boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+//UE
+天剣白嵐=Heavensbrand: White Squall

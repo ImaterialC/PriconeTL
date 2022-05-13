@@ -1,0 +1,41 @@
+Io 
+//Profile
+イオ=Io 
+多くの男性を魅了する無垢な女教師=A pure-hearted teacher who charms the hearts of men
+
+//Skills
+//UB
+ハートラブストーム=Lovely Heart Storm
+敵全体に魔法小ダメージを与え、さらに誘惑状態にする。=Deals small magical damage and inflicts Charm to all enemies.
+r:"^敵全体に(\d+)の魔法ダメージ\n敵全体を誘惑する$"=Deals $1 magic damage to all enemies.\nInflicts Attract on all enemies.
+//S1
+テイルウィップ=Tail Whip
+前から２番目の敵１キャラを中心とした範囲内の敵すべてに魔法小ダメージを与える。=Deals small magical damage to all enemies in range.
+r:"^範囲内の敵に(\d+)の魔法ダメージ$"=Deals $1 magic damage to enemies in range.
+//S2
+ソウルドレイン=Soul Drain
+ランダムな敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復する。=Reduces the TP of one random enemy by a small amount while also recovering own TP by a small amount.
+r:"^敵単体のＴＰを(\d+)失わせる\n自分のＴＰを(\d+)回復$"=Reduces an enemy's TP by $1.\nRecovers own TP by $1.
+//ex
+スウィートラブリーハート=Sweet, Loving Heart
+バトル開始時に自分の魔法攻撃力を中アップさせる。=Moderate boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+
+//Skills+
+//UB
+ハートラブサイクロン=Heart love cyclone
+敵全体に魔法中ダメージを与え、ＴＰを小ダウンさせ、ＴＰ上昇を小ダウンさせ、さらに誘惑状態にする。=Gain magic damage to the entire enemy, reduce the TP small, lower the TP rise, and further be tempted.
+r:"^敵全体に(\d+)の魔法ダメージ\n敵全体のＴＰを(\d+)失わせる\n敵全体のＴＰ上昇を(\d+)ダウン\n敵全体を誘惑する$"=Magic damage of $1 to all enemies\nLost $1 TP of all enemies\n$1 down the TP rise of all enemies\nSeduce all enemies
+//S1
+テイルウィップ+=Tail Whip+
+前から２番目の敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、さらに誘惑状態の敵のＴＰを大ダウンさせ、そうでない敵の物理攻撃力と魔法攻撃力を中ダウンさせる。=Deals moderate magical damage to all enemies in range. If they are suffering from Charm, reduces their TP by a large amount, and if they are not, lowers their physical and magical attack by a moderate amount.
+r:"^範囲内の敵に(\d+)の魔法ダメージ\n敵が誘惑状態の時、敵単体のＴＰを(\d+)失わせる敵が誘惑状態でない時、範囲内の敵の物理攻撃力を(\d+)ダウン$"=Deals $1 magic damage to enemies in range.\nReduces an enemy's TP by $1 if they are Charmed.Lowers physical attack of enemies in range by $1 if they are not Charmed.
+//S2
+
+r:"^$"=
+//ex
+スウィートラブリーハート+=Sweet, Loving Heart+
+バトル開始時に自分の魔法攻撃力を中アップさせ、さらに自分の魔法防御力を小アップさせる。=Moderate boost to own magical attack and small boost to magical defense at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ\n自分の魔法防御力を(\d+)アップ$"=Boosts own magic attack by $1.\nBoosts own magic defense by $1.
+//UE
+グラマーウィップ=Glamorous Whip

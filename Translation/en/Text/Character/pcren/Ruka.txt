@@ -1,0 +1,40 @@
+Ruka 
+//Profile
+ルカ=Ruka 
+人情味溢れる粋でいなせな「姉御」=A smart and sophisticated elder sister-type overflowing with kindness
+
+//Skills
+//UB
+零の太刀・水月鏡花=Origin Strike: Severing Moon
+目の前の敵１キャラに物理大ダメージを与え、さらに物理防御力を大ダウンさせる。=Deals large physical damage to an enemy directly in front and lowers their physical defense by a large amount.
+r:"^敵単体に(\d+)の物理ダメージ\n敵単体の物理防御力を(\d+)ダウン$"=Deals $1 physical damage to an enemy.\nLowers an enemy's physical defense by $1.
+//S1
+一の太刀・雫薙ぎ=First Strike: Reticence
+敵全体を挑発する。挑発後のモーション中に攻撃を受けた場合、前方範囲内の敵すべてに物理中ダメージを与え、さらに小さく吹き飛ばす。=Taunts all enemies and enters a stance. If attacked during this stance, deals moderate physical damage to all enemies in range and knocks them back slightly.
+r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ$"=Provokes all enemies.Deals $1 physical damage to enemies in range.
+//S2
+海内無双の型=Peerless Stance
+自分のＨＰを中回復し、さらに物理防御力を中アップさせる。=Recovers own HP by a small amount and boosts physical defense by a moderate amount.
+r:"^自分のＨＰを(\d+)回復\n自分の物理防御力を(\d+)アップ$"=Recovers own HP by $1.\nBoosts own physical defense by $1.
+//ex
+明鏡止水の境地=True Enlightenment
+バトル開始時に自分の魔法防御力を中アップさせる。=Moderate boost to own magical defense at start of battle.
+r:"^自分の魔法防御力を(\d+)アップ$"=Boosts own magic defense by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+一の太刀・雫薙ぎ+=Ichinota, Shizukata Goro+
+敵全体を挑発する。挑発後のモーション中に攻撃を受けた場合、前方範囲内の敵すべてに物理大ダメージを与え、物理防御力を小ダウンさせ、さらに小さく吹き飛ばす。=Provocation of all enemies. If you are attacked during the motion after the provocation, you will do a physics -based damage to all enemies within the front range, reduce the physical defense, and blow it away even smaller.
+r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ範囲内の敵の物理防御力を(\d+)ダウン$"=Provocation of all enemiesPhysical damage of $1 to enemies in the rangeThe physical defense power of the enemy in the range $1 down
+//S2
+
+r:"^$"=
+//ex
+明鏡止水の境地+=True Enlightenment+
+バトル開始時に自分の魔法防御力を大アップさせる。=Large boost to own magical defense at start of battle.
+r:"^自分の魔法防御力を(\d+)アップ$"=Boosts own magic defense by $1.
+//UE
+真打 絶海・波浪丸=Shin -shuttery / Namimaru

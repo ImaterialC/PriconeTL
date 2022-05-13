@@ -1,0 +1,41 @@
+Summer Pecorine 
+//Profile
+ペコリーヌ（サマー）=Summer Pecorine 
+いつも元気な腹ペコ少女=A girl who's always cheerful and hungry
+
+//Skills
+//UB
+プリンセススプラッシュ=Princess Splash
+前方範囲内の敵すべてに物理大ダメージを与える。=Deals large physical damage to all enemies in range.
+r:"^範囲内の敵に(\d+)の物理ダメージ$"=Deals $1 physical damage to enemies in range.
+//S1
+デザートタイム=Dessert Time
+自分の物理攻撃力を特大アップさせるが、魔法防御力を中ダウンさせる。=Massive boost to own physical attack. Also lowers own magical defense by a moderate amount.
+r:"^自分の物理攻撃力を(\d+)アップ\n自分の魔法防御力を初期値の20%ダウン$"=Boosts own physical attack by $1.\nLowers own magic defense by 20%.
+//S2
+パラソルアサルト=Parasol Assault
+前方範囲内の敵すべてに物理小ダメージを与え、さらに目の前の敵１キャラを小さく吹き飛ばす。=Deals small physical damage to all enemies in range and knocks back slightly an enemy directly in front.
+r:"^範囲内の敵に(\d+)の物理ダメージ$"=Deals $1 physical damage to enemies in range.
+//ex
+海の幸パワー=Seafood Power
+バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+
+//Skills+
+//UB
+プリンセスマリンインパクト=Princess Marine Impact
+前方範囲内の敵すべてに物理特大ダメージを与え、さらに自分の物理攻撃力を中アップさせる。このスキルで与えたダメージ量に応じて、物理攻撃力の上昇量が最大10倍までアップする。=It deals physical oversized damage to all enemies within the front range, and further improves your physical attack power. Depending on the amount of damage caused by this skill, the amount of physical attack power increases to up to 10 times.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ$"=Physical damage of $1 to enemies in the range$1 up your physical attack power
+//S1
+デザートタイム+=Dessert time+
+自分の物理攻撃力を特大アップさせ、物理クリティカルを大アップさせるが、魔法防御力を中ダウンさせる。=Make your physical attack power oversized and increase your physical criticality, but keep the magic defense.
+r:"^自分の物理攻撃力を(\d+)アップ\n自分の物理クリティカルを(\d+)アップ\n自分の魔法防御力を初期値の20%ダウン$"=$1 up your physical attack power\nUp $1 up your physical critical\n20%down on the initial value of your magic defense power
+//S2
+
+r:"^$"=
+//ex
+海の幸パワー+=Seafood Power+
+バトル開始時に自分の物理攻撃力を大アップさせる。=Large boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+//UE
+傘剣ビーチプリンセス=Umbrella Sword Beach Princess

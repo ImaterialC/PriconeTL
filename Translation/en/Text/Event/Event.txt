@@ -104,7 +104,6 @@ r:"^([1-9])回目の報酬をリセット$"=Reward Reset $1
 ===Login===
 イベントログインボーナス獲得=Event Login Bonus Received
 r:"^(\d+)日目のログインボーナスとして以下のアイテムを獲得しました。$"=You received the following items as a bonus for logging on the day $1.
-{0}日目のログインボーナスとして以下のアイテムを獲得しました。=You received the following items as a bonus for logging on the day {0}.
 
 ===exhibition===
 バトルログがまだありません。=There is no battle log.
@@ -139,7 +138,7 @@ r:"^(\d+)回目～$"="Line $1+"
 リセット完了=Reset Complete
 報酬ラインナップをリセットしました。=The reward lineup has been reset.
 r:"^合計 (\d+)$"=Total $1
-r:"^残り ([0-9/]+)$"=$1 Remaining
+r:"^残り (\d+)/(\d+)$"=$1/$2 Remaining
 r:"^(\d)回目の報酬ラインナップをすべて獲得しました。$"=You have obtained all of the $1 reward lineup.
 次の報酬ラインナップに切り替えます。=Switch to the next reward lineup.
 
