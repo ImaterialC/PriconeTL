@@ -1,5 +1,5 @@
-ンジョン=下城
-ダ=地
+ンジョン=地下城
+ダ= 
 帰還する=返回
 現在の階数=Progress
 プレイヤー名=玩家名稱
@@ -49,27 +49,27 @@ sr:"^あと(\d+)時間(\d+)分は選択できません。$"=Cannot select for $1
 エリア「砂瀑の底都」に挑戦しますか？=Do you want to challenge the area\n"Sandfall Depths Capital"?
 
 ===Dungeon names===
-[2874AE,12304D]雲海の山脈[-]=[2874AE,12304D]Cloudtop Peak[-]
-雲をつらぬく山脈=A mountain that\npierces the clouds.
+[2874AE,12304D]雲海の山脈[-]=[2874AE,12304D]雲海山脈[-]
+雲をつらぬく山脈=雲霧繚繞的山脈
 
-[2874AE,12304D]密林の大樹[-]=[2874AE,12304D]Deepwood Oak[-]
-深い森の奥に存在する1本の大樹=A massive tree\ndeep within the forest.
+[2874AE,12304D]密林の大樹[-]=[2874AE,12304D]密林大樹[-]
+深い森の奥に存在する1本の大樹=立於森林深處的一棵大樹
 
-断崖の遺跡=Sheercliff Ruins
-[2874AE,12304D]断崖の遺跡[-]=[2874AE,12304D]Sheercliff Ruins[-]
-断崖絶壁で発見された遺跡=Ruins discovered on a\ntreacherous cliff.
+断崖の遺跡=斷崖遺跡
+[2874AE,12304D]断崖の遺跡[-]=[2874AE,12304D]斷崖遺跡[-]
+断崖絶壁で発見された遺跡=位於斷崖絕壁處的遺跡
 
-[2874AE,12304D]蒼海の孤塔[-]=[2874AE,12304D]Tideborne Tower[-]
-大海原にそびえる謎の巨塔=A tall and lonely tower\nsurrounded by ocean.
+[2874AE,12304D]蒼海の孤塔[-]=[2874AE,12304D]蒼海孤塔[-]
+大海原にそびえる謎の巨塔=矗立於大海中謎樣的巨塔
 
-[2874AE,12304D]毒瘴の闇稜[-]=[2874AE,12304D]Darkblight Crag[-]
-瘴気渦巻く常闇の孤峰=A region of eternal night,\ntainted by dark energies.
+[2874AE,12304D]毒瘴の闇稜[-]=[2874AE,12304D]毒瘴闇稜[-]
+瘴気渦巻く常闇の孤峰=受瘴氣籠罩的暗闇孤峰
 
-[2874AE,12304D]緑竜の骸嶺[-]=[2874AE,12304D]Dragoncorpse Peak[-]
-厳峰に佇む竜の寝床=A dragon's resting place\nthat lies on the peak.
+[2874AE,12304D]緑竜の骸嶺[-]=[2874AE,12304D]綠龍骸嶺[-]
+厳峰に佇む竜の寝床=佇立於山頂的龍之寢床
 
-[2874AE,12304D]天上の浮城[-]=[2874AE,12304D]Heaven's Fortress[-]
-天空の番人が静かに眠る聖城=The divine fortress where\nthe guardians sleep.
+[2874AE,12304D]天上の浮城[-]=[2874AE,12304D]天上浮游城[-]
+天空の番人が静かに眠る聖城=天空守衛靜靜沉眠的聖城
 
 [2874AE,12304D]砂瀑の底都[-]=[2874AE,12304D]Sandfall Depths\nCapital[-]
 砂の大瀑布が落ちゆく果ての都=The Capital on the\nEnd of the Great Sandfall

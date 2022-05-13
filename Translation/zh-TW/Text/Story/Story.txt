@@ -1,6 +1,6 @@
 トーリー=情
 ス=劇
-インストーリー= Stories
+インストーリー= 主線劇情
 追加ストーリー情報=Sub Story Information
 [3C404E]未読の[FFBB00,CE4F00]メインストーリー[-]があります。\nストーリーを読んで報酬を獲得しましょう。[-]=[3C404E]Unreaded [FFBB00,CE4F00]Main Story[-].\nRead the story and earn a reward.[-]
 未読ストーリー=Unread Story
@@ -20,7 +20,7 @@ r:"^ボイスなし\n\(([.0-9]+) ([MG])B\)$"=Voice OFF\n($1 $2B)
 r:"^第(\d+)章 第(\d+)話が\n解放可能になりました。$"=第$1章 第$2話已解放。
 r:"^第(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"=Arc $1 Ch $2 Ep $3\nStory has release.
 ===Story Menu==
-
+メインストーリー=主線劇情
 メイン=主要
 アストライア大陸を\n舞台にした物語を\n見ることができます=可以在此處閱覽\n阿斯特賴亞大陸\n上的故事
 
@@ -37,7 +37,7 @@ r:"^第(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"=
 
 
 ===Bond Rank Story==
-ャラクターストーリー=Story
+ャラクターストーリー=角色劇情
 
 ===anni===
 ストーリーへ=Go to Story
