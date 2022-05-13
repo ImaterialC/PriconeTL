@@ -2,7 +2,7 @@
 プラチナガチャチケット=Premium Gacha Ticket
 選択したメモリーピース=Selected Memory Shard
 ミニEXPポーション=小型 EXP 藥水
-EXPポーション=普通 EXP 藥水
+EXPポーション=EXP 藥水
 EXPハイポーション=高劑量 EXP 藥水
 EXPメガポーション=特級 EXP 藥水
 EXPギガポーション=究極 EXP 藥水

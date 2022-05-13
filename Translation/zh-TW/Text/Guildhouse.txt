@@ -393,7 +393,7 @@ Like日時=Date
 
 ===upgrade notification===
 プレイヤーLv{{B}}以上 / {{D}}{{A}}{{C}}ルピ=P. Lv{{B}} or more & {{D}}{{A}}{{C}} Rupies
-ルピ=Rupies
+ルピ=盧幣
 消費ルピ=Use
 Lvアップ条件=LV up Req.
 Lvアップする=Lv Up

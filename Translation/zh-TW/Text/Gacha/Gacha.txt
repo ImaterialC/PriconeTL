@@ -183,7 +183,7 @@ sr:"^\[FFBB00,CE4F00\]「([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)」(「|)
 選択可能キャラ一覧=Select a char
 キャラ一覧から仲間にしたいキャラを選択してください。=Choose the character you want.
 未解放=未開放
-解放済み=Unlocked
+解放済み=已解放
 限定キャラ=Limited
 スペシャル キャラ交換ガチャセットについて=About Special Character Exchange
 [3C404E]外部ブラウザを開きますがよろしいですか？[-]=[3C404E]您確定要開啟外部瀏覽器嗎？[-]

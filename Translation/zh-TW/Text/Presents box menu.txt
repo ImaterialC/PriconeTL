@@ -1,16 +1,16 @@
-プレゼントボックス=Present Box
+プレゼントボックス=禮物BOX
 すべて受け取る=全部領取
-受け取り履歴=History
+受け取り履歴=領取紀錄
 [FF7C4E,D62146]期限が切れたプレゼントは自動的に削除されます。一度に受け取れるプレゼントは100件までです。[-]=[FF7C4E,D62146]超過期限的禮物將會自動被系統刪除。單次能領取的禮物最大件數為100件。[-]
 
-新しい順=Newest
-古い順=Oldest
-家具=Furniture
+新しい順=最新時間順序
+古い順=最舊時間順序
+家具=家具
 ギルドハウス家具は、メインクエスト2-1（NORMAL）クリアで受け取れます。=Guild House Furniture can be received by clearing the main quest $1.
-[FF7C4E,D62146]受け取れるアイテムがありません。[-]=[FF7C4E,D62146]There are no items.[-]
+[FF7C4E,D62146]受け取れるアイテムがありません。[-]=[FF7C4E,D62146]沒有可以領取的道具。[-]
 
-以下のプレゼントをまとめて受け取りますか？=Whould you like to accept all of the following presents?
-プレゼント受け取り=Receive Present
+以下のプレゼントをまとめて受け取りますか？=確定要將以下的禮物一次領取完成嗎？
+プレゼント受け取り=領取禮物
 報酬はプレゼントに送られました。=Reward have been sent to the Present Box.
 所持上限を超えたアイテムはプレゼントに送られました。=Items that exceed the possession limit have been sent as gifts.
 ===Item List Receive===A->Item,B->Number
@@ -20,17 +20,17 @@ sr:"^\[3C404E\]([\S\s]+)×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]$"=[3C404E]$1 × [-][F
 sr:"^(.{3,18})×(\d+)$"=$1 × $2
 ===sort===
 フィルタ=Filter
-期限あり=Limited Time
-期限なし=No Limit
-プレゼントの種類=Present Type
+期限あり=有期限
+期限なし=無期限
+プレゼントの種類=禮物的種類
 メモリーピース=記憶碎片
-コイン=Coins
-その他=Other
+コイン=硬幣
+その他=其他
 
 ===items===
-受け取り期限=Deadline
-獲得日時=Earned date and time
-受け取り日時=Date and time
+受け取り期限=領取時間期限
+獲得日時=獲得日期時間
+受け取り日時=領取的時間
 プリンセスアリーナの防衛報酬です。=Princess Arena defense reward.
 バトルアリーナの防衛報酬です。=Battle Arena defense reward.
 

@@ -43,7 +43,7 @@ r:"^終了まで (\d+)分$"=距離結束$1分鐘
 加入申請リスト=Join application list
 加入/勧誘リスト=Join / Recruitment List
 メンバーを探す=Find a member
-この装備リクエストは終了しました。=This equipment request has ended.
+この装備リクエストは終了しました。=此裝備請求已結束。
 この装備リクエストは終了しました=This equipment request has ended.
 ここから未読メッセージ=Unread message from here
 自分が投稿したパーティです。=This is the party I posted.
@@ -63,8 +63,12 @@ r:"^終了まで (\d+)分$"=距離結束$1分鐘
 r:"^以下の装備をx(\d+)獲得しました。\n現在の装備リクエストの状況です。$"=You received the following equipment × $1.\nStatus of current equipment request.
 
 所持上限を超えたアイテムはプレゼントに送られました=Items that exceed the possession limit have been sent as gifts
-前回のリクエスト結果=Result of Previous Request
-リクエスト結果=Request result
+r:"^以下の装備をx(\d+)獲得しました。\n(\d+)時間経過したため、装備リクエストが終了しました。$"=獲得了以下的裝備x$1個。\n經過了$2小時，因此裝備請求結束了。
+
+
+
+前回のリクエスト結果=上次請求的結果
+リクエスト結果=請求結果
 sr:"^([0-9]{1,2}月)の順位：$"=$1的排名:
 ===Clan===
 装備リクエスト=裝備請求
