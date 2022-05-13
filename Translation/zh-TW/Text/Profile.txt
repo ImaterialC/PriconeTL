@@ -11,12 +11,12 @@ r:"^(\d+)階$"=Floor $1
 クエスト達成数=Quest
 IDコピー=Copy ID
 自己紹介=Intro
-所属クラン=Clan
+所属クラン=所屬戰隊
 {{B}}{{C}}年{{A}}合計スコア=Total Score {{A}},{{B}}{{C}} 
 {{B}}{{C}}年{{A}}={{A}}, {{B}}{{C}}
 
-全キャラ戦力=Total Power
-プロフ作成=Profile
+全キャラ戦力=全角色戰力
+プロフ作成=個人資料製作
 進行状況=Progress
 作成日=Started on
 キャラ変更=Change
@@ -68,9 +68,9 @@ Twitter投稿=Post to Twitter
 ===Clan Profile Card===
 マイプロフ=My Profile
 募集要項=Bio
-加入条件=Status
-活動方針=Activity
-メンバー数=Member
+加入条件=加入條件
+活動方針=活動方針
+メンバー数=成員數
 未参加=Join
 承認あり=Approval
 {{B}}／{{A}}人={{B}}／{{A}}
@@ -78,13 +78,13 @@ Twitter投稿=Post to Twitter
 ランプロフカード=Clan Profile Card
 平均プレイヤーLv=Average P. LV
 作戦説明=Operation description
-個人=Personal
-過去の戦績=Past Results
+個人=個人
+過去の戦績=過去的戰績
 個人合計スコア=Individual Total Score
 クラン合計スコア=Clan Total Score
 全クランランキング=Total Ranking
 クラン内ランキング=In-Clan Ranking
-クランバトル戦績=Clan Battle Results
+クランバトル戦績=戰隊競賽戰績
 
 ===Title===
 
