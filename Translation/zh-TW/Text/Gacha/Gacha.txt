@@ -1,19 +1,20 @@
-ガ=轉
-チャ=蛋
-チャ結果=蛋結果
+ガ= 
+チャ=轉蛋
+チャ結果=轉蛋結果
 Sダッシュ=S:Dash
 プリフェス=PriFES
 プリフェスガチャ=PriFES Gacha
 ★3確定=Guaranteed ★3
-プラチナ=Platinum
-ピックアップ=Focus
-プラチナガチャ=Platinum Gacha
-ノーマルガチャ=Normal Gacha
-プライズガチャ=Prize gacha
+プラチナ=白金
+ピックアップ=Pick up
+プラチナガチャ=白金轉蛋
+ノーマルガチャ=普通轉蛋
+プライズガチャ=獎勵轉蛋
 所持制限数を越えたアイテムは、プレゼントに送られます。=Items beyond the possession limit will be sent to the present.
 ミじゃんけんタイム！=Janken Time!
 
-r:"^あと ([0-9:]{8})$"=$1 Left
+r:"^あと ([0-9:]+)$"=尚需 $1
+>>備註：「還需要」過長，不符合遊戲內格式，予以更動。
 ===Buy Mana===
 5:00にリセット=Reset at 5:00
 購入回数=# of purchases
@@ -36,17 +37,15 @@ r:"^\[3C404E\]あと\[-\]\[FFBB00,CE4F00\]([\d]+)セット購入\[-\]\[3C404E\]�
 おまけ=Bonus
 ===
 交換ラインナップ=交換清單
-所持キャラ交換Pt=Char. Exchange Pts
+所持キャラ交換Pt=持有的角色交換Pt
 所持数=持有數
 有償=有償
 
 無償=無償
-プライズ=Prize
-キャラ詳細=角色詳細資訊
+プライズ=獎勵
+キャラ詳細=角色詳細資料
 有償ジュエルで！=使用有償寶石！
 毎日   時にリセット=毎日   點重置　　　
-
-
 r:"^ストーリー ([\d]+)話$"=劇情 第$1話
 
 キャラ交換=角色交換
@@ -68,69 +67,71 @@ r:"^ストーリー ([\d]+)話$"=劇情 第$1話
 ガチャチケットを消費してガチャを 10 回引きます。\nよろしいですか？=Consumes 10 gacha ticket to draw 10 Gacha.\nIs it OK?
 
 ==Time==
-次回ガチャリセット時間=Next Gacha Reset
-
+次回ガチャリセット時間=下次轉蛋重置時間
+イベント限定キャラをGET！=GET event-limited characters!
+===Preview chara
+r:"^RANK([\d]+)/Lv([\d]+)/装備強化MAX/RANKボーナスを含むステータスです。$"=Rank$1/Lv$2/MAX Refined Equipment/Status including Rank Bonus.
+強化済=Enhanced
+所持スキル=Possessed skill
 
 ==Banner time
-sr:"^(\[[0-9a-fA-F,]{6,13}\])([0-9/ :]{16})～([0-9/ :]{11,16})まで\[-\]$"="$1$2 to $3 (UTC+9)[-]"
+sr:"^(\[[0-9a-fA-F,]{6,13}\])([0-9/ :]{16})～([0-9/ :]{11,16})まで\[-\]$"="$1$2 ～ $3 (UTC+9)為止[-]"
 ==Banner Description==
 sr:"^(\[[0-9a-fA-F,]{6,13}\])新キャラ「([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)」登場！\n期間中出現率UP！\[-\]$"="$1Boosted rates for the New character $2$3![-]"
 
-{{A}}★{{D}}キャラ出現率{{E}}倍！限定「{{B}}」登場！\n対象キャラを仲間にする度に対象メモピ{{C}}個GET！[-]={{A}} ★{{D}} character appearance rate {{E}} Limited "{{B}}" appeared! Each pull a target Character, {{A}}Gets a Bonus of {{C}} Memory Shards![-]
-
-===★3キャラ出現率2倍！限定「Akino&Saren」登場！\n対象キャラを仲間にする度に対象メモピ200個GET！
+sr:"^(\[[0-9a-fA-F,]{6,13}\])★3キャラ出現率2倍！限定「([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)」登場！\n対象キャラを仲間にする度に対象メモピ200個GET！[-]$"={{A}} ★3 character appearance rate 2 Limited "{{B}}" appeared! Each pull a target Character, {{A}}Gets a Bonus of {{C}} Memory Shards![-]
 
 [3C404E]『10回引く』は[FFBB00,CE4F00]★2以上[-]1キャラ確定！\n対象キャラを仲間にする度に[FFBB00,CE4F00]対象メモピ200個[-]GET！[-]=[3C404E]A [FFBB00,CE4F00]★2 or higher[-] character is guaranteed with each "10x draw"!\nEach pull a target Character, [FFBB00,CE4F00]Gets a Bonus of 200 Memory Shards[-][-]
 
-下記リストの中からプライズ{{A}}キャラを\n選択してください。=Select the prize memory shard character\nfrom the list below.
-[3C404E]『10回引く』は[FFBB00,CE4F00]★2以上[-]1キャラ確定！\n※すでに仲間にしているキャラは女神の秘石に変換されます。[-]=[3C404E]A [FFBB00,CE4F00]★2 or higher[-] character is guaranteed with each 10x draw!\n※Already recruited characters will be converted to Divine Amulets[-].
-
-
+下記リストの中からプライズのメモリーピースキャラを\n選択してください。=Select the prize memory shard character\nfrom the list below.
 
 {{B}}{{D}}キャラ目は{{A}}★{{E}}キャラ確定！[-]\n対象キャラを仲間にする度に{{A}}対象メモピ{{C}}個[-]GET！[-]={{B}}A {{A}}★3 character[-] is guaranteed with each 10x draw!\n※Each pull a target Character, {{A}}Gets a Bonus of {{C}} Memory Shards[-].[-]
-{{A}}限定キャラ復刻！出現率が期間中UP！\n『{{B}}回引く』で{{C}}等以上{{D}}個確定！[-]={{A}}Limited Character Replay! Appearance rate will increase during the period! "Draw 10 times" will guarantee 1 time 5th prize or higher[-]
 
-[FFBB00,CE4F00]プラチナガチャはキャラのみ出現！[-]=[FFBB00,CE4F00]Platinum Gacha only appears for characters![-].
 キャラ交換Ptの説明=角色交換Pt的説明
-{{A}}有効期間:{{B}}{{I}}/{{H}}/{{F}} {{F}}:{{C}} ～ {{H}}/{{E}} {{G}}:{{D}}[-]={{A}}Period: {{B}}{{I}}/{{H}}/{{F}} {{F}}:{{C}} to {{H}}/{{E}} {{G}}:{{D}} (UTC+9)[-]
-{{A}}有効期間:{{B}}{{J}}/{{I}}/{{F}} {{G}}:{{C}} ～ {{I}}/{{E}} {{H}}:{{D}}[-]={{A}}Period: {{B}}{{J}}/{{I}}/{{F}} {{G}}:{{C}} to {{I}}/{{E}} {{H}}:{{D}} (UTC+9)[-]
-{{A}}有効期間:{{B}}{{K}}/{{I}}/{{E}} {{G}}:{{C}} ～ {{H}}/{{J}} {{F}}:{{D}}[-]={{A}}Period:{{B}}{{K}}/{{I}}/{{E}} {{G}}:{{C}} to {{H}}/{{J}} {{F}}:{{D}} (UTC+9)[-]
 
 ===Banner==
 
-無料で10回ガチャは\n毎日5時と12時にリセットされます。=Free 10x Gacha resets daily at\n5:00 and 12:00 (UTC+9).
+無料で10回ガチャは\n毎日5時と12時にリセットされます。=Free 10x Gacha resets daily at\n5:00 and 12:00 (JST).
 ノーマルガチャを無料で10回引きます。\nよろしいですか？=Draw Normal Gacha 10x for free?
 キャラ交換Ptリセット=Char Exchange Pt Reset
-ガチャが更新されました。\n所持していたキャラ交換Ptがリセットされました。\n\n※キャラ交換PtはPt数と同枚数、\n{{A}}に変換されました。=The Gacha has been updated, and the Character Exchange Points you had have been reset.\n\nThe same number of Character Exchange Points as the number of Pt have been converted into Skip Tickets.
+ガチャが更新されました。\n所持していたキャラ交換Ptがリセットされました。\n\n※キャラ交換PtはPt数と同枚数、\nスキップチケットに変換されました。=The Gacha has been updated, and the Character Exchange Points you had have been reset.\n\nThe same number of Character Exchange Points as the number of Pt have been converted into Skip Tickets.
 
 ピックアップガチャ=Focus Gacha
 
-ジュエルを消費してガチャを {{A}} 回引きます。\nよろしいですか？=Spend Jewels for {{A}} pull?
+r:"^ジュエルを消費してガチャを (\d+) 回引きます。\nよろしいですか？$"=Spend Jewels for $1 pull?
 
 ===prize gacha===
-選択する=Select
+
+sr:"^\[FFBB00,CE4F00\]「([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)」(「|)([べ-・ー＆]{2,11}|)(\（.{3,10}\）)?(\s|)(」|)の\n出現率が期間中UP！『10回引く』で5等以上1個確定！\[-\]$"="[FFBB00,CE4F00]「$1$2」$4$5$6$7$8登場機率在期間內提升！\n『10 連轉蛋』確定有1個5等以上！[-]
+
+選択する=選擇
 プライズ選択=Prize Selection
 プライズ詳細=Prize Details
 プライズ履歴=Prize History
 プライズ内容=Prize Contents
 履歴がありません。=There is no history.
-提供割合=Rates
+提供割合=提供機率
 メモリーピース選択=Memory Shard Selection
-選択中=Selected
+選択中=選擇中
 
-『{{A}}回引く』（{{A}}プライズ目）=Draw {{A}} times-The {{A}}th Prize
-『{{A}}回引く』（{{C}}～{{B}}プライズ目）=Draw {{A}} times-Prizes {{C}} to {{B}}
-プライズ{{A}}個つき={{A}} prizes included
+1等  0.50％\n2等  1.00％\n3等  5.00％\n4等  10.00％\n5等  23.50％\n6等  60.00％\n\n※1回ごとに、その提供割合にもとづいて抽選を行っております。\n※『1回引く』と『10回引く』（1～9プライズ目まで）は、\n同じ提供割合です。\n=1st   0.50%\n2nd  1.00%\n3rd  5.00%\n4th 10.00%\n5th 23.50%\n6th 60.00%\n\n※A lottery is held for each time based on the ratio\nof provision.\n※"1回引く" and "10回引く" (1st to 9th prizes)\nare the same ratio.\n
+
+1等  0.50％\n2等  1.00％\n3等  5.00％\n4等  10.00％\n5等  83.50％\n\n※『10回引く』では、10プライズ目に5等以上が必ず出現します。=1st   0.50%\n2nd  1.00%\n3rd  5.00%\n4th 10.00%\n5th 83.50%\n\n※In "10回引く", 5th prize or higher will appear on the 10th pull.\n
+
+『10回引く』（10プライズ目）="10 times" (10th prize)
+『10回引く』（1～9プライズ目）="10 times" (1st-9th prize)
+プライズ1個つき=1 prizes included
+プライズ10個つき=10 prizes included
 
 カテゴリ別の提供割合=Percentage per category
 
-下記リストの中からプライズ{{A}}キャラを\n選択してください。\n※選択したキャラはいつでも変更可能です。=Please select a Memory Shard character from the list below.\nThe selected character can be changed at any time.
+下記リストの中からプライズのメモリーピースキャラを\n選択してください。\n※選択したキャラはいつでも変更可能です。=Please select a Memory Shard character from the list below.\nThe selected character can be changed at any time.
 
-{{A}}回ガチャを引くごとに、下記リストの中から\nプライズが{{A}}つ抽選されます。\n獲得したプライズは直接所持数に加算されます。=One prize from the list below\nwill be drawn for each gacha drawn.
+1回ガチャを引くごとに、下記リストの中から\nプライズが1つ抽選されます。\n獲得したプライズは直接所持数に加算されます。=One prize from the list below\nwill be drawn for each gacha drawn.
 
 プライズガチャで獲得したプライズ報酬の\n履歴を見ることができます。=You can view the history of the prize rewards you have won in the Prize Gacha.
 ===Free Gacha===
-無料=free
+無料=免費
 [3C404E]アイテムやメモリーピースをGET！[-]=[3C404E] Get item and memory shards! [-]
 所持上限を超えるアイテムはプレゼントに送られます。=Items over the possession limit will be sent to the present box.
 日   回無料！=Daily free!
@@ -139,14 +140,13 @@ sr:"^(\[[0-9a-fA-F,]{6,13}\])新キャラ「([べ-・ー＆]{2,11})(\（.{3,10}\
 無料=free
 1度= 
 だけ引ける!=Once Pull!
-{{B}}日 {{A}}間={{B}}d {{A}}
-{{B}}日 {{A}}={{B}}d {{A}}
 すでに\n引き終わっています=Already\npulled
 すでに\\n引き終わっています=Already\npulled
 ===Pri Fes
 プリンセスフェス開催！=Princess Festival!
 プリンセスフェスへ=To the Princess Fes
 日付が変わるまで表示しない=Don't show until the date changes
+
 {{A}}★{{D}}キャラ出現率{{E}}倍！限定「{{B}}」登場！\n対象キャラを仲間にする度に対象メモピ{{C}}個GET！[-]={{A}}Double the appearance rate of ★3 characters!\nLimited "{{B}}" is now available!\nEach pull a target Character, Gets a Bonus of {{C}} Memory Shards[-]
 
 
