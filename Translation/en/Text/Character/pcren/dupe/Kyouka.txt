@@ -1,0 +1,41 @@
+Kyouka 
+//Profile
+キョウカ=Kyouka 
+礼儀正しくしっかり者のちびっ子優等生=A polite, level-headed young honor student
+
+//Skills
+//UB
+コスモブルーフラッシュ=Cosmo Blue Flash
+目の前の敵１キャラに魔法特大ダメージを与える。=Deals massive magical damage to an enemy directly in front.
+r:"^敵単体に(\d+)の魔法ダメージ$"=Deals $1 magic damage to an enemy.
+//S1
+アイスランス=Ice Lance
+目の前の敵１キャラに魔法中ダメージを与える。=Deals moderate magical damage to an enemy directly in front.
+r:"^敵単体に(\d+)の魔法ダメージ$"=Deals $1 magic damage to an enemy.
+//S2
+マジックブースト=Magical Surge
+自分の魔法攻撃力を短時間大アップさせる。=Large boost to own magical attack for a brief period.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+//ex
+小さな勇気=Pinch of Bravery
+バトル開始時に自分の魔法攻撃力を中アップさせる。=Moderate boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+
+//Skills+
+//UB
+コスモブループラネット=Cosmo Blue Planet
+目の前の敵１キャラに魔法特大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Gain magic oversized damage to one enemy in front of you. The damage when this skill is critical is 4 times, not twice.
+r:"^敵単体に(\d+)の魔法ダメージ$"=Magic damage of $1 to the enemy alone
+//S1
+アイスランス+=Ice Lance+
+目の前の敵１キャラに魔法大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Deals large magical damage to an enemy directly in front. When this skill is a critical hit, its damage is quadrupled instead of doubled.
+r:"^敵単体に(\d+)の魔法ダメージ$"=Deals $1 magic damage to an enemy.
+//S2
+
+r:"^$"=
+//ex
+小さな勇気+=Pinch of Bravery+
+バトル開始時に自分の魔法攻撃力を大アップさせる。=Large boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+//UE
+コスモブルーロッド=Cosmo Blue Rod

@@ -1,0 +1,41 @@
+kuuka 
+//Profile
+クウカ=kuuka 
+妄想大好き！　ほんとは照れ屋な女の子=A shy girl who loves fantasizing
+
+//Skills
+//UB
+エクスタシートリップ=Throes of Ecstasy
+自分に魔法吸収バリアを展開し、さらにＨＰを中回復する。=Deploys a barrier around oneself that absorbs magic damage, and recovers own HP by a moderate amount.
+r:"^(\d+)ダメージ分の魔法吸収バリアを展開する\n自分のＨＰを(\d+)回復$"=Deploys Barrier that absorbs $1 magic damage.\nRecovers own HP by $1.
+//S1
+狙うならクウカを！=Play with Me Instead!
+【挑発】敵全体を挑発し、さらに自分の物理防御力を大アップさせる。=[Taunt] Taunts all enemies. Small boost to own physical defense.
+r:"^敵全体を挑発する\n自分の物理防御力を(\d+)アップ$"=Provokes all enemies.\nBoosts own physical defense by $1.
+//S2
+激しいの歓迎ですう！=I Like It Rough!
+自分の魔法防御力を大アップする。=Moderate boost to own magical defense.
+r:"^自分の魔法防御力を(\d+)アップ$"=Boosts own magic defense by $1.
+//ex
+妄想プロテクション=Sheltered by Fantasy
+バトル開始時に自分の魔法防御力を中アップさせる。=Moderate boost to own magical defense at start of battle.
+r:"^自分の魔法防御力を(\d+)アップ$"=Boosts own magic defense by $1.
+
+//Skills+
+//UB
+エクスタシートランス=Ecsta sheet lance
+自分に魔法吸収バリアを展開し、ＨＰを中回復する。さらに自分に魔法ダメージカット効果を付与する。=Develop a magic absorption barrier to yourself and recover the HP in the middle. In addition, give yourself a magical damage cut effect.
+r:"^(\d+)ダメージ分の魔法吸収バリアを展開する\n自分のＨＰを(\d+)回復\n自分が受ける魔法ダメージを(\d+)％カット$"=$1 Develop a magic absorption barrier for damage\nRecovery of your HP $1\nCut the magic damage you receive $1 %
+//S1
+狙うならクウカを！+=Play with Me Instead!+
+【挑発】敵全体を挑発し、自分の物理防御力を大アップさせる。さらに自分のＨＰを中回復させる。=[Taunt] Taunts all enemies. Large boost to own physical defense, and recovers own HP by a moderate amount.
+r:"^敵全体を挑発する\n自分の物理防御力を(\d+)アップ\n自分のＨＰを(\d+)回復$"=Provokes all enemies.\nBoosts own physical defense by $1.\nRecovers own HP by $1.
+//S2
+
+r:"^$"=
+//ex
+妄想プロテクション+=Sheltered by Fantasy+
+バトル開始時に自分の魔法防御力を大アップさせる。=Large boost to own magical defense at start of battle.
+r:"^自分の魔法防御力を(\d+)アップ$"=Boosts own magic defense by $1.
+//UE
+プレジャーチョーカー=Choker of Pleasure

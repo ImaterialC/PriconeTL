@@ -1,0 +1,40 @@
+Shiori 
+//Profile
+シオリ=Shiori 
+読書が趣味の病弱少女=A frail girl who enjoys reading
+
+//Skills
+//UB
+エンチャントアロー=Enchanted Arrow
+目の前の敵１キャラに物理大ダメージを与え、さらに自分の物理攻撃力を大アップさせる。=Deals large physical damage to an enemy directly in front. Large boost to own physical attack.
+r:"^自分の物理攻撃力を(\d+)アップ\n敵単体に(\d+)の物理ダメージ$"=Boosts own physical attack by $1.\nDeals $1 physical damage to an enemy.
+//S1
+トライアロー=Triple Shot
+目の前の最大３キャラまでの敵に物理小ダメージを与え、さらに自分のＴＰを小回復させる。=Deals small physical damage to up to 3 enemies directly in front. Recovers own TP by a small amount.
+r:"^最大３キャラに各(\d+)の物理ダメージ自分のＴＰを(\d+)回復$"=Deals $1 physical damage to a maximum of 3 characters.Recovers own TP by $1.
+//S2
+ウィンドアロー=Wind Arrow
+目の前の敵１キャラに物理中ダメージを与え、さらに自分のＴＰを小回復させる。=Inflicts moderate physical damage to one enemy directly in front while also recovering own TP by a small amount.
+r:"^敵単体に(\d+)の物理ダメージ\n自分のＴＰを(\d+)回復$"=Deals $1 physical damage to an enemy.\nRecovers own TP by $1.
+//ex
+エンハンスエイム=Enhanced Aim
+バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+トライアロー+=Triple Shot+
+目の前の最大３キャラまでの敵に物理小ダメージを与える。このダメージは、遠い敵ほどダメージが増加する。さらに自分のＴＰを小回復させる。=Deals moderate physical damage to all enemies in range. Damage increases based on the number of targets.
+r:"^１番目に近い敵単体に(\d+)の物理ダメージ\n２番目に近い敵単体に(\d+)の物理ダメージ\n３番目に近い敵単体に(\d+)の物理ダメージ\n自分のＴＰを(\d+)回復$"=Deals $1 physical damage to closest target.\nDeals $1 physical damage to 2nd closest target.\nDeals $1 physical damage to 3rd closest target.\nRecovers own TP by $1.
+//S2
+
+r:"^$"=
+//ex
+エンハンスエイム+=Enhanced Aim+
+バトル開始時に自分の物理攻撃力を大アップさせる。=Large boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+//UE
+ハツネお手製の護り石=Hatsune's Handmade Amulet

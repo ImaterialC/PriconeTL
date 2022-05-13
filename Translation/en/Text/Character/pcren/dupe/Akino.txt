@@ -1,0 +1,41 @@
+Akino 
+//Profile
+アキノ=Akino 
+一人前の商人を目指すパワフルお嬢様=A powerful young lady who aims to become a full-fledged merchant
+
+//Skills
+//UB
+ノーブルアサルト=Benevolent Beatdown
+目の前の敵１キャラに物理特大ダメージを与える。=Deals massive physical damage to an enemy directly in front.
+r:"^敵単体に(\d+)の物理ダメージ$"=Deals $1 physical damage to an enemy.
+//S1
+プラウドスラッシュ=Haughty Hack
+目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を小アップさせる。その後笑っている間に攻撃されると、前方範囲内の敵に反撃する。=Deals moderate physical damage to an enemy directly in front. Small boost to own physical attack. If attacked while laughing, unleashes a counterattack on enemies in range.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ\n自分の物理攻撃力を(\d+)アップ$"=Deals $1 physical damage to an enemy.Deals $1 physical damage to enemies in range.\nBoosts own physical attack by $1.
+//S2
+ヒーリングジュエル=Rejuvenating Jewels
+自分の周囲に、範囲内の味方すべてを小回復するフィールドを展開する。=Deploys a field that recovers HP of all nearby allies by a small amount.
+r:"^毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Deploys a field that recovers HP by $1 every second.
+//ex
+フレイムソウル=Burning Soul
+バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+
+//Skills+
+//UB
+ノーブルプロミネンス=Noble prominence
+目の前の敵１キャラに物理特大ダメージを与え、その敵を中心として物理ダメージフィールドを展開し、自分の物理攻撃力を特大アップさせ、さらに物理/魔法吸収バリアを展開する。=It deals physical damage to one enemy in front of you, develops physical damage fields centered on the enemy, increases your physical attack power, and develops physical/magic absorption barriers.
+r:"^敵単体に(\d+)の物理ダメージ\n毎秒(\d+)の物理ダメージを与えるフィールドを展開する\n自分の物理攻撃力を(\d+)アップ\n(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=Physical damage of $1 to the enemy alone\nExpanding a field that deals physical damage of $1 every second\n$1 up your physical attack power\n$1 Develop a physical magic absorption barrier for damage
+//S1
+プラウドスラッシュ+=Haughty Hack+
+目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を中アップ、ＴＰ上昇を小アップさせ挑発する。笑っている間に攻撃されると、前方範囲内の敵に反撃する。=Deals moderate physical damage to an enemy directly in front. Small boost to own physical attack and TP Boost. Taunts the enemy. If attacked while laughing, unleashes a counterattack on enemies in range.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ\n自分の物理攻撃力を(\d+)アップ\n自分のＴＰ上昇を(\d+)アップ$"=Deals $1 physical damage to an enemy.Deals $1 physical damage to enemies in range.\nBoosts own physical attack by $1.\nBoosts own TP Boost by $1.
+//S2
+
+r:"^$"=
+//ex
+フレイムソウル+=Burning Soul+
+バトル開始時に自分の物理攻撃力を中アップさせ、さらに自分の物理防御力を小アップさせる。=Moderate boost to own physical attack and small boost to physical defense at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ\n自分の物理防御力を(\d+)アップ$"=Boosts own physical attack by $1.\nBoosts own physical defense by $1.
+//UE
+紅輝石ウィスタリア=Brilliance of Wisteria

@@ -1,0 +1,40 @@
+Summer Mifuyu 
+//Profile
+ミフユ（サマー）=Summer Mifuyu 
+仕事も私事も効率優先な傭兵少女=A mercenary who prioritizes efficiency in both her work and personal affairs
+
+//Skills
+//UB
+レヴィアタンランス=Leviathan Lance
+目の前の敵１キャラに物理大ダメージを与え、さらに味方全体の物理攻撃力を中アップさせる。=Deals large physical damage to an enemy directly in front. Moderate boost to all allies' physical attack.
+r:"^敵単体に(\d+)の物理ダメージ\n味方全体の物理攻撃力を(\d+)アップ$"=Deals $1 physical damage to an enemy.\nBoosts all allies' physical attack by $1.
+//S1
+ハイドロスティング=Hydro Swing
+目の前の敵１キャラに物理中ダメージを与え、さらにその周囲の敵すべてに物理小ダメージを与える。=Deals small physical damage to an enemy directly in front, and additional small physical damage to enemies nearby the target.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ$"=Deals $1 physical damage to an enemy.Deals $1 physical damage to enemies in range.
+//S2
+ハンティングモード=Hunting Mode
+自分の物理攻撃力を中アップさせ、さらに物理クリティカルを大アップさせる。=Moderate boost to own physical attack and physical critical rate.
+r:"^自分の物理攻撃力を(\d+)アップ\n自分の物理クリティカルを(\d+)アップ$"=Boosts own physical attack by $1.\nBoosts own physical critical rate by $1.
+//ex
+サマーマーセナリー=Summer Mercenary
+バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+ハイドロスティング+=Hydrosting+
+目の前の敵１キャラに物理中ダメージを与え、さらにその周囲の敵すべてに物理大ダメージを与える。=It deals physical damage to one enemy in front of you, and also does physics -based damage to all the surrounding enemies.
+r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ$"=Physical damage of $1 to the enemy alonePhysical damage of $1 to enemies in the range
+//S2
+
+r:"^$"=
+//ex
+サマーマーセナリー+=Summer Mercenary+
+バトル開始時に自分の物理攻撃力を大アップさせる。=Large boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+//UE
+蒼竜槍ミズチ=Soryu Spear Mizuchi

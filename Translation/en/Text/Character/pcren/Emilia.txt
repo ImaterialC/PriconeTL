@@ -1,0 +1,40 @@
+Emilia 
+//Profile
+エミリア=Emilia 
+銀髪のおっとりハーフエルフ=A gentle silver-haired half elf
+
+//Skills
+//UB
+約束の花園=Promised Field
+最もＨＰが低い味方１キャラのＨＰを特大回復させ、さらに味方全体の物理防御力と魔法防御力を中アップさせる。=Recovers the HP of the ally with the lowest HP by a massive amount. Moderate boost to the physical and magical defense of all allies.
+r:"^味方単体のＨＰを(\d+)回復\n味方全体の物理防御力を(\d+)アップ\n味方全体の魔法防御力を(\d+)アップ$"=Recovers an ally's HP by $1.\nBoosts all allies' physical defense by $1.\nBoosts all allies' magic defense by $1.
+//S1
+お願い、パック！=Help Me Out, Puck!
+目の前の敵１キャラに魔法中ダメージを与え、さらに自分の魔法攻撃力を中アップさせる。=Deals moderate magical damage to an enemy directly in front. Moderate boost to own magical attack.
+r:"^敵単体に(\d+)の魔法ダメージ\n自分の魔法攻撃力を(\d+)アップ$"=Deals $1 magic damage to an enemy.\nBoosts own magic attack by $1.
+//S2
+氷の飛礫=Ice Needles
+前方範囲内のランダムな敵キャラに、単体魔法小ダメージを計４回与える。=Deals small magic damage to a random enemy in range 4 times.
+r:"^敵単体に(\d+)の魔法ダメージ\n敵単体に(\d+)の魔法ダメージ\n敵単体に(\d+)の魔法ダメージ\n敵単体に(\d+)の魔法ダメージ$"=Deals $1 magic damage to an enemy.\nDeals $1 magic damage to an enemy.\nDeals $1 magic damage to an enemy.\nDeals $1 magic damage to an enemy.
+//ex
+大精霊との契約=Great Spirit Contract
+バトル開始時に自分の魔法攻撃力を中アップさせる。=Moderate boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+お願い、パック！+=Please, pack! +
+目の前の敵１キャラに魔法大ダメージを与え、さらに自分の魔法攻撃力を特大アップさせる。=Great magic damage to one enemy in front of you, and also increase your magic attack power.
+r:"^敵単体に(\d+)の魔法ダメージ\n自分の魔法攻撃力を(\d+)アップ$"=Magic damage of $1 to the enemy alone\n$1 up your magic attack power
+//S2
+
+r:"^$"=
+//ex
+大精霊との契約+=Great Spirit Contract+
+バトル開始時に自分の魔法攻撃力を大アップさせる。=Large boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+//UE
+約束の花束=Promised bouquet

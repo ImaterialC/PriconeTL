@@ -1,0 +1,41 @@
+Nozomi 
+//Profile
+ノゾミ=Nozomi 
+歌って踊れる大人気アイドル=A popular idol known for her singing and dancing
+
+//Skills
+//UB
+ライブ・オンステージ=Live on Stage
+【挑発】味方全体の物理攻撃力を小アップさせ、自分の物理防御力と魔法防御力を大アップさせる。さらに敵全体を挑発する。=[Taunt] Taunts all enemies. Moderate boost to own physical and magical defense. Small boost to physical attack of all allies.
+r:"^味方全体の物理攻撃力を(\d+)アップ\n自分の物理防御力を(\d+)アップ\n自分の魔法防御力を(\d+)アップ\n敵全体を挑発する$"=Boosts all allies' physical attack by $1.\nBoosts own physical defense by $1.\nBoosts own magic defense by $1.\nProvokes all enemies.
+//S1
+クレールスラッシュ=Glamorous Slice
+前方範囲内の敵すべてに物理小ダメージを与え、さらにスタンさせる。=Deals small physical damage and inflicts Stun to all enemies in range.
+r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵を一定時間行動不能にする$"=Deals $1 physical damage to enemies in range.\nRenders enemies in range immobile for a set period of time.
+//S2
+アイドルエール=Idol's Encouragement
+自分の周囲の味方すべてのＨＰを中回復させる。=Recovers HP of all nearby allies by a small amount.
+r:"^範囲内の味方のＨＰを(\d+)回復$"=Recovers HP of all allies in range by $1.
+//ex
+ルミナススマイル=Radiant Smile
+バトル開始時に自分の物理防御力を中アップさせる。=Moderate boost to own physical defense at start of battle.
+r:"^自分の物理防御力を(\d+)アップ$"=Boosts own physical defense by $1.
+
+//Skills+
+//UB
+ライブ・オンスペシャルステージ=Live ounce special stage
+【挑発】味方全体の物理攻撃力を大アップさせ、物理/魔法無効バリアを展開し、自分の物理防御力と魔法防御力を特大アップさせる。さらに敵全体を挑発してスタンさせる。=[Provocation] Lower the physical attack power of all allies, develop physics/magic invalid barriers, and increase your physical defense and magic defense. Further provocation of all enemies and stunning.
+r:"^味方全体の物理攻撃力を(\d+)アップ\n(\d+)ダメージ分の物理魔法無効バリアを展開する\n自分の物理防御力を(\d+)アップ\n自分の魔法防御力を(\d+)アップ\n敵全体を挑発する\n敵全体を一定時間行動不能にする$"=Up $1 of physical attack power of all allies\n$1 Develop a physical magic invalid barrier for damage\n$1 up your physical defense power\nUp $1 up your magic defense power\nProvocation of all enemies\nMake the entire enemy unable to act for a certain period of time
+//S1
+クレールスラッシュ+=Glamorous Slice+
+前方範囲内の敵すべてに物理小ダメージを与え、さらにスタンさせて物理攻撃力を小ダウンさせる。=Deals moderate physical damage to all enemies in range, inflicts Stun, and lowers their physical attack by a small amount.
+r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵を一定時間行動不能にする\n範囲内の敵の物理攻撃力を(\d+)ダウン$"=Deals $1 physical damage to enemies in range.\nRenders enemies in range immobile for a set period of time.\nLowers physical attack of enemies in range by $1.
+//S2
+
+r:"^$"=
+//ex
+ルミナススマイル+=Radiant Smile+
+バトル開始時に自分の物理防御力を中アップさせ、さらに自分の魔法防御力を小アップさせる。=Moderate boost to own physical defense and small boost to magical defense at start of battle.
+r:"^自分の物理防御力を(\d+)アップ\n自分の魔法防御力を(\d+)アップ$"=Boosts own physical defense by $1.\nBoosts own magic defense by $1.
+//UE
+ブリリアントマイク=Brilliant Microphone

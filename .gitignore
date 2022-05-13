@@ -1,0 +1,6 @@
+*.log
+*.bak
+*.zip
+*.rar
+Translation/en/temp/
+cache/

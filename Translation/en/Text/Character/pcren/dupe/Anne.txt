@@ -1,0 +1,40 @@
+Anne 
+//Profile
+アン=Anne 
+英霊と契約を結んだマナリアの天才王女=The spirit-summoning royal prodigy of Mysteria
+
+//Skills
+//UB
+ディターレントスラスト=Deterrent Thrust
+目の前の敵１キャラに魔法特大ダメージを与え、さらに英霊の加護を受けているキャラの魔法攻撃力を大アップさせる。=Deals massive magical damage to an enemy directly in front. Boosts the magical attack of all allies with Spirit's Blessing by a large amount.
+r:"^敵単体に(\d+)の魔法ダメージ対象の味方の魔法攻撃力を(\d+)アップ$"=Deals $1 magic damage to an enemy.Boosts target allies' magic attack by $1.
+//S1
+コリジョンスペル=Collision Spell
+目の前の敵１キャラに魔法中ダメージを与える。=Deals moderate magical damage to an enemy directly in front.
+r:"^敵単体に(\d+)の魔法ダメージ$"=Deals $1 magic damage to an enemy.
+//S2
+プリンセスコーリング=Princess Calling
+自分を中心とした範囲内の味方すべてに英霊の加護を付与し、さらに魔法攻撃力を中アップさせ、行動速度を小アップさせる。=Grants Spirit's Blessing to all nearby allies. Boosts their magical attack by a large amount and their action speed by a small amount.
+r:"^範囲内の味方に英霊の加護を付与\n範囲内の味方の行動速度アップ\n範囲内の味方の魔法攻撃力を(\d+)アップ$"=Grants Spirit's Blessing to allies in range.\nBoosts action speed of allies in range.\nBoosts magic attack of all allies in range by $1.
+//ex
+レイディアントコーリング=Radiant Calling
+バトル開始時に自分の魔法攻撃力を中アップさせる。=Moderate boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+コリジョンスペル+=Collision spell+
+目の前の敵１キャラに魔法大ダメージを与え、自分が英霊の加護を受けている場合味方全体のＴＰを小回復し、自分が英霊の加護を受けていない場合自分の行動速度を中アップさせる。=If you do a magic damage to one character in front of you, if you are receiving the blessing of the hero, you will recover the TP of the entire ally, and if you are not in protection of the spirit, your actions will be upward. Let me do it.
+r:"^敵単体に(\d+)の魔法ダメージ味方全体のＴＰを(\d+)回復\n自分の行動速度アップ$"=Magic damage of $1 to the enemy aloneRecovery of TP of all allies $1\nImprove your actions
+//S2
+
+r:"^$"=
+//ex
+レイディアントコーリング+=Radiant Calling+
+バトル開始時に自分の魔法攻撃力を大アップさせる。=Large boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+//UE
+アンの魔導書=Anne's magic book

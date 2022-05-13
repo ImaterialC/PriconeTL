@@ -1,0 +1,41 @@
+Yui 
+//Profile
+ユイ=Yui 
+戦闘のサポートが得意な、心優しい少女=A kind girl who excels at combat support
+
+//Skills
+//UB
+ヒールオール=Group Heal
+味方全体のＨＰを中回復する。=Recovers a moderate amount of HP for all allies.
+r:"^味方全体のＨＰを(\d+)回復$"=Recovers all allies' HP by $1.
+//S1
+フラワーショット=Blooming Blast
+目の前の敵１キャラに魔法中ダメージを与える。=Deals moderate magical damage to an enemy directly in front.
+r:"^敵単体に(\d+)の魔法ダメージ$"=Deals $1 magic damage to an enemy.
+//S2
+フローラルシールド=Flower Guard
+味方全体の物理防御力を小アップさせる。=Small boost to physical defense of all allies.
+r:"^味方全体の物理防御力を(\d+)アップ$"=Boosts all allies' physical defense by $1.
+//ex
+フラワーオーラ=Floral Aura
+バトル開始時に自分の魔法攻撃力を中アップさせる。=Moderate boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+
+//Skills+
+//UB
+フラワリングヒール=Flowering heel
+味方全体のＨＰを中回復し、さらに物理防御力を大アップさせ、物理無効バリアを展開し、さらに行動速度を大アップさせる。=The HP of all allies is recovered, further improving physical defense power, developing a physical invalid barrier, and further increasing the action speed.
+r:"^味方全体のＨＰを(\d+)回復\n味方全体の物理防御力を(\d+)アップ\n(\d+)ダメージ分の物理無効バリアを展開する\n味方全体の行動速度アップ$"=Recovery of the HP of all allies $1\nUp $1 the physical defense of all allies\n$1 Developing the physical invalid barrier for damage\nExercise speed of all allies as a whole
+//S1
+フラワーショット+=Blooming Blast+
+目の前の敵１キャラに魔法中ダメージを与え、さらに物理攻撃力を中ダウンさせる。=Deals moderate magical damage to an enemy directly in front and lowers its physical attack by a moderate amount.
+r:"^敵単体に(\d+)の魔法ダメージ\n敵単体の物理攻撃力を(\d+)ダウン$"=Deals $1 magic damage to an enemy.\nLowers an enemy's physical attack by $1.
+//S2
+
+r:"^$"=
+//ex
+フラワーオーラ+=Floral Aura+
+バトル開始時に自分の魔法攻撃力を中アップさせ、さらに自分の魔法防御力を小アップさせる。=Moderate boost to own magical attack and small boost to magical defense at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ\n自分の魔法防御力を(\d+)アップ$"=Boosts own magic attack by $1.\nBoosts own magic defense by $1.
+//UE
+ブロッサムウィッシュ=Blossoming Wish

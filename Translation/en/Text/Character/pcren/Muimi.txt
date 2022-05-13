@@ -1,0 +1,40 @@
+Muimi 
+//Profile
+ムイミ=Muimi 
+さまよえる謎の少女=A young wanderer with a mysterious past
+
+//Skills
+//UB
+天楼覇断剣=Spiresbane Blade
+目の前の敵１キャラに物理特大ダメージを与える。さらにＴＰが無くなるまでの間天楼覇断剣を装備する。=Deals massive physical damage to an enemy directly in front. Equips the Spiresbane Blade until TP is fully depleted.
+r:"^敵単体に(\d+)の物理ダメージ$"=Deals $1 physical damage to an enemy.
+//S1
+ビビらせてやる！=Feeling Scared Yet?!
+前方範囲内の敵すべてに物理小ダメージを与え、さらにスタンさせて小さく吹き飛ばす。=Deals small physical damage to all enemies in range, inflicts Stun, and knocks them back slightly.
+r:"^斬撃で範囲内の敵に(\d+)の物理ダメージ\n蹴りで範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵を一定時間行動不能にする$"=Deals $1 physical damage to enemies in range with a slash.\nDeals $1 physical damage to enemies in range with a kick.\nRenders enemies in range immobile for a set period of time.
+//S2
+こっちだこっち！=Right This Way!
+前方範囲内の敵すべての物理防御力を小ダウンさせる。=Lowers the physical defense of all enemies in range by a small amount.
+r:"^範囲内の敵の物理防御力を(\d+)ダウン$"=Lowers physical defense of enemies in range by $1.
+//ex
+ポテンシャルフォース=Potential Force
+バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+ビビらせてやる！+=I'll let you go! +
+前方範囲内の敵すべてに物理中ダメージを与え、さらにスタンさせて小さく吹き飛ばす。=It does physical damage to all the enemies within the front range, and then stun and blow away small.
+r:"^斬撃で範囲内の敵に(\d+)の物理ダメージ\n蹴りで範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵を一定時間行動不能にする$"=Physical damage of $1 to enemies within the range by slashing\nPhysical damage of $1 to the enemy within the range by kicking\nMake enemies in the range unable to act for a certain period of time
+//S2
+
+r:"^$"=
+//ex
+ポテンシャルフォース+=Potential Force+
+バトル開始時に自分の物理攻撃力を大アップさせる。=Large boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+//UE
+絆の証=Proof of bonds

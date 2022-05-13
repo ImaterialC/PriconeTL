@@ -1,0 +1,40 @@
+oedo kuuka 
+//Profile
+クウカ（オーエド）=oedo kuuka 
+妄想大好き！　ほんとは照れ屋な女の子=A shy girl who loves fantasizing
+
+//Skills
+//UB
+恍惚絶頂の舞～！=Dance of Purest Ecstasy
+自身のＨＰを特大回復し、さらに自分を中心とした範囲内の味方の物理防御力と魔法防御力を大アップさせる。=Massively recovers own HP. Large boost to physical and magical defense of all nearby allies.
+r:"^自分のＨＰを(\d+)回復\n範囲内の味方の物理防御力を(\d+)アップ\n範囲内の味方の魔法防御力を(\d+)アップ$"=Recovers own HP by $1.\nBoosts physical defense of all allies in range by $1.\nBoosts magic defense of all allies in range by $1.
+//S1
+みんな昂りますよぉ！=Let's Get Passionate!
+味方全体の魔法攻撃力を中アップさせる。=Moderate boost to magical attack of all allies.
+r:"^味方全体の魔法攻撃力を(\d+)アップ$"=Boosts all allies' magic attack by $1.
+//S2
+妖しい桃色吐息ですぅ！=My Breath Is Bewitching!
+目の前の敵１キャラに魔法小ダメージを与え、さらに魔法防御力を小ダウンさせる。=Deals small magical damage to an enemy directly in front and lowers its magical defense by a small amount.
+r:"^敵単体に(\d+)の魔法ダメージ\n敵単体の魔法防御力を(\d+)ダウン$"=Deals $1 magic damage to an enemy.\nLowers an enemy's magic defense by $1.
+//ex
+絢爛トリップゾーン=Opulent Trip Zone
+バトル開始時に自分の魔法防御力を中アップさせる。=Moderate boost to own magical defense at start of battle.
+r:"^自分の魔法防御力を(\d+)アップ$"=Boosts own magic defense by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+みんな昂りますよぉ！+=Everyone gets excited! +
+味方全体の魔法攻撃力を大アップさせ、さらに魔法クリティカルと行動速度を中アップさせる。=The magical attack power of all allies is greatly improved, and the magic critical and action speed are improved.
+r:"^味方全体の魔法攻撃力を(\d+)アップ\n味方全体の魔法クリティカルを(\d+)アップ\n味方全体の行動速度アップ$"=Up $1 the magic attack power of all allies\nUp $1 the magic critical of all allies\nExercise speed of all allies as a whole
+//S2
+
+r:"^$"=
+//ex
+絢爛トリップゾーン+=Opulent Trip Zone+
+バトル開始時に自分の魔法防御力を大アップさせる。=Large boost to own magical defense at start of battle.
+r:"^自分の魔法防御力を(\d+)アップ$"=Boosts own magic defense by $1.
+//UE
+千紫万紅艶椿=Thousands of red 艶 艶 艶 艶 万 万

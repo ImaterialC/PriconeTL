@@ -1,0 +1,40 @@
+oedo ninon 
+//Profile
+ニノン（オーエド）=oedo ninon 
+トーゴクの神秘、オシエテクダサイ！=Teach me all the mysteries of Togoku!
+
+//Skills
+//UB
+忍法・フジヤマ手裏剣=Ninpo: Fujiyama Shuriken
+目の前の敵１キャラに物理特大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=Deals massive physical damage to an enemy directly in front. When this skill is a critical hit, its damage is tripled instead of doubled.
+r:"^敵単体に(\d+)の物理ダメージ$"=Deals $1 physical damage to an enemy.
+//S1
+忍法・チュバメ返し=Ninpo: Swoopy Swallow
+目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。=Deals moderate physical damage to an enemy directly in front and lowers its physical defense by a small amount.
+r:"^敵単体に(\d+)の物理ダメージ\n敵単体の物理防御力を(\d+)ダウン$"=Deals $1 physical damage to an enemy.\nLowers an enemy's physical defense by $1.
+//S2
+忍法・影分身の術=Ninpo: Shadow Clone no Jutsu
+自分の物理攻撃力を中アップさせ、さらに行動速度を大アップさせる。=Moderate boost to own physical attack and large boost to own action speed.
+r:"^自分の物理攻撃力を(\d+)アップ\n自分の行動速度アップ$"=Boosts own physical attack by $1.\nBoosts own action speed.
+//ex
+忍法・剛力ハッスルの極み=Ninpo: Ultra Superstrength
+バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+忍法・チュバメ返し+=Ninja / Chubame return+
+目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。このスキルがクリティカルした場合のダメージは、２倍ではなく３倍になる。=It does physical damage to one character in front of you, and also reduces physical defense. The damage when this skill is critical is tripled rather than twice.
+r:"^敵単体に(\d+)の物理ダメージ\n敵単体の物理防御力を(\d+)ダウン$"=Physical damage of $1 to the enemy alone\nThe physical defense power of the enemy alone $1 down
+//S2
+
+r:"^$"=
+//ex
+忍法・剛力ハッスルの極み+=Ninpo: Ultra Superstrength+
+バトル開始時に自分の物理攻撃力を大アップさせる。=Large boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+//UE
+なりきりクノイチセット=Narikiri Kunoichi Set
