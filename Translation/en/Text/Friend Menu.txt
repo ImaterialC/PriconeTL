@@ -1,9 +1,9 @@
 フレンド一覧=Friend List
 フレンド管理=Manage\nFriends
 クランバトル・ルナの塔=CB+Luna Tower
-r:"^申請中:([0-9/]+)人$"=Applying: $1
-r:"^フレンド:([0-9/]+)人$"=Friend: $1
-r:"^承認待ち:([0-9/]+)人$"=Waiting: $1
+r:"^申請中:(\d+)/(\d+)人$"=Applying: $1/$2
+r:"^フレンド:(\d+)/(\d+)人$"=Friend: $1/$2
+r:"^承認待ち:(\d+)/(\d+)人$"=Waiting: $1/$2
 フレンド:=Friend:
 r:"^プレイヤーLv:([0-9～ ]+)$"=Player Lv: $1
 プレイヤーIDを入力してください=Please enter the player ID

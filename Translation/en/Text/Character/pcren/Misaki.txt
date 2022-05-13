@@ -1,0 +1,41 @@
+Misaki 
+//Profile
+ミサキ=Misaki 
+ちょっとおませな恋に恋する女の子=A slightly precocious girl who's in love with love
+
+//Skills
+//UB
+デストロイアイ=All-Destroying Eye
+敵全体に魔法中ダメージを与える。=Deals moderate magical damage to all enemies in the front.
+r:"^敵全体に(\d+)の魔法ダメージ$"=Deals $1 magic damage to all enemies.
+//S1
+ダークフォトン=Dark Photon
+目の前の敵１キャラに魔法小ダメージを与え、さらに行動速度を小ダウンさせる。=Deals small magical damage to an enemy directly in front and reduces their action speed by a small amount.
+r:"^敵単体に(\d+)の魔法ダメージ\n敵単体の行動速度を一定時間低下させる$"=Deals $1 magic damage to an enemy.\nReduces an enemy's action speed for a set period of time.
+//S2
+スローイングアイ=Eyeball Volley
+範囲内の敵すべてに魔法小ダメージを３回与える。範囲の中心になる敵はミサキの前方から近い順に選ばれる。=Deals small magical damage to all enemies in a radius around the closest enemy 3 times.
+r:"^範囲内の敵にそれぞれ(\d+)の魔法ダメージ$"=Deals $1 magic damage per hit to enemies in range.
+//ex
+レディのたしなみ=True Lady's Etiquette
+バトル開始時に自分の魔法攻撃力を中アップさせる。=Moderate boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+
+//Skills+
+//UB
+ヴィーナス・ドゥームアイ=Venus Doom Eye
+敵全体に魔法中ダメージを与え、呪詛状態にする。呪詛状態だった場合は代わりに呪い状態にする。呪いか呪詛状態だった場合、ダメージ量が増加し誘惑状態にする。呪詛による継続ダメージは毎秒ごとに増加する。=Great magic damage to all enemies and curse. If you are in a curse, you will be cursed instead. In the case of a curse or curse, the amount of damage increases and the temptation is made. Curse continuous damage increases every second.
+r:"^呪いまたは呪詛状態ではない敵に(\d+)の魔法ダメージ\n呪いまたは呪詛状態の敵に(\d+)の魔法ダメージ\n敵が呪いまたは呪詛状態の場合、誘惑する毎秒ダメージが初期値(\d+)の30％ずつアップするダメージを与える呪詛状態にする$"=Magic damage of $1 to enemies that are not cursed or cursed\nMagic damage of $1 to enemies in a curse or curse state\nIf the enemy is cursed or cursed, seduceCurse to increase the damage per second by 30 % of the initial value $1
+//S1
+ダークフォトン+=Dark Photon+
+最も近くの敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、さらに行動速度を大ダウンさせる。=Deals moderate magical damage to all enemies in range and reduces their action speed by a large amount.
+r:"^範囲内の敵に(\d+)の魔法ダメージ\n範囲内の敵の行動速度を一定時間低下させる$"=Deals $1 magic damage to enemies in range.\nReduces action speed of enemies in range for a set period of time.
+//S2
+
+r:"^$"=
+//ex
+レディのたしなみ+=True Lady's Etiquette+
+バトル開始時に自分の魔法攻撃力を大アップさせる。=Large boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+//UE
+魔眼杖デモネス・アイ=Eye of the Demoness

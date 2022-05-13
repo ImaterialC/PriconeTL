@@ -1,0 +1,41 @@
+Yukari 
+//Profile
+ユカリ=Yukari 
+純情でほっとけない大人の女性=A pure-hearted woman with a mysterious charm
+
+//Skills
+//UB
+セブンベールズ=Seven Veils
+味方全体に魔法無効バリアを展開する。=Deploys a barrier that negates magical damage around all allies.
+r:"^(\d+)ダメージ分の魔法無効バリアを展開する$"=Deploys Barrier that negates $1 magic damage.
+//S1
+アクアヴィット=Aqua Vitae
+最もＨＰが低い味方１キャラのＨＰを中回復させる。=Recovers the HP of the party member with the lowest HP by a moderate amount.
+r:"^味方単体のＨＰを(\d+)回復$"=Recovers an ally's HP by $1.
+//S2
+ムーンライト=Moonlight
+最もＴＰが低い味方１キャラのＴＰを中回復させる。=Recovers the TP of the party member with the lowest TP by a medium amount.
+r:"^味方単体のＴＰを(\d+)回復$"=Recovers an ally's TP by $1.
+//ex
+プレリュードフィズ=Liquid Courage
+バトル開始時に自分の魔法防御力を中アップさせる。=Moderate boost to own magical defense at start of battle.
+r:"^自分の魔法防御力を(\d+)アップ$"=Boosts own magic defense by $1.
+
+//Skills+
+//UB
+セブンスヘブン=Seventh Heaven
+味方全体に魔法無効バリアを展開し、魔法防御力を大アップさせ、さらにＨＰを小回復させる。=Develop a magic invalid barrier to all allies, increase the magic defense power, and recover the HP smaller.
+r:"^(\d+)ダメージ分の魔法無効バリアを展開する\n味方全体の魔法防御力を(\d+)アップ\n味方全体のＨＰを(\d+)回復$"=$1 Develop a magic invalid barrier for damage\nUp $1 the magic defense of all allies\nRecovery of the HP of all allies $1
+//S1
+アクアヴィット+=Aqua Vitae+
+最もＨＰが低い味方１キャラのＨＰを大回復させ、さらに魔法防御力を中アップし、継続ＨＰ回復状態を付与する。=Recovers the HP of the party member with the lowest HP by a large amount, boosts their magical defense by a moderate amount, and grants HP regen.
+r:"^味方単体のＨＰを(\d+)回復\n味方単体の魔法防御力を(\d+)アップ\n毎秒ＨＰを(\d+)回復する$"=Recovers an ally's HP by $1.\nBoosts an ally's magic defense by $1.\nRecovers HP by $1 every second.
+//S2
+
+r:"^$"=
+//ex
+プレリュードフィズ+=Liquid Courage+
+バトル開始時に自分の魔法防御力を中アップさせ、さらに自分の物理攻撃力を小アップさせる。=Moderate boost to own magical defense and small boost to physical attack at start of battle.
+r:"^自分の魔法防御力を(\d+)アップ\n自分の物理攻撃力を(\d+)アップ$"=Boosts own magic defense by $1.\nBoosts own physical attack by $1.
+//UE
+エターナルジョッキ=Eternal Tankard

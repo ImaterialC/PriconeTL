@@ -1,0 +1,41 @@
+Arisa 
+//Profile
+アリサ=Arisa 
+森番を目指すエルフの少女=A young elf striving to become a forest guardian
+
+//Skills
+//UB
+私の矢があなたを貫く！=I'll Fill You With Arrows!
+目の前の敵１キャラに物理特大ダメージを与える。このスキルを既に使用していた場合、ダメージが増加する。=Deals massive physical damage to an enemy directly in front. Boost to damage dealt if this skill has already been used.
+r:"^敵単体に(\d+)の物理ダメージ\nユニオンバースト使用後、敵単体に(\d+)の物理ダメージ$"=Deals $1 physical damage to an enemy.\nAfter using Union Burst, deals $1 physical damage to an enemy.
+//S1
+絡みつく蔦=Clinging Vines
+最も魔法攻撃力が高い敵１キャラに物理小ダメージを与え、さらに行動速度を小ダウンさせる。=Deals small physical damage to the enemy with the highest magical attack and reduces their action speed by a small amount.
+r:"^敵単体に(\d+)の物理ダメージ\n敵単体の行動速度を一定時間低下させる$"=Deals $1 physical damage to an enemy.\nReduces an enemy's action speed for a set period of time.
+//S2
+翅の輝き=Shimmering Wings
+自分のＴＰを中回復する。既にユニオンバーストを使用していた場合、回復量が増加する。=Recovers own TP by a moderate amount. This amount increases if "I'll Fill You With Arrows!" has been used.
+r:"^自分のＴＰを(\d+)回復\nユニオンバースト使用後、自分のＴＰを(\d+)回復$"=Recovers own TP by $1.\nAfter using Union Burst, recovers own TP by $1.
+//ex
+エルフの弓術=Elven Archery
+バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+
+//Skills+
+//UB
+この矢に未来を乗せて！=Put the future on this arrow!
+目の前の敵１キャラに物理特大ダメージを与える。このスキルを使用するたび、最大４回までダメージが増加する。=Gain physical oversized damage to one enemy in front of you. Each time you use this skill, damage will increase to up to four times.
+r:"^敵単体に(\d+)の物理ダメージ\n５回目以降の使用時、敵単体に(\d+)の物理ダメージ$"=Physical damage of $1 to the enemy alone\nWhen using for the fifth time, the physical damage of $1 to the enemy alone
+//S1
+絡みつく蔦+=Clinging Vines+
+最も魔法攻撃力が高い敵１キャラに物理中ダメージを与え、さらに魔法攻撃力と行動速度を小ダウンさせる。=Deals moderate physical damage to the enemy with the highest magical attack. Lowers their magical attack and reduces their action speed by a small amount.
+r:"^敵単体に(\d+)の物理ダメージ\n敵単体の行動速度を一定時間低下させる\n敵単体の魔法攻撃力を(\d+)ダウン$"=Deals $1 physical damage to an enemy.\nReduces an enemy's action speed for a set period of time.\nLowers an enemy's magic attack by $1.
+//S2
+
+r:"^$"=
+//ex
+エルフの弓術+=Elven Archery+
+バトル開始時に自分の物理攻撃力を大アップさせる。=Large boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+//UE
+クインティタニアス=Quintitanius

@@ -1,0 +1,41 @@
+Rima 
+//Profile
+リマ=Rima 
+乙女チックなもふもふアニマル=A fluffy animal with the heart of a maiden
+
+//Skills
+//UB
+もふもふストライク=Woolly Wallop
+前方範囲内の敵すべてに物理中ダメージを与え、さらに自分の物理防御力を特大アップさせる。=Deals moderate physical damage to all enemies in range. Large boost to own physical defense.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ$"=Deals $1 physical damage to enemies in range.Boosts own physical defense by $1.
+//S1
+もふもふアサルト=Fuzzy Fury
+バトル開始後暫くして、最も前の敵まで突進し、その敵に物理中ダメージを与え、自分の物理防御力を中アップさせる。=Charges straight at the foremost enemy shortly after battle begins and deals moderate physical damage. Small boost to own physical defense.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ$"=Deals $1 physical damage to an enemy.Boosts own physical defense by $1.
+//S2
+もふもふヘッドバット=Hairy Headbutt
+目の前の敵１キャラに物理小ダメージを与え、さらにスタンさせる。=Deals small physical damage to an enemy directly in front and inflicts Stun.
+r:"^敵単体に(\d+)の物理ダメージ\n敵単体を一定時間行動不能にする$"=Deals $1 physical damage to an enemy.\nRenders an enemy immobile for a set period of time.
+//ex
+プロテクトファー=Downy Defense
+バトル開始時に自分の物理防御力を中アップさせる。=Moderate boost to own physical defense at start of battle.
+r:"^自分の物理防御力を(\d+)アップ$"=Boosts own physical defense by $1.
+
+//Skills+
+//UB
+メリーウールストライク=Mary Wool Strike
+前方範囲内の敵すべてに物理大ダメージを与えて小さく吹き飛ばし、さらに自分の物理防御力を特大アップさせ、味方全体に物理無効バリアを展開する。=Damage all of the enemies in the front range, blow away small, and also increase your physical defense power, and develop a physical invalid barrier throughout allies.
+r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ\n(\d+)ダメージ分の物理無効バリアを展開する$"=Physical damage of $1 to enemies in the range$1 up your physical defense power\n$1 Developing the physical invalid barrier for damage
+//S1
+もふもふアサルト+=Fuzzy Fury+
+バトル開始後暫くして、最も前の敵まで突進し、その敵に物理中ダメージを与え、自分の物理防御力を中アップさせる。さらに味方全体に物理無効バリアを展開する。=Charges straight at the foremost enemy shortly after battle begins and deals moderate physical damage. Large boost to own physical defense. Deploys a barrier that negates physical damage around all allies.
+r:"^敵単体に(\d+)の物理ダメージ自分の物理防御力を(\d+)アップ\n(\d+)ダメージ分の物理無効バリアを展開する$"=Deals $1 physical damage to an enemy.Boosts own physical defense by $1.\nDeploys Barrier that negates $1 physical damage.
+//S2
+
+r:"^$"=
+//ex
+プロテクトファー+=Downy Defense+
+バトル開始時に自分の物理防御力を大アップさせる。=Large boost to own physical defense at start of battle.
+r:"^自分の物理防御力を(\d+)アップ$"=Boosts own physical defense by $1.
+//UE
+アンビシャスドレス=Dreamer's Dress

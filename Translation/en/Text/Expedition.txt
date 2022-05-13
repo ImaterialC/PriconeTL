@@ -27,7 +27,7 @@ r:"^経験値クエストLv(\d+)$"=EXP Quest Lv$1
 r:"^マナクエストLv(\d+)$"=Mana Quest Lv$1
 r:"^神殿調査クエストLv(\d+)$"=Temple Trek Lv$1
 
-r:"^本日の回復可能回数([ 0-9/]+)回$"=Recharges left today:$1
+r:"^本日の回復可能回数 (\d+)/(\d+)回$"=Recharges left today: $1/$2
 
 所持ジュエル=Jewels Held
 挑戦回数=Attempts

@@ -1,0 +1,40 @@
+Halloween Shinobu 
+//Profile
+シノブ（ハロウィン）=Halloween Shinobu 
+占いが得意な霊能少女=A medium who's skilled at fortune-telling
+
+//Skills
+//UB
+ハロウィンテラー=Halloween Terror
+最もＨＰの割合が低い敵１キャラに物理特大ダメージを与え、さらにこのスキルで敵を倒した場合、敵全体に物理中ダメージを与える。=Deals large physical damage to the enemy with the lowest HP percentage. Deals additional moderate physical damage to all enemies if the enemy is defeated by this skill.
+r:"^敵単体に(\d+)の物理ダメージ敵全体に(\d+)の物理ダメージ$"=Deals $1 physical damage to an enemy.Deals $1 physical damage to all enemies.
+//S1
+レイスウェポン=Wraith Weapon
+自分の物理攻撃力を大アップさせる。=Large boost to own physical attack.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+//S2
+ホロウサイズ=Hollow Scythe
+自分を中心とした範囲内の敵すべてに物理中ダメージを与える。=Deals moderate physical damage to all enemies in range.
+r:"^範囲内の敵に(\d+)の物理ダメージ$"=Deals $1 physical damage to enemies in range.
+//ex
+冥界の夜想歌=Netherworld Nocturne
+バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+レイスウェポン+=Ray Sword+
+自分の物理攻撃力を特大アップさせ、さらに物理クリティカルを大アップさせる。=Make your physical attack power oversized and increase your physical critical.
+r:"^自分の物理攻撃力を(\d+)アップ\n自分の物理クリティカルを(\d+)アップ$"=$1 up your physical attack power\nUp $1 up your physical critical
+//S2
+
+r:"^$"=
+//ex
+冥界の夜想歌+=Netherworld Nocturne+
+バトル開始時に自分の物理攻撃力を大アップさせる。=Large boost to own physical attack at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+//UE
+霊鎌パンプキンサイズ=Spirit Cynpan Pumpkin Size

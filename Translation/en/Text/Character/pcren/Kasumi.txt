@@ -1,0 +1,40 @@
+Kasumi 
+//Profile
+カスミ=Kasumi 
+頭脳明晰な美少女名探偵=A brilliant, beautiful detective
+
+//Skills
+//UB
+クリミナルプリズン=Criminal Prison
+前から3番目の敵を中心に、範囲内の敵の魔法防御力を特大ダウン、ＴＰ上昇を小ダウンさせるフィールドを展開し、さらに行動速度を小ダウンさせる。=Massively lowers magical defense of all enemies in a radius around the third enemy from the front, deploys a field that lowers TP Boost by a moderate amount, and reduces their action speed by a small amount.
+r:"^フィールド内の敵の魔法防御力(\d+)ダウン\nフィールド内の敵のＴＰ上昇(\d+)ダウン範囲内の敵の行動速度を一定時間低下させる$"=Lowers magic defense of enemies within field by $1.\nLowers TP Boost of enemies within field by $1.Reduces action speed of enemies in range for a set period of time.
+//S1
+ルートオブバインド=Binding Route
+前方範囲内の敵全てに魔法小ダメージを与え、さらに束縛する。=Deals small magical damage to all enemies in range and inflicts Bind.
+r:"^範囲内の敵に(\d+)の魔法ダメージ\n範囲内の敵を一定時間行動不能にする$"=Deals $1 magic damage to enemies in range.\nRenders enemies in range immobile for a set period of time.
+//S2
+ミスリードバレット=Misdirection Bullet
+目の前の敵１キャラに魔法小ダメージを与え、さらに混乱させる。=Deals small magical damage to an enemy directly in front and inflicts Confusion.
+r:"^敵単体に(\d+)の魔法ダメージ\n敵単体を混乱させる$"=Deals $1 magic damage to an enemy.\nConfuses an enemy.
+//ex
+ディテクティブマインド=Detective Mind
+バトル開始時に自分の魔法防御力を中アップさせる。=Moderate boost to own magical defense at start of battle.
+r:"^自分の魔法防御力を(\d+)アップ$"=Boosts own magic defense by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+ルートオブバインド+=Route of Bind+
+前方範囲内の敵全てに魔法小ダメージを与え、さらに束縛する。範囲内の敵の数に応じて、束縛時間が増加する。=It deals magic small damage to all enemies within the front range and further bound. The binding time increases according to the number of enemies within the range.
+r:"^範囲内の敵に(\d+)の魔法ダメージ範囲内の敵を一定時間行動不能にする$"=Magic damage of $1 to enemies in the rangeMake enemies in the range unable to act for a certain period of time
+//S2
+
+r:"^$"=
+//ex
+ディテクティブマインド+=Detective Mind+
+バトル開始時に自分の魔法防御力を大アップさせる。=Large boost to own magical defense at start of battle.
+r:"^自分の魔法防御力を(\d+)アップ$"=Boosts own magic defense by $1.
+//UE
+ディテクティブルーペ=Detectable

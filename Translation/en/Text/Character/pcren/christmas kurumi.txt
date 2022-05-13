@@ -1,0 +1,40 @@
+christmas kurumi 
+//Profile
+クルミ（クリスマス）=christmas kurumi 
+泣き虫で臆病な守ってあげたい女の子=A cowardly crybaby you can't help wanting to protect
+
+//Skills
+//UB
+ウィンターコールベル=Winter Chimes
+味方全体の魔法防御力を中アップさせ、さらに自分に魔法吸収バリアを展開する。=Moderate boost to all allies' magical defense. Deploys a barrier around oneself that absorbs magical damage.
+r:"^味方全体の魔法防御力を(\d+)アップ\n(\d+)ダメージ分の魔法吸収バリアを展開する$"=Boosts all allies' magic defense by $1.\nDeploys Barrier that absorbs $1 magic damage.
+//S1
+ベルチアリング=Jingling Cheer
+攻撃を受けるか一定時間経過するまでの間、ベルを鳴らして自分を中心とした範囲内の味方の物理防御力を特大アップさせる。=Rings a bell to massively boost the physical defense of all allies in range. This effect continues for a set time or until attacked.
+r:"^ベルを鳴らしている間、範囲内の味方の物理防御力を(\d+)アップ$"=While ringing the bell, boosts physical defense of allies in range by $1.
+//S2
+ヒーリングベル=Healing Bell
+自分の周囲に、範囲内の味方すべてを小回復するフィールドを展開する。=Deploys a field that recovers HP of all nearby allies by a small amount.
+r:"^毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Deploys a field that recovers HP by $1 every second.
+//ex
+セイントエトワール=Saint Etoile
+バトル開始時に自分の魔法防御力を中アップさせる。=Moderate boost to own magical defense at start of battle.
+r:"^自分の魔法防御力を(\d+)アップ$"=Boosts own magic defense by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+ベルチアリング+=Vertian+
+５回攻撃を受けるか一定時間経過するまでの間、ベルを鳴らして自分を中心とした範囲内の味方の物理防御力を特大アップさせる。さらに味方全体の物理防御力を中アップさせ、自分のＴＰを小回復する。=Until you receive five attacks or for a certain period of time, you will sound the physics defense of allies, led by yourself. Furthermore, the physical defense power of all allies is improved to recover your TP small.
+r:"^ベルを鳴らしている間、範囲内の味方の物理防御力を(\d+)アップ\n味方全体の物理防御力を(\d+)アップ\n自分のＴＰを(\d+)回復$"=Up the physical defense of allies within the range while ringing the bell $1\nUp $1 the physical defense of all allies\nRecovery of your TP $1
+//S2
+
+r:"^$"=
+//ex
+セイントエトワール+=Saint Etoile+
+バトル開始時に自分の魔法防御力を大アップさせる。=Large boost to own magical defense at start of battle.
+r:"^自分の魔法防御力を(\d+)アップ$"=Boosts own magic defense by $1.
+//UE
+クリスマスアクトベル=Christmas actbell

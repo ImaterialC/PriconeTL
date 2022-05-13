@@ -1,0 +1,40 @@
+Yuki 
+//Profile
+ユキ=Yuki 
+ボクは誰よりも美しい=Believes himself to be the fairest of them all
+
+//Skills
+//UB
+ボクの美にひれ伏すがいい！=Bow to My Beauty!
+敵全体に魔法小ダメージを与え、さらに物理防御力を小ダウンさせる。=Deals small magical damage to all enemies in the front and lowers their physical defense by a small amount.
+r:"^敵全体に(\d+)の魔法ダメージ\n敵全体の物理防御力を(\d+)ダウン$"=Deals $1 magic damage to all enemies.\nLowers all enemies' physical defense by $1.
+//S1
+ボクの目が眩む程の美しさ♪=My Beauty Is Blinding ♪
+自分から２番目に近い敵１キャラに魔法中ダメージを与え、さらに暗闇状態にする。=Deals small magical damage to the 2nd closest enemy and inflicts Blind.
+r:"^敵単体に(\d+)の魔法ダメージ\n敵単体を暗闇状態にする$"=Deals $1 magic damage to an enemy.\nInflicts Blind.
+//S2
+可愛いボクが応援するよ♪=The Cutest Supporter ♪
+最もＴＰが多い味方１キャラのＴＰを中回復する。=Recovers the TP of the party member with the highest TP by a medium amount.
+r:"^味方単体のＴＰを(\d+)回復$"=Recovers an ally's TP by $1.
+//ex
+可愛いボクががんばるよ=The Cutest Hard Worker
+バトル開始時に自分の魔法攻撃力を中アップさせる。=Moderate boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+ボクの目が眩む程の美しさ♪+=My Beauty Is Blinding ♪+
+自分から２番目に近い敵１キャラに魔法中ダメージを与え、さらに暗闇状態と誘惑状態にする。=Deals moderate magical damage to the 2nd closest enemy and inflicts Blind and Charm.
+r:"^敵単体に(\d+)の魔法ダメージ\n敵単体を暗闇状態にする\n敵単体を誘惑する$"=Deals $1 magic damage to an enemy.\nInflicts Blind.\nInflicts Charm on an enemy.
+//S2
+
+r:"^$"=
+//ex
+可愛いボクががんばるよ+=The Cutest Hard Worker+
+バトル開始時に自分の魔法攻撃力を中アップさせ、さらに自分の物理防御力を小アップさせる。=Moderate boost to own magical attack and small boost to physical defense at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ\n自分の物理防御力を(\d+)アップ$"=Boosts own magic attack by $1.\nBoosts own physical defense by $1.
+//UE
+グリッターコンパクト=Glitter Compact

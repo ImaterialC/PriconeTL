@@ -1,0 +1,40 @@
+New Year Yui 
+//Profile
+ユイ（ニューイヤー）=New Year Yui 
+戦闘のサポートが得意な、心優しい少女=A kind girl who excels at combat support
+
+//Skills
+//UB
+サンライズプロテクション=Sunrise Protection
+味方全体に物理/魔法無効バリアと継続ＨＰ回復状態を付与するが、自身の魔法攻撃力を特大ダウンさせる。=Grants HP regen and a barrier that negates physical and magical damage to all allies, but lowers own magical attack by a massive amount.
+r:"^(\d+)ダメージ分の物理魔法無効バリアを展開する\n毎秒ＨＰを(\d+)回復する\n自分の魔法攻撃力を初期値の90%ダウン$"=Deploys Barrier that negates $1 physical and magic damage.\nRecovers HP by $1 every second.\nLowers own magic attack by 90% of base value.
+//S1
+ウィークネスペタル=Weakening Petals
+前から２番目の敵１キャラの物理攻撃力と魔法攻撃力を中ダウンさせる。=Moderately lowers the physical and magical attack of the 2nd closest enemy.
+r:"^敵単体の物理攻撃力を(\d+)ダウン\n敵単体の魔法攻撃力を(\d+)ダウン$"=Lowers an enemy's physical attack by $1.\nLowers an enemy's magic attack by $1.
+//S2
+ブルーミングチアーズ=Cheerful Bloom
+魔法攻撃を行う全ての味方キャラの魔法攻撃力を大アップさせる。=Large boost to the magical attack of all allies that use magical attacks.
+r:"^対象の味方の魔法攻撃力を(\d+)アップ$"=Boosts target allies' magic attack by $1.
+//ex
+ブライトネスニューイヤー=Bright New Year
+バトル開始時に自分の魔法攻撃力を中アップさせる。=Moderate boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+ウィークネスペタル+=Weekness Petal+
+前から２番目の敵１キャラの物理攻撃力と魔法攻撃力と魔法防御力とＴＰ上昇を中ダウンさせる。=The second enemy of the second enemy, the physical attack power, the magic attack power, the magic defense power, and the increase in TP are downed in the middle.
+r:"^敵単体の物理攻撃力を(\d+)ダウン\n敵単体の魔法攻撃力を(\d+)ダウン\n敵単体の魔法防御力を(\d+)ダウン\n敵単体のＴＰ上昇を(\d+)ダウン$"=The physical attack power of the enemy alone $1 down\nThe magic attack power of the enemy alone $1 down\n$1 down the magic defense of the enemy alone\n$1 down the TP rise of the enemy alone
+//S2
+
+r:"^$"=
+//ex
+ブライトネスニューイヤー+=Bright New Year+
+バトル開始時に自分の魔法攻撃力を大アップさせる。=Large boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+//UE
+曉の祝杖ブロッサム=曉 Celebration cane blossom

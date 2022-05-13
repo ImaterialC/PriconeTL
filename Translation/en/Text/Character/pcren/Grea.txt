@@ -1,0 +1,40 @@
+Grea 
+//Profile
+グレア=Grea 
+人を超越した力を有す心優しい竜姫=A kindhearted dragon princess with superhuman abilities
+
+//Skills
+//UB
+マッドネスクリーヴ=Cleaving Madness
+前方範囲内の敵すべてに魔法大ダメージを与える。=Deals large magical damage to all enemies in range.
+r:"^範囲内の敵に(\d+)の魔法ダメージ$"=Deals $1 magic damage to enemies in range.
+//S1
+ドラグインフェルノ=Dragon Inferno
+目の前の敵１キャラの所まで無敵状態で突進し、魔法中ダメージを与える。=Gains invincibility and charges toward an enemy directly in front, dealing moderate magical damage.
+r:"^飛行中無敵状態になる\n敵単体に(\d+)の魔法ダメージ$"=Becomes immune to all damage while in flight.\nDeals $1 magic damage to an enemy.
+//S2
+ドラグアグニ=Dragon Agni
+最も物理攻撃力が高い敵を中心として、魔法ダメージフィールドを展開する。=Deploys a field that deals magical damage around the enemy with the highest physical attack.
+r:"^毎秒(\d+)の魔法ダメージを与えるフィールドを展開する$"=Deploys a field that deals $1 magic damage every second.
+//ex
+ドラグハート=Dragonheart
+バトル開始時に自分の魔法攻撃力を中アップさせる。=Moderate boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+
+//Skills+
+//UB
+
+r:"^$"=
+//S1
+ドラグインフェルノ+=Drag Inferno+
+目の前の敵１キャラの所まで無敵状態で突進し、魔法大ダメージを与え、さらにその周囲の敵に魔法中ダメージを与える。=It rushes to one character in front of you in invincible state, causes magic damage, and also causes magic damage to the surrounding enemies.
+r:"^飛行中無敵状態になる\n敵単体に(\d+)の魔法ダメージ範囲内の敵に(\d+)の魔法ダメージ$"=Become invincible during flight\nMagic damage of $1 to the enemy aloneMagic damage of $1 to enemies in the range
+//S2
+
+r:"^$"=
+//ex
+ドラグハート+=Dragonheart+
+バトル開始時に自分の魔法攻撃力を大アップさせる。=Large boost to own magical attack at start of battle.
+r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
+//UE
+ドラグアミュレット=Dragamulet
