@@ -11,6 +11,9 @@
 闇黒の曙光=Darkness Glory
 更け征く夜+=Conqueror of The Night+
 更け征く夜=Conqueror of The Night
+紫紺の黄昏=Violet Dusk
+紫紺の黄昏+=Violet Dusk+
+白銀の月影=Silver Moonlight
 
 ===Story
 クロエ純情白書／芽生え編=Chloe junjō hakusho / Bud Part
