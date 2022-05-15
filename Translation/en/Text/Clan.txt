@@ -353,7 +353,7 @@ r:"^(\d)戦目\n本戦参加済$"=Used at\nParty $1
 ===Boss===
 持越し時間：=C.Over Time:
 sr:"^(.+)　Lv.(\d+)$"=$1 lv.$2
-==={{A}}体目=B-{{A}}
+r:"^(\d)体目=B-$1
 
 与えたダメージ=DMG Dealt
 全段階合計=All Tier Score Total
