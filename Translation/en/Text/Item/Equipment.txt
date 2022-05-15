@@ -427,3 +427,4 @@ sr:"^「(.+)」[の欠片\n]{3,4}。$"="A fragment of $1."
 フロストコラムヒール=Frost Column Heel
 氷穿槍スノーストーム=Ice Spear Snowstorm
 氷聖弓コンヘラシオン=Ice Bow Kon Helacion
+スノウフレークベレー=Snowflake Beret
