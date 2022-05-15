@@ -62,3 +62,4 @@
 エンジェルアテンション+=Angel Art Tension+
 ねこまんま=Nekomanma
 ぶん=sentence
+集中しすぎて=Too concentrated
