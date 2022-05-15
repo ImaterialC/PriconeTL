@@ -1,0 +1,3 @@
+初期BGM=Initial BGM
+このストーリーシーンをマイページに設定完了すると\nダウンロードしたデータはそのまま保存されます。=When this story scene is set at Home,\nthe downloaded data will be saved as it is.
+マイページに設定しなかった場合や\n設定後にマイページからはずした場合は\n次にアプリを起動した際にデータが削除されます。=If you do not set it at Home, or if you\nremove it from My Page after setting it, the data\nwill be deleted the next time you start the app.

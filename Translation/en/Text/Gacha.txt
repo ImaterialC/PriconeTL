@@ -11,7 +11,6 @@ Sダッシュ=S:Dash
 ノーマルガチャ=Normal Gacha
 プライズガチャ=Prize gacha
 所持制限数を越えたアイテムは、プレゼントに送られます。=Items beyond the possession limit will be sent to the present.
-ミじゃんけんタイム！=Janken Time!
 
 r:"^あと ([0-9:]{8})$"=$1 Left
 ===Buy Mana===
@@ -60,7 +59,7 @@ r:"^ストーリー (\d+)話$"=Story Episode $1
 
 [FF7C4E,D62146]すでに仲間になったキャラは女神の秘石に変換されます。\nおまけで獲得できるメモリーピースは直接付与されます。[-]=[FF7C4E,D62146]Duplicate characters will be\nconverted to Divine Amulets.[-]
 追加データは、アプリ起動時に削除されます。=Additional data is deleted at app startup.
-
+[FF7C4E,D62146]追加データは、アプリ起動時に削除されます。[-]=[FF7C4E,D62146]Additional data is deleted at app startup.。[-]
 未解放キャラを仲間にする際に、1キャラあたり\n最大55MBの追加データをダウンロードします。=You will download up to 55MB of additional\ndata per unowned character.
 ガチャチケットを消費してガチャを 1 回引きます。\nよろしいですか？=Consumes 1 gacha ticket to draw 1 Gacha.\nIs it OK?
 ガチャチケットを消費してガチャを 10 回引きます。\nよろしいですか？=Consumes 10 gacha ticket to draw 10 Gacha.\nIs it OK?
@@ -76,16 +75,17 @@ r:"^RANK(\d+)/Lv(\d+)/装備強化MAX/RANKボーナスを含むステータス�
 ==Banner time
 sr:"^(\[[0-9a-fA-F,]{6,13}\])([0-9/ :]{16})～([0-9/ :]{11,16})まで\[-\]$"="$1$2 to $3 (JST)[-]"
 ==Banner Description==
-sr:"^(\[[0-9a-fA-F,]{6,13}\])新キャラ「([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)」登場！\n期間中出現率UP！\[-\]$"="$1Boosted rates for the New character $2$3![-]"
+sr:"^(\[[0-9a-fA-F,]{6,13}\])新キャラ「([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)」登場！\n期間中出現率UP！\[-\]$"="$1Boosted rates for the New character\n$2$3![-]"
 
 sr:"^(\[[0-9a-fA-F,]{6,13}\])★3キャラ出現率2倍！限定「([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)」登場！\n対象キャラを仲間にする度に対象メモピ200個GET！[-]$"={{A}} ★3 character appearance rate 2 Limited "{{B}}" appeared! Each pull a target Character, {{A}}Gets a Bonus of {{C}} Memory Shards![-]
+
 
 [3C404E]『10回引く』は[FFBB00,CE4F00]★2以上[-]1キャラ確定！\n対象キャラを仲間にする度に[FFBB00,CE4F00]対象メモピ200個[-]GET！[-]=[3C404E]A [FFBB00,CE4F00]★2 or higher[-] character is guaranteed with each "10x draw"!\nEach pull a target Character, [FFBB00,CE4F00]Gets a Bonus of 200 Memory Shards[-][-]
 
 下記リストの中からプライズのメモリーピースキャラを\n選択してください。=Select the prize memory shard character\nfrom the list below.
 [3C404E]『10回引く』は[FFBB00,CE4F00]★2以上[-]1キャラ確定！\n※すでに仲間にしているキャラは女神の秘石に変換されます。[-]=[3C404E]A [FFBB00,CE4F00]★2 or higher[-] character is guaranteed with each 10x draw!\n※Already recruited characters will be converted to Divine Amulets[-].
 
-{{B}}{{D}}キャラ目は{{A}}★{{E}}キャラ確定！[-]\n対象キャラを仲間にする度に{{A}}対象メモピ{{C}}個[-]GET！[-]={{B}}A {{A}}★3 character[-] is guaranteed with each 10x draw!\n※Each pull a target Character, {{A}}Gets a Bonus of {{C}} Memory Shards[-].[-]
+[3C404E]10キャラ目は[FFBB00,CE4F00]★3キャラ確定！[-]\n対象キャラを仲間にする度に[FFBB00,CE4F00]対象メモピ200個[-]GET！[-]=[3C404E]A [FFBB00,CE4F00]★3 character[-] is guaranteed with each 10x draw!\n※Each pull a target Character, [FFBB00,CE4F00]Gets a Bonus of 200 Memory Shards[-].[-]
 
 [FFBB00,CE4F00]プラチナガチャはキャラのみ出現！[-]=[FFBB00,CE4F00]Platinum Gacha only appears for characters![-].
 キャラ交換Ptの説明=Character exchange Pt description
@@ -177,8 +177,8 @@ sr:"^\[FFBB00,CE4F00\]「([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)」(「|)
 このガチャは有償ジュエルで引くことができます。=This gacha can be drawn only with a paid jewel.
 ★3確定プラチナガチャ=Guarantee ★3 Platinum Gacha
 ★3確定ガチャ=Guarantee ★3 Gacha
-[3C404E]有償ジュエル限定\n★3確定プラチナガチャ開催！[-]={{A}}Limited Guarantee ★3\nPaid Jewel Platinum Gacha! [-]
-有償ジュエルを消費してガチャを {{A}} 回引きます。\nよろしいですか？=Consume paid jewel and draw {{A}} gacha.\nIs this OK?
+[FFBB00,CE4F00]有償ジュエル限定\n★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Limited Guarantee ★3\nPaid Jewel Platinum Gacha! [-]
+有償ジュエルを消費してガチャを 10 回引きます。\nよろしいですか？=Consume paid jewel and draw 10 gacha.\nIs this OK?
 ===Special Tickets use===
 スペシャル キャラ交換ガチャセット=Special Character Exchange
 4th Anniv. SPキャラ交換ガチャセット=4th Anniv. Special Character Exchange

@@ -19,7 +19,7 @@ Lv強化=Level Up
 メモリーピースと{{A}}が不足しています。=Insufficient Memory Shards and {{A}}.
 ャラ強化=Enhance Characters
 強化する=Refine
-無料でレベルアップ！=Level up for free!
+
 ランクアップ=Rank Up
 装備ステータス=Equipment Stats
 使う=Use
@@ -103,7 +103,7 @@ EXスキルスロット=EX skill slot
 セット=set
 
 素材を購入=Buy material
-無料対象のためアイテムや装備は消費しません。=Items and equipment are not consumed as they are free of charge.
+
 装備品・強化アイテムは\\nクエストで入手することができます=Equipment and refine items can be\\nobtained in the quest
 使用できる素材がありません=No material available
 この装備はこれ以上強化できません。=This equipment cannot be refine any further.
@@ -223,7 +223,7 @@ RANKボーナス詳細のステータス=Status Details
 まとめて強化確認=Enhancement Confirmation
 以下のアイテムを消費して専用装備を強化しますか？=Would you like to spend the following items\nto enhance Unique Equipment?
 上限解放に必要なマナ=Mana Cost
-消費数=Mana Cost
+消費数=Cost
 上限解放に必要な素材=Required Items
 素材が不足しています。=Insufficient Materials
 この装備は最大まで強化されています。=This equipment cannot be refined any further.

@@ -1,5 +1,5 @@
 バトル=Battle
-スキ{{A}}ットイン=Skill Cut-in
+スキルカットイン=Skill Cut-in
 「1日1回見る」を設定すると、各キャラのカットインが毎日初回発動分のみ表示されます。=Selecting "once per day" will set each char's cut-ins to appear\nonly the first time they use a skill that day.
 1日1回見る=Once Per Day
 
