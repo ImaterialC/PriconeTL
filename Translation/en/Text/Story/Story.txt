@@ -64,7 +64,7 @@ r:"^第(\d+)話$"=Episode $1
 r:"^第(\d+)話ステータスアップボーナス$"=Episode $1 Stats Boost Bonus
 ===Chara story===
 
-r:"^(\d+) 第(\d+)話$"=$1 Episode $2
+sr:"^([^ ]+) 第(\d+)話$"=$1 Episode $2
 連続で閲覧できるストーリーがあります。=There is next story that can be viewed.
 連続ストーリー閲覧確認=Confirmation of Maraton Story Viewing
 
