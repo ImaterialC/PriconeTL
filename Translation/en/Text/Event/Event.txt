@@ -6,9 +6,7 @@
 開演直前=Coming soon
 r:"^開催期間 : ([0-9/]+)～([0-9/]+)$"=Event Period: $1 to $2
 r:"^([0-9/ :]+) ～ ([0-9/ :]+)まで$"=$1 to $2
-
-
-イベントを進めてボスを討伐しよう！\n残り{{A}}体 BOSS討伐で解放=Let's advance the event and subdue the boss! \nReleased by subduing the remaining {{A}} BOSS
+r:"^(\d+)日 (\d+)時間$"=$1d $2h
 r:"^(\d+)体撃破$"=$1 × Defeated
 r:"^スキップチケットとボスチケットを消費して\n(\d+)体ボスを撃破します。よろしいですか？$"=Defeat $1 bosses by consuming\n skip tickets and boss tickets.\nIs this OK??
 
@@ -49,7 +47,7 @@ r:"^開催日時:([0-9/: ]{11})～([0-9/: ]{11})$"=Period: $1 to $2
 合計獲得報酬=Total Reward
 スキップチケット確認=Skip Tickets
 r:"^イベントクエスト(.+)クリアで解放$"=Clear event quest $1 to unlock.
-r:"^イベントクエスト(.+)をクリアで解放されます。$"=Clear event quest $1 to unlock.
+sr:"^(イベント|メイン)クエスト(.+)をクリアで解放されます。$"=Clear $1 quest $2 to unlock.
 r:"^ボスバトル(.+)クリアで解放$"=Clear Boss Battle $1 to unlock.
 信=Trust
 頼度= Stories

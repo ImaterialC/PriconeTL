@@ -5,7 +5,7 @@ r:"^スタミナ回復まで残り ([0-9]{2}):([0-9]{2})$"=Stamina refill in $1m
 r:"^([0-9]+)枚$"=$1 Tixs
 r:"^([0-9]+)枚 使う$"=Use $1
 
-r:"^あと (\d+)"=remaining $1
+r:"^あと (\d+)$"=remaining $1
 クリアパーティ一覧=Clear Party List
 リセット=Reset
 情報が更新されるまで、時間がかかる場合があります。=It may take some time until the information is updated.

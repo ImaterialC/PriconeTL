@@ -27,14 +27,26 @@
 r:"^グロウスフィア / Lv(\d+)$"=Growsphere / Lv$1
 
 r:"^すべてのキャラに使用できるグロウスフィア。キャラのステータスをLv(\d+)/RANK(\d+)まで強化できる。$"=Growsphere that can be used for all characters. Raise character's status to LV$1/RANK$2.
-sr:"^([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)専用スフィア / Lv(\d+)$"=$1$2 Exclusive Sphere / Lv$4
-sr:"^([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)専用のグロウスフィア。キャラのステータスをLv(\d+)/RANK(\d+)まで強化できる。$"=Growsphere exclusively for $1$2that can be used for all characters. Raise character's status to LV$4/RANK$5.
+sr:"^([べ-・ー＆]{2,11})(\（.{2,10}\）)?専用スフィア / Lv(\d+)$"=$1$2 Exclusive Sphere / Lv$3
+sr:"^([べ-・ー＆]{2,11})(\（.{2,10}\）)?専用のグロウスフィア。キャラのステータスをLv(\d+)/RANK(\d+)まで強化できる。$"=Growsphere exclusively for $1$2that can be used for all characters. Raise character's status to LV$3/RANK$4.
 
+r:"^グロウスフィア / Lv(\d+)\nを使用しました。\n設定値まで、無料で強化できます。$"=You used Growsphere / Lv$1.\nNow you can enhance the set value for free.
+グロウスフィアセット完了=Growsphere Set Completion
 
-Glowusfia exclusively for Yukari (Christmas). The character status can be enhanced to Lv180/Rank19.
-
-使用するグロウスフィアを選択してください。=Select the Growsphere to use.
-
+ランクとレベルを一括で強化します。=Increase ranks and levels at once.
+一括強化=Batch Strengthening
+無料でレベルアップ！=Level up for free!
+ランクアップします。よろしいですか？=Do you want to Rank Up?
+r:"^無料で強化できるのは\nLv(\d+)までです。$"=Can be enhanced for free up to Lv215 .
+レベルは現在のプレイヤーLv以下まで上げられます。=The level can be raised to the current player Lv.
+無料対象のためアイテムや装備は消費しません。=No items and equipment are consumed.
+スキル①=Skill ①
+スキル②=Skill ②
+r:"^\[3C404E\]無料で強化できるのは\[-\]\[FF7C4E,D62146\]Lv(\d+)\[-\]\[3C404E\]までです。\[-\]$"=[3C404E]LvUp for Free Up to[FF7C4E,D62146] Lv215[-].[-]
+[3C404E]無料で強化できるのは[-][FF7C4E,D62146]
+・ランクアップ\n・装備装着\n・装備強化=·rank up\n・ Equipped an equipment\n・ Equipment enhancement
+無料強化分が完了したものがあります。=Some of the free enhancements have been completed.
+無料強化完了=Free Enhancement Completed
 ===npc===
 マナや装備が足りない場合でも、グロウスフィアを使用すれば\nお仲間を一気に強化ができるようです。\nグロウスフィアを手に入れたらすぐに使ってみましょう。=Even if you don't have enough mana or equipment, you can use Growsphere to strengthen your friends at once. Use it as soon as you get the Growsphere.
 
