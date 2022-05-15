@@ -19,9 +19,6 @@
 クロエ勤労日報／古物商編=Chloe's Working Diary / Secondhand Dealer Part
 クロエ勤労日報／居酒屋編=Chloe's Working Diary / Japanese Bar Part
 
-クロエを仲間にしよう=Let's make Chloe a friend
-クロエを★3にしよう=Let's make Chloe ★3
-
 ===Skill 1
 敵全体を、クロエの攻撃が当たるたびに【畏縮】ステータスが１つ追加されるようにする。【畏縮】は最大66まで追加される。さらに、自身の物理攻撃力を中アップさせる。=Whenever one of Chloe's attacks hit an enemy, that enemy gains one stack of the "cowering" status. Up to 66 stacks can be inflicted at once. Additionally, moderately increases Chloe's own physical attack.
 
