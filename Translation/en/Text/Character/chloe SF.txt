@@ -11,9 +11,6 @@
 クロエ学祭雑記／家族の容=Chloe School Festival Rough Report / Family
 クロエ学祭雑記／過日の想=Chloe School Festival Rough Report / Daily thoughts
 
-クロエ（聖学祭）を仲間にしよう=Let's make Chloe (School Festival) a friend
-クロエ（聖学祭）を★3にしよう=Let's make Chloe (School festival) ★ 3
-
 ===Skill 1
 自分の物理攻撃力を中アップさせ、目の前の敵１キャラの物理防御力を中ダウンさせる。バトル開始後初めてこのスキルを使用した後、49回ダメージを与えるたびに、自分のＴＰを特大回復させる。=Increase her Physical Attack by a Moderate amount. Reduce Physical Defense of the foremost enemy by a Moderate amount. After this skill is first used, Recover TP by a Massive amount for each 49 hits.
 
