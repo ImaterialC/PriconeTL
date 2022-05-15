@@ -37,9 +37,6 @@ r:"^自分の魔法防御力を(\d+)アップ\n自分のＨＰを(\d+)回復\n(\
 自分の魔法防御力を中アップさせ、さらにＨＰを大回復し、自分に物理/魔法吸収バリアを展開する。=Increases own M.DEF by a small amount. Deploy a barrier around oneself that absorbs P.DMG and M.DMG.
 
 ===Skill 2
-目の前の敵１キャラに物理中ダメージを与える。=Deals moderate P.DMG to an enemy directly in front.
-r:"^敵単体に(\d+)の物理ダメージ$"=Deals $1 P.DMG to an enemy.
-
 ===Skill EX
 バトル開始時に自分の最大ＨＰを大アップさせる。=Large boost to own max HP at start of battle.
 r:"^自分の最大ＨＰを(\d+)アップさせる$"=Boosts own max HP by $1.
