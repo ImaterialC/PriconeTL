@@ -1,3 +1,5 @@
+（欠片）=(Piece)
+の設計図= Blueprint
 sr:"^(.+)（欠片）$"=$1 (Piece)
 sr:"^(.+)の設計図$"=$1 Blueprint
 
@@ -424,3 +426,4 @@ sr:"^「(.+)」[の欠片\n]{3,4}。$"="A fragment of $1."
 氷雪刀グラキエッジ=Snowice Sword Graquiedge
 フロストコラムヒール=Frost Column Heel
 氷穿槍スノーストーム=Ice Spear Snowstorm
+氷聖弓コンヘラシオン=Ice Bow Kon Helacion
