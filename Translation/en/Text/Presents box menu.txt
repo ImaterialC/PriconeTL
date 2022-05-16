@@ -18,6 +18,7 @@
 ===Item Receive===
 sr:"^\[3C404E\]([\s\S]+)×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]$"=[3C404E]$1 × [-][FFBB00,CE4F00]$2[-]
 sr:"^(.{3,18})×(\d+)$"=$1 × $2
+
 ===sort===
 フィルタ=Filter
 期限あり=Limited Time

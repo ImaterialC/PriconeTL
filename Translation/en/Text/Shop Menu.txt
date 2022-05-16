@@ -31,9 +31,7 @@ sr:"^\[3B3F4D\]([べ-・ー]{2,12})×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]�
 ===Bough List===
 sr:"^\[3B3F4D\]([べ-・ー]{2,12})×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しました。\[-\]$"=[3B3F4D]You used $1 × [FFBB00,CE4F00]$2[-]\n to buy the following items.[-]
 
-
-
-sr:"^\[3C404E\]([べ-・ー]{2,12})×\[FFBB00,CE4F00\](\d+)\[-\]を消費して\n(.+)×\[FFBB00,CE4F00\](\d+)\[-\]を購入しました。\[-\]$"=[3C404E]You used $1 × [FFBB00,CE4F00]$2[-]\nto buy $3 × [FFBB00,CE4F00]$4[-].[-]
+sr:"^\[3C404E\]([べ-・ー]{2,12}|女神の秘石)×\[FFBB00,CE4F00\](\d+)\[-\]を消費して\n(.+)×\[FFBB00,CE4F00\](\d+)\[-\]を購入しました。\[-\]$"=[3C404E]You used $1 × [FFBB00,CE4F00]$2[-]\nto buy $3 × [FFBB00,CE4F00]$4[-].[-]
 
 ===sort order===
 ピュアメモリー\nピースのみ=Pure memory\nshard only
@@ -90,13 +88,21 @@ r:"^([0-9/]+) 枚$"=$1 Coin
 
 ピュアメモリーピース1個あたりの単価=Price per Pure Memory Shards: 
 ピュアメモリーピース単価一覧=Pure Memory Shard price list
-ピュアメモリーピース購入時の、1個あたりの女神の秘石の\n必要数の詳細は下記をご覧ください。=See below for details on the number of Divine Amulet required per piece when purchasing a Pure Memory Shard.
+ピュアメモリーピース購入時の、1個あたりの女神の秘石の\n必要数の詳細は下記をご覧ください。=See below for details on the number of Divine Amulet required per Shard when purchasing a Pure Memory Shard.
 
 ★5に必要な個数まで指定できます。=You can specify up to the number you need for ★5.
 以下のアイテムを購入しますか?=Do you buy the following items?
-メモリーピース購入数に応じて、1個あたりの女神の秘石の\n必要数が異なります。詳細は下記をご覧ください。=The required number of Divine Amulet per piece\ndepends on the number of memory shards has purchased.\nSee below for details.
+メモリーピース購入数に応じて、1個あたりの女神の秘石の\n必要数が異なります。詳細は下記をご覧ください。=The required number of Divine Amulet per Shard\ndepends on the number of memory shards has purchased.\nSee below for details.
 メモリーピース単価一覧=Memory Shard unit Price List
-sr:"^([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)のメモリーピースの購入数が(\d)になりました。$"=The number of purchases of $1$2 now $4.
+sr:"^([べ-・ー＆]{2,11})(\（.{2,10}\）)?のメモリーピースの購入数が(\d)になりました。$"=The number of purchases of $1$2 now $4.
+
+2個になります。=2 per Shard
+3個になります。=3 per Shard
+4個になります。=4 per Shard
+5個になります。=5 per Shard
+
+対象アイテム1個あたりの単価が=The unit price per target item is
+sr:"^([べ-・ー＆]{2,11})(\（.{2,10}\）)?の\nメモリーピースの購入数が(\d+)になりました。$"=The Total number of purchases of\n$1's Memory Shard is $2.
 
 ====Reset
 r:"^([0-9,]+)で今すぐ更新$"=$1: To Reset

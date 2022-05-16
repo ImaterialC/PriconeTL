@@ -20,6 +20,7 @@
 前衛=Front
 
 ユニオンバースト=Union Burst
+スキル効果=Skill effect
 スキル=Skills
 EXスキル=EX Skill
 r:"^(\[[0-9A-F,]{6,13}\])RANK(\d+)で解放！\[-\]$"=$1Unlock at RANK $2!
@@ -52,4 +53,4 @@ r:"^ジュエル×(\d+)を\n獲得しました$"=You have earned Jewel × $1!
 
 レベルアップ=Level Up!
 スタミナが回復しました！=Stamina has been replenished!
-スタミナ最大値=Maximum Stamina
+スタミナ最大値=Max Stamina

@@ -23,6 +23,7 @@ sr:"^メインクエスト([0-9\-\(\)\w ]*)クリアで$"=Cleared Main Quest $1
 
 過去のストーリーイベントを\n楽しめちゃいますよ！\n遊んだことのないものがあれば\n一緒にやってみましょう♪=You can enjoy story events from the past, and if there's one you haven't played before, we'll do it with you.
 [3C404E]討伐完了[-]=[3C404E]Subjugation Completed[-]
+ストーリー初回閲覧で、\nボーナスアイテムを獲得できます。=You can get bonus items for\nthe first time view of the story.
 ===NPC===
 ミッションをクリアして、\n報酬をゲットしましょう！=Clear the mission and get a reward!
 
@@ -30,23 +31,28 @@ sr:"^メインクエスト([0-9\-\(\)\w ]*)クリアで$"=Cleared Main Quest $1
 ===Wonderland===
 メモリアルマップ=Memorial Map
 黒の王ジャバウォック=Black King Jabberwock
-sr:"^(\[[0-9a-fA-F]{6,8}\])(.+)を1体倒そう(HARD限定)\[-\]$"="$1Clear $2(HARD Limited) 1 time[-]"
-sr:"^不思議の国([0-9\-\(\)\w ]*)$"=Wonderland $1
+
+r:"^不思議の国([0-9\-\(\)\w ]*)$"=Wonderland $1
 ===Cassino===
 カジノホール=Cassino Hall
-sr:"^カジノホール([0-9\-\(\)\w ]*)$"=Cassino Hall $1
+r:"^カジノホール([0-9\-\(\)\w ]*)$"=Cassino Hall $1
 ===St. Teresa Girls' Academy Holy School Festival===
 聖テレサ女学院 聖学祭会場=St. Teresa Girls' Academy Holy School Festival Venue
 聖学祭\nプログラム=St.School Fes Program
 名もなき芸術=Nameless Art
-sr:"^聖テレサ女学院 聖学祭会場([0-9\-\(\)\w ]*)$"=Peripheral Tapas Beach $1
+r:"^聖テレサ女学院 聖学祭会場([0-9\-\(\)\w ]*)$"=Peripheral Tapas Beach $1
 ===Beach Tapaz: kokkoro Summer===
-sr:"^タパスビーチ周辺([0-9\-\(\)\w ]*)$"=Peripheral Tapas Beach $1
+r:"^タパスビーチ周辺([0-9\-\(\)\w ]*)$"=Peripheral Tapas Beach $1
 ===Anna Summer
 七夕剣客旅情譚　天に流れる夏の恋=Tanabata Kenkaku Journey Tan: Summer love flowing in heaven
 ===
 サンレインビーチ=Sunrain Beach
-sr:"^サンレインビーチ([0-9\-\(\)\w ]*)$"=Sunrain Beach $1
+r:"^サンレインビーチ([0-9\-\(\)\w ]*)$"=Sunrain Beach $1
 ===Pirate
+海賊島の呪われし遺宝=Pirates Curse Treasure
 解放されし財宝の守護者=The Guardian of the Liberated Treasure
-sr:"^呪われた海賊島([0-9\-\(\)\w ]*)$"=Cursed Pirate Island $1
+r:"^呪われた海賊島([0-9\-\(\)\w ]*)$"=Cursed Pirate Island $1
+縮小=[-]
+拡大=[+]
+これ以上縮小できません。=Cannot be zoom out anymore.
+これ以上拡大できません。=Cannot be zoom in anymore.

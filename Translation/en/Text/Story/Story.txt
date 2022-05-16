@@ -4,8 +4,9 @@
 追加ストーリー情報=Sub Story Information
 [3C404E]未読の[FFBB00,CE4F00]メインストーリー[-]があります。\nストーリーを読んで報酬を獲得しましょう。[-]=[3C404E]Unreaded [FFBB00,CE4F00]Main Story[-].\nRead the story and earn a reward.[-]
 未読ストーリー=Unread Story
-ボイスデータは、アプリ起動時に都度削除されます。=Voice data for stories is deleted each time the app is launched.
 再生する場合、ボイスデータをダウンロードします。=if you want character voices, then voice data will be downloaded.
+ボイスデータは、アプリ起動時に削除されます。=Voice data is deleted when the app is launched.
+ボイスデータは、アプリ起動時に都度削除されます。=Voice data for stories is deleted each time the app is launched.
 [FF7C4E,D62146]ボイスデータは、アプリ起動時に都度削除されます。[-]=[FF7C4E,D62146]Voice data for stories is deleted each time the app is launched.[-]
 [FF7C4E,D62146]再生する場合、ボイスデータをダウンロードします。[-]=[FF7C4E,D62146]if you want character voices, then voice data will be downloaded.[-]
 
@@ -19,6 +20,7 @@ r:"^ボイスなし\n\(([.0-9]+) ([MG])B\)$"=Voice OFF\n($1 $2B)
 このムービーをスキップしてもよろしいですか？=Are you sure you want to skip this movie?
 r:"^第(\d+)章 第(\d+)話が\n解放可能になりました。$"=Ch $1 Ep $2\nStory has release.
 r:"^第(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"=Arc $1 Ch $2 Ep $3\nStory has release.
+r:"^第(\d+)部 第(\d+)章 幕間が\n解放可能になりました。$"=Arc $1 Ch $2 Epilogue\nStory has release.
 ===Story Menu==
 
 メイン=Main
@@ -63,7 +65,7 @@ r:"^第(\d+)話$"=Episode $1
 r:"^第(\d+)話ステータスアップボーナス$"=Episode $1 Stats Boost Bonus
 ===Chara story===
 
-r:"^(\d+) 第(\d+)話$"=$1 Episode $2
+sr:"^([^ ]+) 第(\d+)話$"=$1 Episode $2
 連続で閲覧できるストーリーがあります。=There is next story that can be viewed.
 連続ストーリー閲覧確認=Confirmation of Maraton Story Viewing
 

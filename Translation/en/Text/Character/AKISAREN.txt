@@ -8,7 +8,5 @@
 
 目の前の敵１キャラに物理特大ダメージを与える。自分の残りＨＰが高い程、このダメージがアップする。さらにその敵を中心として物理ダメージフィールドを展開する。=Deals massive P.DMG to an enemy directly in front. The higher the remaining HP, the higher this damage. In addition, it develops P.DMG fields around the enemies.
 ノーブルブレイズ=Noble blaze
-
-
-
-Inflicts extraordinary physical damage on one enemy character in front of you. The higher your remaining HP, the higher this damage. Furthermore, the physical damage field is expanded around the enemy.
+ノーブルグリッター=Noble glitter
+ノーブルグリッター+=Noble glitter+

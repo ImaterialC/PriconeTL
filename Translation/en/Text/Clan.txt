@@ -77,7 +77,7 @@ sr:"^([0-9]{1,2}月)の順位：$"=$1 Rank:
 メンバーリスト=Member List
 自由にプレイ=Free to Play
 
-sr:"^クランバトル([0-9]+位)以内$"=CB Rank $1 or less
+sr:"^クランバトル(\d+位)以内$"=CB Rank $1 or less
 
 脱退=Leave
 スタンプ=Sticker
@@ -95,7 +95,7 @@ r:"^挑戦回数:([0-3‐])$"=Attem.:$1
 いいね=Like
 送信=Send
 全クラン=All Clans
-パーティ{{A}}と\n対戦=Party {{A}}\nMatch
+r:"^パーティ(\d+)と\n対戦$"=Party $1\nMatch
 クランチャット投稿=Clan chat posting
 編成したパーティをクランチャットに投稿できます。=You can post the organized party to the clan chat.
 このパーティでクランチャットに投稿しますか？=Do you want to post to Clan Chat at this party?
@@ -127,7 +127,6 @@ r:"^\[FF7C4E,D62146\]本日の残り寄付数は(\d+)です。\[-\]$"=[FF7C4E,D6
 
 sr:"^\[25CFDE,0E6C98\](\d+月)全クランランキング\[-\]$"=[25CFDE,0E6C98]Global Ranking($1)[-]
 ===Clan Battle===
-{{A}}{{D}}日{{B}}{{C}}={{A}}-{{D}} {{B}}{{C}}
 CPと挑戦回数は毎日{{B}}:{{A}}にリセットされます。=CPs & attempts will be reset at {{B}}:{{A}}(JST) daily.
 {{B}}クランバトルの挑戦回数が[-]{{A}}{{C}}回[-]{{B}}アップしました。[-]={{B}}Your CB's attempt has increased by [-]{{A}}{{C}}[-]{{B}}.[-]
 {{B}}CPを[-]{{A}}{{C}}[-]{{B}}獲得して、[-]={{B}}Earned [-]{{A}}{{C}} [-]{{B}}CP,[-]
@@ -354,7 +353,7 @@ r:"^(\d)戦目\n本戦参加済$"=Used at\nParty $1
 ===Boss===
 持越し時間：=C.Over Time:
 sr:"^(.+)　Lv.(\d+)$"=$1 lv.$2
-==={{A}}体目=B-{{A}}
+r:"^(\d)体目=B-$1
 
 与えたダメージ=DMG Dealt
 全段階合計=All Tier Score Total
