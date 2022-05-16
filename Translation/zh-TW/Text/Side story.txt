@@ -4,7 +4,6 @@
 メインクエスト{{C}}{{B}}{{A}}クリアで=Cleared Main Quest {{C}}{{B}}{{A}}
 コンテンツ解放=Content Release
 
-エンディング=ending
 イベントストーリー一覧=Event Story List
 入手できるメモリーピースで絞り込み=以可以取得的記憶碎片來篩選
 クエストが解放されていません。=The quest has not been unlocked.

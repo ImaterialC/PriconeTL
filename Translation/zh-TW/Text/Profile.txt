@@ -1,6 +1,5 @@
-ロフィール=rofile
-プ=P
-r:"^([0-9/]+)人$"=$1 People
+ロフィール=個人資料
+プ= 
 ===Menu===
 ウィークリー=Weekly
 EXクエスト=EX Quest
@@ -12,8 +11,6 @@ r:"^(\d+)階$"=Floor $1
 IDコピー=Copy ID
 自己紹介=Intro
 所属クラン=所屬戰隊
-{{B}}{{C}}年{{A}}合計スコア=Total Score {{A}},{{B}}{{C}} 
-{{B}}{{C}}年{{A}}={{A}}, {{B}}{{C}}
 
 全キャラ戦力=全角色戰力
 プロフ作成=個人資料製作
@@ -25,7 +22,6 @@ IDコピー=Copy ID
 お気に入り設定=Set Favorites
 お気に入りキャラ=Favorite Character
 差を表示する=Display
-{{A}}{{B}}日={{A}} {{B}}
 ===Profile Card===
 保存=Save
 買うぜ？=Buy?
@@ -77,7 +73,6 @@ Twitter投稿=Post to Twitter
 {{A}}／{{A}}人={{A}}／{{A}}
 ランプロフカード=Clan Profile Card
 平均プレイヤーLv=Average P. LV
-作戦説明=Operation description
 個人=個人
 過去の戦績=過去的戰績
 個人合計スコア=Individual Total Score

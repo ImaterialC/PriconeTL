@@ -57,13 +57,13 @@ Lv上限に達しているため強化できません。=cannot be refined becau
 キャラLvとスキルLvのみ強化のため、原鉱は消費できません。=Only Character Lv and Skill Lv are enhanced, so no Ore can be consumed.
 {{B}}アイテムを消費して、強化Lv上限を[-]{{A}}{{C}}[-]{{B}}に解放します。\nよろしいですか？[-]={{B}}Consume items to increase Lv limit to [-] {{A}}{{C}}[-]{{B}}.\nIs this OK? [-]
 
-キャラ解放確認=Unlock Character
-解放する=Unlock
-アイテムが不足しています。=Insufficient Items.
-メモリーピース入手方法=How to Obtain Memory Shards
-入手場所=Location
-現在、このアイテムは\nメインクエスト等では入手できません。=This item cannot be obtained in the Main Quest.
-以下のアイテムの入手場所を確認できます。=View locations where the follow items can be obtained
+キャラ解放確認=角色解放確認
+解放する=解放
+アイテムが不足しています。=Insufficient Items道具不足。.
+メモリーピース入手方法=記憶碎片的入手方法
+入手場所=取得場所
+現在、このアイテムは\nメインクエスト等では入手できません。=目前，此道具\n無法從主線冒險等等方式中取得。
+以下のアイテムの入手場所を確認できます。=可以確認以下裝備的取得場所。
 
 キャラのRANKが7以上で装備できます。=Equippable at RANK 7.
 [FF7C4E,D62146]キャラのRANKが7以上で装備できます。[-]=[FF7C4E,D62146]Equippable at RANK 7.[-]
@@ -153,7 +153,7 @@ EXスキルスロット=EX skill slot
 強化前=Before
 強化後=After
 
-絆ランク上限=Maximum Bond
+絆ランク上限=羈絆Rank上限
 
 セット確認=Placement Confirmation
 以下のアイテムを消費してセットします。=The following items are consumed.

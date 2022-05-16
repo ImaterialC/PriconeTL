@@ -4,8 +4,7 @@ sr:"^メインクエスト([0-9\-\(\)\w ]*)クリアで$"=Cleared Main Quest $1
 
 コンテンツ解放=Content Release
 
-エンディング=ending
-イベントストーリー一覧=Event Story List
+イベントストーリー一覧=活動劇情一覽
 入手できるメモリーピースで絞り込み=以可以取得的記憶碎片來篩選
 クエストが解放されていません。=The quest has not been unlocked.
 全キャラ=全角色

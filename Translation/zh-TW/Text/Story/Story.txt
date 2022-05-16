@@ -16,6 +16,9 @@ r:"^ボイスなし\n\(([.0-9]+) ([MG])B\)$"=Voice OFF\n($1 $2B)
 オート=Auto
 オートON=Auto-on
 
+オープニング=序章
+エンディング=終章
+
 このムービーをスキップしてもよろしいですか？=Are you sure you want to skip this movie?
 r:"^第(\d+)章 第(\d+)話が\n解放可能になりました。$"=第$1章 第$2話已解放。
 r:"^第(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"=Arc $1 Ch $2 Ep $3\nStory has release.
