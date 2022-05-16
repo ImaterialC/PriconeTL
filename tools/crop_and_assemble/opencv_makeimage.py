@@ -78,7 +78,12 @@ for i in data['mSprites']:
             time.sleep(1)
         else:
             print("---")
-            print("Sorry, you will handle this on your own.")
+            imageProcessed = cv2.resize(img, (w, h), interpolation=cv2.INTER_AREA)
+            OutputImage[y:y+h, x:x+w]=imageProcessed
+            cv2.imwrite(img_name, OutputImage)
+            
+            
+            print("You will need to check if the image stretch too much.")
             print("filename:"+i['name']+".png")
             
             file.write(i['name']+".png"+"\n")
