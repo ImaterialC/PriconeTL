@@ -50,7 +50,6 @@ r:"^第(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"=
 ま～わ=Ma-Wa
 た～は=Ta-Ha
 あ～さ=A-Sa
-主を慕う、小さなガイド役=A little guide who takes care of her lord
 
 ===Bond Stuff===
 絆ランク=羈絆Rank

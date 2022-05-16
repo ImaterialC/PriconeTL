@@ -46,8 +46,6 @@
 ===Beach Tapaz: kokkoro Summer===
 タパスビーチ周辺 {{B}}{{A}}=Peripheral Tapas Beach {{B}}{{A}}
 タパスビーチ周辺=Peripheral Tapas Beach
-===Anna Summer
-七夕剣客旅情譚　天に流れる夏の恋=Tanabata Kenkaku Journey Tan: Summer love flowing in heaven
 ===
 サンレインビーチ {{B}}{{A}}=Sunrain Beach {{B}}{{A}}
 サンレインビーチ=Sunrain Beach

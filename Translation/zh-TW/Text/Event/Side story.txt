@@ -42,8 +42,6 @@ sr:"^カジノホール([0-9\-\(\)\w ]*)$"=Cassino Hall $1
 sr:"^聖テレサ女学院 聖学祭会場([0-9\-\(\)\w ]*)$"=Peripheral Tapas Beach $1
 ===Beach Tapaz: kokkoro Summer===
 sr:"^タパスビーチ周辺([0-9\-\(\)\w ]*)$"=Peripheral Tapas Beach $1
-===Anna Summer
-七夕剣客旅情譚　天に流れる夏の恋=Tanabata Kenkaku Journey Tan: Summer love flowing in heaven
 ===
 サンレインビーチ=Sunrain Beach
 sr:"^サンレインビーチ([0-9\-\(\)\w ]*)$"=Sunrain Beach $1
