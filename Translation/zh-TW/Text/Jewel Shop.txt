@@ -35,7 +35,7 @@ r:"^([2-9])回限定$"="$1次限定"
 デイリージュエルパック=Daily Jewel Pack
 探索挑戦回数 +3回について=About Grotto +3 Attempts 
 
-探索挑戦回数 +3回=Grotto +3 times
+探索挑戦回数 +3回=探索挑戰次數 +3次
 特定商取引法に基づく表示=Commercial Transactions Law
 資金決済法に基づく表示=Fund Settlement Law
 デイリージュエルパックについて=Daily Jewel Packs
