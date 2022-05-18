@@ -1,17 +1,17 @@
-ジ=J
-ュエルショップ=ewel Shop
+ジ= 
+ュエルショップ=寶石商店
 　ジュエル・その他購入=Jewels/Other Purchases
 所持ジュエル確認=Check Jewels Held
 マナ購入=瑪那購買
-所持マナ確認=Check Mana Held
-収納BOX拡張=Expand Storage
-スタミナ回復=Recharge Stamina
-価格=Price
+所持マナ確認=持有瑪那確認
+収納BOX拡張=收納BOX擴張
+スタミナ回復=體力回復
+価格=價格
 
 r:"^毎日更新 ジュエル ([0-9]+)個$"=Daily Update Jewel $1
-r:"^([1-9])回限定 ジュエル ([0-9]+)個$"="$1 Left: Limited Jewel $2"
-r:"^([2-9])回限定$"="Limited!\n$1 times only"
-1回限定=Limited!\n1 time only
+r:"^([1-9])回限定 ジュエル ([0-9]+)個$"="$1次限定 寶石 $2個"
+r:"^([2-9])回限定$"="$1次限定"
+1回限定=1次限定
 
 収納BOX拡張=Expand Storage
 ギルドハウスの収納BOXを拡張します。=Expand the storage of your Guildhouse.
@@ -35,7 +35,7 @@ r:"^([2-9])回限定$"="Limited!\n$1 times only"
 デイリージュエルパック=Daily Jewel Pack
 探索挑戦回数 +3回について=About Grotto +3 Attempts 
 
-探索挑戦回数 +3回=Grotto +3 times
+探索挑戦回数 +3回=探索挑戰次數 +3次
 特定商取引法に基づく表示=Commercial Transactions Law
 資金決済法に基づく表示=Fund Settlement Law
 デイリージュエルパックについて=Daily Jewel Packs

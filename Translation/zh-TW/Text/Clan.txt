@@ -9,7 +9,7 @@
 サポート設定へ=To Rental Room
 サポート獲得{{A}}通知=Rental Earned Mana Notification
 
-r:"^([0-9/]+)回$"=$1 Times
+r:"^([0-9/]+)回$"=$1次
 
 ===Clan List===
 r:"^\[FFBB00\,CE4F00\]最終ログイン:([0-9]+)時間以内\[-\]$"=[FFBB00,CE4F00]最後登入時間:$1小時以內[-]

@@ -1,12 +1,12 @@
-スフィア=Sphere
+スフィア=水晶球
 注意事項=注意事項
-所持グロウスフィア一覧=Growsphere in Possesion
-選択中のグロウスフィアの効果=Selected Growsphere Effect
-各Lv=Into LV
+所持グロウスフィア一覧=持有輝光水晶球一覽
+選択中のグロウスフィアの効果=選擇中的輝光水晶球的效果
+各Lv=各Lv
 現在の無料分=Current free minutes
 使用する=使用
 閉じる=關閉
-グロウスフィア一覧=Growsphere List
+グロウスフィア一覧=輝光水晶球一覽
 強化内容に記載されているRANKになった時、装備はついていない状態になります。=It will not give any equips when it goes to maximum possible RANK.
 使用可能なグロウスフィアを所持していません。=Don't have any Growsphere.
 使用するグロウスフィアを選択してください。キャラ強化に必要なアイテムを消費せずにキャラを強化できます。=Select Growsphere to use\nYou can enhance the characters free without using any items needed
