@@ -1,12 +1,11 @@
 ロフィール=個人資料
 プ= 
 ===Menu===
-ウィークリー=Weekly
+ウィークリー=每週
 EXクエスト=EX Quest
 クリアした階=Cleared Floor
-ルナの塔=Luna Tower
-r:"^(\d+)階$"=Floor $1
-解放数=Unlocked
+ルナの塔=露娜之塔
+解放数=解放數
 クエスト達成数=Quest
 IDコピー=Copy ID
 自己紹介=Intro

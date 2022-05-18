@@ -1,7 +1,9 @@
 ンジョン=地下城
 ダ= 
+ス= 
+ペシャルダンジョン=特別地下城
 帰還する=返回
-現在の階数=Progress
+現在の階数=現在的層數
 プレイヤー名=玩家名稱
 対戦相手=Opponent
 戦闘可能キャラ=Available Characters
@@ -14,11 +16,21 @@
 ダンジョンへ=To Dungeon
 キャラ一覧へ=To Character List
 
-砂=S
-瀑の底都=andfall Depths Capital
-砂瀑の底都=Sandfall Depths Capital
+プレイ状況=進行狀況
+イベント\n情報=活動\n情報
+登頂回数=登頂次數
+累積踏破回数=累積踏破次數
+全体マップ=全部地圖
+階層一覧=階層一覽
+残り挑戦回数(\d+)=剩餘挑戰次數$1
+r:"^スペシャルダンジョンを(\d+)回登頂しよう$"=登頂$1次特別地下城吧
 
-戦闘不能=KO
+r:"^あと(\d+)時間(\d+)分は挑戦できません。$"=剩餘$1小時$2分鐘後才可以挑戰。
+
+砂=砂
+瀑の底都=瀑地底都市
+
+戦闘不能=無法戰鬥
 登録済みのパーティを呼び出してバトルに挑めます。=可以找來已登錄的隊伍進行戰鬥。
 パーティ選択=Party Selection
 以下のキャラは制限のため編成できません。=The following characters cannot be used due to restrictions.
@@ -33,9 +45,8 @@ sr:"^あと(\d+)時間(\d+)分は選択できません。$"=Cannot select for $1
 [FF7C4E,D62146]帰還すると最初からのスタートになります。[-]=[FF7C4E,D62146]You will have to start the dungeon over\nfrom the beginning if you return.[-]
 [FF7C4E,D62146]獲得した報酬は失われません。[-]=[FF7C4E,D62146]Rewards earned will not be lost.[-]
 
-上の浮城= Fortress
-天=Heaven's
-天上の浮城=Heaven's Fortress
+上の浮城=上浮游城
+天=天
 
 ===Select===
 エリア選択確認=Area Selection
@@ -71,12 +82,10 @@ sr:"^あと(\d+)時間(\d+)分は選択できません。$"=Cannot select for $1
 [2874AE,12304D]天上の浮城[-]=[2874AE,12304D]天上浮游城[-]
 天空の番人が静かに眠る聖城=天空守衛靜靜沉眠的聖城
 
-[2874AE,12304D]砂瀑の底都[-]=[2874AE,12304D]Sandfall Depths\nCapital[-]
-砂の大瀑布が落ちゆく果ての都=The Capital on the\nEnd of the Great Sandfall
+[2874AE,12304D]砂瀑の底都[-]=[2874AE,12304D]砂瀑地底都市[-]
+砂の大瀑布が落ちゆく果ての都=位於大砂瀑布最深處的都市
 
-r:"^([1-9/]{3})階$"=Floor $1
 ===Boss Name
-最大ＨＰ=Max ＨＰ
 モンスター詳細一覧=Monster Details List
 ゴブリンロード＆ゴブミニオン=Goblin Lord & Goblin Minion
 ゴブリンメイスター=Goblin Meister
