@@ -43,7 +43,7 @@ def img_border(img,h,w):
 
 
 
-
+folderUSE=""
 
 
 
@@ -63,17 +63,24 @@ cv2.imwrite("output/"+img_name, transparent_img)
 json_file=input("Json file:")
 folderchoice=input("Use JP[1] or zh_TW[2] to make:")
 if folderchoice =="1":
-    folderUSE="JP"
+    folderUSE="JP"+"/"
 else:
-    folderUSE="zh_TW"
+    folderUSE="zh_TW"+"/"
 
 
 
 with open(json_file) as f:
     data = json.load(f)
+    
+    
+    
 
-print(type(data))
-file = open('manual-image-list.txt','w')
+writeName="output/"+img_name
+OutputImage=cv2.imread(writeName, cv2.IMREAD_UNCHANGED)
+
+
+
+
 for i in data['mSprites']:
     #print(i)
     print("name:" + i['name'])
@@ -88,50 +95,40 @@ for i in data['mSprites']:
     # 裁切區域的長度與寬度
     w = i['width']
     h = i['height']
-    img = cv2.imread(folderUSE+"/"+i['name']+".png", cv2.IMREAD_UNCHANGED)
-    OutputImage=cv2.imread(img_name, cv2.IMREAD_UNCHANGED)
+    
+    img = cv2.imread(folderUSE+i['name']+".png", cv2.IMREAD_UNCHANGED)
+    
     size = img.shape
     img_w= size[1]
     img_h= size[0]
+    
     if w==img_w and h==img_h:
         OutputImage[y:y+h, x:x+w]=img
-        cv2.imwrite(img_name, OutputImage)
+        #cv2.imwrite(writeName, OutputImage)
     else:
         print("diff")
-        
         print("img_w="+str(img_w))
         print("img_h="+str(img_h))
         print("w="+str(w))
         print("h="+str(h))
+        
         if img_w<=w and img_h<=h:
             #圖片皆小於等於JSON紀載
             OutputImage[y:y+h, x:x+w]=img_border(img,h,w)
-            cv2.imwrite(img_name, OutputImage)
-            time.sleep(1)
+            #cv2.imwrite(writeName, OutputImage)
         else:
             print("---")
             #圖片長度或寬度大於JSON紀載，先等比縮小
             imageProcessed = img_resize(img,h,w)
             if w==img_w and h==img_h:
                 OutputImage[y:y+h, x:x+w]=imageProcessed
-                cv2.imwrite(img_name, OutputImage)
+                #cv2.imwrite(writeName, OutputImage)
             else:
                 OutputImage[y:y+h, x:x+w]=img_border(imageProcessed,h,w)
-                cv2.imwrite(img_name, OutputImage)
-            
-            
-
-            
-            
-            print("You will need to check if the image stretch too much.")
-            print("filename:"+i['name']+".png")
-            
-            file.write(i['name']+".png"+"\n")
-            time.sleep(3)
+                #cv2.imwrite(writeName, OutputImage)
     #cv2.imshow('alpha2048', alpha2048)
     #cv2.waitKey(1000)
     
     
     print("--------------------------")
-file.write(datetime.now().strftime('%Y-%m-%d %H:%M:%S')+"\n----------\n")
-file.close() 
+cv2.imwrite(writeName, OutputImage)

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'Split.ui'
+# Form implementation generated from reading ui file 'UI_Make.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.6
 #
@@ -14,15 +14,15 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_Dialog(object):
     def setupUi(self, Dialog):
         Dialog.setObjectName("Dialog")
-        Dialog.resize(800, 900)
+        Dialog.resize(800, 300)
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Preferred)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
         sizePolicy.setHeightForWidth(Dialog.sizePolicy().hasHeightForWidth())
         Dialog.setSizePolicy(sizePolicy)
-        Dialog.setMinimumSize(QtCore.QSize(800, 900))
-        Dialog.setMaximumSize(QtCore.QSize(800, 16777215))
-        Dialog.setBaseSize(QtCore.QSize(400, 550))
+        Dialog.setMinimumSize(QtCore.QSize(800, 300))
+        Dialog.setMaximumSize(QtCore.QSize(800, 300))
+        Dialog.setBaseSize(QtCore.QSize(800, 300))
         self.horizontalLayoutWidget_2 = QtWidgets.QWidget(Dialog)
         self.horizontalLayoutWidget_2.setGeometry(QtCore.QRect(0, 20, 791, 51))
         self.horizontalLayoutWidget_2.setObjectName("horizontalLayoutWidget_2")
@@ -77,28 +77,18 @@ class Ui_Dialog(object):
         self.Run.setEnabled(False)
         self.Run.setGeometry(QtCore.QRect(0, 180, 791, 50))
         self.Run.setObjectName("Run")
-        self.label_Image = QtWidgets.QLabel(Dialog)
-        self.label_Image.setGeometry(QtCore.QRect(10, 220, 781, 671))
-        sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
-        sizePolicy.setHorizontalStretch(0)
-        sizePolicy.setVerticalStretch(0)
-        sizePolicy.setHeightForWidth(self.label_Image.sizePolicy().hasHeightForWidth())
-        self.label_Image.setSizePolicy(sizePolicy)
-        self.label_Image.setText("")
-        self.label_Image.setScaledContents(True)
-        self.label_Image.setObjectName("label_Image")
 
         self.retranslateUi(Dialog)
         QtCore.QMetaObject.connectSlotsByName(Dialog)
 
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
-        Dialog.setWindowTitle(_translate("Dialog", "Texture Split"))
-        self.label_2.setText(_translate("Dialog", "Texture Source"))
+        Dialog.setWindowTitle(_translate("Dialog", "Texture Maker"))
+        self.label_2.setText(_translate("Dialog", "Template Texture"))
         self.chooseTexture.setText(_translate("Dialog", "Select"))
         self.label_3.setText(_translate("Dialog", "Source JSON"))
         self.chooseJSON.setText(_translate("Dialog", "Select"))
-        self.label.setText(_translate("Dialog", "Output Folder:"))
+        self.label.setText(_translate("Dialog", "Folder to Make:"))
         self.JP.setText(_translate("Dialog", "JP"))
         self.zh_TW.setText(_translate("Dialog", "zh_TW"))
         self.EN.setText(_translate("Dialog", "EN"))

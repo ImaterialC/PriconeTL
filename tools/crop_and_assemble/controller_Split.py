@@ -1,12 +1,12 @@
 from PyQt5 import QtWidgets, QtGui, QtCore
 from PyQt5.QtGui import QImage, QPixmap
-from UI import Ui_Dialog
+from UI_Split import Ui_Dialog
 from PyQt5.QtWidgets import (QFileDialog,QApplication, QMessageBox)
 import cv2
 import json 
 import os, shutil
 import sys
-
+import subprocess
 class MainWindow_controller(QtWidgets.QMainWindow):
     imageSource="0"
     jsonSource="0"
@@ -141,3 +141,4 @@ class MainWindow_controller(QtWidgets.QMainWindow):
                 #print("--------------------------")
             app = QApplication(sys.argv)
             QMessageBox.information(None, 'Notification', 'Compelte')
+            subprocess.Popen('explorer '+os.path.abspath(self.folder))

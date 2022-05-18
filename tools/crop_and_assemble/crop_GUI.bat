@@ -1,1 +1,1 @@
-python start.py
+python start_Split.py
