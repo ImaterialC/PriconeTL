@@ -1,6 +1,6 @@
 # PriconeTL
  Princess Connect! ReDive Translation Project
- 
+ [Traditional Chinese(for zh-TW) ver.](/README(zh-TW).md)
 ## Patch Install Instructions Below  
 
 ---
@@ -38,21 +38,11 @@ the files that must delete for uninstalling were:
 ## SETTING AND OPTIONS
 Press F4 to fullscreen
 
-## 中文說明
- 為了將日文翻譯成繁體中文，請確認將`AutoTranslatorConfig.ini`檔案內
- ```
- [General]
- Language=en
- FromLanguage=ja
- ```
- 更改為
- ```
- [General]
- Language=zh-TW
- FromLanguage=ja
- ```
- 以套用繁體中文設置。
 
-## 關於繁體中文(zh-TW)翻譯
- 繁體中文(zh-TW)的翻譯由雪楓Yuki(@yotv2000tw)以及AC編(@andyching168)共同製作，並同時以So-net代理之「超異域公主連結 Re：Dive」為基準進行翻譯參考與校正，翻譯內容絕大部分都與其內容相同，如果有代理尚未翻譯的部分，則由我們自行翻譯。\
- 部分技能名稱翻譯來自 [咕嚕靈波漢化組](https://www.facebook.com/%E5%92%95%E5%9A%95%E9%9D%88%E6%B3%A2-%E6%BC%A2%E5%8C%96%E7%B5%84-404878053623294) 。 
+## About Translation
+
+### Traditional Chinese(zh-TW)
+ 1. Staff & Translator: 雪楓Yuki(@yotv2000tw) & AC編(@andyching168)
+ 2. Almost all of the translations are based on official translation from 超異域公主連結 Re：Dive(Princess Connect Re:Dive for Taiwan & Hongkong & Macao, published by So-net, developed by Cygames).
+ 3. If there are no official translations, they will be translated by us. 
+ 4. Some skill names are translated by [咕嚕靈波漢化組](https://www.facebook.com/%E5%92%95%E5%9A%95%E9%9D%88%E6%B3%A2-%E6%BC%A2%E5%8C%96%E7%B5%84-404878053623294).
