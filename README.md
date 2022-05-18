@@ -31,10 +31,10 @@ just delete the files that were extracted\
 there are no Pricone files that changed or were damaged when installing this patch so simply deleting it manually will turn it back to a vanilla state
 the files that must delete for uninstalling were:\
 ```
-	BepInEx
-	changelog.txt
-	doorstop_config.ini
-	winhttp.dll
+BepInEx
+changelog.txt
+doorstop_config.ini
+winhttp.dll
 ```
 
 ## SETTING AND OPTIONS

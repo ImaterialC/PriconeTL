@@ -28,12 +28,12 @@
 ## 如何解除安裝
 只需要刪除被你解壓縮的檔案即可。\
 檔案裡本身並沒有更動或損害原先遊戲檔案的內容，所以只需要單純地手動刪除它，就會回到原本的狀態。\
-以下是解除安裝所必須要刪除檔案：\
+以下是解除安裝所必須要刪除檔案：
 ```
-	BepInEx
-	changelog.txt
-	doorstop_config.ini
-	winhttp.dll
+BepInEx
+changelog.txt
+doorstop_config.ini
+winhttp.dll
 ```
 
 ## 設定與選項
