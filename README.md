@@ -1,5 +1,5 @@
 # PriconeTL
- Princess Connect! ReDive Translation Project
+ Princess Connect! ReDive Translation Project\
  [Traditional Chinese(for zh-TW) ver.](/README(zh-TW).md)
 ## Patch Install Instructions Below  
 
@@ -22,18 +22,20 @@ Please use at your own risk!!!  We are not responsible for any actions taken tow
 Game Address：[Direct Link](https://dmg.priconne-redive.jp/)
 
 ## HOW TO UPDATE
-We recommend deleting the old files instead replace the files 
-Delete the old "BepInEx" folder then extract it.
+We recommend deleting the old files instead replace the files \
+Delete the old "BepInEx" folder then extract it.\
 You will get a notification through discord at @member tag each update
 
 ## HOW TO UNINSTALL
-just delete the files that were extracted
+just delete the files that were extracted\
 there are no Pricone files that changed or were damaged when installing this patch so simply deleting it manually will turn it back to a vanilla state
-the files that must delete for uninstalling were:
+the files that must delete for uninstalling were:\
+```
 	BepInEx
 	changelog.txt
 	doorstop_config.ini
 	winhttp.dll
+```
 
 ## SETTING AND OPTIONS
 Press F4 to fullscreen

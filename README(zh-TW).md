@@ -1,5 +1,5 @@
 # PriconeTL
- Princess Connect! ReDive Translation Project
+ Princess Connect! ReDive Translation Project\
  [English(Original) ver.](/README.md)
 ## Patch Install Instructions Below  
 
@@ -7,7 +7,6 @@
 <b>想要提供問題、回饋或者協助翻譯？：[加入Discord](https://discord.gg/vZjAy67KpB)</b>
 
 ## 警告!!!
-Please use at your own risk!!!  We are not responsible for any actions taken towards your account if you use this translation tool.
 使用此工具請自負責任！！！我們對您的帳號在使用此翻譯工具所受到的任何行為並不負責任。
 ## 警告!!!
 
@@ -27,13 +26,15 @@ Please use at your own risk!!!  We are not responsible for any actions taken tow
 每次更新都會透過Discord的@member通知。
 
 ## 如何解除安裝
-只需要刪除被你解壓縮的檔案即可。
-檔案裡本身並沒有更動或損害原先遊戲檔案的內容，所以只需要單純地手動刪除它，就會回到原本的狀態。
-以下是解除安裝所必須要刪除檔案：
+只需要刪除被你解壓縮的檔案即可。\
+檔案裡本身並沒有更動或損害原先遊戲檔案的內容，所以只需要單純地手動刪除它，就會回到原本的狀態。\
+以下是解除安裝所必須要刪除檔案：\
+```
 	BepInEx
 	changelog.txt
 	doorstop_config.ini
 	winhttp.dll
+```
 
 ## 設定與選項
 點擊F4可以進入全螢幕模式
