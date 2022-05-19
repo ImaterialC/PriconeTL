@@ -4,7 +4,7 @@
 時間=h
 分=m
 開演直前=Coming soon
-r:"^開催期間 : ([0-9/]+)～([0-9/]+)$"=Event Period: $1 to $2
+r:"^開催期間 : ([0-9/]+)～([0-9/]+)$"=Event: $1 to $2
 r:"^([0-9/ :]+) ～ ([0-9/ :]+)まで$"=$1 to $2
 r:"^(\d+)日 (\d+)時間$"=$1d $2h
 r:"^(\d+)体撃破$"=$1 × Defeated
@@ -40,7 +40,7 @@ r:"^開催日時:([0-9/: ]{11})～([0-9/: ]{11})$"=Period: $1 to $2
 イベントクエスト=Event Quest
 イベント\nミッション=Event\nMissions
 ベントミッション=Event Mission
-所持上限を超えたアイテムはプレゼントに送られます。=Any items that exceed your limit will be sent as a gift.
+所持上限を超えたアイテムはプレゼントに送られます。=Items that exceed your limit will be sent as a gift.
 スペシャル=Special
 スキップ結果=Skip Results
 スキップ完了=Skip Complete!

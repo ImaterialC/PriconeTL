@@ -2,12 +2,12 @@
 サポートキャラを設定\\nできます=Set up Rent-Chara
 対象クエスト一覧=Available Quest List:
 対象のクエストは以下のものとなります。=The Available Quests that can\nuse Rent-Chara are as follows.
-メインクエスト{{A}}\nメインクエスト{{B}}\nメインクエスト(VERYHARD)\n探索経験値クエスト\n探索{{C}}クエスト\n聖跡調査\n神殿調査\nイベントクエスト{{A}}\nイベントクエスト{{B}}\nサイドストーリークエスト{{A}}\nサイドストーリークエスト{{B}}=Main Quest (NORMAL)\nMain Quest (HARD)\nMain Quest (VERYHARD)\nGroto EXP\nGroto Mana\nSanctum Survey\nTemple Trek\nEvent Quest (NORMAL)\nEvent Quest (HARD)\nSide Story Quest (NORMAL)\nSide Story Quest (HARD)\n
+メインクエスト(NORMAL)\nメインクエスト(HARD)\nメインクエスト(VERYHARD)\n探索経験値クエスト\n探索マナクエスト\n聖跡調査\n神殿調査\nイベントクエスト(NORMAL)\nイベントクエスト(HARD)\nサイドストーリークエスト(NORMAL)\nサイドストーリークエスト(HARD)=Main Quest (NORMAL)\nMain Quest (HARD)\nMain Quest (VERYHARD)\nGroto EXP\nGroto Mana\nSanctum Survey\nTemple Trek\nEvent Quest (NORMAL)\nEvent Quest (HARD)\nSide Story Quest (NORMAL)\nSide Story Quest (HARD)\n
 
 {{A}}を獲得するまで表示しない。=Don't show again
 {{B}}サポート設定で獲得できる{{C}}が\n合計[-]{{A}}{{E}},{{D}},{{D}}[-]{{B}}{{C}}以上たまりました。[-]={{B}}Mana earned in Rental was\nmore than [-]{{A}}{{E}},{{D}},{{D}}[-]{{B}} Mana in total.[-]
 サポート設定へ=To Rental Room
-サポート獲得{{A}}通知=Rental Earned Mana Notification
+サポート獲得マナ通知=Rental Earned Mana Notification
 
 r:"^([0-9/]+)回$"=$1 Times
 
@@ -30,6 +30,8 @@ sr:"^(\[.*\])(.{1,10})さんにいいねをして\nスタミナを10獲得しま
 いいね完了=Like Complete
 
 r:"^(.{1,10})がクランに加入しました。$"=$1 has joined the clan.
+r:"^(.{1,10})がリーダーになりました。$"=$1 has become a leader.
+r:"^(.{1,10})がサブリーダーになりました。$"=$1 has become a sub-leader.
 r:"^(.{1,10})がサブリーダーになりました。$"=$1 has become a sub-leader.
 r:"^(.{1,10})がクランから脱退しました。$"=$1 has left the clan.
 
@@ -48,9 +50,7 @@ r:"^終了まで (\d+)分$"=Ends in $1m
 ここから未読メッセージ=Unread message from here
 自分が投稿したパーティです。=This is the party I posted.
 いいね確認=Take "Like"
-{{B}}{{B}}クランメンバーに{{A}}{{E}}[-]回いいねされて、\n{{C}}×{{A}}{{D}}[-]を獲得しました。[-][-]={{B}}{{B}}{{A}}{{E}}[-] Clan member liked\nReceive Mana×{{A}}{{D}}[-].[-][-][-]
 
-{{A}}{{F}}/{{E}}/{{C}} {{D}}:{{B}}まで=Until: {{A}}{{F}}/{{E}}/{{C}} {{D}}:{{B}}
 クランバトル開催中：=Clan battle is being held:
 
 この投稿は有効期間が終了しました。=This post has expired.

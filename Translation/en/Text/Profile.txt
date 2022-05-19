@@ -6,7 +6,7 @@ r:"^(\d+)/(\d+)人$"=$1/$2 People
 EXクエスト=EX Quest
 クリアした階=Cleared Floor
 ルナの塔=Luna Tower
-r:"^(\d+)階$"=Floor $1
+r:"^(\d+)階$"=F$1
 解放数=Unlocked
 クエスト達成数=Quest
 IDコピー=Copy ID
@@ -52,8 +52,9 @@ Twitter投稿=Post to Twitter
 バトルアリーナ順位=Battle Arena\nRanking
 クランバトル\n合計スコア=Clan Battle\nTotal Score
 ステータス表示=Display
-※全角{{A}}文字以内({{C}}行{{B}}文字)=※Up to {{A}} characters ({{B}} characters per line)
+※全角75文字以内(1行25文字)=※Up to 75 characters (25 characters per line)
 ※全角{{A}}文字以内=※Up to {{A}} characters.
+※1文字以上60文字以内=※Between 1 and 60 characters
 コメントを入力してください。=Please enter a comment.
 コメント編集=Comment Edit
 [3C404E]編集した内容を保存しました。[-]={{A}}Edited content has been saved.[-]
@@ -89,7 +90,7 @@ Twitter投稿=Post to Twitter
 ===Title===
 
 ===Name& Self Introduce===
-※{{B}}文字以上{{A}}文字以内=※Between {{B}} and {{A}} characters
+※1文字以上10文字以内=※Between 1 and 10 characters
 プレイヤー名を入力してください。=Please enter a Player Name.
 [FF7C4E,D62146]個人情報や、公序良俗に反する内容は\n入力しないでください。[-]=[FF7C4E,D62146]Please refrain from including any\npersonal information and indecent  content.[-]
 プレイヤー名編集=Edit Player Name

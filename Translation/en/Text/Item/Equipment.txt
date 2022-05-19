@@ -1,10 +1,11 @@
 （欠片）=(Piece)
+の欠片= Piece
 の設計図= Blueprint
 sr:"^(.+)（欠片）$"=$1 (Piece)
 sr:"^(.+)の設計図$"=$1 Blueprint
 
-sr:"^「(.+)」[の設計図\n]{4,5}。$"="A blueprint of $1."
-sr:"^「(.+)」[の欠片\n]{3,4}。$"="A fragment of $1."
+sr:"^必要Lv(\d+)\n「(.+)」([\s\S]+)。$"=Required Lv$1\nA$3 of $2.
+sr:"^「(.+)」([\s\S]+)。$"="A$2 of $1."
 
 アイアンブレード=Iron Blade
 キラーペンシル=Killer Pencil

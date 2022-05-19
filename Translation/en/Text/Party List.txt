@@ -23,14 +23,14 @@ sr:"^編成(\d+)$"=Preset $1
 
 クリア確認=Delete Party
 下記のパーティ情報をクリアしますか？=Delete the following party?
-{{A}}一度クリアするとパーティ情報はもとに戻りません。[-]={{A}}Party info is gone forver once deleted.[-]
+[FF7C4E,D62146]一度クリアするとパーティ情報はもとに戻りません。[-]=[FF7C4E,D62146]Party info is gone forver once deleted.[-]
 クリアする=Clear
 
 変更反映=Changes Saved
-{{A}}変更内容を反映しました。[-]={{A}}Your edits have been saved.[-]
+[3C404E]変更内容を反映しました。[-]=[3C404E]Your edits have been saved.[-]
 
 上書き保存=Overwrite Save
-{{A}}一度上書きするとパーティ情報はもとに戻りません。[-]={{A}}Once overwritten,\nthe party information will not be restored.[-]
+[FF7C4E,D62146]一度上書きするとパーティ情報はもとに戻りません。[-]=[FF7C4E,D62146]Once overwritten,\nthe party information will not be restored.[-]
 保存先のタブ=Save Tab
 上書きされるパーティ=Overwritten Party
 コピーするパーティ=Party to Copy

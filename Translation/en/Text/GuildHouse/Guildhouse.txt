@@ -39,8 +39,6 @@ Like情報=Like Info
 サポート設定=Support\nSettings
 メンバー情報=Member\nInfo
 寄付する=Donate
-コッコロのおさいふ=Kokkoro's Wallet
-コッコロの\nおさいふ=Kokkoro's\nWallet
 ギフト=Gift
 1Fのメンバー=1F Party
 2Fのメンバー=2F Party
@@ -175,14 +173,7 @@ Like日時=Date
 [FFBB00,CE4F00]5ルピ獲得[-]=[FFBB00,CE4F00]Earn 5 Rupies[-]
 クランメンバーがいません。=No clan members.
 このプレイヤーにはすでにLike済みです。=You have already liked this Player.
-===Kokkoro's wallet===
-マナが所持上限に達しているため引き出せません。=Mana can not be pulled out because the possession limit is reached.
-引き出し後の所持マナ=Current Mana
-ストックしたマナを引き出します。=Withdrawa stocked Mana.
-マナを引き出す=Mana Withdraw
-引き出し結果=Result of Withdraw
-r:"^\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]マナを引き出しました。\[-\]$"=[3C404E]Withdraw [FFBB00,CE4F00]$1[-] Manas.[-]
-引き出せるマナがありません。=There is no mana that can be withdraw.
+
 ===upgrade notification===
 r:"^プレイヤーLv(\d+)以上 / (\d+)ルピ$"=P. Lv$1 or more & $2 Rupies
 

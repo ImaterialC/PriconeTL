@@ -31,10 +31,8 @@ sr:"^メインクエスト([0-9\-\(\)\w ]*)クリアで$"=Cleared Main Quest $1
 ===Wonderland===
 メモリアルマップ=Memorial Map
 黒の王ジャバウォック=Black King Jabberwock
-
 r:"^不思議の国([0-9\-\(\)\w ]*)$"=Wonderland $1
 ===Cassino===
-カジノホール=Cassino Hall
 r:"^カジノホール([0-9\-\(\)\w ]*)$"=Cassino Hall $1
 ===St. Teresa Girls' Academy Holy School Festival===
 聖テレサ女学院 聖学祭会場=St. Teresa Girls' Academy Holy School Festival Venue
@@ -46,13 +44,15 @@ r:"^タパスビーチ周辺([0-9\-\(\)\w ]*)$"=Peripheral Tapas Beach $1
 ===Anna Summer
 七夕剣客旅情譚　天に流れる夏の恋=Tanabata Kenkaku Journey Tan: Summer love flowing in heaven
 ===
-サンレインビーチ=Sunrain Beach
 r:"^サンレインビーチ([0-9\-\(\)\w ]*)$"=Sunrain Beach $1
 ===Pirate
-海賊島の呪われし遺宝=Pirates Curse Treasure
 解放されし財宝の守護者=The Guardian of the Liberated Treasure
 r:"^呪われた海賊島([0-9\-\(\)\w ]*)$"=Cursed Pirate Island $1
 縮小=[-]
 拡大=[+]
 これ以上縮小できません。=Cannot be zoom out anymore.
 これ以上拡大できません。=Cannot be zoom in anymore.
+=====
+r:"^タイムトンネル([0-9\-\(\)\w ]*)$"=Time Tunnel $1
+バースト・タイムラーベ=Burst Time Love
+

@@ -238,7 +238,9 @@ RANKボーナス詳細のステータス=Status Details
 
 専用装備をまだ装備していません。\n作成するにはRANK{{A}}にする必要があります。\n\nランクアップしますか？=Cannot equip Unique Equipment yet.\nMust be RANK {{A}} to craft.\n\nDo you want to rank up?
 ランクアップへ=To Rank Up
-
+★6才能開花=★6 Ascension
+原鉱=ore
+グロウスフィア=Growsphere
 ====NPC
 プレイヤーLvが、キャラクターLvの上限になります。\nメインクエストやミッション達成で、プレイヤーEXPをGETし\nLvアップを目指しましょう。=Player Lv is the upper limit of character Lv. Get player XP and aim for Lv up by completing main quests and missions.
 装備の欠片・設計図が足りない場合は、\n原鉱を代用して装備の作成が可能になりました。\n皆さまの強化に役立ててくださいまし。=If there are not enough equipment fragments or blueprints, it is now possible to create equipment by substituting the ore. Please use it to strengthen your characters.

@@ -73,9 +73,6 @@ Lvアップ可能な効果つき家具がある場合、通知を表示するか
 クランバトル サポートキャラ★変更後の確認ダイアログ=CB Support Character ★ Change Confirmation Prompt
 クランバトルでサポートキャラの★変更を行った後、確認ダイアログを表示するか設定します。=Sets whether or not to display a confirmation prompt\nafter changing the star level for CB support character.
 
-マナ所持上限時の「コッコロのおさいふ」ダイアログ表示=Kokkoro's Wallet prompt when max Mana has reached
-所持上限を超えた獲得マナが、「コッコロのおさいふ」に送られたことの確認ダイアログを表示するか設定します。=Set whether or not to display a dialog box to confirm\nthe acquired mana that exceeds the limit has been sent to Kokoro's Wallet.
-
 アイテム所持上限時のダイアログ表示=Confirmation Prompt when reaching item limit
 所持上限を超えた獲得アイテムおよび{{A}}が、\nプレゼントボックスに送られたことの確認ダイアログを表示するか設定します。=Set whether or not to display a dialog box to confirm\nitems that exceeds the limit have been sent to the gift box.
 

@@ -18,10 +18,6 @@
 残り挑戦回数回復=Restore Attempts
 残り挑戦回数を回復します。よろしいですか？=Would you like to restore your\nremaining attempts?
 
-r:"^\[2874AE,12304D\]経験値クエストLv(\d+)\[-\]$"=[2874AE,12304D]EXP Quest Lv$1[-]
-r:"^\[2874AE,12304D\]マナクエストLv(\d+)\[-\]$"=[2874AE,12304D]Mana Quest Lv$1[-]
-r:"^\[2874AE,12304D\]神殿調査クエストLv(\d+)\[-\]$"=[2874AE,12304D]Temple Trek Lv$1[-]
-r:"^\[2874AE,12304D\]聖跡調査クエストLv(\d+)\[-\]$"=[2874AE,12304D]Sanctum Survey Lv$1[-]
 r:"^聖跡調査クエストLv(\d+)$"=Sanctum Survey Lv$1
 r:"^経験値クエストLv(\d+)$"=EXP Quest Lv$1
 r:"^マナクエストLv(\d+)$"=Mana Quest Lv$1

@@ -14,7 +14,7 @@ BGM変更=BGM
 初期BGMに戻す=Default BGM
 BGM購入へ=Buy BGM
 変更確認=Setting Confirmation
-
+並べ替えたい順に押してください。=Press in the order you want to sort.
 最低1つ以上設定する必要があります。=There must be at least one.
 
 

@@ -14,7 +14,7 @@ EXPポーションを大量獲得=Find lots of EXP Potions
 このクエストを攻略すれば、\nアイテムがもらえますよ\nたくさん集めて、どんどん\n強くなっちゃいましょう！=You'll receive some nice items for clearing this quest! Collect as many as you can and get super strong!
 
 クエストを攻略すると、\nアイテムが手に入るんだって\nもらえるものは、\nもらっておきましょ！=You can also receive items by clearing quests.\nLet's take all we can!
-キャラ強化に必要な「{{A}}」を獲得できるクエストと\n「{{B}}」を獲得できるクエストの２種類があります。\n１日に挑戦できる回数は、それぞれのクエストで２回ずつです。=There are two types of quests: those that provide EXP Potions needed to\npower up character and those that offer Mana.\nEach type of questcan be played up to two times per day.
+キャラ強化に必要な「EXPポーション」を獲得できるクエストと\n「マナ」を獲得できるクエストの２種類があります。\n１日に挑戦できる回数は、それぞれのクエストで２回ずつです。=There are two types of quests: those that provide EXP Potions needed to\npower up character and those that offer Mana.\nEach type of questcan be played up to two times per day.
 こちらでは★6才能開花に必要なアイテム、\n「プリンセスオーブ」を手に入れられます。\nたくさん集めて、才能開花を目指しましょう。=Here you can get the "Princess Orb", which is required for 6 -year -old flowering. Collect a lot and aim for talent flowering.
 ======
 

@@ -11,6 +11,7 @@
 プレイヤー経験値=Player Exp
 ランダム装備BOX=Random Equipment BOX
 みんなでお花見=Everyone cherry blossom viewing
+みんなの好きなもの=Everyone's favorite
 
 ===Dedicated Ring
 sr:"^([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)専用リング$"=Dedicated $1$2's Ring
