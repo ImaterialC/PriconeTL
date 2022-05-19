@@ -1,17 +1,17 @@
 # PriconeTL
- Princess Connect! ReDive Translation Project\
+ 公主連結Re:Dive翻譯專案(Princess Connect! ReDive Translation Project)\
  [English(Original) ver.](/README.md)
-## Patch Install Instructions Below  
+## 以下為安裝補丁的介紹
 
 ---
 <b>想要提供問題、回饋或者協助翻譯？：[加入Discord](https://discord.gg/vZjAy67KpB)</b>
 
-## 警告!!!
-使用此工具請自負責任！！！我們對您的帳號在使用此翻譯工具所受到的任何行為並不負責任。
-## 警告!!!
+## 警告！！！
+使用此工具請自負責任！！！我們對您的帳號在使用此翻譯工具所受到的任何行為並不負責。
+## 警告！！！
 
 ## 下載至電腦
-1. 已從 [DMM](http://www.dmm.com/netgame/top/guide/playerguide_html/=/ch_navi=/) 安裝完公主連結。
+1. 從 [DMM](http://www.dmm.com/netgame/top/guide/playerguide_html/=/ch_navi=/) 安裝公主連結。
 2. 從 patch-update 頻道(Discord)下載最新的檔案
 3. 前往安裝公主連結的資料夾。
 4. 透過7z或WinRAR之類的軟體解壓縮補丁。
