@@ -28,7 +28,7 @@ You will get a notification through discord at @member tag each update
 
 ## HOW TO UNINSTALL
 just delete the files that were extracted\
-there are no Pricone files that changed or were damaged when installing this patch so simply deleting it manually will turn it back to a vanilla state
+there are no Pricone files that changed or were damaged when installing this patch so simply deleting it manually will turn it back to a vanilla state\
 the files that must delete for uninstalling were:
 ```
 BepInEx
