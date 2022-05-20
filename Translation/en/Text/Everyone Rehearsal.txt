@@ -1,3 +1,33 @@
 みんなの稽古場=Everyone's rehearsal room
 んなの稽古場=veryone's rehearsal room
 [3C404E][FFBB00,CE4F00]みんなの稽古場[-]が解放されました。[-]=[3C404E]The [FFBB00,CE4F00]Everyone's Rehearsal Room[-]\nhas been released.[-]
+
+ガーゴイル=Gargoyle
+剛力なる鳥像=A strong bird statue
+
+マグスガーゴイル=Magus Gargoyle
+魔業なる鳥像=A magic bird statue
+
+ガードガーゴイル=Guard Gargoyle
+堅固なる鳥像=A sturdy bird statue
+
+ガーゴイル・バースト=Gargoyl Burst
+剛力の浮石を従えし鳥像=A bird statue with a strong floating stone
+
+ガーゴイル・マギ=Gargoyle Magi
+魔業の浮石を従えし鳥像=A bird statue with a magic floating stone
+
+高い物理攻撃力を宿し、強力な範囲攻撃を行うよう\nプログラムされたボスが現れる。=A boss programmed to have a high P.ATK\nand perform a powerful range attack.
+
+
+===Mission
+古場ミッション=ehearsal Mission
+稽=R
+稽古場=Rehearsal hall
+
+sr:"^(\[[0-9A-F]{6}\])?(ガーゴイル|マグスガーゴイル|ガードガーゴイル|ガーゴイル・バースト|ガーゴイル・マギ)（([\w\W]+)）をクリアしよう(\[-\])?$"="$1Defeat $2 ($3) at Rehearsal$4"
+
+===NPC
+ここで腕試しを\nしていきましょう！\n全力全開、\nがんばっちゃいますよ～！=Let's try your skills here! I'll do my best, I'll do my best!
+腕試しをがんばれば、\n報酬がもらえますよ。\n挑戦していきましょう☆=If you do your best to test your skills, you will be rewarded.\nLet's try☆
+こちらでは、さまざまなタイプのボスと腕試しができます。\n何度でも挑戦することができますので、\n主さまに合った難易度で挑戦してみましょう。=Here My lord can test your skills with different types of bosses. My lord can try as many times as My lord like, so let's try it with the difficulty level that suits My lord.
