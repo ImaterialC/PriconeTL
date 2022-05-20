@@ -7,6 +7,8 @@ import json
 import os, shutil
 import sys
 import subprocess
+
+
 class MainWindow_controller(QtWidgets.QMainWindow):
     imageSource="0"
     jsonSource="0"

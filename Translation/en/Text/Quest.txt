@@ -62,7 +62,7 @@ Lv上限に達した状態で消費した{{B}}は\n{{A}}に変換されます。
 ===Re enter===AB->Text color,C-> stamina,D number
 再戦する=Retry
 
-r:"^\[3C404E\]スタミナを\[FFBB00,CE4F00\](\d)\[-\]消費して、同じパーティで\nもう一度クエストをプレイします。\[-\]$"=[3C404E]Use [FFBB00,CE4F00]$1[-] Staminas to play quest\none more time with same party.[-]
+r:"^\[3C404E\]スタミナを\[FFBB00,CE4F00\](\d+)\[-\]消費して、同じパーティで\nもう一度クエストをプレイします。\[-\]$"=[3C404E]Use [FFBB00,CE4F00]$1[-] Staminas to play quest\none more time with same party.[-]
 
 r:"^\[3C404E\]ボスチケットを\[FFBB00,CE4F00\](\d+)\[-\]枚消費して、同じパーティで\nもう一度クエストをプレイします。\[-\]$"=[3C404E]Use [FFBB00,CE4F00]$1[-] Boss Tickets to play quest\none more time with same party.[-]
 よろしいですか？=Is this OK?

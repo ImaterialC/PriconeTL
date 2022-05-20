@@ -10,7 +10,41 @@ import sys
 import ntpath
 import subprocess
 import time
-
+#圖片等比縮放
+def img_resize(image,h,w):
+    height, width = image.shape[0], image.shape[1]
+    # 设置新的图片分辨率框架
+    width_new = w
+    height_new = h
+    # 判断图片的长宽比率
+    if width / height >= width_new / height_new:
+        img_new = cv2.resize(image, (width_new, int(height * width_new / width)))
+    else:
+        img_new = cv2.resize(image, (int(width * height_new / height), height_new))
+    return img_new
+#圖片增加透明邊框
+def img_border(img,h,w):
+    borderValue1=0
+    borderValue2=0
+    borderValue3=0
+    borderValue4=0
+    size = img.shape
+    img_w= size[1]
+    img_h= size[0]
+    if (h-img_h)%2 ==0:
+        borderValue1=int((h-img_h)/2)
+        borderValue2=int((h-img_h)/2)
+    else:
+        borderValue1=int((h-img_h)/2+0.5)
+        borderValue2=int((h-img_h)/2-0.5)
+    if (w-img_w)%2 ==0:
+        borderValue3=int((w-img_w)/2)
+        borderValue4=int((w-img_w)/2)
+    else:
+        borderValue3=int((w-img_w)/2+0.5)
+        borderValue4=int((w-img_w)/2-0.5)
+    img_with_border = cv2.copyMakeBorder(img, borderValue1, borderValue2,borderValue3,borderValue4, cv2.BORDER_CONSTANT, value=[0,0,0,0])#上,下,左,右
+    return img_with_border
 
 class MainWindow_controller(QtWidgets.QMainWindow):
     TemplateImageSource="0"

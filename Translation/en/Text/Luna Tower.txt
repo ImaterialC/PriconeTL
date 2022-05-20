@@ -1,5 +1,5 @@
-ル=Luna
-ナの塔=Tower
+ル=L
+ナの塔=una Tower
 r:"^(\[[0-9A-F,]{6,13}\])階\[-\]$"=$1F[-]
 {{A}}階 EX={{A}}F EX
 階=F
@@ -7,7 +7,7 @@ r:"^(\[[0-9A-F,]{6,13}\])階\[-\]$"=$1F[-]
 パーティ=Party
 保存パーティ=Save Party
 ルナの塔においてバトル速度の上限を設定できます。=You can set the upper limit\nof battle speed in the Luna Tower
-{{A}}この設定は後から［設定］で変更できます。[-]={{A}} This setting can be changed later in [Settings].[-]
+[3C404E]この設定は後から［設定］で変更できます。[-]=[3C404E] This setting can be changed later in [Settings].[-]
 バトル速度の上限設定=Battle Speed Upper Limit Setting
 このパーティを保存しますか？=Do you want to save this party?
 対象タブ=Tab
@@ -19,7 +19,6 @@ r:"^\[3C404E\]あと\[-\]\[FFBB00,CE4F00\](\d+)時間\[-\]\[3C404E\]で利用で
 1日1回キャラを全回復できます。=You can fully recover your characters once a day.
 sr:"^あと(\d+時|)間(\d+分)で利用できます。$"=$1$2 remaining to use it.
 
-あと{{A}}で利用できます。={{A}}inutes remaining to use it.
 全てのキャラのHPを全回復します。=Recovers HP of all characters.
 編成したキャラのTPもリセットされます。=TP will also be reset.
 サポートキャラはリセット対象外です。=Support characters cannot be reset.
@@ -47,7 +46,7 @@ EXクエスト一覧=EX Floors
 今後このメッセージを表示しない=Don't display this message\nin the future.
 ※この設定は後から[設定]で変更できます。=This setting can be changed in [Settings].
 
-r:"^\[3C404E\]リタイアするとスタミナが\[FFBB00,CE4F00\](\d+)\[-\]消費され、\nキャラのHP・TPがバトル前の状態に戻ります。\n\nよろしいですか？\[-\]$"=[3C404E]Retiring will consume [FFBB00,CE4F00]$1[-] stamina and return your character's HP and TP to their pre-battle state.\n\nAre you sure?[-]]
+r:"^\[3C404E\]リタイアするとスタミナが\[FFBB00,CE4F00\](\d+)\[-\]消費され、\nキャラのHP・TPがバトル前の状態に戻ります。\n\nよろしいですか？\[-\]$"=[3C404E]Retiring will consume [FFBB00,CE4F00]$1[-] stamina and return your character's HP and TP to their pre-battle state.\n\nAre you sure?[-]
 
 模擬戦では報酬は獲得できません。=No rewards can be\nearned in mock battles.
 
@@ -60,7 +59,7 @@ r:"^\[3C404E\]リタイアするとスタミナが\[FFBB00,CE4F00\](\d+)\[-\]消
 今後このメッセージを表示しない\n※この設定は後から［設定］で変更できます。=Do not display this message in the future.\nThis setting can be changed later in [Settings].
 
 クエストリタイア=Leave Quest
-[3C404E]リタイアするとクエスト報酬を\n獲得することができません。\n\nよろしいですか？[-]=[3C404E]You will not receive any rewards if you quit.\n\nAre you sure?[-]]
+[3C404E]リタイアするとクエスト報酬を\n獲得することができません。\n\nよろしいですか？[-]=[3C404E]You will not receive any rewards if you quit.\n\nAre you sure?[-]
 r:"^ルナの塔(\d+)階 EXクエスト$"=Luna Tower $1 Floor EX Quest
 r:"^ルナの塔(\d+)階$"=Luna Tower $1F
 r:"^(\d+)階 クリアパーティ一覧$"=$1 Floor Clear Party List

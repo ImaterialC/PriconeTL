@@ -32,7 +32,7 @@ r:"^あと(\d+)時間(\d+)分は挑戦できません。$"=Can't challenge for $
 ==========Tittle dungeon
 砂=S
 瀑の底都=andfall Depths Capital
-砂瀑の底都=Sandfall Depths Capital
+砂瀑の底都=Sandfall Depths\nCapital
 
 天=H
 上の浮城=eaven's Fortress
@@ -40,7 +40,7 @@ r:"^あと(\d+)時間(\d+)分は挑戦できません。$"=Can't challenge for $
 
 緑=D
 竜の骸嶺=ragoncorpse Peak
-緑竜の骸嶺=Dragoncorpse Peak
+緑竜の骸嶺=Dragoncorpse\nPeak
 
 毒=D
 瘴の闇稜=arkblight Crag
@@ -66,6 +66,15 @@ r:"^あと(\d+)時間(\d+)分は挑戦できません。$"=Can't challenge for $
 sr:"^エリア「(.+)」に挑戦しますか？$"="Do you want to challenge the area\n"$1"?"
 ===Dungeon names===
 sr:"^\[2874AE,12304D\](.+)\[-\]$"="[2874AE,12304D]$1[-]"
+===[2874AE,12304D]雲海の山脈[-]=[2874AE,12304D]Cloudtop Peak[-]
+===[2874AE,12304D]密林の大樹[-]=[2874AE,12304D]Deepwood Oak[-]
+===[2874AE,12304D]断崖の遺跡[-]=[2874AE,12304D]Sheercliff Ruins[-]
+===[2874AE,12304D]蒼海の孤塔[-]=[2874AE,12304D]Tideborne Tower[-]
+===[2874AE,12304D]毒瘴の闇稜[-]=[2874AE,12304D]Darkblight Crag[-]
+===[2874AE,12304D]緑竜の骸嶺[-]=[2874AE,12304D]Dragoncorpse\nPeak[-]
+===[2874AE,12304D]天上の浮城[-]=[2874AE,12304D]Heaven's Fortress[-]
+===[2874AE,12304D]砂瀑の底都[-]=[2874AE,12304D]Sandfall Depths\nCapital[-]
+
 雲をつらぬく山脈=A mountain that\npierces the clouds.
 深い森の奥に存在する1本の大樹=A massive tree\ndeep within the forest.
 断崖絶壁で発見された遺跡=Ruins discovered on a\ntreacherous cliff.

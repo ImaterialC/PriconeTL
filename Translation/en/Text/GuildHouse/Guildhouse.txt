@@ -1,6 +1,6 @@
 ===Guildhouse===
 
-んなのカレンダー=Calendar
+んなのカレンダー=veryone's Calendar
 イラスト一覧=Illustration list
 ギルドハウス遷移時に演出を再生するか\nメニューから設定を変更できます。=You can replay the scene at the guild house\nor change the setting from the menu.
 カレンダーストーリーをスキップしますか？=Do you skip calendar stories?
@@ -85,8 +85,8 @@ r:"^絆ランク (\d+)$"=Bond\nRank $1
 
 ===Games===
 購入価格=Price
-み=Everyone's 
-んなのゲームテーブル=Game Table
+み=E
+んなのゲームテーブル=veryone's Game Table
 レッツ・クッキング！\nミヤコとプリンを作って食べて\nプリンの道を極めよう！=Let's Cook! Let's make and eat pudding with Miyako to master the way of pudding!
 こちらは1,000ルピで\n販売中！\nぜひ購入して\n遊んでくださいね！=This one's on sale for 1,000 rupees, so buy it and play with it!
 楽しいミニゲームをご紹介！\nあなたはどのミニゲームで\n遊びますか？=Here are some fun mini-games! Which mini-game will you play?

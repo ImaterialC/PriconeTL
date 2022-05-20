@@ -35,7 +35,7 @@ r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
 雪沓+=Viel Glück+
 スキル効果=Skill effect
 目の前の敵１キャラに物理小ダメー\nジを与え、物理防御力を中ダウンさ\nせ、さらに自分の物理攻撃力を小\nアップさせる。このスキルのダメー\nジと物理攻撃力の上昇量は、【氷竜\nの印】の数に応じて増加する。【氷\n竜の印】を１つ消費する。=Deals large physical damage to the nearest enemy, lowers the target's P.DEF and boosts her P.ATK. This Skill's damage and P.ATK buff potency increase according to the number of Kennzeichen stacks. Uses up 1 Kennzeichen.
-r:"^敵単体に15918の物理ダメージ敵単体の物理防御力を165ダウン自分の物理攻撃力を824アップ=Deals $1 P.DMG to an enemy.\nLowers the target's P.DEF by $2 for 12s.\nBoost own P.ATK by $3.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を165ダウン自分の物理攻撃力を(\d+)アップ$"=Deals $1 P.DMG to an enemy.\nLowers the target's P.DEF by $2 for 12s.\nBoost own P.ATK by $3.
 //S2
 
 r:"^$"=
