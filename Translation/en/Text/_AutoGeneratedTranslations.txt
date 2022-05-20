@@ -1,9 +1,1 @@
-﻿音界剣グランデピアニオス=Sound World Sword Grande Pianios
-強化Lv上限  {0}=Reinforced LV upper limit {0}
-未知なる食を求めて=In search of unknown food
-救いの手はすぐそこに=The salvation hand is right there
-紅蓮の舞踏会=Guren's ball
-執事、雇いました=Butler, hired
-飛んででも駆けつけますわ=I will rush even if I fly
-『一人前の商人』の条件=Conditions of "one -person merchant"
-ウィスタリア演劇祭開幕！=Wistaria Theater Festival Opening!
+﻿
