@@ -1,0 +1,16 @@
+プリンセスアリーナコイン=Princess Arena Coin
+アリーナコイン=Battle Arena Coin
+ダンジョンコイン=Dungeon Coin
+マスターコイン=Master Coin
+クランコイン=Clan Coin
+
+スタミナ=體力
+マナ=瑪那
+ルピ=盧幣
+ジュエル=寶石
+プレイヤー経験値=主角經驗値
+ランダム装備BOX=Random Equipment BOX
+みんなでお花見=Everyone cherry blossom viewing
+
+===Dedicated Ring
+sr:"^([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)専用リング$"=Dedicated $1$2's Ring

@@ -1,0 +1,98 @@
+ンジョン=地下城
+ダ= 
+ス= 
+ペシャルダンジョン=特別地下城
+帰還する=返回
+現在の階数=現在的層數
+プレイヤー名=玩家名稱
+対戦相手=Opponent
+戦闘可能キャラ=Available Characters
+パック有効=Pack Validity
+報酬受け取り=領取獎勵
+
+パーティ編成=編組隊伍
+現在のメンバー=當前的成員
+
+ダンジョンへ=To Dungeon
+キャラ一覧へ=To Character List
+
+プレイ状況=進行狀況
+イベント\n情報=活動\n情報
+登頂回数=登頂次數
+累積踏破回数=累積踏破次數
+全体マップ=全部地圖
+階層一覧=階層一覽
+残り挑戦回数(\d+)=剩餘挑戰次數$1
+r:"^スペシャルダンジョンを(\d+)回登頂しよう$"=登頂$1次特別地下城吧
+
+r:"^あと(\d+)時間(\d+)分は挑戦できません。$"=剩餘$1小時$2分鐘後才可以挑戰。
+
+砂=砂
+瀑の底都=瀑地底都市
+
+戦闘不能=無法戰鬥
+登録済みのパーティを呼び出してバトルに挑めます。=可以找來已登錄的隊伍進行戰鬥。
+パーティ選択=Party Selection
+以下のキャラは制限のため編成できません。=The following characters cannot be used due to restrictions.
+このダイアログを表示しない=Do not show this dialog
+sr:"^あと(\d+)時間(\d+)分は選択できません。$"=Cannot select for $1h $2m.
+
+[FF7C4E,D62146]一度選択したエリアは帰還するまで変更できません。[-]=[FF7C4E,D62146]Once an area is selected,\nit cannot be changed until you return.[-]
+このダンジョンのボスを倒すと、スキップが可能になります。=Defeat this dungeon boss to skip.
+===Return===
+帰還確認=Return
+[3C404E]帰還しますか？[-]=[3C404E]Return from this dungeon? [-]
+[FF7C4E,D62146]帰還すると最初からのスタートになります。[-]=[FF7C4E,D62146]You will have to start the dungeon over\nfrom the beginning if you return.[-]
+[FF7C4E,D62146]獲得した報酬は失われません。[-]=[FF7C4E,D62146]Rewards earned will not be lost.[-]
+
+上の浮城=上浮游城
+天=天
+
+===Select===
+エリア選択確認=Area Selection
+エリア「雲海の山脈」に挑戦しますか？=Do you want to challenge the area\n"Cloudtop Peak"?
+エリア「密林の大樹」に挑戦しますか？=Do you want to challenge the area\n"Deepwood Oak"?
+エリア「断崖の遺跡」に挑戦しますか？=Do you want to challenge the area\n"Sheercliff Ruins"?
+エリア「蒼海の孤塔」に挑戦しますか？=Do you want to challenge the area\n"Tideborne Tower"?
+エリア「毒瘴の闇稜」に挑戦しますか？=Do you want to challenge the area\n"Darkblight Crag"?
+エリア「緑竜の骸嶺」に挑戦しますか？=Do you want to challenge the area\n"Dragoncorpse Peak"?
+エリア「天上の浮城」に挑戦しますか？=Do you want to challenge the area\n"Heaven's Fortress"?
+エリア「砂瀑の底都」に挑戦しますか？=Do you want to challenge the area\n"Sandfall Depths Capital"?
+
+===Dungeon names===
+[2874AE,12304D]雲海の山脈[-]=[2874AE,12304D]雲海山脈[-]
+雲をつらぬく山脈=雲霧繚繞的山脈
+
+[2874AE,12304D]密林の大樹[-]=[2874AE,12304D]密林大樹[-]
+深い森の奥に存在する1本の大樹=立於森林深處的一棵大樹
+
+断崖の遺跡=斷崖遺跡
+[2874AE,12304D]断崖の遺跡[-]=[2874AE,12304D]斷崖遺跡[-]
+断崖絶壁で発見された遺跡=位於斷崖絕壁處的遺跡
+
+[2874AE,12304D]蒼海の孤塔[-]=[2874AE,12304D]蒼海孤塔[-]
+大海原にそびえる謎の巨塔=矗立於大海中謎樣的巨塔
+
+[2874AE,12304D]毒瘴の闇稜[-]=[2874AE,12304D]毒瘴闇稜[-]
+瘴気渦巻く常闇の孤峰=受瘴氣籠罩的暗闇孤峰
+
+[2874AE,12304D]緑竜の骸嶺[-]=[2874AE,12304D]綠龍骸嶺[-]
+厳峰に佇む竜の寝床=佇立於山頂的龍之寢床
+
+[2874AE,12304D]天上の浮城[-]=[2874AE,12304D]天上浮游城[-]
+天空の番人が静かに眠る聖城=天空守衛靜靜沉眠的聖城
+
+[2874AE,12304D]砂瀑の底都[-]=[2874AE,12304D]砂瀑地底都市[-]
+砂の大瀑布が落ちゆく果ての都=位於大砂瀑布最深處的都市
+
+===Boss Name
+モンスター詳細一覧=Monster Details List
+ゴブリンロード＆ゴブミニオン=Goblin Lord & Goblin Minion
+ゴブリンメイスター=Goblin Meister
+ゴブリンロード=Goblin Lord
+===Tips and Help Button===
+ボスバトル=Boss battle
+確認したい遊び方を選択してください=Please select how to play want to check
+仲間にしたすべてのキャラで挑む総力戦です。\n各階層を突破すると「ダンジョンコイン」とランダムで「装備アイテム」\n「メモリーピース」といった報酬が獲得できます。=It is a total war to challenge with all the characters you made friends with. If you break through each level, you can get rewards such as "dungeon coins" and "equipment items" and "memory pieces" at random.
+各ダンジョンの最後にいるモンスターを倒すとギルドハウスで役に立つ\nアイテムをもらえます。それぞれギルドハウスに設置するとスタミナを\n生産します。アイテムGETを目指し、ダンジョンを進みましょう。=Defeat the monster at the end of each dungeon to get useful items in the guild house. Each will produce stamina when installed in a guild house. Go through the dungeon to get the item.
+ダンジョン「砂瀑の底都」のボスバトルではバトルモードが３段階\n変化します。モンスター詳細を確認して、それぞれのバトルでどう\n戦うか、しっかり作戦を立ててくださいまし。=In the boss battle of the dungeon "Sandfall Bottom City", the battle mode changes in 3 stages. Please check the details of the monsters and plan how to fight in each battle.

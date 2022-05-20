@@ -1,0 +1,102 @@
+通常=一般
+Pアリーナ=公主競技場
+アリーナ=競技場
+マスター=大師
+限定=限定
+購入する=購買
+r:"^所持数：(\d+)$"=持有數：$1
+sr:"^(\d+月)(\d+)日まで販売中$"=$1$2日為止販售中
+r:"^残り([0-9])回$"=剩餘$1次
+
+残り購入回数=剩餘購買次數
+すべて選択=全選
+全て解除=全部解除
+全て選択=全選
+すべて解除=Cancel
+[FF7C4E,D62146]限定キャラはメモリーピースによる解放はできません。[-]=[FF7C4E,D62146]Limited characters can not be\nreleased by Memory Shards.[-]
+主さま、旅の準備を整えて\nより充実した冒険をいたし\nましょう=主人，做好行前準備\n一起完成充實的冒險吧。
+
+これ以上、\n購入できません=Cannot purchase\nany more.
+これ以上、\\n購入できません=Cannot purchase\nany more.
+所持コイン=Coins Held:
+
+ポーション=EXP藥水
+r:^"([0-9,]+)でまとめて購入する$"=用$1一次購買
+まとめて購入する=一次購買
+===Confirm===
+sr:"^\[3B3F4D\]([べ-・ー]{2,12})×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しますか\?\[-\]$"=[3B3F4D]確定要消耗$1✕[FFBB00,CE4F00]$2[-]來購買以下的道具嗎？[-]
+
+===Bough List===
+sr:"^\[3B3F4D\]([べ-・ー]{2,12})×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しました。\[-\]$"=[3B3F4D]消耗$1✕[FFBB00,CE4F00]$2[-]\n購買了以下道具。[-]
+
+
+
+sr:"^\[3C404E\]([べ-・ー]{2,12})×\[FFBB00,CE4F00\](\d+)\[-\]を消費して\n(.+)×\[FFBB00,CE4F00\](\d+)\[-\]を購入しました。\[-\]$"=[3C404E]You used $1✕[FFBB00,CE4F00]$2[-]\nto buy $3 × [FFBB00,CE4F00]$4[-].[-]
+
+===sort order===
+ピュアメモリー\nピースのみ=僅限\n純淨記憶碎片
+メモリーピースのみ=僅限記憶碎片
+表示項目=顯示項目
+ポジション=位置
+価格順=價格順序
+入手順=取得順序
+決定=確定
+ョップ=店
+シ=商
+
+===purchase window===
+購入完了=購買完成
+ショップを閉じる=關閉商店
+購入確認=購買確認
+所持マナ=持有瑪那
+女神の秘石必要数確認=Exchange Divine Amulet Confirmation
+
+===bonus===
+限定ショップ （準備中）=Bonus Shop(Closed)
+
+限定ショップの出現回数上限に達しました。\n04:59まで限定ショップは出現しません。=The maximum number of times the Bonus Shop can appear has been reached, and the Bonus Shop will not appear until 04:59(UTC+9).
+
+ショップ閉店確認=關閉商店確認
+[3C404E]今日の限定ショップを今すぐ閉店しますか？\n限定ショップを閉店した場合、\n次の開店は[FFBB00,CE4F00]05:00以降[-]になります。[-]=[3C404E]Do you want to close\ntoday's bonus shop now?\n\nThe next opening will be [FFBB00,CE4F00]after 05:00(UTC+9).[-][-]
+
+限定ショップ=限定商店
+必要マナ=需要瑪那
+
+限定ショップにアイテムが追加されました。\nマイぺージのショップからも購入できます。=限定商店中已追加道具。\n也可以從主頁的商店購買。
+
+本日の出現数=本日的出現次數
+限定ショップは開かれていません。=Bonus shop not open.
+今日の出現回数上限に達しました。\n回数上限は05:00にリセットされます。=The maximum number of appearances for today has been reached, and will be reset at 05:00.
+
+===master shop===
+マスターコイン上限確認=Master Coin Limit
+マスターコインはプレイヤーLvと所持EXPが上限に達した状態でスタミナ消費した際に獲得できます。=Master Coins can be earned by consuming stamina when the player's Lv and EXP have reached the max.
+現在の獲得状況=Current status
+コイン獲得上限確認=Master Coin Limit
+リセット対象のアイテムがありません。=There are no items to reset.
+
+r:"^(\d+)で一部ラインナップを今すぐ更新$"=Reset some lineup: $1
+一部ラインナップは毎日5:00更新=Some lineup Reset Daily at 5:00(UTC+9)
+r:"^([0-9/]+) 枚$"=$1 Coin
+
+===npc
+主さま、マスターコインをマスターショップで入手困難なアイテムと\n交換できるようです。プレイヤーLvを上限まで上げた後、スタミナを消費\nすることでマスターコインが手に入るようです。=Mainly, it seems that Master Coin can be exchanged for items that are difficult to obtain at the master shop. After raising the player Lv to the upper limit, it seems that Master Coin can be obtained by consuming Stamina.
+===Divine Amulet===
+在のメモリーピース1個あたりの単価=Prices per Shards: 
+現在のメモリーピース1個あたりの単価=Prices per Shards: 
+対象アイテムのメモリーピース個あたりの単価が=Prices per Shards: 
+★5に必要な個数まで指定できます。=You can specify up to the number you need for ★5.
+以下のアイテムを購入しますか?=Do you buy the following items?
+メモリーピース購入数に応じて、1個あたりの女神の秘石の\n必要数が異なります。詳細は下記をご覧ください。=The required number of Divine Amulet per piece\ndepends on the number of memory shards has purchased.\nSee below for details.
+メモリーピース単価一覧=Memory Shard unit Price List
+sr:"^([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)のメモリーピースの購入数が(\d)になりました。$"=The number of purchases of $1$2 now $4.
+アイテム名を入力してください=請輸入道具名稱
+
+====Reset
+r:"^([0-9,]+)で今すぐ更新$"=用$1立即更新
+sr:"^\[3B3F4D\]([べ-・ー]{2,12})を\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]個使用して\nショップの内容をリセットしますか\?\[-\]$"=[3B3F4D]Use $1 ×[FFBB00,CE4F00]$2[-]\nto reset the contents of the shop?[-]
+
+r:"^次回ラインナップは(\d+):00更新$"=下一輪品項將於$1:00(UTC+9)更新
+毎日5:00ラインナップ更新=每日5:00(UTC+9)更新商品
+毎日5:00更新　出現数4/e
+r:"^毎日5:00更新　出現数(\d)/5$"=每天5:00(UTC+9)更新 出現次數$1/5

@@ -1,0 +1,49 @@
+イドストーリー=支線劇情
+[3C404E][FFBB00,CE4F00]サイドストーリー[-]が解放されました。[-]=[3C404E]The [FFBB00,CE4F00]Side Story[-] has been released.[-]
+sr:"^メインクエスト([0-9\-\(\)\w ]*)クリアで$"=Cleared Main Quest $1
+
+コンテンツ解放=Content Release
+
+イベントストーリー一覧=活動劇情一覽
+入手できるメモリーピースで絞り込み=以可以取得的記憶碎片來篩選
+クエストが解放されていません。=The quest has not been unlocked.
+全キャラ=全角色
+
+未クリア=未通關
+開催順=舉辦順序
+
+ボスバトル（NORMAL）をクリアで解放されます。=Defeat Normal Boss First
+
+キャラ選択中=Selection
+
+討伐済みです。=Already Cleared
+
+これまでのイベントで登場した\n限定キャラを仲間にできたり\nメモリーピースが手に入る\nみたいですよ。やばいですね☆=好像還能獲得\n能讓至今活動中登場的\n限定角色成為夥伴的\n記憶碎片哦。太讚了吧☆
+
+過去のストーリーイベントを\n楽しめちゃいますよ！\n遊んだことのないものがあれば\n一緒にやってみましょう♪=享受過去的\n劇情活動吧！\n如果有尚未遊玩過的活動，\n就一起玩玩看吧♪
+[3C404E]討伐完了[-]=[3C404E]Subjugation Completed[-]
+===NPC===
+ミッションをクリアして、\n報酬をゲットしましょう！=Clear the mission and get a reward!
+
+====
+===Wonderland===
+メモリアルマップ=Memorial Map
+黒の王ジャバウォック=Black King Jabberwock
+sr:"^(\[[0-9a-fA-F]{6,8}\])(.+)を1体倒そう(HARD限定)\[-\]$"="$1Clear $2(HARD Limited) 1 time[-]"
+sr:"^不思議の国([0-9\-\(\)\w ]*)$"=Wonderland $1
+===Cassino===
+カジノホール=Cassino Hall
+sr:"^カジノホール([0-9\-\(\)\w ]*)$"=Cassino Hall $1
+===St. Teresa Girls' Academy Holy School Festival===
+聖テレサ女学院 聖学祭会場=St. Teresa Girls' Academy Holy School Festival Venue
+聖学祭\nプログラム=St.School Fes Program
+名もなき芸術=Nameless Art
+sr:"^聖テレサ女学院 聖学祭会場([0-9\-\(\)\w ]*)$"=Peripheral Tapas Beach $1
+===Beach Tapaz: kokkoro Summer===
+sr:"^タパスビーチ周辺([0-9\-\(\)\w ]*)$"=Peripheral Tapas Beach $1
+===
+サンレインビーチ=Sunrain Beach
+sr:"^サンレインビーチ([0-9\-\(\)\w ]*)$"=Sunrain Beach $1
+===Pirate
+解放されし財宝の守護者=The Guardian of the Liberated Treasure
+sr:"^呪われた海賊島([0-9\-\(\)\w ]*)$"=Cursed Pirate Island $1

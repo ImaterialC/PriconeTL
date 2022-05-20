@@ -1,0 +1,95 @@
+エスト=冒險 
+ク= 
+r:"^スタミナ回復まで残り ([0-9]{2}):([0-9]{2})$"=距離體力恢復還剩下 $1:$2
+マップ=地圖
+r:"^([0-9]+)枚$"=$1 張
+r:"^([0-9]+)枚 使う$"=使用 $1 張
+
+r:"^あと (\d+)"=還需要$1
+
+
+r:"^あと (\d+)時間(\d+)分"=剩下 $1小時$2分
+クリアパーティ一覧=已通關隊伍一覽
+リセット=重置
+情報が更新されるまで、時間がかかる場合があります。=It may take some time until the information is updated.
+　現在、対象プレイヤーの情報がありません。=　Currently, there is no information on the target player.
+[3C404E]残り挑戦回数が0になりました。\n回復しますか?[-]=[3C404E]Your remaining attempts have reached 0.\nRestore?
+ジュエルを消費して、以下のクエストの\n残り挑戦回数をまとめて回復します。\nよろしいですか？=Consume jewel and restore the number of remaining attempts of the following quests collectively.\nIs this OK?
+r:"^\[3C404E\]現在、撃破数が(\d+)体に設定されています。\n設定をリセットし、撃破数を1体に戻しますか？\[-\]$"=[3C404E]The number of skip tickets to use\nis currently set at $1.\nReset this number to 1? [-]
+1体に戻す=Reset to 1
+スキップチケット枚数リセット確認=Skip Ticket Number Reset
+
+====Menu===
+次へ=下一步
+勝利数=Win
+編成完了=Done
+
+消費挑戦回数=Use attempts
+
+みんなの手本=Example
+メインクエスト=主線任務
+開催中=Underway!
+クランバトル=戰隊競賽
+ダンジョン=地下城
+調査=調查
+探索=探索
+バトルアリーナ=戰鬥競技場
+プリンセスアリーナ=公主競技場
+キャンペーン中=獎勵活動舉辦中
+
+★3クリアで使用できます。=Can use it once clear with 3★.
+スキップ=跳過
+インクエスト=主線任務
+メ= 
+同キャラ\n編成中=相同角色\n編組中
+バトル開始=戰鬥開始
+挑戦する=進行挑戰
+チケットを使って、ゲームをショートカット!=使用掃蕩券，來縮短遊戲！
+クリアパーティ=通關隊伍
+報酬=獎勵
+モンスター=怪物
+獲得アイテム=獲得道具
+フレンド以外のサポートキャラは、\nステータスが補正されている場合があります。=非好友的支援角色的狀態\n可能會有所修正。
+設定できるサポートキャラがいません。=No rental character can be set.
+消費した{{B}}は{{A}}に変換されました。=The consumed stamina was converted to Master Coin.
+Lv上限に達した状態で消費した{{B}}は\n{{A}}に変換されます。=The consumed stamina was converted to Master Coin.
+プレイヤー経験値は最大に達しているので受け取れませんでした。=The Player EXP could not be received because You reached the max Level.
+経験値の最大値が更新されるまで表示しない=Do not display until the maximum\nvalue of the exp value is updated
+チケットで再戦=以掃蕩券再戰
+このキャラのユニオンバースト中は速度を変更できません=Speed cannot be changed during Union Burst of this character
+===Posting===
+※80文字以下=※ More than 80 characters
+バトルログをクランチャットに投稿しますか？=Do you want to post battle log to clan chat?
+投稿する=投稿
+バトルログ投稿確認=戰鬥履歷投稿確認
+===Re enter===AB->Text color,C-> stamina,D number
+再戦する=再次挑戰
+
+r:"^\[3C404E\]スタミナを\[FFBB00,CE4F00\](\d+)\[-\]消費して、同じパーティで\nもう一度クエストをプレイします。\[-\]$"=[3C404E]將消耗體力[FFBB00,CE4F00]$1[-]，以同一個隊伍\n再次挑戰冒險。[-]
+===重新挑戰冒險無法正常套用
+r:"^\[3C404E\]ボスチケットを\[FFBB00,CE4F00\](\d+)\[-\]枚消費して、同じパーティで\nもう一度クエストをプレイします。\[-\]$"=[3C404E]將消耗[FFBB00,CE4F00]$1[-]張BOSS挑戰券 ，以同一個隊伍\n再挑戰冒險關卡。[-]
+よろしいですか？=確定要進行嗎？
+[3C404E]よろしいですか？[-]=[3C404E]確定要進行嗎？[-]
+
+クエストリトライ=重新挑戰冒險
+===Abort===
+リタイア=退出
+sr:"^\[3C404E\]リタイアするとクエスト報酬を獲得できず、\nスタミナが\[FFBB00,CE4F00\]([0-9])\[-\]消費されます。\n\nよろしいですか？\[-\]$"=[3C404E]若退出了此冒險，將會無法獲得任何獎勵。\n並且將會消耗 [FFBB00,CE4F00]$1[-] 體力。\n\n確定要這麼做嗎？[-]
+[FF7C4E,D62146]レンタル内容はキャンセルされます。[-]=[FF7C4E,D62146]借用的內容會取消[-]
+===Recharges stamina===
+[3C404E]スタミナが不足しています。\n回復しますか?[-]=[3C404E]Insufficient Stamina.\nDo you want to heal? [-]
+
+r:"^\[3C404E\]\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個使用して\nスタミナを\[-\]\[FFBB00,CE4F00\]120\[-\]\[3C404E\]回復しました。\[-\]\n\n本日の回復可能回数 ([0-9/]+)回\[-\]$"=[3C404E]Use [FFBB00,CE4F00]$1[-] Jewels \nto recover [FFBB00,CE4F00]120[-] Stamina\n\nRecharges left today: $2[-]
+===Attempt restore===
+{{B}}ジュエルを[-]{{A}}{{C}}[-]{{B}}個消費して、\n以下のクエストの残り挑戦回数を回復しました。[-]={{B}}Use[-]{{A}} {{C}} [-]{{B}}Jewels to recover the attempts\nfor the following quests.[-] 
+
+r:"^\[3C404E\]\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個使用して\n残り挑戦回数を\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]回復しました。\[-\]\n\n本日の回復可能回数 ([0-9/]+)回\[-\]$"=[3C404E]Use [FFBB00,CE4F00]$1[-] Jewels\nto recover [FFBB00,CE4F00]$2[-] Attempts\n\nRecharges left today: $3[-]
+===Skip Table===
+本日の回復可能回数上限に達しました。=Today's recoverable limit was reached.
+スキップ回数=掃蕩次數
+対象=目標
+以下のクエストはスタミナ不足のため実行しません。=以下的冒險由於體力不足無法執行。
+スキップチケットとスタミナを消費して、チェックした\nクエストを実行します。よろしいですか？=將消耗掃蕩券與體力\n進行選取的冒險。確定嗎？
+現在、このアイテムは\nメインクエスト等では入手できません=Currently, this item is not available in Main Quest.
+検索対象外のクエストが含まれています。=含有非搜尋目標的冒險。
+か所=Place

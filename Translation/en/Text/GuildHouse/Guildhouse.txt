@@ -1,6 +1,6 @@
 ===Guildhouse===
 
-んなのカレンダー=veryone's Calendar
+んなのカレンダー=Calendar
 イラスト一覧=Illustration list
 ギルドハウス遷移時に演出を再生するか\nメニューから設定を変更できます。=You can replay the scene at the guild house\nor change the setting from the menu.
 カレンダーストーリーをスキップしますか？=Do you skip calendar stories?
@@ -39,6 +39,8 @@ Like情報=Like Info
 サポート設定=Support\nSettings
 メンバー情報=Member\nInfo
 寄付する=Donate
+コッコロのおさいふ=Kokkoro's Wallet
+コッコロの\nおさいふ=Kokkoro's\nWallet
 ギフト=Gift
 1Fのメンバー=1F Party
 2Fのメンバー=2F Party
@@ -85,8 +87,8 @@ r:"^絆ランク (\d+)$"=Bond\nRank $1
 
 ===Games===
 購入価格=Price
-み=E
-んなのゲームテーブル=veryone's Game Table
+み=Everyone's 
+んなのゲームテーブル=Game Table
 レッツ・クッキング！\nミヤコとプリンを作って食べて\nプリンの道を極めよう！=Let's Cook! Let's make and eat pudding with Miyako to master the way of pudding!
 こちらは1,000ルピで\n販売中！\nぜひ購入して\n遊んでくださいね！=This one's on sale for 1,000 rupees, so buy it and play with it!
 楽しいミニゲームをご紹介！\nあなたはどのミニゲームで\n遊びますか？=Here are some fun mini-games! Which mini-game will you play?
@@ -173,7 +175,14 @@ Like日時=Date
 [FFBB00,CE4F00]5ルピ獲得[-]=[FFBB00,CE4F00]Earn 5 Rupies[-]
 クランメンバーがいません。=No clan members.
 このプレイヤーにはすでにLike済みです。=You have already liked this Player.
-
+===Kokkoro's wallet===
+マナが所持上限に達しているため引き出せません。=Mana can not be pulled out because the possession limit is reached.
+引き出し後の所持マナ=Current Mana
+ストックしたマナを引き出します。=Withdrawa stocked Mana.
+マナを引き出す=Mana Withdraw
+引き出し結果=Result of Withdraw
+r:"^\[FFBB00,CE4F00\]([0-9,]+)\[-\]\[3C404E\]マナを引き出しました。\[-\]$"=[3C404E]Withdraw [FFBB00,CE4F00]$1[-] Manas.[-]
+引き出せるマナがありません。=There is no mana that can be withdraw.
 ===upgrade notification===
 r:"^プレイヤーLv(\d+)以上 / (\d+)ルピ$"=P. Lv$1 or more & $2 Rupies
 

@@ -8,8 +8,6 @@ r:"^\[475F7B\]メインクエスト(.+|)の\n消費スタミナが半減\[-\]$"=
 r:"^\[475F7B\]メインクエスト(.+|)の\nマナドロップ量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]Mana drops × $2\nfor Main Quest$1[-]
 r:"^\[475F7B\]ダンジョンのマナドロップ量が\n([0-9.]+)倍にアップ\[-\]$"=[475F7B]Mana drops × $1\nfor Dungeons[-]
 r:"^\[475F7B\]マナクエストのマナドロップ量が\n([0-9.]+)倍にアップ\[-\]$"=[475F7B]Mana drops × $1\nfor Grotto[-]
-r:"^\[475F7B\]SPダンジョンの\nマナドロップ量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]Mana drops × $1\nfor SP Dungeon[-]
-SPダンジョン=SP dungeon
 マナドロップ量アップ=Mana Drops Up
 
 ===exp===
@@ -17,7 +15,6 @@ SPダンジョン=SP dungeon
 r:"^\[475F7B\]神殿調査クエストの\nEXP獲得量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]EXP gain × $1\nfor Temple Trek[-]
 r:"^\[475F7B\]聖跡調査クエストの\nEXP獲得量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]EXP gain × $1\nfor Sanctum Survey[-]
 r:"^\[475F7B\]メインクエスト(.+|)の\nEXP獲得量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]EXP gain × $2\nfor Main Quest$1[-]
-r:"^\[475F7B\]イベントクエスト(.+|)の\nEXP獲得量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]EXP gain × $2\nfor Main Quest$1[-]
 
 ===reward===
 報酬ドロップ量アップ=Reward Drops Up

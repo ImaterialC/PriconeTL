@@ -1,0 +1,41 @@
+===char profile===
+ステータス=狀態
+ランク詳細=Rank 詳細資訊
+身長=身高
+体重=體重
+血液型=血型
+誕生日=生日
+種族=種族
+趣味=興趣
+A型=A型
+B型=B型
+AB型=AB型
+O型=O型
+お菓子作り=making sweets
+獣人族=獸人族
+魔族=魔族
+ヒューマン=人族
+エルフ=精靈族
+この専用装備は今後登場予定です。=此專用裝備預定未來推出。
+このキャラ専用装備は強化Lv上限まで強化しています。=此角色專用裝備現已強化至強化 Lv 上限。
+現在の最高ランクです=Current highest rank
+
+現在のランク以降に必要な装備の確認ができます。=You can check the necessary equipment after the current rank.
+現在より高いRANKで必要な装備の確認ができます。=View equipment required for future ranks.
+r:"^絆ランク演出(\d+)$"=羈絆Rank表演$1
+r:"^解放演出(\d+)$"=解放表演$1
+r:"^★(\d)才能開花演出$"=★$1才能開花表演
+[FF7C4E,D62146]絆ランクを上げると閲覧できる演出が追加されます[-]=[FF7C4E,D62146]Raise the bond rank and to unlock.[-]
+
+オ=Io
+===Kyouka==
+
+===Dialog===
+メリークリスマス！\nありったけの気持ちを込めて\n歌いますから…聴いてくださいね=Merry Christmas! I'm going to sing with all my heart... please listen to it!
+特定の条件を達成すると\n報酬がもらえますよ！\nがんばりましょう♪　=達到特定條件的話\n可以得到報酬喔！\n一起加油吧♪　
+浜辺で食うものって\nなんであんなに\nうまいのかな～=I wonder why the food on the beach is so good.
+オマエと一緒にいると、毎日が\nクリスマスみたいな気分なの♪\nとーってもワクワクするの～！=When I'm with you, it feels like it's Christmas every day ♪ I'm excited!
+
+フレンドの申請や\n承認ができますよ\nどうぞ、良き交流を！=You'll be able to request and accept friends, so go ahead, be nice!
+バトルをして力比べを\nしてみましょう！\n実力が試されますね、\n頑張ってください！=Let's battle it out and compare our strengths, it'll be a test of our abilities, good luck!
+ようこそ！\n皆さんの素敵な出会いを\nギルド管理協会が\nお手伝いします！=Welcome to the Guild Management Association, where we're here to help you meet some great people!

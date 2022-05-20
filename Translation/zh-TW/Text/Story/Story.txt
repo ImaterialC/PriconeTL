@@ -1,0 +1,71 @@
+トーリー=情
+ス=劇
+インストーリー= 主線劇情
+追加ストーリー情報=Sub Story Information
+[3C404E]未読の[FFBB00,CE4F00]メインストーリー[-]があります。\nストーリーを読んで報酬を獲得しましょう。[-]=[3C404E]Unreaded [FFBB00,CE4F00]Main Story[-].\nRead the story and earn a reward.[-]
+未読ストーリー=Unread Story
+ボイスデータは、アプリ起動時に都度削除されます。=Voice data for stories is deleted each time the app is launched.
+再生する場合、ボイスデータをダウンロードします。=if you want character voices, then voice data will be downloaded.
+[3C404E]ボイスデータは、アプリ起動時に都度削除されます。[-]=[3C404E]Voice data for stories is deleted each time the app is launched.[-]
+[FF7C4E,D62146]再生する場合、ボイスデータをダウンロードします。[-]=[FF7C4E,D62146]if you want character voices, then voice data will be downloaded.[-]
+
+追加データをダウンロードします。\nボイスを再生しますか?=Additional data will be downloaded.\nApprove?
+r:"^ボイスあり\n\(([.0-9]+) ([MG])B\)$"=Voice ON\n($1 $2B)
+r:"^ボイスなし\n\(([.0-9]+) ([MG])B\)$"=Voice OFF\n($1 $2B)
+ログ=Log
+オート=Auto
+オートON=Auto-on
+
+オープニング=序章
+エンディング=終章
+
+このムービーをスキップしてもよろしいですか？=Are you sure you want to skip this movie?
+r:"^第(\d+)章 第(\d+)話が\n解放可能になりました。$"=第$1章 第$2話已解放。
+r:"^第(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"=Arc $1 Ch $2 Ep $3\nStory has release.
+===Story Menu==
+メインストーリー=主線劇情
+メイン=主要
+アストライア大陸を\n舞台にした物語を\n見ることができます=可以在此處閱覽\n阿斯特賴亞大陸\n上的故事
+
+エクストラ=額外
+ちょっと特別な\n物語を見ることが\nできます=可以回顧那些\n有點特別的故事
+
+ギルド=公會
+女の子たちの日常を\n見ることができます=在這裡可以看到\n女孩的日常故事
+
+キャラクター=角色
+絆ランクUPで\n新しい物語が\n追加されます=提升羈絆Rank後\n會追加新的故事
+
+現在公開されているストーリーはここまでです。=目前公開之最新劇情到此為止。
+
+
+===Bond Rank Story==
+ャラクターストーリー=角色劇情
+
+===anni===
+ストーリーへ=Go to Story
+ストーリー紹介=Story Introduction
+ストーリー一覧=Story List
+===NPC===
+解放したコンテンツにまつわるストーリーを見られます。\n冒険の途中で出会った、ちょっと特別な物語を振り返ってみましょう。=Watch stories about content you have unlocked\n and gain slightly different perspective of events from your advantures.
+各ギルドのストーリーを見られます。\nギルドストーリーは、ギルドに所属するキャラを１人以上仲間にし、\nギルドメンバーの絆ランク合計を、一定以上にすると解放されます。=Experience the stories of each guild.\nNew episodes unlock as you recruit characters belonging to that guild and reach a certain bond level total with its members.
+===Character===
+ま～わ=Ma-Wa
+た～は=Ta-Ha
+あ～さ=A-Sa
+
+===Bond Stuff===
+絆ランク=羈絆Rank
+r:"^第(\d+)話$"=第$1話
+キャラストーリー=Character Story
+ステータスアップボーナス=額外的狀態提升
+絆ランクアップ=Bond Rank Up
+ステータスアップ対象キャラクター=Target Characters
+該当キャラのストーリー初回閲覧で、\nステータスアップボーナスを獲得できます。=Get stat boost bonuses for characters\nby viewing their story for the first time.
+r:"^第(\d+)話ステータスアップボーナス$"=第$1話能力提升獎勵
+===Chara story===
+
+r:"^(\d+) 第(\d+)話$"=$1 第$2話
+連続で閲覧できるストーリーがあります。=There is next story that can be viewed.
+連続ストーリー閲覧確認=Confirmation of Maraton Story Viewing
+

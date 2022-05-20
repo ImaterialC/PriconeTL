@@ -1,0 +1,30 @@
+ナクエスト=那冒險
+マナクエスト=瑪那冒險
+経験値クエスト=經驗値冒險
+マナを大量獲得=獲得大量瑪那
+EXPポーションを大量獲得=獲得大量的 EXP 藥水
+キャラのLvアップに使う\nEXPポーションを獲得=獲得可升級\n角色 Lv 的 EXP 藥水。
+スキル強化や装備強化\nショップで使うマナを獲得=獲得能加強技能及裝備，\n且能用於商店的瑪那。
+
+スキップチケットと挑戦回数を消費してクエストを\n実行します。よろしいですか？=Use skip tickets and attempts\nto complete this quest?
+
+===npc dialogue===
+育成に必要なアイテムが\n獲得できるクエストです\nわたくし、主さまのために、\n強くなりますよ=In this quest, you can earn items required for Training.\nI will become stronger for you, my lord.
+
+このクエストを攻略すれば、\nアイテムがもらえますよ\nたくさん集めて、どんどん\n強くなっちゃいましょう！=You'll receive some nice items for clearing this quest! Collect as many as you can and get super strong!
+
+クエストを攻略すると、\nアイテムが手に入るんだって\nもらえるものは、\nもらっておきましょ！=You can also receive items by clearing quests.\nLet's take all we can!
+キャラ強化に必要な「{{A}}」を獲得できるクエストと\n「{{B}}」を獲得できるクエストの２種類があります。\n１日に挑戦できる回数は、それぞれのクエストで２回ずつです。=There are two types of quests: those that provide EXP Potions needed to\npower up character and those that offer Mana.\nEach type of questcan be played up to two times per day.
+
+======
+
+経=經
+験値クエスト=驗値冒險
+
+経験値クエストへ=To EXP Quests
+マナクエストへ=To Mana Quests
+探索TOPへ=To Grotto
+
+枚=tickets
+
+r:"^リセットまであと(\d+)時間$"=距離重置還有$1小時
