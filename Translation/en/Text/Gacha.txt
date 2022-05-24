@@ -13,7 +13,7 @@ Sダッシュ=J:Start
 所持制限数を越えたアイテムは、プレゼントに送られます。=Items beyond the possession limit will be sent to the present.
 
 r:"^あと ([0-9:]{8})$"=$1 Left
-
+ガチャリセットまで=Until the gacha reset
 ===
 交換ラインナップ=Exchange Lineup
 所持キャラ交換Pt=Char. Exchange Pts
@@ -56,9 +56,9 @@ r:"^RANK(\d+)/Lv(\d+)/装備強化MAX/RANKボーナスを含むステータス�
 ==Banner time
 sr:"^(\[[0-9a-fA-F,]{6,13}\])([0-9/ :]{16})～([0-9/ :]{11,16})まで\[-\]$"="$1$2 to $3 (JST)[-]"
 ==Banner Description==
-sr:"^(\[[0-9a-fA-F,]{6,13}\])新キャラ「([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)」登場！\n期間中出現率UP！\[-\]$"="$1Boosted rates for the New character\n$2$3![-]"
+sr:"^(\[[0-9a-fA-F,]{6,13}\])新キャラ「([べ-・ー＆]{2,11})(\（.{2,10}\）)?(\s|)」登場！\n期間中出現率UP！\[-\]$"="$1Boosted rates for the New character\n$2$3![-]"
 
-sr:"^(\[[0-9a-fA-F,]{6,13}\])★3キャラ出現率2倍！限定「([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)」登場！\n対象キャラを仲間にする度に対象メモピ200個GET！[-]$"={{A}} ★3 character appearance rate 2 Limited "{{B}}" appeared! Each pull a target Character, {{A}}Gets a Bonus of {{C}} Memory Shards![-]
+sr:"^(\[[0-9a-fA-F,]{6,13}\])★3キャラ出現率2倍！限定「([べ-・ー＆]{2,11})(\（.{2,10}\）)?」登場！\n対象キャラを仲間にする度に対象メモピ200個GET！[-]$"=$1Boosted rates for the Limited ★3 "$1$2"!\nEach pull a target Character will Gets a Bonus of 200 Memory Shards![-]
 
 
 [3C404E]『10回引く』は[FFBB00,CE4F00]★2以上[-]1キャラ確定！\n対象キャラを仲間にする度に[FFBB00,CE4F00]対象メモピ200個[-]GET！[-]=[3C404E]A [FFBB00,CE4F00]★2 or higher[-] character is guaranteed with each "10x draw"!\nEach pull a target Character, [FFBB00,CE4F00]Gets a Bonus of 200 Memory Shards[-][-]

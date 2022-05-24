@@ -55,7 +55,7 @@ Lv上限に達しているため強化できません。=cannot be refined becau
 装備可能なスロットがありません。=There is no slot that can be equipped.
 以下のアイテムを消費しておまかせ強化しますか？=Use the following items to enhance\ncharacter as recommended?
 キャラLvとスキルLvのみ強化のため、原鉱は消費できません。=Only Character Lv and Skill Lv are enhanced, so no Ore can be consumed.
-{{B}}アイテムを消費して、強化Lv上限を[-]{{A}}{{C}}[-]{{B}}に解放します。\nよろしいですか？[-]={{B}}Consume items to increase Lv limit to [-] {{A}}{{C}}[-]{{B}}.\nIs this OK? [-]
+r:"^\[3C404E\]アイテムを消費して、強化Lv上限を\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]に解放します。\nよろしいですか？\[-\]$"=[3C404E]Consume items to increase Lv limit to [FFBB00,CE4F00]$1[-].\nIs this OK? [-]
 
 キャラ解放確認=Unlock Character
 解放する=Unlock
@@ -129,19 +129,20 @@ EXスキルスロット=EX skill slot
 現在の★=Current ★
 ★変更中は才能開花できません。=Cannot ascend during "★" change.
 ===LB===
-アストライアリング一覧=List of Astrial Rings
+アストライアリング一覧=List of Astraea Rings
 限界突破内容=Contents of Limit Break
-所持アストライアリング一覧=List of owned Astrial rings
+所持アストライアリング一覧=List of owned Astraea rings
 キャラLv上限=Char Lv Limit
 スキルLv上限=Skill Lv Limit
 限界突破=LB
 なし=None
-
-使用するアストライアリングを選択してください。キャラの最大Lv上限を上昇できます。=Choose the Astrial Ring you wish to use\nit will increase your character's maximum level
+使用するアストライアリングを選択してください。=Select the Astrea Ring to use.
+使用するアストライアリングを選択してください。キャラの最大Lv上限を上昇できます。=Choose the Astraea Ring you wish to use\nit will increase your character's maximum level
 
 キャラLv限界突破確認=Limit Break Confirmation
 [3C404E]アイテムを消費して、キャラのLv上限を[-][FFBB00,CE4F00]10[-][3C404E]突破します。\nよろしいですか？[-]=[3C404E]Consume shards to break through character's level limit by[FFBB00,CE4F00] 10[-]?[-]
 限界突破する=Limit Break
+このキャラは編成から外せません。=This character cannot be removed from the formation.
 ===npc===
 「キャラLv限界突破」によりプレイヤーLvを超えてキャラLvを強化\nできます。ステータスアップやスキルLvの強化上限が解放されるので\n各キャラ{{B}}と{{A}}を集め、限界突破を目指しましょう。=You can raise the character Lv beyond the player Lv by "Character Lv Limit Break". Since the upper limit of stat up and skill Lv cap also increased, collect Memory Shards and Manas to Limit Break her.
 
@@ -177,13 +178,14 @@ EXスキルスロット=EX skill slot
 おすすめクエスト=Quest
 ====
 強化ボーナス=Stat Bonus
-{{A}}詳細={{A}} Details
+プリンセスオーブ詳細=Princess Orb details
 強化段階=Stage
 必要数=Req
 購入数=Price
 
-セットに必要な{{A}}={{A}} required for set
-{{A}}は最大まで強化する必要があります。\n各段階で必要数が異なります。=You needs {{A}} to enhance.\nThe required number is different at each stage.
+セットに必要なプリンセスオーブ=Princess Orb required for set
+セットに必要なプリンセスオーブ=Princess orb required for the set
+プリンセスオーブは最大まで強化する必要があります。\n各段階で必要数が異なります。=You needs Princess Orb to enhance.\nThe required number is different at each stage.
 このクエストは勝利するまで何度でも挑戦可能です。=This quest can be challenged\nas many times until you win.
 編成固定キャラ=Required
 
@@ -214,6 +216,7 @@ RANKボーナス詳細のステータス=Status Details
 作成に必要なマナ=Mana Cost
 作成に必要な素材=Required Items
 強化に必要なマナ=Mana Cost For Enhancement
+強化に必要なプリンセスオーブ=Princess orb Cost For Enhancement
 強化に必要な素材=Required Items For Enhancement
 強化Lv上限までLvアップする=Lv to the max
 強化Lv上限確認=Enhancement Confirmation
@@ -241,6 +244,11 @@ RANKボーナス詳細のステータス=Status Details
 ★6才能開花=★6 Ascension
 原鉱=ore
 グロウスフィア=Growsphere
+作成確認=Creation Confirmation
+装備やメモリーピースを消費して、\n専用装備を作成します。=Consume Items and memory shards to create Unique Equipment.
+[FF7C4E,D62146]作成した専用装備を元に戻すことはできません。[-]=[FF7C4E,D62146]You cannot undo the UE once created.[-]
+キャラ専用装備の所持最大数に達しています。=You already have UE for this characters.
+作成確認=Creation confirmation
 ====NPC
 プレイヤーLvが、キャラクターLvの上限になります。\nメインクエストやミッション達成で、プレイヤーEXPをGETし\nLvアップを目指しましょう。=Player Lv is the upper limit of character Lv. Get player XP and aim for Lv up by completing main quests and missions.
 装備の欠片・設計図が足りない場合は、\n原鉱を代用して装備の作成が可能になりました。\n皆さまの強化に役立ててくださいまし。=If there are not enough equipment fragments or blueprints, it is now possible to create equipment by substituting the ore. Please use it to strengthen your characters.

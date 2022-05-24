@@ -45,7 +45,6 @@ Twitter投稿=Post to Twitter
 プロフ編集=Edit
 クランプロフ=Clan Profile
 到達階=Current
-マ=M
 イプロフカード=y Profile Card
 ルナの塔階数=Luna's Tower Floors
 プリンセスアリーナ\n順位=Princess Arena\nRanking
@@ -53,14 +52,13 @@ Twitter投稿=Post to Twitter
 クランバトル\n合計スコア=Clan Battle\nTotal Score
 ステータス表示=Display
 ※全角75文字以内(1行25文字)=※Up to 75 characters (25 characters per line)
-※全角{{A}}文字以内=※Up to {{A}} characters.
 ※1文字以上60文字以内=※Between 1 and 60 characters
 コメントを入力してください。=Please enter a comment.
 コメント編集=Comment Edit
-[3C404E]編集した内容を保存しました。[-]={{A}}Edited content has been saved.[-]
+[3C404E]編集した内容を保存しました。[-]=[3C404E]Edited content has been saved.[-]
 [3C404E]編集した内容を破棄し、前回保存したときの状態に戻りますがよろしいですか？[-]=[3C404E]Discard the edited contents and return to the state when it was saved last time.\nis this OK? [-]
 前回保存したときの状態に戻りました。=Returned to the state when it was saved last time.
-※全角{{A}}文字以内=※ Under full angle {{A}} character
+r:"^※全角(\d+)文字以内$"=※Up to  $1 character
 [3C404E]編集した内容を保存していません。\nこのまま画面遷移してよろしいですか？[-]=[3C404E]You have not saved your edits.\nAre you sure you want to change the screen as it is?[-]
 [3C404E]画像の保存に失敗しました。\n保存領域が確保されているかご確認ください。[-]=[3C404E]Save Image saving failed.\nMake sure you have enough storage.[-]
 画像保存完了=Image Storage Completed
@@ -86,7 +84,8 @@ Twitter投稿=Post to Twitter
 全クランランキング=Total Ranking
 クラン内ランキング=In-Clan Ranking
 クランバトル戦績=Clan Battle Results
-
+キャラ一覧=Select A Character
+選択中のキャラ=Selected character
 ===Title===
 
 ===Name& Self Introduce===

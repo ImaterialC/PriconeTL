@@ -48,7 +48,7 @@ r:"^\[3C404E\]現在、撃破数が(\d+)体に設定されています。\n設�
 獲得アイテム=Items Earned
 フレンド以外のサポートキャラは、\nステータスが補正されている場合があります。=Rantal characters other than friends\nmay have their status corrected.
 設定できるサポートキャラがいません。=No rental character can be set.
-消費した{{B}}は{{A}}に変換されました。=The consumed stamina was converted to Master Coin.
+消費したスタミナはマスターコインに変換されました。=The consumed stamina was converted to Master Coin.
 Lv上限に達した状態で消費した{{B}}は\n{{A}}に変換されます。=The consumed stamina was converted to Master Coin.
 プレイヤー経験値は最大に達しているので受け取れませんでした。=The Player EXP could not be received because You reached the max Level.
 経験値の最大値が更新されるまで表示しない=Do not display until the maximum\nvalue of the exp value is updated

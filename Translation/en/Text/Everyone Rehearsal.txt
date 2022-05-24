@@ -1,5 +1,5 @@
 みんなの稽古場=Everyone's rehearsal room
-んなの稽古場=veryone's rehearsal room
+んなの稽古場=veryone's Rehearsal Room
 [3C404E][FFBB00,CE4F00]みんなの稽古場[-]が解放されました。[-]=[3C404E]The [FFBB00,CE4F00]Everyone's Rehearsal Room[-]\nhas been released.[-]
 
 ガーゴイル=Gargoyle
@@ -19,7 +19,14 @@
 
 高い物理攻撃力を宿し、強力な範囲攻撃を行うよう\nプログラムされたボスが現れる。=A boss programmed to have a high P.ATK\nand perform a powerful range attack.
 
+高い魔法攻撃力を宿し、強力な範囲攻撃を行うよう\nプログラムされたボスが現れる。=A boss programmed to have a high M.ATK\nand perform a powerful range attack.
+防御力アップスキルで高い耐久力を誇り、相手の攻撃\nを凌ぐようプログラムされたボスが現れる。=A boss programmed to have a high defense\nand has been programmed to surpass the opponent's attack.
 
+高い物理攻撃力を宿し、強力な範囲攻撃を行うよう\nプログラムされたマルチターゲットのボスが現れる。=A multi-target boss programmed to have a high\nP.ATK and perform a powerful range attack.
+
+高い魔法攻撃力を宿し、強力な範囲攻撃を行うよう\nプログラムされたマルチターゲットのボスが現れる。=A multi-target boss programmed to have a high\nM.ATK and perform a powerful range attack.
+
+モンスターHPが\n減少しない状態にする=Monster HP\nCan not decrease
 ===Mission
 古場ミッション=ehearsal Mission
 稽=R

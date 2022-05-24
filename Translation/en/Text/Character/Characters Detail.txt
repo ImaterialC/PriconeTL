@@ -11,7 +11,6 @@ A型=Type A
 B型=Type B
 AB型=Type AB
 O型=Type O
-お菓子作り=making sweets
 獣人族=Beastfolk
 魔族=Demonfolk
 ヒューマン=Humanfolk
@@ -27,9 +26,7 @@ r:"^解放演出(\d+)$"=Unlock Animation $1
 r:"^★(\d)才能開花演出$"=★$1 Ascension
 [FF7C4E,D62146]絆ランクを上げると閲覧できる演出が追加されます[-]=[FF7C4E,D62146]Raise the bond rank and to unlock.[-]
 
-オ=Io
-===Kyouka==
-
+検索に該当するキャラがいません。=There is no character that matches the search.
 ===Dialog===
 メリークリスマス！\nありったけの気持ちを込めて\n歌いますから…聴いてくださいね=Merry Christmas! I'm going to sing with all my heart... please listen to it!
 特定の条件を達成すると\n報酬がもらえますよ！\nがんばりましょう♪　=You can receive rewards when you achieve certain goals! Good luck! ♪　

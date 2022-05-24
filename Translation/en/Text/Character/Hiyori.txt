@@ -1,0 +1,25 @@
+===Profileヒヨリ
+ヒ=Hi
+人助け、応援=Helping people, cheering
+人助けが大好き！　前向き格闘娘=An optimistic fighter who loves helping people
+===Skills
+===UB
+ヒヨリラッシュ=Hiyori Rush
+目の前の敵１キャラに物理大ダメージを与え、さらに自分を中心とした範囲内の敵すべてに物理中ダメージを与える。=Deals large P.DMG to an enemy directly in front and deals moderate P.DMG to all enemies in a small radius around it.
+r:"^敵単体に(\d+)の物理ダメージ\n範囲内の敵に(\d+)の物理ダメージ$"=Deals $1 P.DMG to an enemy.\nDeals $2 P.DMG to enemies in range.
+===S1
+===S2
+目の前の敵１キャラに物理小ダメージを与え、さらに自分の物理攻撃力を中アップさせる。=Deals small P.DMG to an enemy directly in front. Boosts own P.ATK by a moderate amount.
+===ex
+肉球パワー！=Paw Power
+===Skills+
+===UB
+ヒヨリバーニングラッシュ=Hiyo River Ningy Rush
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分を中心とした範囲内の敵すべてに物理大ダメージを与える。=Deals masive P.DMG to an enemy directly in front and deals moderate P.DMG to all enemies in a radius around it.
+===S1
+目の前の敵１キャラに物理大ダメージを与え、さらに自分を中心とした範囲内の敵すべてに物理小ダメージを与える。=Deals large P.DMG to an enemy directly in front and deals small P.DMG to all enemies in a small radius around it.
+===S2
+===ex
+肉球パワー！+=Paw Power+
+===UE
+ニャンピオンベルト=Nyampion's Belt

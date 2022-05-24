@@ -10,7 +10,7 @@
 ===Goblin Brave Tier 5
 【物理】豪快に戦斧を振るう熟練のゴブリン戦士。=[Physics] A skilled goblin warrior who shakes the war ax.
 幼き戦士を脇に抱え、魂の技を見せ付ける。=Hold a young warrior aside and show the skill of the soul.
-・バトル開始時、自身の物理防御力と魔法防御力=・ At the start of the battle, his own physical defense and magic defense power
+・バトル開始時、自身の物理防御力と魔法防御力=・ At the start of the battle, his own physical defense and M.DEF power
 　を小アップさせる。=　Let me up.
 　この防御力アップ効果で上昇した防御力は、バ=　The defense power that has risen by the effect of improving this defense is Ba
 　トル中に受ける防御力ダウンスキルの影響を受=　Received the influence of defense down skills received during the torch

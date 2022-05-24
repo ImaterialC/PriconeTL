@@ -99,6 +99,7 @@ r:"^([1-9])回目の報酬をリセット$"=Reward Reset $1
 後編へ=To Part 2
 [3C404E]リタイアするとボスバトル報酬を\n獲得することができません。\nボスチケットは消費されません。\n\nよろしいですか？\n[-]=[3C404E]You will not be able to earn boss battle rewards if you retire.\nBoss tickets are not consumed.\n\nIs this OK?[-]
 ボスバトルリタイア=Retire Boss Battle
+あとボスを2回1バトルで撃破することで解放されます。=Can Skip by defeating the boss twice in one pan.
 ===Login===
 イベントログインボーナス獲得=Event Login Bonus Received
 r:"^(\d+)日目のログインボーナスとして以下のアイテムを獲得しました。$"=You received the following items as a bonus for logging on the day $1.

@@ -1,0 +1,4 @@
+おかえりなさいませ、\n主さま=Welcome back,\nMy Lord
+明日はこちらをご用意して\nお待ちしてますね=I'm waiting for\nyou tomorrow
+
+sr:"^(.+)×(\d+)を\n獲得しました$"=Receive\n$1 × $2

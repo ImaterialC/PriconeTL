@@ -1,40 +1,30 @@
-New Year Rei 
-//Profile
-レイ（ニューイヤー）=New Year Rei 
-クールで何事にも真っ直ぐな剣士=A cool-headed swordswoman who faces everything head-on
-
-//Skills
-//UB
+===Skills
+===UB
 細氷剣・雪華=Icy Edge: Snowbloom
-敵全体に物理中ダメージを与え、さらにスタンさせる。=Deals moderate physical damage to all enemies and inflicts Stun.
-r:"^敵全体に(\d+)の物理ダメージ\n敵全体を一定時間行動不能にする$"=Deals $1 physical damage to all enemies.\nRenders all enemies immobile for a set period of time.
-//S1
+敵全体に物理中ダメージを与え、さらにスタンさせる。=Deals moderate P.DMG to all enemies and inflicts Stun.
+r:"^敵全体に(\d+)の物理ダメージ\n敵全体を一定時間行動不能にする$"=Deals $1 P.DMG to all enemies.\nRenders all enemies immobile for a set period of time.
+===S1
 雪崩返し=Avalanche Reversal
-【挑発】敵全体を挑発する。挑発後のモーション中に攻撃を受けた場合、前方範囲内の敵すべてに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。=[Taunt] Taunts all enemies and enters a stance. If attacked during this stance, deals small physical damage to all enemies in range and lowers their physical defense by a small amount.
-r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵の物理防御力を(\d+)ダウン$"=Provokes all enemies.Deals $1 physical damage to enemies in range.\nLowers physical defense of enemies in range by $1.
-//S2
+【挑発】敵全体を挑発する。挑発後のモーション中に攻撃を受けた場合、前方範囲内の敵すべてに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。=[Taunt] Taunts all enemies and enters a stance. If attacked during this stance, deals small P.DMG to all enemies in range and lowers their P.DEF by a small amount.
+r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵の物理防御力を(\d+)ダウン$"=Provokes all enemies.Deals $1 P.DMG to enemies in range.\nLowers P.DEF of enemies in range by $1.
+===S2
 白銀冬仕度=Silvery Wintertime
-自分の周囲の味方すべてに魔法無効バリアを展開し、さらに自身の魔法防御力を中アップさせる。=Deploys a barrier that negates magical damage around all nearby allies. Moderate boost to own magical defense.
-r:"^(\d+)ダメージ分の魔法無効バリアを展開する\n自分の魔法防御力を(\d+)アップ$"=Deploys Barrier that negates $1 magic damage.\nBoosts own magic defense by $1.
-//ex
+自分の周囲の味方すべてに魔法無効バリアを展開し、さらに自身の魔法防御力を中アップさせる。=Deploys a barrier that negates M.DMG around all nearby allies. Moderate boost to own M.DEF.
+r:"^(\d+)ダメージ分の魔法無効バリアを展開する\n自分の魔法防御力を(\d+)アップ$"=Deploys Barrier that negates $1 M.DMG.\nBoosts own M.DEF by $1.
+===ex
 氷壁の構え=Glacier Stance
-バトル開始時に自分の魔法防御力を中アップさせる。=Moderate boost to own magical defense at start of battle.
-r:"^自分の魔法防御力を(\d+)アップ$"=Boosts own magic defense by $1.
-
-//Skills+
-//UB
+===Skills+
+===UB
 
 r:"^$"=
-//S1
+===S1
 雪崩返し+=A variety of avalanches+
-【挑発】敵全体を挑発し、自分の魔法防御力を特大アップ。挑発後のモーション中に攻撃された場合、前方範囲内の敵に物理中ダメージを与え、物理防御力を小ダウンさせスタンさせる。=[Provocation] Provocation of all enemies and increases their magic defense. If you are attacked during the motion after the provocation, you will do physical damage to the enemy in the forward range, and the physical defense will be reduced and stunned.
-r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵の物理防御力を(\d+)ダウン\n自分の魔法防御力を(\d+)アップ\n範囲内の敵を一定時間行動不能にする$"=Provocation of all enemiesPhysical damage of $1 to enemies in the range\nThe physical defense power of the enemy in the range $1 down\nUp $1 up your magic defense power\nMake enemies in the range unable to act for a certain period of time
-//S2
+【挑発】敵全体を挑発し、自分の魔法防御力を特大アップ。挑発後のモーション中に攻撃された場合、前方範囲内の敵に物理中ダメージを与え、物理防御力を小ダウンさせスタンさせる。=[Provocation] Provocation of all enemies and increases their M.DEF. If you are attacked during the motion after the provocation, you will do P.DMG to the enemy in the forward range, and the P.DEF will be reduced and stunned.
+r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵の物理防御力を(\d+)ダウン\n自分の魔法防御力を(\d+)アップ\n範囲内の敵を一定時間行動不能にする$"=Provocation of all enemiesP.DMG of $1 to enemies in the range\nThe P.DEF power of the enemy in the range $1 down\nUp $1 up your M.DEF power\nMake enemies in the range unable to act for a certain period of time
+===S2
 
 r:"^$"=
-//ex
+===ex
 氷壁の構え+=Glacier Stance+
-バトル開始時に自分の魔法防御力を大アップさせる。=Large boost to own magical defense at start of battle.
-r:"^自分の魔法防御力を(\d+)アップ$"=Boosts own magic defense by $1.
-//UE
+===UE
 氷麗刀・初華=Bingli Dao · Chuhua

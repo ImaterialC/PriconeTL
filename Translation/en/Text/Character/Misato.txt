@@ -1,0 +1,26 @@
+===Profileミサト
+サト=sato 
+絵本作り=Making picture books
+母性溢れる優しいみんなの「ミサト先生」=A motherly figure known to all as Miss Misato
+===Skills
+===UB
+シスターフェイバー=Sister's Blessing
+味方全体のＨＰを中回復し、さらに魔法防御力を小アップさせる。=Recovers HP of all allies by a moderate amount. Small boost to their M.DEF.
+r:"^味方全体のＨＰを(\d+)回復\n味方全体の魔法防御力を(\d+)アップ$"=Recovers all allies' HP by $1.\nBoosts all allies' M.DEF by $2.
+===S1
+自分の周囲の味方すべての魔法攻撃力を小アップさせる。=Moderate boost to M.ATK of all nearby allies.
+===S2
+一番前の味方１キャラに継続ＨＰ回復状態を付与する。=Grants HP regen to the foremost ally.
+r:"^毎秒ＨＰを(\d+)回復する$"=Recovers HP by $1 every second.
+===ex
+天女の威光=Angelic Majesty
+===Skills+
+===UB
+===S1
+自分の周囲の味方すべての魔法攻撃力を大アップさせ、さらに魔法クリティカルを中アップさせる。=Large boost to M.ATK and moderate boost to magical critical rate of all nearby allies.
+r:"^範囲内の味方の魔法攻撃力を(\d+)アップ\n範囲内の味方の魔法クリティカルを(\d+)アップ$"=Boosts M.ATK of all allies in range by $1.\nBoosts magic critical rate of all allies in range by $2.
+===S2
+===ex
+天女の威光+=Angelic Majesty+
+===UE
+アガペーヴェール=Agape Veil

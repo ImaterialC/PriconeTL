@@ -18,29 +18,34 @@ r:"^ボイスなし\n\(([.0-9]+) ([MG])B\)$"=Voice OFF\n($1 $2B)
 オートON=Auto-on
 
 このムービーをスキップしてもよろしいですか？=Are you sure you want to skip this movie?
-r:"^第(\d+)章 第(\d+)話が\n解放可能になりました。$"=Ch $1 Ep $2\nStory has release.
-r:"^第(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"=Arc $1 Ch $2 Ep $3\nStory has release.
-r:"^第(\d+)部 第(\d+)章 幕間が\n解放可能になりました。$"=Arc $1 Ch $2 Epilogue\nStory has release.
-r:"^第(\d+)部 第(\d+)章$"=Arc $1 Ch $2
+r:"^第?(\d+)章 第(\d+)話が\n解放可能になりました。$"=Ch $1 Ep $2\nStory has release.
+r:"^第?(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"=Arc $1 Ch $2 Ep $3\nStory has release.
+r:"^第?(\d+)部 第(\d+)章 幕間が\n解放可能になりました。$"=Arc $1 Ch $2 Epilogue\nStory has release.
+r:"^第?(\d+)部 第(\d+)章$"=Arc $1 Ch $2
+r:"^第([0-9.]+)話$"=Episode $1
 ===Story Menu==
 
 メイン=Main
 アストライア大陸を\n舞台にした物語を\n見ることができます=View stories set on the Continent of Astraea.
 
 エクストラ=Extra
+クストラストーリー=xtra Story
 ちょっと特別な\n物語を見ることが\nできます=View stories that are just a wee-bit special.
 
 ギルド=Guild
 女の子たちの日常を\n見ることができます=See snippets of daily life for the girls.
 
 キャラクター=Character
+ャラクターストーリー=Character Story
 絆ランクUPで\n新しい物語が\n追加されます=Increasing Bond Level will add new stories.
 
 現在公開されているストーリーはここまでです。=No further story is currenly available
 
-
+閲覧するストーリーを選択してください。=Select the story to view.
+リーナ=Arena
+ルドハウス=uild House
+ニバーサリーカウントダウン=Anniversary countdown
 ===Bond Rank Story==
-ャラクターストーリー=Story
 
 ===anni===
 ストーリーへ=Go to Story

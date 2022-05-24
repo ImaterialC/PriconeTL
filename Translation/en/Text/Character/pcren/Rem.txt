@@ -1,40 +1,28 @@
 Rem 
-//Profile
+===Profile
 レム=Rem 
 鬼がかりの万能妹メイド=A younger twin maid who is fanatical as a demon
 
-//Skills
-//UB
+===Skills
+===UB
 アル・ヒューマ=Al Huma
-前方範囲内の敵すべてに物理大ダメージを与える。行動不能状態の敵に対してはダメージが上昇する。=Deals large physical damage to all enemies in range. Damage increases for enemies that are unable to move.
-r:"^範囲内の行動不能の敵すべてに(\d+)の物理ダメージ\n範囲内のその他の敵すべてに(\d+)の物理ダメージ$"=Deals $1 physical damage to all immobile enemies in range.\nDeals $1 physical damage to all other enemies in range.
-//S1
+前方範囲内の敵すべてに物理大ダメージを与える。行動不能状態の敵に対してはダメージが上昇する。=Deals large P.DMG to all enemies in range. Damage increases for enemies that are unable to move.
+r:"^範囲内の行動不能の敵すべてに(\d+)の物理ダメージ\n範囲内のその他の敵すべてに(\d+)の物理ダメージ$"=Deals $1 P.DMG to all immobile enemies in range.\nDeals $1 P.DMG to all other enemies in range.
+===S1
 エル・ヒューマ=El Huma
-目の前の敵１キャラに物理中ダメージを与え、さらに凍結させる。=Deals moderate physical damage to an enemy directly in front and inflicts Freeze.
-r:"^敵単体に(\d+)の物理ダメージ\n敵単体を一定時間行動不能にする$"=Deals $1 physical damage to an enemy.\nRenders an enemy immobile for a set period of time.
-//S2
-アクアヒーリング=Aqua Healing
-最もＨＰが低い味方１キャラのＨＰを中回復させる。=Recovers the HP of the ally with the lowest HP by a moderate amount.
-r:"^味方単体のＨＰを(\d+)回復$"=Recovers an ally's HP by $1.
-//ex
+目の前の敵１キャラに物理中ダメージを与え、さらに凍結させる。=Deals moderate P.DMG to an enemy directly in front and inflicts Freeze.
+
+===S2
+===ex
 鬼がかってます！=Fanatical as a Demon
-バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
-r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
-
-//Skills+
-//UB
-
-r:"^$"=
-//S1
+===Skills+
+===UB
+===S1
 エル・ヒューマ+=El Hum+
-目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、さらに凍結させる。=It does physical damage to all enemies within the range of 1 character in front of you, and further freezes.
-r:"^範囲内の敵すべてに(\d+)の物理ダメージ\n範囲内の敵を一定時間行動不能にする$"=Physical damage of $1 to all enemies within the range\nMake enemies in the range unable to act for a certain period of time
-//S2
-
-r:"^$"=
-//ex
+目の前の敵１キャラを中心とした範囲内の敵すべてに物理中ダメージを与え、さらに凍結させる。=It does P.DMG to all enemies within the range of 1 character in front of you, and further freezes.
+r:"^範囲内の敵すべてに(\d+)の物理ダメージ\n範囲内の敵を一定時間行動不能にする$"=P.DMG of $1 to all enemies within the range\nMake enemies in the range unable to act for a certain period of time
+===S2
+===ex
 鬼がかってます！+=Fanatical as a Demon+
-バトル開始時に自分の物理攻撃力を大アップさせる。=Large boost to own physical attack at start of battle.
-r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
-//UE
+===UE
 レムの髪飾り=Rem hair ornament

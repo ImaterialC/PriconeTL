@@ -1,1 +1,7 @@
-﻿
+﻿相棒との記憶=Memories with my partner
+孤独の先にあったもの=What was at the end of loneliness
+二人だけの作戦会議=Strategy conference for only two people
+懐かしき物語=Nostalgic story
+刻音刃クレフトオン=Machine blade Clefeon
+強化Lv上限  {0}=Reinforced LV upper limit {0}
+こっちだこっち！=Here!

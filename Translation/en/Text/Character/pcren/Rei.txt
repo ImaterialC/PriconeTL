@@ -1,41 +1,26 @@
-Rei 
-//Profile
-レイ=Rei 
-クールで何事にも真っ直ぐな剣士=A cool-headed swordswoman who faces everything head-on
-
-//Skills
-//UB
+===Profile
+レ=Re
+クールで何事にも真っ直ぐな剣士=A cool-headed swordswoman\nwho faces everything head-on
+===Skills
+===UB
 スラッシュストーム=Hurricane Slash
-目の前の敵１キャラに物理特大ダメージを与える。=Deals massive physical damage to an enemy directly in front.
-r:"^敵単体に(\d+)の物理ダメージ$"=Deals $1 physical damage to an enemy.
-//S1
-ウィンドスラスト=Wind Thrust
-目の前の敵１キャラに物理中ダメージを与える。=Deals moderate physical damage to an enemy directly in front.
-r:"^敵単体に(\d+)の物理ダメージ$"=Deals $1 physical damage to an enemy.
-//S2
-カウンタースラッシュ=Counter Slash
-目の前の敵１キャラに物理中ダメージを与える。攻撃前の構え中にレイが受けたダメージに応じて、与えるダメージがアップする。=Deals moderate physical damage to an enemy directly in front. Boost to damage dealt based on the damage taken while in pre-attack stance.
-r:"^敵単体に(\d+)の物理ダメージ$"=Deals $1 physical damage to an enemy.Physical damage of $1 to the enemy alone
-//ex
+===S1
+===S2
+目の前の敵１キャラに物理中ダメージを与える。攻撃前の構え中にレイが受けたダメージに応じて、与えるダメージがアップする。=Deals moderate P.DMG to an enemy directly in front. Boost to damage dealt based on the damage taken while in pre-attack stance.
+===ex
 ラピッドフェンサー=Rapid Riposte
-バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
-r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
-
-//Skills+
-//UB
+===Skills+
+===UB
 スラッシュテンペスト=Slash tempest
 目の前の敵１キャラに物理特大ダメージを与え、さらに風の刃を纏う。纏っている間、スキルの効果値が２倍になる。=Dains physical oversized damage to one enemy in front of you, and wear a blade of the wind. While wearing it, the effect value of the skill is doubled.
-r:"^敵単体に(\d+)の物理ダメージ\n一定時間風の刃を纏う$"=Physical damage of $1 to the enemy alone\nWear a wind blade for a certain period of time
-//S1
-ウィンドスラスト+=Wind Thrust+
-目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。=Deals moderate physical damage to an enemy directly in front and lowers its physical defense by a small amount.
-r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン$"=Deals $1 physical damage to an enemy.\nLowers an enemy's physical defense by $1.The physical defense power of the enemy alone $1 down
-//S2
-
-r:"^$"=
-//ex
+r:"^敵単体に(\d+)の物理ダメージ\n一定時間風の刃を纏う$"=P.DMG of $1 to the enemy alone\nWear a wind blade for a certain period of time
+===S1
+目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。=Deals moderate P.DMG to an enemy directly in front and lowers its P.DEF by a small amount.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン$"=Deals $1 P.DMG to an enemy.\nLowers an enemy's P.DEF by $2.The P.DEF power of the enemy alone $1 down
+===S2
+===ex
 ラピッドフェンサー+=Rapid Riposte+
-バトル開始時に自分の物理攻撃力を中アップさせ、さらに自分の最大ＨＰを小アップさせる。=Moderate boost to own physical attack and small boost to max HP at start of battle.
-r:"^自分の物理攻撃力を(\d+)アップ\n自分の最大ＨＰを(\d+)アップさせる$"=Boosts own physical attack by $1.\nBoosts own max HP by $1.
-//UE
+バトル開始時に自分の物理攻撃力を中アップさせ、さらに自分の最大ＨＰを小アップさせる。=Moderate boost to own P.ATK and small boost to max HP at start of battle.
+r:"^自分の物理攻撃力を(\d+)アップ\n自分の最大ＨＰを(\d+)アップさせる$"=Boosts own P.ATK by $1.\nBoosts own max HP by $1.
+===UE
 ゲイルグローブ=Glove of Gales

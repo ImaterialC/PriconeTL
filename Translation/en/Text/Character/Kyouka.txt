@@ -29,10 +29,10 @@
 
 ===UB *6
 目の前の敵１キャラに魔法大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Deals large M.DMG to anenemy directly in front.\nWhen critical occurs\ndeals ４x damage instead ２x.
-r:"^敵単体に(\d+)の魔法ダメージ$"=Deals $1 M.DMG to an enemy.
 
+目の前の敵１キャラに魔法特大ダメージを与える。=Deals massive M.DMG to an enemy directly in front.
 ===Skill 1+
 目の前の敵１キャラに魔法特大ダメージを与える。このスキルがクリティカルした場合のダメージは、２倍ではなく４倍になる。=Deals massive M.DMG to an enemy directly in front.\nWhen critical occurs\ndeals ４x damage instead ２x.
 
 ===Skill 2
-自分の魔法攻撃力を短時間大アップさせる。=Large boost to own magic attack for brief period (9s).
+自分の魔法攻撃力を短時間大アップさせる。=Large boost to own M.ATK for brief period (9s).

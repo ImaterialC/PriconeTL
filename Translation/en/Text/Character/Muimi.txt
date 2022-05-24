@@ -1,0 +1,25 @@
+===Profileムイミ
+ム=M
+イミ=uimi
+さまよえる謎の少女=A young wanderer with a mysterious past
+===Skills
+===UB
+天楼覇断剣=Spiresbane Blade
+目の前の敵１キャラに物理特大ダメージを与える。さらにＴＰが無くなるまでの間天楼覇断剣を装備する。=Deals massive P.DMG to an enemy directly in front. Equips the Spiresbane Blade until TP is fully depleted.\nChanges her Skills' Effects until her TP is Depleted (100 TP/s) and changes her rotation into Loop Rotation (UB).\nChanges her Skills' Effects back after TP reaches 0.\n(UB Does Not Cost Any TP)
+===S1
+前方範囲内の敵すべてに物理小ダメージを与え、さらにスタンさせて小さく吹き飛ばす。=Deals small P.DMG to all enemies in range, inflicts Stun, and knocks them back slightly.
+r:"^斬撃で範囲内の敵に(\d+)の物理ダメージ\n蹴りで範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵を一定時間行動不能にする$"=Deals $1 P.DMG to enemies in range with a slash.\nDeals $2 P.DMG to enemies in range with a kick.\nRenders enemies in range immobile for a set period of time.
+===S2
+前方範囲内の敵すべての物理防御力を小ダウンさせる。=Lowers the P.DEF of all enemies in range by a small amount.
+r:"^範囲内の敵の物理防御力を(\d+)ダウン$"=Lowers P.DEF of enemies in range by $1.
+===ex
+ポテンシャルフォース=Potential Force
+===Skills+
+===UB
+===S1
+前方範囲内の敵すべてに物理中ダメージを与え、さらにスタンさせて小さく吹き飛ばす。=Deals medium P.DMG to all enemies in range, inflicts Stun, and knocks them back slightly.
+===S2
+===ex
+ポテンシャルフォース+=Potential Force+
+===UE
+絆の証=Proof of Bonds

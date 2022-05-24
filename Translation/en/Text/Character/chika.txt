@@ -1,5 +1,5 @@
-チ=C
-カ=hika
+チ=Chi
+カ=Ka
 ===Bio
 【魔法】後衛から、前衛の戦いをサポートする唱喚士。ユニオンバーストで、味方の回復と敵への攻撃を行う精霊を最前線に唱喚する。=[Magic] A Song Summoner who supports her allies from the RG. Her UB heals allies while also summoning a spirit who will attack the enemy from the front lines.
 
@@ -24,23 +24,27 @@ r:"^範囲内の味方のＨＰを(\d+)回復\n精霊を唱喚する$"=Recovers 
 【召喚】チカの背後にいないすべての味方のＨＰを中回復し、さらに最も前の味方のそばに精霊を唱喚する。=[Summon] Recovers HP of all allies in front of her by a moderate amount and summons a fairy beside the foremost ally.
 
 ===Skill 1 (UE)
-r:"^範囲内の味方の物理攻撃力を(\d+)アップ\n範囲内の味方の物理クリティカルを(\d+)アップ\n毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Boosts P.ATK of all allies within 200 range by $1 for 12s.\nBoosts P.Crit Rate of all allies within 200 range by $2 for 12s.\nDeploys a 250 radius field that recovers HP of all allies in it by $3 every second for 8s.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ\n範囲内の味方の物理クリティカルを(\d+)アップ\n毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Boosts P.ATK of all allies within range 200 by $1 for 12s.\nBoosts P.Crit Rate of all allies within range 200 by $2 for 12s.\nDeploys a 250 radius field that recovers HP of all allies in it by $3 every second for 8s.
 
 最も前の味方を中心として、範囲内の味方すべての物理攻撃力を大アップ、物理クリティカルを中アップさせ、さらに範囲内の味方すべてを小回復するフィールドを展開する。=Large boost to P.ATK, moderate boost to P.Crit Rate, and recovers HP of all allies in a radius around the foremost ally. 
 
 ===Skill 1 
-
+最も前の味方を中心として、範囲内の全味方の物理攻撃力を中アップさせる。=Small boost to P.ATK of all allies in a radius around the foremost ally.
+r:"^範囲内の味方の物理攻撃力を(\d+)アップ$"=Boosts physical attack of all allies in range by $1.
 ===Skill 2
 r:"^敵単体の物理攻撃力を(\d+)ダウン$"=Lowers an enemy’s P.ATK by $1.
 目の前の敵１キャラの物理攻撃力を中ダウンさせる。=Lowers P.ATK of an enemy directly in front by a moderate amount.
 
 ===Skill EX
 
-r:"^自分の魔法攻撃力を(\d+)アップ\n自分の魔法防御力を(\d+)アップ$"=Boosts own magic attack by $1.\nBoosts own magic defense by $2.
-バトル開始時に自分の魔法攻撃力を中アップさせ、さらに自分の魔法防御力を小アップさせる。=At the start of the battle, increase your magic attack power and increase your magic defense power.
+r:"^自分の魔法攻撃力を(\d+)アップ\n自分の魔法防御力を(\d+)アップ$"=Boosts own M.ATK by $1.\nBoosts own M.DEF by $2.
+バトル開始時に自分の魔法攻撃力を中アップさせ、さらに自分の魔法防御力を小アップさせる。=At the start of the battle, increase your M.ATK power and increase your M.DEF power.
 ===Story
 人々を守るために歌う、唱喚士の少女=A girl who sings to protect others, a summoner
 
+歌姫と迷い子の森=Diva and lost children
+空回りの仮想デート=Idle virtual date
+千歌・オンステージ=Chika onstage
 森の奥に響く歌声=Song From the Woods
 迷いを振り切りたくて=Singing with You
 好きになってくれる人へ=What Makes You happy

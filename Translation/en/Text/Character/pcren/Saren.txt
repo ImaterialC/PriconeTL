@@ -1,41 +1,33 @@
 Saren 
-//Profile
+===Profile
 サレン=Saren 
 救護院を経営する優しい庶民派お嬢様=A kind, humble young lady who runs an orphanage
 
-//Skills
-//UB
+===Skills
+===UB
 ソードオブフェニックス=Phoenix Sword
-前方範囲内の敵すべてに物理中ダメージを与える。サレンのＨＰが低いほど、ダメージがアップする。=Deals moderate physical damage to all enemies in range. The lower Saren's HP, the greater the damage dealt.
-r:"^範囲内の敵に(\d+)の物理ダメージ$"=Deals $1 physical damage to enemies in range.
-//S1
+前方範囲内の敵すべてに物理中ダメージを与える。サレンのＨＰが低いほど、ダメージがアップする。=Deals moderate P.DMG to all enemies in range. The lower Saren's HP, the greater the damage dealt.
+===S1
 ファイアスラッシュ=Fiery Slash
-前方範囲内の敵すべてに物理小ダメージを与える。=Deals small physical damage to all enemies in range.
-r:"^範囲内の敵に(\d+)の物理ダメージ$"=Deals $1 physical damage to enemies in range.
-//S2
+前方範囲内の敵すべてに物理小ダメージを与える。=Deals small P.DMG to all enemies in range.
+===S2
 エレガンスエール=Elegant Ovation
 最も近くの味方１キャラのＴＰを中回復する。=Recovers the TP of the closest party member by a moderate amount.
 r:"^味方単体のＴＰを(\d+)回復$"=Recovers an ally's TP by $1.
-//ex
+===ex
 ノーブルエレガントソウル=Aristocratic Spirit
-バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
-r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
-
-//Skills+
-//UB
+===Skills+
+===UB
 エンドオブフェニックス=End of Phoenix
-前方範囲内の敵すべてに物理大ダメージを与え、さらに味方全体の物理攻撃力と魔法攻撃力を大アップさせる。サレンのＨＰが低いほど、ダメージと攻撃力の上昇量がアップする。=Damage all of the enemies within the front range, increasing the physical attack power and magic attack power of all allies as a whole. The lower the Salen's HP, the higher the damage and the increase in attack power.
-r:"^範囲内の敵に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ$"=Physical damage of $1 to enemies in the rangeUp $1 of physical attack power of all alliesUp $1 the magic attack power of all allies
-//S1
+前方範囲内の敵すべてに物理大ダメージを与え、さらに味方全体の物理攻撃力と魔法攻撃力を大アップさせる。サレンのＨＰが低いほど、ダメージと攻撃力の上昇量がアップする。=Damage all of the enemies within the front range, increasing the P.ATK and M.ATK power of all allies as a whole. The lower the Salen's HP, the higher the damage and the increase in attack power.
+r:"^範囲内の敵に(\d+)の物理ダメージ味方全体の物理攻撃力を(\d+)アップ味方全体の魔法攻撃力を(\d+)アップ$"=P.DMG of $1 to enemies in the rangeUp $1 of P.ATK of all alliesUp $1 the M.ATK power of all allies
+===S1
 ファイアスラッシュ+=Fiery Slash+
-前方範囲内の敵すべてに物理中ダメージを与える。サレンのＨＰが低いほど、ダメージがアップする。=Deals moderate physical damage to all enemies in range. The lower Saren's HP, the greater the damage dealt.
-r:"^範囲内の敵に(\d+)の物理ダメージ$"=Deals $1 physical damage to enemies in range.
-//S2
+前方範囲内の敵すべてに物理中ダメージを与える。サレンのＨＰが低いほど、ダメージがアップする。=Deals moderate P.DMG to all enemies in range. The lower Saren's HP, the greater the damage dealt.
+===S2
 
 r:"^$"=
-//ex
+===ex
 ノーブルエレガントソウル+=Aristocratic Spirit+
-バトル開始時に自分の物理攻撃力を大アップさせる。=Large boost to own physical attack at start of battle.
-r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
-//UE
+===UE
 グロリアスフェザー=Glorious Feather

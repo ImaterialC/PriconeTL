@@ -35,11 +35,11 @@ TP消費軽減=TP Retain
 
 ===Status Popup===
 
-r:"^魔法攻撃力アップ\+(\d+)$"="Magic Attack up +$1"
-r:"^魔法攻撃力ダウン\+(\d+)$"="Magic Attack Down +$1"
-r:"^魔法防御力ダウン\+(\d+)$"="Magic Defense Down +$1"
-r:"^魔法防御力アップ\+(\d+)$"="Magic Defense Up +$1"
-r:"^魔法ダメージ\+(\d+)$"="Magic damage +$1"
+r:"^魔法攻撃力アップ\+(\d+)$"="M.ATK up +$1"
+r:"^魔法攻撃力ダウン\+(\d+)$"="M.ATK Down +$1"
+r:"^魔法防御力ダウン\+(\d+)$"="M.DEF Down +$1"
+r:"^魔法防御力アップ\+(\d+)$"="M.DEF Up +$1"
+r:"^魔法ダメージ\+(\d+)$"="M.DMG +$1"
 
 r:"^物理攻撃力アップ\+(\d+)$"="Physical Attack Power up +$1"
 r:"^物理攻撃力ダウン\+(\d+)$"="Physical Attack Power Down +$1"

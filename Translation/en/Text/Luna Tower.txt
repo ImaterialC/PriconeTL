@@ -1,7 +1,6 @@
 ル=L
 ナの塔=una Tower
 r:"^(\[[0-9A-F,]{6,13}\])階\[-\]$"=$1F[-]
-{{A}}階 EX={{A}}F EX
 階=F
 回廊探索=Corridor
 パーティ=Party

@@ -4,7 +4,7 @@
 バ=B
 リプレイ=Replay
 マイパーティ保存=Save Party
-ダメージレポート=Damage Report
+ダメージレポート=DMG Report
 r:"^(\d+)/時間$"=$1/hour
 r:"^(\d+)日前$"=$1d ago
 r:"^(\d+)時間前$"=$1h ago

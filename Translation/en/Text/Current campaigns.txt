@@ -1,31 +1,39 @@
 開催中キャンペーン=Special Campaign
 r:"^メインクエスト エリア([0-9～ ]+)$"=Main Quest Area $1
+復刻イベントクエスト=Revival Event Quest
+サイドストーリー=Side story
+サイドストーリークエスト=Side story quest
+SPダンジョン=SP dungeon
+[475F7B]サイドストーリー（HARD）の\nEXP獲得量が1.5倍にアップ[-]=[475F7B] EXP acquisition of side story (Hard) is 1.5 times up [-]
+[475F7B]サイドストーリー（NORMAL）\nのEXP獲得量が1.5倍にアップ[-]=[475F7B] EXP acquisition of side story (NORMAL) is 1.5 times [-]
+聖跡調査クエスト=Sanctum Survey Quest
+神殿調査クエスト=Temple Trek Quest
 
 ===Half Stamina===
 r:"^\[475F7B\]メインクエスト(.+|)の\n消費スタミナが半減\[-\]$"=[475F7B]Consumption Stamina halved \nfor Main Quest$1[-]
 消費スタミナ半減=Consumption Stamina Halved
 ===mana===
-r:"^\[475F7B\]メインクエスト(.+|)の\nマナドロップ量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]Mana drops × $2\nfor Main Quest$1[-]
-r:"^\[475F7B\]ダンジョンのマナドロップ量が\n([0-9.]+)倍にアップ\[-\]$"=[475F7B]Mana drops × $1\nfor Dungeons[-]
-r:"^\[475F7B\]マナクエストのマナドロップ量が\n([0-9.]+)倍にアップ\[-\]$"=[475F7B]Mana drops × $1\nfor Grotto[-]
-r:"^\[475F7B\]SPダンジョンの\nマナドロップ量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]Mana drops × $1\nfor SP Dungeon[-]
-SPダンジョン=SP dungeon
 マナドロップ量アップ=Mana Drops Up
+sr:"^\[475F7B\](.+)(（.+）|)の\n?マナドロップ量が\n?([0-9.]+)倍にアップ\[-\]$"=[475F7B]Mana drops × $3\nfor $1 $2[-]
+=====r:"^\[475F7B\]ダンジョンのマナドロップ量が\n([0-9.]+)倍にアップ\[-\]$"=[475F7B]Mana drops × $1\nfor Dungeons[-]
+=====r:"^\[475F7B\]マナクエストのマナドロップ量が\n([0-9.]+)倍にアップ\[-\]$"=[475F7B]Mana drops × $1\nfor Grotto[-]
+=====r:"^\[475F7B\]SPダンジョンの\nマナドロップ量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]Mana drops × $1\nfor SP Dungeon[-]
 
 ===exp===
 プレイヤーEXP獲得量アップ=EXP Up
-r:"^\[475F7B\]神殿調査クエストの\nEXP獲得量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]EXP gain × $1\nfor Temple Trek[-]
-r:"^\[475F7B\]聖跡調査クエストの\nEXP獲得量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]EXP gain × $1\nfor Sanctum Survey[-]
-r:"^\[475F7B\]メインクエスト(.+|)の\nEXP獲得量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]EXP gain × $2\nfor Main Quest$1[-]
-r:"^\[475F7B\]イベントクエスト(.+|)の\nEXP獲得量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]EXP gain × $2\nfor Main Quest$1[-]
+=====r:"^\[475F7B\]神殿調査クエストの\nEXP獲得量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]EXP gain × $1\nfor Temple Trek[-]
+=====r:"^\[475F7B\]聖跡調査クエストの\nEXP獲得量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]EXP gain × $1\nfor Sanctum Survey[-]
+=====r:"^\[475F7B\]メインクエスト(.+|)の\nEXP獲得量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]EXP gain × $2\nfor Main Quest$1[-]
+=====r:"^\[475F7B\]復刻イベントクエスト(.+|)\n?の\n?EXP獲得量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]EXP gain × $2\nfor Revival Event Quest$1[-]
+sr:"^\[475F7B\](.+)(（.+）|)\n?の\n?EXP獲得量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]EXP gain × $3\nfor $1 $2[-]
 
 ===reward===
 報酬ドロップ量アップ=Reward Drops Up
-r:"^\[475F7B\]メインクエスト(.+|)の\n報酬ドロップ量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]Reward drops × $2\nMain Quest$1[-]
-r:"^\[475F7B\]神殿調査クエストの\n報酬ドロップ量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]Reward drops × $1\nTemple Trek[-]
-r:"^\[475F7B\]聖跡調査クエストの\n報酬ドロップ量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]Reward drops × $1\nSanctum Survey[-]
-r:"^\[475F7B\]ダンジョンの報酬ドロップ量が\n([0-9.]+)倍にアップ\[-\]$"=[475F7B]Reward drops × $1\nfor Dungeon[-]
-r:"^\[475F7B\]経験値クエストの報酬ドロップ量が\n([0-9.]+)倍にアップ\[-\]$"=[475F7B]Reward drops × $1\nfor Grotto[-]
+sr:"^\[475F7B\](.+)(（.+）|)\n?の\n?報酬ドロップ量が\n?([0-9.]+)倍にアップ\[-\]$"=[475F7B]Reward drops × $2\nMain Quest$1[-]
+=====r:"^\[475F7B\]神殿調査クエストの\n報酬ドロップ量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]Reward drops × $1\nTemple Trek[-]
+=====r:"^\[475F7B\]聖跡調査クエストの\n報酬ドロップ量が([0-9.]+)倍にアップ\[-\]$"=[475F7B]Reward drops × $1\nSanctum Survey[-]
+=====r:"^\[475F7B\]ダンジョンの報酬ドロップ量が\n([0-9.]+)倍にアップ\[-\]$"=[475F7B]Reward drops × $1\nfor Dungeon[-]
+=====r:"^\[475F7B\]経験値クエストの報酬ドロップ量が\n([0-9.]+)倍にアップ\[-\]$"=[475F7B]Reward drops × $1\nfor Grotto[-]
 デイリージュエルパック効果=Daily Jewel Pack Effect
 
 r:"^あと(\d+)日$"=$1d left

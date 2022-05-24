@@ -1,41 +1,34 @@
 Tamaki 
-//Profile
+===Profile
 タマキ=Tamaki 
 弱きを助け強きをくじく猫娘=A catgirl who fights against the strong on behalf of the weak
 
-//Skills
-//UB
+===Skills
+===UB
 ねこねこファイナルブレイク=Kitty Cat-aclysm
-魔法攻撃力が最も高い敵１キャラに物理特大ダメージを与える。=Deals massive physical damage to an enemy with the highest magical attack.
-r:"^敵単体に(\d+)の物理ダメージ$"=Deals $1 physical damage to an enemy.
-//S1
+魔法攻撃力が最も高い敵１キャラに物理特大ダメージを与える。=Deals massive P.DMG to an enemy with the highest M.ATK.
+===S1
 ねこねこスローイング=Feline Fling
-魔法攻撃力が最も高い敵１キャラに物理中ダメージを与え、さらに魔法攻撃力を小ダウンさせる。=Deals moderate physical damage to the enemy with the highest magical attack and lowers its magical attack by a small amount.
-r:"^敵単体に(\d+)の物理ダメージ\n敵単体の魔法攻撃力を(\d+)ダウン$"=Deals $1 physical damage to an enemy.\nLowers an enemy's magic attack by $1.
-//S2
+魔法攻撃力が最も高い敵１キャラに物理中ダメージを与え、さらに魔法攻撃力を小ダウンさせる。=Deals moderate P.DMG to the enemy with the highest M.ATK and lowers its M.ATK by a small amount.
+r:"^敵単体に(\d+)の物理ダメージ\n敵単体の魔法攻撃力を(\d+)ダウン$"=Deals $1 P.DMG to an enemy.\nLowers an enemy's M.ATK by $1.
+===S2
 猫の気まぐれ=Finicky Feline
-魔法攻撃力が最も高い敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復する。=Reduces the TP of the enemy with the highest magical attack power by a small amount while also recovering own TP by a small amount.
-r:"^敵単体のＴＰを(\d+)失わせる\n自分のＴＰを(\d+)回復$"=Reduces an enemy's TP by $1.\nRecovers own TP by $1.
-//ex
+魔法攻撃力が最も高い敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復する。=Reduces the TP of the enemy with the highest M.ATK power by a small amount while also recovering own TP by a small amount.
+===ex
 マーベラスキャッツ=One Myarvelous Cat
-バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
-r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
-
-//Skills+
-//UB
+===Skills+
+===UB
 ねこねこファントムラッシュ=Catoneko Phantom Murash
-魔法攻撃力が最も高い敵１キャラに物理特大ダメージを与える。対象が魔法攻撃をする敵だった場合、ダメージが増加し、さらに物理防御力を特大ダウンさせる。=Gain physical oversized damage to one character with the highest magic attack power. If the subject is an enemy who makes a magic attack, the damage will increase and the physical defense will be oversized.
-r:"^対象が物理攻撃をする敵だった場合(\d+)の物理ダメージ\n対象が魔法攻撃をする敵だった場合(\d+)の物理ダメージ\n対象が魔法攻撃をする敵だった場合物理防御力を(\d+)ダウン$"=If the subject is an enemy who attacks physical attacks, the physical damage of $1\nIf the subject is an enemy who makes a magic attack, the physical damage of $1\nIf the subject is an enemy who makes a magic attack, the physical defense is $1 down
-//S1
+魔法攻撃力が最も高い敵１キャラに物理特大ダメージを与える。対象が魔法攻撃をする敵だった場合、ダメージが増加し、さらに物理防御力を特大ダウンさせる。=Gain physical oversized damage to one character with the highest M.ATK power. If the subject is an enemy who makes a M.ATK, the damage will increase and the P.DEF will be oversized.
+r:"^対象が物理攻撃をする敵だった場合(\d+)の物理ダメージ\n対象が魔法攻撃をする敵だった場合(\d+)の物理ダメージ\n対象が魔法攻撃をする敵だった場合物理防御力を(\d+)ダウン$"=If the subject is an enemy who attacks P.ATKs, the P.DMG of $1\nIf the subject is an enemy who makes a M.ATK, the P.DMG of $1\nIf the subject is an enemy who makes a M.ATK, the P.DEF is $1 down
+===S1
 ねこねこスローイング+=Feline Fling+
-魔法攻撃力が最も高い敵１キャラに物理中ダメージを与え、さらに魔法攻撃力を中ダウンさせスタンさせる。=Deals moderate physical damage to the enemy with the highest magical attack, lowers its magical attack by a moderate amount, and inflicts Stun.
-r:"^敵単体に(\d+)の物理ダメージ\n敵単体の魔法攻撃力を(\d+)ダウン\n敵単体を一定時間行動不能にする$"=Deals $1 physical damage to an enemy.\nLowers an enemy's magic attack by $1.\nRenders an enemy immobile for a set period of time.
-//S2
+魔法攻撃力が最も高い敵１キャラに物理中ダメージを与え、さらに魔法攻撃力を中ダウンさせスタンさせる。=Deals moderate P.DMG to the enemy with the highest M.ATK, lowers its M.ATK by a moderate amount, and inflicts Stun.
+r:"^敵単体に(\d+)の物理ダメージ\n敵単体の魔法攻撃力を(\d+)ダウン\n敵単体を一定時間行動不能にする$"=Deals $1 P.DMG to an enemy.\nLowers an enemy's M.ATK by $1.\nRenders an enemy immobile for a set period of time.
+===S2
 
 r:"^$"=
-//ex
+===ex
 マーベラスキャッツ+=One Myarvelous Cat+
-バトル開始時に自分の物理攻撃力を大アップさせる。=Large boost to own physical attack at start of battle.
-r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
-//UE
+===UE
 ファンタズムタイヤキ=Phantom Taiyaki

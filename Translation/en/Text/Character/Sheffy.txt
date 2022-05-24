@@ -1,0 +1,37 @@
+===Profile
+ェフィ=heffy
+記憶喪失のドラゴン娘=Dragon girl with amnesia
+読書、ストレッチ=Reading, Stretching
+===Intro
+【物理】中衛で氷雪を操り敵を凍滅する、氷竜の少女。\nユニオンバーストで獲得する【氷竜の印】を消費して、\nスキルの効果を増幅し、清廉な剣技で敵を切り伏せる。=[Physics] A ice dragon girl, who controls ice and freezes the enemy. She consumes the Kennzeichen earned with the UB, amplifies her skills, and cuts the enemy with his innocence.
+
+===Skill Name
+舞斬・月下氷竜=Schneetanz
+
+アクセルロンド=Accel Rondo
+アクセルロンド=Accel Rondo+
+===Skills
+===UB
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分に【氷竜の印】を５つ追加する。このバトル中にユニオンバーストを使用する度に、追加する印の数が１つ増える。【氷竜の印】は最大10まで追加される。=Deals small physical damage to the nearest enemy and applies 5 [Kennzeichen] stacks to herself. The amount of [Kennzeichen] stacks applied increases by 1. [Kennzeichen] stacks up to 10.
+sr: 敵単体に(\d+)の物理ダメージ=Deals $1 P.DMG to an enemy.
+スキル効果=Skill effect
+===S1
+目の前の敵１キャラに物理小ダメー\nジを与え、さらに物理防御力を小ダ\nウンさせる。このスキルのダメージ\nは、【氷竜の印】の数に応じて増加\nする。【氷竜の印】を１つ消費す\nる。=Deals small physical damage to the nearest enemy and lowers the target's P.DEF. This Skill's damage increases according to the number of Kennzeichen stacks. Uses up 1 Kennzeichen.								
+===S2
+スパイラルウェーブ=Spiral Wave
+目の前の敵１キャラに物理小ダメージを与え、さらに物理防御力を中ダウンさせる。=Deals small M.DMG to an enemy directly in front and lowers their M.DEF by a moderate amount.
+===ex
+===Skills+
+===UB
+
+===S1
+スキル効果=Skill effect
+目の前の敵１キャラに物理小ダメー\nジを与え、物理防御力を中ダウンさ\nせ、さらに自分の物理攻撃力を小\nアップさせる。このスキルのダメー\nジと物理攻撃力の上昇量は、【氷竜\nの印】の数に応じて増加する。【氷\n竜の印】を１つ消費する。=Deals large physical damage to the nearest enemy, lowers the target's P.DEF and boosts her P.ATK. This Skill's damage and P.ATK buff potency increase according to the number of Kennzeichen stacks. Uses up 1 Kennzeichen.
+r:"^敵単体に(\d+)の物理ダメージ敵単体の物理防御力を(\d+)ダウン自分の物理攻撃力を(\d+)アップ$"=Deals $1 P.DMG to an enemy.\nLowers the target's P.DEF by $2 for 12s.\nBoost own P.ATK by $3.
+
+===S2
+
+r:"^$"=
+===ex
+===UE
+氷竜剣=Ice Dragon Sword

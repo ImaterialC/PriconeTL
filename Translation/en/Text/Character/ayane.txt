@@ -1,4 +1,5 @@
 ヤネ=Ayane
+ぷうきちといつも一緒！=Together forever with Pukichi!
 偉大なクマ王ぷうきち=Great Bear King Pukichi
 ===Bio
 【物理】前衛で、戦場をかき乱す、くまっ子。ユニオンバーストで、相手を思い切り吹き飛ばすと同時にスタンと大ダメージを与えることで敵陣形を大きく乱す。=[Physical] The Ayane/Pukichi duo stuns and smashes enemies from the frontline. Her Union Burst deals massive damage while sending enemies flying.
@@ -16,8 +17,6 @@
 前方範囲内の敵すべてに物理特大ダメージを与え、さらに大きく吹き飛ばしてスタンさせる。=Deals Masive P.DMG to all the enemies within the front range, inflicts Stun, and knocks it back a large distance.
 
 ===UB 
-r:"^敵単体に(\d+)の物理ダメージ\n敵単体を一定時間行動不能にする$"=Deals $1 P.DMG to an enemy.\nRenders an enemy immobile for 2.5-3s.\nKnocks back an enemy 2160 units.
-
 目の前の敵１キャラに物理大ダメージを与え、さらに大きく吹き飛ばしてスタンさせる。=Deals large P.DMG to an enemy directly in front, inflicts Stun, and knocks it back a large distance.
 
 ===Skill 1 (UE)
@@ -31,15 +30,14 @@ r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵を一定時間
 前方範囲内の敵すべてに物理小ダメージを与え、さらにスタンさせる。=Deals small P.DMG and inflicts Stun to all enemies in range 
 
 ===Skill 2
-r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵の物理防御力を(\d+)ダウン$"=Deals $1 P.DMG to all enemies within 325 range.\nLowers P.DEF of all enemies in range by $2 for 12s.
+r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵の物理防御力を(\d+)ダウン$"=Deals $1 P.DMG to enemies in range.\nLowers P.DEF of all enemies in range by $2.
 自分を中心とした範囲内の敵すべてに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。=Deals small P.DMG to enemies in range and lowers their P.DEF by a small amount.
 
 ===EX
 r:"^自分の物理攻撃力を(\d+)アップ\n自分の魔法防御力を(\d+)アップ$"=Boosts own P.ATK by $1.\nBoosts own M.DEF by $2.
-バトル開始時に自分の物理攻撃力を中アップさせ、さらに自分の魔法防御力を小アップさせる。=Moderate boost to own physical attack at start of battle.\nSmall boost to own magic defense at start of battle.
+バトル開始時に自分の物理攻撃力を中アップさせ、さらに自分の魔法防御力を小アップさせる。=Moderate boost to own physical attack at start of battle.\nSmall boost to own M.DEF at start of battle.
 
 ===Story
-ぷうきちといつも一緒！=Always with Poukichi!
 
 アヤネとぷうきち=Ayane and Puukichi
 家族のためなら怖くない=I'm Not Scared If It’s For Family
@@ -49,3 +47,7 @@ r:"^自分の物理攻撃力を(\d+)アップ\n自分の魔法防御力を(\d+)�
 ずっとほしかったもの=What I Always Wanted
 『つくりもの』の家族=Fake Family
 ぷうきち一家大集合=Puukichi’s Family Reunion
+ぷうきちミッシング=Poukichi Missing
+『ほんとう』の家族="Real" family
+あふれる想いは突然に=The overflowing feeling suddenly
+私だけの本当の気持ち=My true feelings

@@ -1,41 +1,34 @@
 Yori 
-//Profile
+===Profile
 ヨリ=Yori 
 人見知りであまのじゃくな女の子=A timid girl who's scared of strangers
 
-//Skills
-//UB
+===Skills
+===UB
 ライトニングジャベリン=Lightning Javelin
-前方範囲内の敵すべてに魔法中ダメージを与える。=Deals moderate magical damage to all enemies in range.
-r:"^範囲内の敵に(\d+)の魔法ダメージ$"=Deals $1 magic damage to enemies in range.
-//S1
+前方範囲内の敵すべてに魔法中ダメージを与える。=Deals moderate M.DMG to all enemies in range.
+===S1
 オーバーチャージ=Overcharge
-ＨＰを消費して、自分の魔法攻撃力を大アップさせる。=Large boost to own magical attack at the cost of HP.
-r:"^自分のＨＰを(\d+)消費\n自分の魔法攻撃力を(\d+)アップ$"=Reduces own HP by $1.\nBoosts own magic attack by $1.
-//S2
+ＨＰを消費して、自分の魔法攻撃力を大アップさせる。=Large boost to own M.ATK at the cost of HP.
+r:"^自分のＨＰを(\d+)消費\n自分の魔法攻撃力を(\d+)アップ$"=Reduces own HP by $1.\nBoosts own M.ATK by $1.
+===S2
 シャドウブラスト=Shadow Blast
-前方範囲内の敵すべてに魔法小ダメージを与える。=Deals moderate magical damage to all enemies in range.
-r:"^範囲内の敵に(\d+)の魔法ダメージ$"=Deals $1 magic damage to enemies in range.
-//ex
+前方範囲内の敵すべてに魔法小ダメージを与える。=Deals moderate M.DMG to all enemies in range.
+===ex
 ライトニングブースト=Lightning Surge
-バトル開始時に自分の魔法攻撃力を中アップさせる。=Moderate boost to own magical attack at start of battle.
-r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
 
-//Skills+
-//UB
+===Skills+
+===UB
 ジャッジメントジャベリン=Judgment Javelin
-前方範囲内の敵すべてに魔法大ダメージを与える。ヨリのＨＰが低いほど、ダメージがアップする。=Great magic damage to all enemies within the front range. The lower the HP of Yori, the more damage it will increase.
-r:"^範囲内の敵に(\d+)の魔法ダメージ$"=Magic damage of $1 to enemies in the range
-//S1
+前方範囲内の敵すべてに魔法大ダメージを与える。ヨリのＨＰが低いほど、ダメージがアップする。=Great M.DMG to all enemies within the front range. The lower the HP of Yori, the more damage it will increase.
+===S1
 オーバーチャージ+=Overcharge+
-ＨＰを消費して、自分の魔法攻撃力を特大アップさせ、さらにＴＰを中回復させる。=Massive boost to own magical attack at the cost of HP. Recovers own TP by a moderate amount.
-r:"^自分のＨＰを(\d+)消費\n自分の魔法攻撃力を(\d+)アップ\n自分のＴＰを(\d+)回復$"=Reduces own HP by $1.\nBoosts own magic attack by $1.\nRecovers own TP by $1.
-//S2
+ＨＰを消費して、自分の魔法攻撃力を特大アップさせ、さらにＴＰを中回復させる。=Massive boost to own M.ATK at the cost of HP. Recovers own TP by a moderate amount.
+r:"^自分のＨＰを(\d+)消費\n自分の魔法攻撃力を(\d+)アップ\n自分のＴＰを(\d+)回復$"=Reduces own HP by $1.\nBoosts own M.ATK by $1.\nRecovers own TP by $1.
+===S2
 
 r:"^$"=
-//ex
+===ex
 ライトニングブースト+=Lightning Surge+
-バトル開始時に自分の魔法攻撃力を大アップさせる。=Large boost to own magical attack at start of battle.
-r:"^自分の魔法攻撃力を(\d+)アップ$"=Boosts own magic attack by $1.
-//UE
+===UE
 デモンズジャベリン=Demon's Javelin

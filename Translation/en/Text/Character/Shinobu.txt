@@ -1,0 +1,26 @@
+===Profileシノブ
+ノブ=hinobu 
+占い=Fortune-telling
+占いが得意な霊能少女=A medium who's skilled at fortune-telling
+===Skills
+===UB
+ファントムテラー=Phantom Terror
+前方範囲内の敵すべてに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。=Deals moderate P.DMG to all enemies in range and lowers their P.DEF by a small amount.
+===S1
+【召喚】自分の前に、目の前の敵１キャラを攻撃するドクロを召喚する。=[Summon] Summons a skull in front of oneself, which attacks an enemy directly in front.
+ドクロ親父を召喚する=Summons Shinobu's Skull Father.
+===S2
+敵全体の物理防御力を小ダウンさせる。=Lowers P.DEF of all enemies by a small amount.
+r:"^敵全体の物理防御力を(\d+)ダウン$"=Lowers all enemies' P.DEF by $1.
+===ex
+宵闇の鎮魂歌=Twilight Elegy
+===Skills+
+===UB
+===S1
+【召喚】自分の前に、目の前の敵１キャラを攻撃するドクロを召喚し、自分を中心とした範囲内の味方の物理攻撃力と物理クリティカルを中アップする。=[Summon] Summons a skull in front of oneself, which attacks an enemy directly in front. Moderate boost to P.ATK and P.Crit Rate rate of all allies in a radius around the frontmost ally.
+r:"^ドクロ親父を召喚する\n範囲内の味方の物理攻撃力を(\d+)アップ\n範囲内の味方の物理クリティカルを(\d+)アップ$"=Summons Shinobu's Skull Father.\nBoosts P.ATK of all allies in range by $1.\nBoosts P.Crit Rate rate of all allies in range by $2.
+===S2
+===ex
+宵闇の鎮魂歌+=Twilight Elegy+
+===UE
+グリムソウルローブ=Grim Soul Robe
