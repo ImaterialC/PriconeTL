@@ -8,7 +8,7 @@ Lv強化=Level Up
 おまかせ強化=Optimize
 まとめて装備=Equip All
 装備する=Equip
-入手方法=How to Obtain
+入手方法=How to\nObtain
 解放OK！=Release OK!
 未開放ユニット=Unreleased unit
 限定キャラのため解放できません。=Limited character cannot be released.
@@ -16,7 +16,7 @@ Lv強化=Level Up
 昇順=ASC
 未解放キャラ=Locked Characters
 メモリーピースが不足しています。=Insufficient Memory Shards.
-メモリーピースと{{A}}が不足しています。=Insufficient Memory Shards and {{A}}.
+メモリーピースとマナが不足しています。=Insufficient Memory Shards and Manas.
 ャラ強化=Enhance Characters
 強化する=Refine
 

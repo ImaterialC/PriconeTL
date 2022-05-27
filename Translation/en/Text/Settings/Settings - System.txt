@@ -37,7 +37,7 @@
 マイパーティで編成できないキャラがいた場合、通知を表示するか設定します。=You can choose to display a notification if party includes characters that cannot be used.
 
 ランクアップ時の確認ダイアログ表示=Rank Up Confirmation
-消費する装備や{{A}}がない場合、ランクアップ実行の確認ダイアログを表示するか設定します。=Sets whether to display a confirmation dialog for ranking up
+消費する装備やマナがない場合、ランクアップ実行の確認ダイアログを表示するか設定します。=Sets whether to display a confirmation dialog for ranking up
 
 まとめてランクアップ時の確認ダイアログ表示=Rank Up Confirmation for more than 1 rank
 キャラクターのランクアップをまとめて行うとき、ランクアップ実行の確認ダイアログを表示するか設定します。=Sets whether or not to display a confirmation dialog when ranking multiple ranks
@@ -74,7 +74,7 @@ Lvアップ可能な効果つき家具がある場合、通知を表示するか
 クランバトルでサポートキャラの★変更を行った後、確認ダイアログを表示するか設定します。=Sets whether or not to display a confirmation prompt\nafter changing the star level for CB support character.
 
 アイテム所持上限時のダイアログ表示=Confirmation Prompt when reaching item limit
-所持上限を超えた獲得アイテムおよび{{A}}が、\nプレゼントボックスに送られたことの確認ダイアログを表示するか設定します。=Set whether or not to display a dialog box to confirm\nitems that exceeds the limit have been sent to the gift box.
+所持上限を超えた獲得アイテムおよびマナが、\nプレゼントボックスに送られたことの確認ダイアログを表示するか設定します。=Set whether or not to display a dialog box to confirm\nitems that exceeds the limit have been sent to the gift box.
 
 クランバトルモンスター討伐演出設定の確認ダイアログ=Confirmation Prompt for Clan Battle Monster Defeat
 クランバトルを開始する前に、モンスター討伐演出設定を確認するダイアログを開きます。=A prompt that allows you to confirm monster defeat settings\nbefore starting a clan battle.
@@ -110,19 +110,3 @@ Lvアップ可能な効果つき家具がある場合、通知を表示するか
 ランクアップ装備作成で原鉱を消費する際の確認ダイアログ=Consuming Ore confirmation dialogue
 ムービー中にBGMが使用されている場面では「BGM」「ムービー」両方を調節することでミュートができます。=In the scene where BGM is used in the movie, you can mute by adjusting both "BGM" and "Movie".
 
-パーティ呼び出し時の★変更のチェックボックス=Confirmation of ★ change when selecting a party
-
-パーティ呼び出し時に★の設定が異なるキャラがいる場合に表示される確認ダイアログのチェックボックス\n「選択したパーティの★に変更する」の初期値を設定します。\n※パーティ呼び出し時の★変更確認の設定が「表示しない」の場合もこの設定で呼び出します。=Check box for Confirmation dialog when about to use character with a different ★ at Preset Party.\nSet the initial value of "Change to ★ of the selected party".\n※ Even if the ★ change confirmation setting when Preset Party is "not displayed", it will be called with this setting.
-
-===Notification...not display at DMM===
-お気に入りキャラ設定=Favorites Character Settings
-プロフィールのお気に入りキャラから通知が届くように設定できます。=You can when receive notifications from your profile's favorite characters.
-{{A}}全回復時={{A}} recovery
-{{A}}が全回復したときに通知します。=Notifies when {{A}} Full.
-ギルドハウス　{{A}}=Guild House {{A}}
-ギルドハウスで受け取れる{{A}}がいっぱいになったときに通知します。=We will notify you when {{A}} you can receive in the guild house is full.
-ギルドハウス　まとめて通知=Guild house summarized notification
-ギルドハウスで受け取れる全てのアイテムがいっぱいになったときに通知します。\n※個別のアイテムの通知を設定すると、この設定はOFFになります。=We will notify you when all items you can receive in the guild house are full.\n※This setting is OFF when you set notification of individual items.
-深夜帯は受け取らない=Late night band does not receive
-{{C}}:{{A}}～早朝{{D}}:{{B}}まで、全ての通知を受け取らないようにします。={{C}}: {{A}} ~ Early morning {{D}}: Do not receive all notifications to {{B}}.
-端末の設定で通知をOFFにしている場合、通知は受け取れませんのでご注意ください。=Please note that notifications can not be received if the notification is turned off with the terminal settings.

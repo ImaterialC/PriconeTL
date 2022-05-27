@@ -49,8 +49,6 @@ r:"^(\[[0-9A-F,]{6,13}\])RANK(\d+)で解放！\[-\]$"=$1Unlock at RANK $2!
 あらすじ=Summary
 [FF7C4E,D62146]このストーリーをスキップしてもよろしいですか？[-]=[FF7C4E,D62146]Skip this story?[-]
 
-r:"^ジュエル×(\d+)を\n獲得しました$"=You have earned Jewel × $1!
-
 レベルアップ=Level Up!
 スタミナが回復しました！=Stamina has been replenished!
 スタミナ最大値=Max Stamina

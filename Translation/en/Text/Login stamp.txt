@@ -1,4 +1,4 @@
 おかえりなさいませ、\n主さま=Welcome back,\nMy Lord
-明日はこちらをご用意して\nお待ちしてますね=I'm waiting for\nyou tomorrow
+明日はこちらをご用意して\nお待ちしてますね=I will have this ready\nfor My lord tomorrow.
 
-sr:"^(.+)×(\d+)を\n獲得しました$"=Receive\n$1 × $2
+sr:"^(.+)×(\d+)を\n獲得しました$"=Receive\n$1 × $2.

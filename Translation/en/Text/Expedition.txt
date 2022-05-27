@@ -30,7 +30,6 @@ r:"^本日の回復可能回数 (\d+)/(\d+)回$"=Recharges left today: $1/$2
 
 本日の回復可能回数上限に達しているため回復できません。=You have already reached the limit for stamina recharges today.
 
-
 ===npc dialogue===
 ===hearts===
 ここで手に入れたアイテムで\n専用装備を作成できるみたいね\nアイテムが集まったら\nさっそく作ってみましょ！=Looks like the items found here are useful for crafting Unique Equipment. Once you've got enough let's try it out ourselves!

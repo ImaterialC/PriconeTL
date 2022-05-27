@@ -39,18 +39,16 @@ r:"^([2-9])回限定$"="Limited!\n$1 times only"
 特定商取引法に基づく表示=Commercial Transactions Law
 資金決済法に基づく表示=Fund Settlement Law
 デイリージュエルパックについて=Daily Jewel Packs
-{{B}}日間スタミナ応援パック={{B}} Days Stamina Pack
+7日間スタミナ応援パック=7 Days Stamina Pack
+30日間スタミナ応援パック=30 Days Stamina Pack
 購入Lv制限あり=Purchase Lv Limit
 
-{{B}}日間スタミナ応援パック購入=Buy {{B}} Days Stamina Pack
-探索挑戦回数+{{C}}回の期間が追加となります。\n{{B}}日間{{A}}応援パックを購入しますか？=Would you like to purchase\nthe {{B}} Day Stamina Pack?
+7日間スタミナ応援パック購入=Buy 7 Days Stamina Pack
+探索挑戦回数+7回の期間が追加となります。\n7日間スタミナ応援パックを購入しますか？=Would you like to purchase\nthe 7 Day Stamina Pack?
 残り有効期間=Days Remaining
 
-{{A}}{{B}}日[-]={{A}}{{B}} day[-]
-{{B}}{{A}}{{C}}日[-][-]={{B}}{{A}}{{C}} days[-][-].
 
-{{B}}{{D}}年{{A}}{{C}}日まで=Until {{C}} {{A}} {{B}}{{D}}
-
+sr:"^(\d+)年(\d+月)(\d+)日まで$"=Until $2 $3, $1
 r:"^ジュエル (\d+)個$"=$1 Jewels
 
 毎月更新 ジュエル 7500個=7,500 jewels (Monthly deal)
@@ -71,25 +69,24 @@ r:"^あと([\d])時間有効$"=$1 Hours Left
 ===Age registration
 入力する=input
 年齢確認=Age Confirmation
-{{A}}歳未満=under {{A}}y.
-{{A}}か月=per month
-{{B}}歳～{{A}}歳={{B}}-{{A}}y.o.
-{{A}}歳以上={{A}}y. or older
+16歳未満=under 16y.
+1か月=per month
+16歳～19歳=16-19y.o.
+20歳以上={{A}}y. or older
 制限なし=No limit
-{{B}},{{A}}ptまで=Up to {{B}},{{A}}PT
+5,000ptまで=Up to 5,000PT
+10,000ptまで=Up to 10,000PT
 生年月は後から変更することはできません。=You cannot change your date of birth later.
-年齢は誕生月の翌月{{A}}日に{{A}}歳加算されます。\n未成年の方は購入に法定代理人（両親等）の同意が必要です。=One year will be added to the age on the first day\nof the month following the month of birth.\nMinors need the consent of a legal representative to purchase.
-（記入例）{{C}}{{A}}{{B}}=(Filling example) {{C}}{{A}}{{B}}
+年齢は誕生月の翌月1日に1歳加算されます。\n未成年の方は購入に法定代理人（両親等）の同意が必要です。=One year will be added to the age on the first day\nof the month following the month of birth.\nMinors need the consent of a legal representative to purchase.
+r:"^（記入例）(\d+)$"=(Filling example) $1
 
-あなたは{{A}}歳以上です。\n{{B}}か月の購入上限はありません。=You are over {{A}}.\nThere is no monthly purchase limit.
-{{C}}{{B}}年{{A}}={{A}} {{C}}{{B}}
-あなたは{{B}}歳未満です。\n{{D}}か月の購入上限は{{C}},{{A}}ptまでです。=You are under {{B}}.\nmonth purchase limit is up to {{C}},{{A}}PT.
-あなたは{{C}}歳～{{B}}歳です。\n{{E}}か月の購入上限は{{D}},{{A}}ptまでです。=You are {{C}}-{{B}} years old.\nmonth purchase limit is up to {{D}},{{A}}PT.
+あなたは20歳以上です。\n1か月の購入上限はありません。=You are over 20.\nThere is no monthly purchase limit.
+sr:"^(\d{4})年(\d+月)$"=$2 $1
+あなたは16歳未満です。\n1か月の購入上限は5,000ptまでです。=You are under 16.\nmonth purchase limit is up to 5,000PT.
+あなたは16歳～19歳です。\n1か月の購入上限は10,000ptまでです。=You are 16-19 years old.\nmonth purchase limit is up to 10,000PT.
 
 よろしければ、左のチェックボックスをONにして\nOKボタンをタップしてください。=Turn on the left check box and tap the OK button to confirm.
 あなたの生年月を以下で登録します。=Register your date of birth below.
-
-あなたは{{B}}歳未満です。\n{{D}}か月の購入上限は{{C}},{{A}}ptまでです。=You are under {{B}}.{{D}} or month purchase limit is up to {{C}},{{A}}PT.
 
 あなたの生年月を登録しました。=your birth date has been Registered.
 登録完了=Completion of Registration

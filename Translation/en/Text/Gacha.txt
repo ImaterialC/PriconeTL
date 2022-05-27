@@ -83,9 +83,9 @@ sr:"^(\[[0-9a-fA-F,]{6,13}\])★3キャラ出現率2倍！限定「([べ-・ー�
 r:"^ジュエルを消費してガチャを (\d+) 回引きます。\nよろしいですか？$"=Spend Jewels for $1 pull?
 
 ===prize gacha===
-[FFBB00,CE4F00]限定キャラ復刻！出現率が期間中UP！\n『10回引く』で5等以上1個確定！[-]=[FFBB00,CE4F00]Limited Character Replay! Appearance rate will increase during the period! "Draw 10回引く" will guarantee 1 time 5th prize or higher[-]
+[FFBB00,CE4F00]限定キャラ復刻！出現率が期間中UP！\n『10回引く』で5等以上1個確定！[-]=[FFBB00,CE4F00]Limited Character Replay! Boosted rates during the period!\n"10Draw" will guarantee 1 time 5th prize or higher[-]
 
-sr:"^\[FFBB00,CE4F00\]「([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)」(「|)([べ-・ー＆]{2,11}|)(\（.{3,10}\）)?(\s|)(」|)の\n出現率が期間中UP！『10回引く』で5等以上1個確定！\[-\]$"="[FFBB00,CE4F00]Boosted rates for 「$1$2」$4$5$6$7$8 !\n"Draw 10回引く" will guarantee 1 time 5th prize or higher[-]"
+sr:"^\[FFBB00,CE4F00\]「([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)」(「|)([べ-・ー＆]{2,11}|)(\（.{3,10}\）)?(\s|)(」|)の\n出現率が期間中UP！『10回引く』で5等以上1個確定！\[-\]$"="[FFBB00,CE4F00]Boosted rates for 「$1$2」$4$5$6$7$8 !\n"10Draw" will guarantee 1 time 5th prize or higher[-]"
 
 選択する=Select
 プライズ選択=Prize Selection

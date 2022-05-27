@@ -1,0 +1,35 @@
+CharaCustom/CustomControl/CanvasDraw=ChangeFontSizeByPercentage(0.5)
+ナナカ=Nanaka
+
+===Bio
+
+【魔法】後衛から多彩な魔法を放つ、オタク魔法少女。=[Magic]A nerd magical girl who unleashes a variety of spells from the rearguard.
+体力が一番多い相手を狙うユニオンバーストやスキルは、=Her UB and skills feature high-powered magical
+敵のＨＰ状況により攻撃対象が変わる高威力の魔法攻撃。attacks that strategically target the enemy with the greatest remaining HP.
+
+
+===UE
+香木の杖=Fragrant Wood Wand
+
+===UB Non-6*
+残りＨＰが最も高い敵１キャラに魔法特大ダメージを与える。=Deals massive magic damage to the enemy with the highest current HP.
+
+===Rank 2 Skill
+目の前の敵１キャラを中心とした範囲内の敵すべての魔法防御力を小ダウンさせる。=Lowers magic defense of enemies within the radius of the target by a small amount.
+範囲内の敵の魔法防御力を1ダウン=Reduce magical defense of all enemies within 200 range from the nearest enemy.
+
+===Rankt 2 Skill+
+スターダストマジック+=Stardust Magic+
+目の前の敵１キャラを中心とした範囲内の敵すべての魔法防御力を中ダウンさせる。=Lowers magic defense of enemies within the radius of the target by a moderate amount.
+
+===Rank 4 Skill
+残りＨＰが最も高い敵１キャラに魔法中ダメージを与え、さらにスタンさせる。=Deals moderate magic damage to the enemy with the highest current HP. Inflict stun to the target for 1.5 seconds.
+
+===EX Skill
+バトル開始時に自分の魔法攻撃力を中アップさせる。=Small boost to own magic attack at the start of the battle.
+
+===EX Skill+
+
+
+
+

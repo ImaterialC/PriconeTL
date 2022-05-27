@@ -6,6 +6,7 @@
 開演直前=Coming soon
 r:"^開催期間 : ([0-9/]+)～([0-9/]+)$"=Event: $1 to $2
 r:"^([0-9/ :]+) ～ ([0-9/ :]+)まで$"=$1 to $2
+r:"^([0-9/ :]+)まで=until $1
 r:"^(\d+)日 (\d+)時間$"=$1d $2h
 r:"^(\d+)体撃破$"=$1 × Defeated
 r:"^スキップチケットとボスチケットを消費して\n(\d+)体ボスを撃破します。よろしいですか？$"=Defeat $1 bosses by consuming\n skip tickets and boss tickets.\nIs this OK??
@@ -53,7 +54,7 @@ r:"^ボスバトル(.+)クリアで解放$"=Clear Boss Battle $1 to unlock.
 頼度= Stories
 信頼度プレゼント一覧=Trust Gift List
 プレゼント一覧=Gift List
-信頼度を{{A}}まで到達させよう=Let's get the trust level up to {{A}}
+r:"^信頼度を(\d+)まで到達させよう$"=Let's get the trust level up to $1
 信頼度をMAXにしよう=Max out the trust level
 
 「VERY HARD」ボスは、１日１体討伐できます。="Very Hard" Boss can only be defeated once per day.

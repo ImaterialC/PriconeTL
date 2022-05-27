@@ -13,5 +13,6 @@
 みんなでお花見=Everyone cherry blossom viewing
 みんなの好きなもの=Everyone's favorite
 
+プレイヤーLvを最大まで高めた者\nのみが獲得できる特別な通貨。マス\nターショップで買い物ができる。=A special currency that can only be earned by those who have raised the player Lv to the maximum.\nYou can shop at the Master Shop.
 ===Dedicated Ring
 sr:"^([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)専用リング$"=Dedicated $1$2's Ring

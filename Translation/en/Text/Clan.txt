@@ -128,7 +128,7 @@ r:"^\[FF7C4E,D62146\]本日の残り寄付数は(\d+)です。\[-\]$"=[FF7C4E,D6
 
 sr:"^\[25CFDE,0E6C98\](\d+月)全クランランキング\[-\]$"=[25CFDE,0E6C98]Global Ranking($1)[-]
 ===Clan Battle===
-CPと挑戦回数は毎日5:00にリセットされます。=CPs & attempts will be reset at 5:00(JST) daily.
+CPと挑戦回数は毎日05:00にリセットされます。=CPs & attempts will be reset at 5:00(JST) daily.
 r:"^\[3C404E\]クランバトルの挑戦回数が\[-\]\[FFBB00,CE4F00\](\d)回\[-\]\[3C404E\]アップしました。\[-\]$"=[3C404E]Your CB's attempt has increased by [FFBB00,CE4F00]$1[-].[-]
 r:"^\[3C404E\]CPを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]獲得して、\[-\]$"=[3C404E]Earned [FFBB00,CE4F00]$1 [-]CP,[-]
 [3C404E]マイログに保存しますか?[-]=[3C404E]Do you want to save it in My Log?[-]
@@ -136,7 +136,7 @@ r:"^\[3C404E\]CPを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]獲得して、\[-\
 模擬戦中=Training
 本日の挑戦回数の上限に達しています。=You have reached the maximum number of attempt for today.
 ===Carry Over Time
-r:"^\[3C404E\]モンスターを撃破したため\n残り時間を\[FF7C4E,D62146\]([0-9]+)\[-\]使って\n次のバトルに挑戦できます。\[-\]$"=[3C404E]Since you have defeated a monster, you can use Left-Over time [FF7C4E,D62146]$1[-] to challenge the next battle.[-]
+r:"^\[3C404E\]モンスターを撃破したため\n残り時間を\[FF7C4E,D62146\]([0-9:]+)\[-\]使って\n次のバトルに挑戦できます。\[-\]$"=[3C404E]Since you have defeated a monster,\nyou can use Left-Over time [FF7C4E,D62146]$1[-]\nto challenge the next battle.[-]
 残り時間持越し通知=Left-Over Time Notification
 前回の編成メンバー=Previous party members
 現在の編成メンバー=Current party members
@@ -149,7 +149,7 @@ sr:"^(\d+月)クランバトル開始！！$"=CB-$1 has Started!
 r:"^期間 ([0-9/ :]+)～([0-9/ :]+)$"=Start $1\nEnd $2
 クランメンバーと協力して\n強力なモンスターを討伐しよう！=Become a sleve of metas or kicked from clan!\nAll your gacha results was paid-off at here.\nGo fort Whales! Go fort Carriers! Aim to the top and flexing your precision finger at SNS!\nThe real fun has just begun
 
-[3C404E]解放期間:[-]=[3C404E]Period:[-]
+[FFBB00,CE4F00]解放期間:[-]=[FFBB00,CE4F00]Period:[-]
 sr:"^\[FF7C4E,D62146\]ボスの強さは、(\d+月)クランバトル（クランモード）と同じです。\[-\]$"=[FF7C4E,D62146]The boss's strength was same as the CB ($1).[-]
 カスタム=Custom
 １つ以上の段階を選択する必要があります。=You need to select one or more stages.
@@ -171,7 +171,6 @@ r:"^トレーニング (\d)段階目$"=Training Tier $1
 確認=Check
 残り挑戦回数=Attempts
 戦績=Achievement
-伐情報=Clear info
 周回=Lap
 ヘルプ=Help
 クラン内=Rank
@@ -205,6 +204,15 @@ r:"^(\d)段階目$"=Tier $1
 [3C404E]このモンスターは他メンバーに先に倒されました。\n[FF7C4E,D62146]※挑戦回数は消費されません。[-][-]=[3C404E]This monster was defeated by other members.\n[FF7C4E,D62146]※ Your attempt has been refunded.[-][-]
 バトル結果確認=Battle Result Confirmation
 
+=======討伐情報=Clear info
+伐情報=onsters Clear info
+ピリオド=period
+sr:"^(\d+月)(\d+)日(\d{2})時(\d)分$"=$1 $2, $3:0$4
+sr:"^(\d+月)(\d+)日(\d)時(\d{2})分$"=$1 $2, 0$3:$4
+sr:"^(\d+月)(\d+)日(\d)時(\d)分$"=$1 $2, 0$3:0$4
+sr:"^(\d+月)(\d+)日(\d{2})時(\d{2})分$"=$1 $2, $3:$4
+
+====
 日時=Date
 使用制限=Restricted
 未所持=Not\nOwned
@@ -213,11 +221,11 @@ Lv制限=Lv Limit
 [FF7C4E,D62146]バトルログがありません。[-]=[FF7C4E,D62146]There is no battle log.[-]
 このままバトルを開始しますか？=Do you want to start the battle as it is?
 模擬戦の結果はスコアランキングに影響しません。=Taining battle does not affect the score ranking
-編成メンバーが{{A}}キャラ未満です。=Less than {{A}} characters
+編成メンバーが5キャラ未満です。=Less than 5 characters
 
 本日のCP獲得上限に達しています。=You have reached the CP acquisition limit for today.
 更新可能になるまでお待ちください。=Please wait until it can be updated.
-{{A}}{{B}}以内に\n{{C}}人が本戦を開始しました。={{C}} Player(s) started clash\nbattle within the last 1m30s.
+r:"^1分30秒以内に\n(\d+)人が本戦を開始しました。$"=$1 Players started clash\nbattle within the last 1m30s.
 
 サポートキャラ確認=Rental Character Confirmation
 このキャラを借ります、よろしいですか？=Rent this character?
@@ -230,7 +238,7 @@ Lv制限=Lv Limit
 [FF7C4E,D62146]保存時と★設定が違うキャラがいます。[-]=[FF7C4E,D62146]Some characters have different ★ settings than when they were saved.[-]
 ・マイパーティ\n・バトルアリーナ/プリンセスアリーナの防衛設定=・ My party Battle Arena/Princess Arena Defense Settings
 挑戦回数を消費してクランバトルを開始しますか？=Use your attempt to start battle?
-[3C404E]バトルを開始した時点で挑戦回数が消費されます。\n通信環境の良い場所でプレイして下さい。[-]=[3C404E]Number of attempts will be\nconsumed upon start.\nPlease play in a place with a good connection.[-]
+[FF7C4E,D62146]バトルを開始した時点で挑戦回数が消費されます。\n通信環境の良い場所でプレイして下さい。[-]=[FF7C4E,D62146]Number of attempts will be\nconsumed upon start.\nPlease play in a place with a good connection.[-]
 
 [FF7C4E,D62146]模擬戦のバトル結果はクランバトルの成績に反映されません。[-]=[FF7C4E,D62146]Training battle results are not reflected in clan battle results.[-]
 
@@ -256,7 +264,7 @@ r:"^(\d+月)クランバトル最終日！$"=The last day of Clan Battle ($1)!
 クランバトル開催期間が終了します=The Clan Battle period will end
 r:"^本日 ([0-9/: ]+)に$"=Today $1 (JST)
 ===Reward
-{{B}} {{C}}周目 {{A}}=[{{B}}]Lap {{C}}: {{A}}
+sr:"^(\d+月) (\d+)周目 (.+)$"=[$1]Lap $2: $3
 ===Battle TL===
 バトル終了=End of battle
 クリップボードにコピー=Copy to clipboard
@@ -265,7 +273,7 @@ r:"^本日 ([0-9/: ]+)に$"=Today $1 (JST)
 バトル時間=Fight Time
 
 ===OF window===
-[3C404E]持越し回数あり[-]=[3C404E]Left Over[-]
+[FF7C4E,D62146]持越し回数あり[-]=[FF7C4E,D62146]Left Over[-]
 持越し確認=Left Over
 使用可能な持越しバトルの情報を確認できます。=Available Left Overs Party.
 r:"^持越し(\d)回目$"=LO Party $1
@@ -335,16 +343,16 @@ r:"^\[3C404E\]このおすすめ編成は、\n持越し時間\[FF7C4E,D62146\]([
 位= 
 -位=-
 
-{{A}}{{C}}クラン内ランキング\n{{B}} 全段階合計[-]={{A}}In-Clan Rankings ({{C}})\nTotal Score {{B}}: 
-{{A}}{{C}}クラン内ランキング\n{{B}} {{D}}段階目[-]={{A}}In-Clan Rankings ({{C}})\nWave {{D}} Score {{B}}: 
+sr:"^\[FF9393,E82F71\](\d+月)クラン内ランキング\n(.+) 全段階合計\[-\]$"=[FF9393,E82F71]In-Clan Rankings ($1)\nTotal Score $2: 
+sr:"^\[FF9393,E82F71\](\d+月)クラン内ランキング\n(.+) (\d)段階目\[-\]$"=[FF9393,E82F71]In-Clan Rankings ($1)\nWave $3 Score $2: 
 
  全段階合計[-]= Total Score: 
- {{A}}段階目[-]= Wave {{A}} Score:
+r:"^ (\d+)段階目\[-\]$"= Wave $1 Score:
 20001位以降=20,001 and below
 
 総合順位報酬=Overall Rank Reward
 ピリオド順位報酬=Period Rank Reward
-{{A}}のランキング結果={{A}} Ranking Results
+sr:"^(\d+月)のランキング結果$"=($1) Ranking Results
 
 ボスモンスター　レベル（難易度）アップ=Monster Level (Difficulty) Increase
 
@@ -364,7 +372,7 @@ r:"^(\d)体目$"=B-$1
 ===lap===
 r:"^現在(\d+)周目$"=Lap $1
 r:"^(\d+)周目$"=Lap $1
-{{A}}(\d+月)クラン内ランキング一覧[-]={{A}}In-Clan Rankings ($1)[-]
+sr:"^\[FF9393,E82F71\](\d+月)クラン内ランキング一覧\[-\]$"=[FF9393,E82F71]In-Clan Rankings ($1)[-]
 sr:"^(\d+月)全クランランキング$"=Global Ranking($1)
 ===My Log
 イログ=y Log

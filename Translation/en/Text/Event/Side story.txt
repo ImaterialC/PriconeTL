@@ -1,6 +1,6 @@
 イドストーリー=ide Story
 [3C404E][FFBB00,CE4F00]サイドストーリー[-]が解放されました。[-]=[3C404E]The [FFBB00,CE4F00]Side Story[-] has been released.[-]
-sr:"^メインクエスト([0-9\-\(\)（）\w ]*)クリアで$"=Cleared Main Quest $1
+r:"^メインクエスト([0-9\-\(\)（）\w ]*)クリアで$"=Cleared Main Quest $1
 
 コンテンツ解放=Content Release
 

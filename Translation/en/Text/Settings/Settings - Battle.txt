@@ -60,8 +60,4 @@ Bアリーナ=B Arena
 
 ルナの塔を開始する前に、バトル速度設定を確認するダイアログを開きます。=Opens a dialog box to confirm your battle speed settings.
 
-UB即発動モードを有効にする=Enable UB prompt mode
-各キャラがユニオンバーストを発動する度に、UB即発動モードを解除するか設定できます。=Each time character activates UB, you can set whether to cancel the UB prompt mode.
-ユニオンバースト発動時にUB即発動モードを解除=Cancel UB prompt mode when union burst is activated
-ルナの塔において、バトル速度の上限を設定できます。設定は次回のバトルから反映されます。=You can set an upper limit for battle speed in the Tower of Luna.\n The settings will be reflected from the next battle.
 クランバトルの模擬戦・トレーニングバトルにおいて、バトル速度の上限を設定できます。\n設定は次回のバトルから反映されます。=You can set the upper limit of the battle speed in the mock battle of the clan battle.\nThe settings will be reflected from the next battle.

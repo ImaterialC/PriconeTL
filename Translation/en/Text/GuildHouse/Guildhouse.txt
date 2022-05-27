@@ -49,6 +49,9 @@ Like情報=Like Info
 以下のアイテムを受け取りました。=You have received the following items.
 引き出せるマナがありません。=There is no mana to take out.
 
+翌日へ=→day
+前日へ=←day
+
 設置=Place
 売却不可=Cannot Sell
 設置済み=Already\nPlaced

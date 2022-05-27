@@ -67,7 +67,7 @@ sr:"^\[3C404E\]([べ-・ー]{2,12}|女神の秘石)×\[FFBB00,CE4F00\](\d+)\[-\]
 本日の出現数=Appear
 限定ショップは開かれていません。=Bonus shop not open.
 今日の出現回数上限に達しました。\n回数上限は05:00にリセットされます。=The maximum number of appearances for today has been reached, and will be reset at 05:00.
-
+購入するアイテムを選択してください。=Please select the item to purchase.
 ===master shop===
 マスターコイン上限確認=Master Coin Limit
 マスターコインはプレイヤーLvと所持EXPが上限に達した状態でスタミナ消費した際に獲得できます。=Master Coins can be earned by consuming stamina when the player's Lv and EXP have reached the max.
@@ -96,14 +96,10 @@ r:"^([0-9/]+) 枚$"=$1 Coin
 メモリーピース単価一覧=Memory Shard unit Price List
 sr:"^([べ-・ー＆]{2,11})(\（.{2,10}\）)?のメモリーピースの購入数が(\d)になりました。$"=The number of purchases of $1$2 now $4.
 
-2個になります。=2 per Shard
-3個になります。=3 per Shard
-4個になります。=4 per Shard
-5個になります。=5 per Shard
+r:"^(\d)個になります。$"=$1 per Shard
 
 対象アイテム1個あたりの単価が=The unit price per target item is
-sr:"^([べ-・ー＆]{2,11})(\（.{2,10}\）)?の\nメモリーピースの購入数が(\d+)になりました。$"=The Total number of purchases of\n$1's Memory Shard is $2.
-
+sr:"^([べ-・ー＆]{2,11})(\（.{2,10}\）)?の\nメモリーピースの購入数が(\d+)になりました。$"=The Total number of purchases of\n$1$2's Memory Shard is $3.
 ====Reset
 r:"^([0-9,]+)で今すぐ更新$"=$1: To Reset
 sr:"^\[3B3F4D\]([べ-・ー]{2,12})を\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]個使用して\nショップの内容をリセットしますか\?\[-\]$"=[3B3F4D]Use $1 ×[FFBB00,CE4F00]$2[-]\nto reset the contents of the shop?[-]

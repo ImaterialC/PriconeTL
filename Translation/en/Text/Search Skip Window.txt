@@ -21,6 +21,7 @@
 全クエスト=All Quests
 サイドスト…=Side-story
 残り挑戦回数がありません。=There are no challenges remaining.
+[FF7C4E,D62146]残り挑戦回数がありません。[-]=[FF7C4E,D62146]There are no challenges remaining.[-]
 実行可能なクエストがありません。=There are no available quests.
 本日挑戦できないクエストのみ選択されています。=Only quests that cannot be challenged\nare selected.
 装備済み=Equipped
