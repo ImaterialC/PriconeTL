@@ -137,8 +137,9 @@ sr:"^\[FFBB00,CE4F00\]「([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)」(「|)
 無料=免費
 1度=1次
 だけ引ける!=Once Pull!
-すでに\n引き終わっています=Already\npulled
-すでに\\n引き終わっています=Already\npulled
+すでに\n引き終わっています=已經\n抽完了
+すでに\\n引き終わっています=已經\n抽完了
+
 ===Pri Fes
 プリンセスフェス開催！=Princess Festival!
 プリンセスフェスへ=To the Princess Fes
