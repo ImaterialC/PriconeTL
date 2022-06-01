@@ -1,16 +1,17 @@
-GM変更=GM Change
-GM購入=uy BGM
-BGM購入=Buy BGM
+GM変更=更改背景音樂
+GM購入=購買背景音樂
+BGM購入=購買BGM
 BGM変更=更改BGM
-
+B= 
 BGM変更へ=Change BGM 
+GM=背景音樂
 所持ルピ=Rupies Held
 ===bgm shop===
-初期設定に戻す=回歸初始設定
+初期設定に戻す=回歸初期設定
 
-ギルドハウス3F=3F
-ギルドハウス2F=2F
-ギルドハウス1F=1F
+ギルドハウス3F=公會小屋3樓
+ギルドハウス2F=公會小屋2樓
+ギルドハウス1F=公會小屋1樓
 ギルドハウス1FのBGMを初期設定に戻します。\nよろしいですか？=Revert the BGM of 1F to default?
 ギルドハウス2FのBGMを初期設定に戻します。\nよろしいですか？=Revert the BGM of 2F to default?
 ギルドハウス3FのBGMを初期設定に戻します。\nよろしいですか？=Revert the BGM of 3F to default?

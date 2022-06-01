@@ -1,6 +1,6 @@
 ===Guildhouse===
 
-んなのカレンダー=Calendar
+んなのカレンダー=大家的日曆
 イラスト一覧=Illustration list
 ギルドハウス遷移時に演出を再生するか\nメニューから設定を変更できます。=You can replay the scene at the guild house\nor change the setting from the menu.
 カレンダーストーリーをスキップしますか？=Do you skip calendar stories?
@@ -25,22 +25,22 @@ Lv上限：=Max Lv:
 Lvアップ可能な家具があります。=There is furniture that can be upgraded.
 
 家具効果=家具效果
-収納BOX=Storage
-一括収納=Store All
-キャラ\n配置=Place\nCharacter
-ランダム\nお出かけ=Random\nOuting
-メンバー\n訪問=Visit\nMember
-Like情報=Like Info
-マイセット=My Sets
-一括受取=Claim\nAll
+収納BOX=收納盒
+一括収納=全部收納
+キャラ\n配置=角色\n配置
+ランダム\nお出かけ=隨機\n前往
+メンバー\n訪問=成員\n訪問
+Like情報=Like資訊
+マイセット=主要組合
+一括受取=全部領取
 家具\nショップ=家具\n商店
 ゲーム\nテーブル=遊戲桌
-カレンダー=Calendar
+カレンダー=日曆
 サポート設定=支援設定
 メンバー情報=成員情報
 寄付する=Donate
-コッコロの\nおさいふ=Kokkoro's\nWallet
-ギフト=Gift
+コッコロの\nおさいふ=可可蘿的\n錢包
+ギフト=禮物
 {{A}}Fのメンバー={{A}}F Party
 同名キャラ\n選択中=Char Already\nSelected
 同名キャラ\n設置中=Char Already\nPlaced
@@ -63,7 +63,7 @@ Like情報=Like Info
 収納すると効果つき家具の生産はリセットされます。=Storing enchanted Furniture will reset production.
 収納数に収まらなかった家具は残ります。=Furnitures that would not fit in storage will be left out.
 
-カレンダーへ=Calendar
+カレンダーへ=日曆
 この月は選択できません。=Cannot select this month
 受け取っていないアイテムはありません。=No items you can collect at the moment.
 
@@ -84,7 +84,7 @@ Like情報=Like Info
 
 ===Games===
 購入価格=Price
-み=Everyone's 
+み= 
 んなのゲームテーブル=Game Table
 レッツ・クッキング！\nミヤコとプリンを作って食べて\nプリンの道を極めよう！=Let's Cook! Let's make and eat pudding with Miyako to master the way of pudding!
 こちらは{{B}},{{A}}ルピで\n販売中！\nぜひ購入して\n遊んでくださいね！=This one's on sale for {{B}},{{A}} rupees, so buy it and play with it!
@@ -101,38 +101,38 @@ Like情報=Like Info
 {{A}}他のプレイヤーのギルドハウスに\nランダムで訪問します。\nよろしいですか？[-]={{A}}Would you like to randomly visit the Guildhouse of another Player? [-]
 
 ===Like Info===
-今日Likeした数=Today's Likes by You
-今日Likeされた数=Today's Likes
-Likeされた総数=Total Likes
-Likeしてくれた人=Liked You
-Likeした人=Liked by You
-クランメンバー=Clan Members
-最近のLike情報はありません。=There is no recent LIKE information.
+今日Likeした数=今天 Like 的數量
+今日Likeされた数=今天被 Like 的數量
+Likeされた総数=被點 Like 的總數
+Likeしてくれた人=點你 Like 的人
+Likeした人=你 Like 過的人
+クランメンバー=戰隊成員
+最近のLike情報はありません。=並未有最近被 Like 的資訊
 
 ===Furniture shop===
 {{B}}{{F}}年{{A}}{{D}}日 {{E}}:{{C}}まで=Untill {{D}} {{A}} {{B}}{{F}} {{E}}:{{C}}
 該当する家具はありません。=There is no applicable furniture.
-テーマ=Theme
-インテリア=Decor
-生活用品=Furniture
+テーマ=主題
+インテリア=裝飾
+生活用品=生活用品
 戻る=返回
-ベッド=Beds
-収納=Storage
-椅子=Chairs
-机=Tables
-パーテーション=Partitions
-植物=Plants
-美術品=Art
-ラグ・タイル=Rugs & Tiles
-背景=Backgrounds
-階段=Stairs
-壁=Walls
-床=Floors
-設置数=Placed
-設置購入=Buy & Set
-収納購入=Buy & Store
-アクション=Interactable
-購入=Purchase
+ベッド=床
+収納=收納
+椅子=椅子
+机=桌子
+パーテーション=隔板
+植物=植物
+美術品=美術品
+ラグ・タイル=地板·磁磚
+背景=背景
+階段=樓梯
+壁=牆壁
+床=地板
+設置数=設置數量
+設置購入=購買擺飾
+収納購入=購買收納
+アクション=動作
+購入=購買
 以下の家具を購入しますか？=Would you like to purchase the following furniture?
 {{A}}収納BOXに収納しました。[-]={{A}}Stored into Storage Box.[-]
 以下の家具を購入しました。=You bought the following furniture.
@@ -140,18 +140,18 @@ Likeした人=Liked by You
 
 ===my sets===
 反転=Turn
-クリア=Clear
-名前変更=Change Name
-現在の配置を保存=Save Current Setup
-マイセット保存確認=Save My Sets
-この配置で模様替え=Apply This Setup
-現在の配置を上書保存=Overwrite with Current Setup
+クリア=清除
+名前変更=變更名字
+現在の配置を保存=以現在的配置保存
+マイセット保存確認=主要組合保存確認
+この配置で模様替え=使用這個配置替換擺設
+現在の配置を上書保存=以現在的配置覆寫
 
-下記のスロットに現在の配置情報を保存します。\nよろしいですか？=Save your current setup in the following slot?
+下記のスロットに現在の配置情報を保存します。\nよろしいですか？=將會在以下的欄位中，保存現在的配置資訊。\n確定要這麼做嗎？
 
-マイセット名=My Set Name
+マイセット名=主要組合名稱
 マイセット{{A}}=My set {{A}}
-家具の配置を保存し手軽に呼び出すことができます。=You can save your furniture setup.
+家具の配置を保存し手軽に呼び出すことができます。=可以儲存家具擺設位置，並且便於叫出設定。
 {{A}}現在の配置をマイセット{{B}}に保存しました。[-]={{A}}Save the current placement to My Sets {{B}}.[-]
 ===furniture effect===
 {{A}}生成機=Mana Creation Device
