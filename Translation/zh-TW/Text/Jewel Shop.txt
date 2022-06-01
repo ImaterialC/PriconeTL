@@ -15,7 +15,7 @@ r:"^([2-9])回限定$"="$1次限定"
 
 収納BOX拡張=Expand Storage
 ギルドハウスの収納BOXを拡張します。=Expand the storage of your Guildhouse.
-収納数=Storage Limit
+収納数=收納數量
 拡張する数=Expand by
 消費ジュエル=Jewel Cost
 

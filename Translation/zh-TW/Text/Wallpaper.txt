@@ -30,9 +30,9 @@ BGM購入ページへ移動=Move to BGM Shop
 [3C404E]BGM購入ページへ移動しますか?[-]=[3C404E]Do you want to go BGM shop?
 移動する=Move
 [FF7C4E,D62146]設定を完了していないカスタムマイページ\n設定は破棄されます。[-]=[FF7C4E,D62146]Custom Home settings that have\nnot been completed will be discarded.[-]
-購入順=Purchase Order
-発売順=Release Date
-曲名順=Song Title
+購入順=購入順序
+発売順=販賣順序
+曲名順=曲名順序
 
 ===Sort===
 あ行=A,I,E

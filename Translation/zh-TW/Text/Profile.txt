@@ -97,7 +97,7 @@ for Eng-UI contact Cornelia#0402
 到着階=Arrival floor
 除名する=Delete
 クラン勧誘=Clan Recruit
-よろしくお願いします。=Nice to meet you.
+よろしくお願いします。=請多指教。
 シングルモード参加=Participation in single mode
 
 ===NPC===
