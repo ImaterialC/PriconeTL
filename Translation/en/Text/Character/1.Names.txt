@@ -25,7 +25,7 @@
 （編入生）= (Student)
 （エンジェル）= (Angel)
 （デレマス）= (Deremas)
-
+（キャンプ）= (Camp)
 クリスティーナ=Christina
 ラビリスタ=Labyrista
 ペコリーヌ=Pekorine

@@ -9,7 +9,6 @@ SDカード保存設定=Transfer data to SD
 実績=Performance
 コード入力=Input Code
 アカウント連携=Social Media Bind
-{{A}}コマまんが=4-koma Manga
 サポート=Support
 フレンド=Friend
 アルバム=Album

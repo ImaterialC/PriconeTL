@@ -8,6 +8,7 @@
 家具=Furniture
 ギルドハウス家具は、メインクエスト2-1（NORMAL）クリアで受け取れます。=Guild House Furniture can be received by clearing the main quest $1.
 [FF7C4E,D62146]受け取れるアイテムがありません。[-]=[FF7C4E,D62146]There are no items.[-]
+[FF7C4E,D62146]受け取ったアイテムはありません。[-]=[FF7C4E,D62146]There are no items.[-]
 
 以下のプレゼントをまとめて受け取りますか？=Whould you like to accept all of the following presents?
 プレゼント受け取り=Receive Present

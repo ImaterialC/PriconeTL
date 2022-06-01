@@ -13,6 +13,13 @@
 みんなでお花見=Everyone cherry blossom viewing
 みんなの好きなもの=Everyone's favorite
 
-プレイヤーLvを最大まで高めた者\nのみが獲得できる特別な通貨。マス\nターショップで買い物ができる。=A special currency that can only be earned by those who have raised the player Lv to the maximum.\nYou can shop at the Master Shop.
+プレイヤーLvを最大まで高めた者のみが獲得できる特別な通貨。マスターショップで買い物ができる。=A special currency that can only be earned by those who have raised the player Lv to the maximum.\nYou can shop at the Master Shop.
+この世界での衣食住に不可欠なアストルムの流通通貨。ギルドハウスのショップで買い物ができる。=Asturm's currency, which is indispensable for food, clothing and shelter in this world.\nYou can shop at the Guild House shop.
+バトルアリーナに挑戦した者のみが獲得できる特別な通貨。アリーナショップで買い物ができる。=A special currency that can only be earned by those who challenge the battle arena.\nYou can shop at the arena shop.
+プリンセスアリーナに挑戦した者のみが獲得できる特別な通貨。Pアリーナショップで買い物ができる。=A special currency that can only be earned by those who challenge the Princess Arena.\nYou can shop at the P Arena shop.
+様々な物質に宿る力の源で、キャラの成長には欠かせない。ショップで買い物もできる。=It is a source of power that resides in various substances and is indispensable for the growth of characters.\nYou can also shop at the shop.
+ダンジョンに挑戦した者のみが獲得できる特別な通貨。ダンジョンショップで買い物ができる。=A special currency that only those who challenged the dungeon acquire.\nYou can shop at the dungeon shop.
+
+虹色に輝く不思議な力をまとった宝\n石。=A jewel with a mysterious rainbow-colored power.
 ===Dedicated Ring
 sr:"^([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)専用リング$"=Dedicated $1$2's Ring

@@ -45,4 +45,5 @@ r:"^自分の魔法防御力を(\d+)アップ\n自分のＨＰを(\d+)回復$"=B
 バトル開始時に自分の最大ＨＰを大アップさせる。=Large boost to own max HP at start of battle.
 バトル開始時に自分の最大ＨＰを中アップさせる。=Moderate boost to own max HP at start of battle.
 r:"^自分の最大ＨＰを(\d+)アップさせる$"=Boosts own max HP by $1.
+r:"^自分の最大ＨＰを17700アップ$"=Boosts own max HP by $1.
 ===(temp)

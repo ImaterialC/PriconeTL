@@ -35,6 +35,11 @@ r:"^(.{1,10})がサブリーダーになりました。$"=$1 has become a sub-le
 r:"^(.{1,10})がサブリーダーになりました。$"=$1 has become a sub-leader.
 r:"^(.{1,10})がクランから脱退しました。$"=$1 has left the clan.
 
+r:"^(\d+)日(\d+)時間(\d+)分$"=$1d $2h $3m
+r:"^(\d+)日(\d+)時間$"=$1d $2h
+r:"^(\d+)時間(\d+)分$"=$1h $2m
+r:"^(\d+)日(\d+)分$"=$1d $2m
+
 変更期限：=Change deadline:
 r:"^終了まで (\d+)時間(\d+)分$"=Ends in $1h$2m
 r:"^終了まで (\d+)分$"=Ends in $1m
@@ -203,7 +208,7 @@ r:"^(\d)段階目$"=Tier $1
 ダメージ=Damage
 [3C404E]このモンスターは他メンバーに先に倒されました。\n[FF7C4E,D62146]※挑戦回数は消費されません。[-][-]=[3C404E]This monster was defeated by other members.\n[FF7C4E,D62146]※ Your attempt has been refunded.[-][-]
 バトル結果確認=Battle Result Confirmation
-
+このモンスターはすでに討伐されています。=This monster has already been defeated.
 =======討伐情報=Clear info
 伐情報=onsters Clear info
 ピリオド=period
@@ -221,7 +226,7 @@ Lv制限=Lv Limit
 [FF7C4E,D62146]バトルログがありません。[-]=[FF7C4E,D62146]There is no battle log.[-]
 このままバトルを開始しますか？=Do you want to start the battle as it is?
 模擬戦の結果はスコアランキングに影響しません。=Taining battle does not affect the score ranking
-編成メンバーが5キャラ未満です。=Less than 5 characters
+編成メンバーが5キャラ未満です。=Less than 5 characters in Party.
 
 本日のCP獲得上限に達しています。=You have reached the CP acquisition limit for today.
 更新可能になるまでお待ちください。=Please wait until it can be updated.
@@ -386,15 +391,12 @@ sr:"^(\d+月)全クランランキング$"=Global Ranking($1)
 表示ログの種類=Type of display log
 同一編成の表示=Display of the same formation
 ===Ranking Result
-sr:"^(\d+月)クランバトルの順位が確定しました！$"=CB($1) ranking has been confirmed!
+sr:"^(\d+月)クランバトルの順位が確定しました！$"=$1 Clan Battle
 バトル設定：クランモード=Battle settings: Clan Mode
-バトル設定：シングルモード=Battle settings: Clan Mode
+バトル設定：シングルモード=Battle settings: Solo Mode
 sr:"^\(クラン内ランキング　(\d+位)\)$"=(in-clan Rank $1)
 
-{{A}}{{B}}クランバトル[-]={{A}}{{B}} Clan Battle[-]
-{{A}}{{C}}{{B}}クランバトル[-]={{A}}{{C}}{{B}} Clan Battle[-]
-{{A}}{{D}}{{C}}{{B}}クランバトル[-]={{A}}{{D}}{{C}}{{B}} Clan Battle[-]
-{{A}}{{C}}{{D}}{{B}}クランバトル[-]={{A}}{{C}}{{D}}{{B}} Clan Battle[-]
+sr:"^\[25CFDE,0E6C98\](\d+月)クランバトル\[-\]$"=[25CFDE,0E6C98]$1 Clan Battle[-]
 ランキング報酬=Rewards:
 ランキング発表！=Ranking Announcement!
 ※報酬はプレゼントに順次、送られます。=※Rewards will be sent to Present Box.

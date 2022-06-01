@@ -6,7 +6,8 @@
 開演直前=Coming soon
 r:"^開催期間 : ([0-9/]+)～([0-9/]+)$"=Event: $1 to $2
 r:"^([0-9/ :]+) ～ ([0-9/ :]+)まで$"=$1 to $2
-r:"^([0-9/ :]+)まで=until $1
+r:"^([0-9/ :]+)まで$"=until $1
+
 r:"^(\d+)日 (\d+)時間$"=$1d $2h
 r:"^(\d+)体撃破$"=$1 × Defeated
 r:"^スキップチケットとボスチケットを消費して\n(\d+)体ボスを撃破します。よろしいですか？$"=Defeat $1 bosses by consuming\n skip tickets and boss tickets.\nIs this OK??
@@ -19,7 +20,7 @@ r:"^スキップチケットとボスチケットを消費して\n(\d+)体ボス
 ドロップ報酬=Drop reward
 ボス詳細=Boss Details
 第一の忠臣！=1st loyal retainer!
-信頼度=Reliability
+信頼度=Trust
 消費ボスチケット=Boss Tix Cost
 見放題=All-you-can-see
 まで開催中=Until the Event
@@ -50,8 +51,8 @@ r:"^開催日時:([0-9/: ]{11})～([0-9/: ]{11})$"=Period: $1 to $2
 r:"^イベントクエスト(.+)クリアで解放$"=Clear event quest $1 to unlock.
 sr:"^(イベント|メイン)クエスト(.+)をクリアで解放されます。$"=Clear $1 quest $2 to unlock.
 r:"^ボスバトル(.+)クリアで解放$"=Clear Boss Battle $1 to unlock.
-信=Trust
-頼度= Stories
+信=T
+頼度=rust Stories
 信頼度プレゼント一覧=Trust Gift List
 プレゼント一覧=Gift List
 r:"^信頼度を(\d+)まで到達させよう$"=Let's get the trust level up to $1
@@ -163,7 +164,20 @@ r:"^(\d+)回交換はできません。$"=You do not have any Victory Medals.
 
 sr:"^\[3C404E\]([^\[]+)\[-\]$"=[3C404E]$1[-]
 sr:"^\[3C404E\]([^ ]+) x\[-\]\[FFBB00,CE4F00\](\d+)\[-\]$"=[3C404E]$1 × [-][FFBB00,CE4F00]$2[-]
-
+ボスNORMAL討伐で解放！=Defeat boss(N) to release!
+解放条件=Release Condition
+[FFBB00,CE4F00]イベント限定キャラをGETしよう！[-]=[FFBB00,CE4F00]Get event-limited characters![-]
+イベントを進めて、ボスに挑戦！\nボスNORMALを討伐すると、\n限定キャラ解放！！=Advance the event and challenge the boss! If you defeat the boss NORMAL, the limited character will be released! !!
+アイテムが不足しています=Not enough items
+未読EPISODE=Unread Episode
+sr:"^\[3C404E\]([べ-・ー＆]{2,11})との信頼度エピソード\n「\[FFBB00,CE4F00\](.+)\[-\]」が\n解放されました。\[-\]$"="[3C404E]Skit: $1 episode\n"[FFBB00,CE4F00]$2[-]"\nHas been released.[-]"
+sr:"([べ-・ー＆]{2,11})(（.{2,10}）)?が解放されました。$"=$1$2 has been released.
+イベント限定キャラ解放=Event Limited Character Release
+条件を達成したためスキップチケットを使用することができるようになりました。=Because you have met the conditions\nYou can now use Skip Tickets.
+sr:"([べ-・ー＆]{2,11})との信頼度$"=$1's Trust
+オイとの信頼度エピソード=Aoi's Trust Episode
+カリとの信頼度エピソード=ukari's Trust Episode
+ュンとの信頼度エピソード=un's Trust Episode
 ===NPC (Karin)===
 お疲れ様です！\nここでは、討伐証と報酬を\n交換することができます！=Otsukaresama! You can exchange Victory Medals for rewards here!
 受け取ることができる\n報酬があるようです\n確認してみてください=You've got rewards\nwaiting to be collected!
@@ -177,3 +191,6 @@ sr:"^\[3C404E\]([^ ]+) x\[-\]\[FFBB00,CE4F00\](\d+)\[-\]$"=[3C404E]$1 × [-][FFB
 スペシャルバトルはバトルモードが３段階変化するバトルです。\nより豪華な報酬やミッション報酬をゲットしましょう。期間中１体しか討伐できないので編成を工夫して挑戦しましょう。=Special battle is a battle in which the battle mode changes in 3 mode. Get more luxurious rewards and mission rewards. Only once can be subdued during the period, so let's devise an organization and challenge.
 エキシビションモードは、SPECIALのボスと何度も戦えます。\nまた、バトルのログを保存して振り返ることができるので、\n独自の攻略法を見つけたり、様々な編成を試してみましょう。=Exhibition mode allows you to fight SPECIAL bosses many times. You can also save and look back at battle logs, so find your own strategy and experiment with different formations.
 イベントお疲れ様です！\n皆さんのご活躍ぶりには\nいつも感謝しています=Congratulations on the event! I am always grateful for your success!
+討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラのメモリーピースもあります。\nたくさん集めてキャラを仲間にしましょう。=Victory Medal Gacha is a chance to get rewards. Among the rewards, there is also a memory shards of the character that appears in the event. Collect a lot and make limited character a friend.
+イベント限定のミッションを達成すると解放できる\nキャラが登場します。イベントの期間内に\nミッションクリアを目指しましょう。=Characters that can be released will appear when you complete event-limited missions. Let's aim to clear the mission within the period of the event.
+イベントクエストやボスに挑戦すると、信頼度エピソードが発生する\nことがございます。会話の結果によって信頼度がアップし、\n特定の信頼度に到達するとプレゼントがもらえます。=When you challenge event quests and bosses, reliability episodes may occur. Depending on the result of the conversation, the reliability will increase, and when you reach a certain reliability, you will receive a gift.

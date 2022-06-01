@@ -44,11 +44,11 @@ r:"^プリセット([0-9]+)$"=Preset $1
 [3C404E]パーティ編成を保存しました。[-]=[3C404E]Party Formation has been saved.[-]
 保存完了=Save Completed
 [3B3F4D]クールタイム中です。\nジュエル×[-][FFBB00,CE4F00]10[-][3B3F4D]を使用して\nクールタイムを解除しますか？[-]=[3B3F4D]You are currently on cooldown.\nuse Jewels × [FFBB00,CE4F00]10[-]\n to reset cooldown?[-]
-[3C404E]スキップ設定になっています。[-]=[3C404E]It's set to skip.[-]
+[FF7C4E,D62146]スキップ設定になっています。[-]=[FF7C4E,D62146]It's set to skip.[-]
 [3C404E]パーティ編成が時間切れになりました。\n対戦相手を選択し直してください。[-]=[3C404E]The party formation has expired.\nPlease reselect your opponent.[-]
 時間切れ=Time out
 選択は5キャラまでです。=Up to 5 characters can be selected.
-
+r:"^パーティ(\d)にキャラが選択されていません。$"=No character is selected for Party $1.
 フレンド以外のプレイヤーのキャラは、ステータスが\\n下方補正されている場合があります。=Characters of players other than friends\\nmay have their stats revised downwards.
 別のパーティに編成中のキャラは選択できません。=Characters being organized in another party cannot be selected.
 

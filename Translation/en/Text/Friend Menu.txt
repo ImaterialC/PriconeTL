@@ -10,7 +10,6 @@ r:"^プレイヤーLv:([0-9～ ]+)$"=Player Lv: $1
 取り消す=Cancel
 サポートキャラにはLv10以上のキャラを設定できます。=You can set a Lv10 or higher character as a rental character.
 サポートキャラを設定しておくと、マナを獲得できます。=Rent your characters to get manas.
-r:"^(\d+)日(\d+)時間(\d+)分$"=$1d $2h $3m
 
 クランに所属していません。=Not in a clan.
 

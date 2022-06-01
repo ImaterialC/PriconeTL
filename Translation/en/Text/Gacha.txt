@@ -54,12 +54,14 @@ r:"^RANK(\d+)/Lv(\d+)/装備強化MAX/RANKボーナスを含むステータス�
 所持スキル=Possessed skill
 
 ==Banner time
-sr:"^(\[[0-9a-fA-F,]{6,13}\])([0-9/ :]{16})～([0-9/ :]{11,16})まで\[-\]$"="$1$2 to $3 (JST)[-]"
+r:"^(\[[0-9A-F,]{6,13}\])([0-9/ :]{16})～([0-9/ :]{11,16})まで\[-\]$"="$1$2 to $3 (JST)[-]"
+r:"^(\[[0-9A-F,]{6,13}\])有効期間:([0-9/ :]{16}) ～ ([0-9/ :]{11,16})\[-\]$"="$1 Period: $2 to $3 (JST)[-]
 ==Banner Description==
-sr:"^(\[[0-9a-fA-F,]{6,13}\])新キャラ「([べ-・ー＆]{2,11})(\（.{2,10}\）)?(\s|)」登場！\n期間中出現率UP！\[-\]$"="$1Boosted rates for the New character\n$2$3![-]"
+sr:"^(\[[0-9A-F,]{6,13}\])新キャラ「([べ-・ー＆]{2,11})(（.{2,10}）)」登場！\n期間中出現率UP！\[-\]$"="$1Boosted rates for the New character\n$2$3![-]"
 
-sr:"^(\[[0-9a-fA-F,]{6,13}\])★3キャラ出現率2倍！限定「([べ-・ー＆]{2,11})(\（.{2,10}\）)?」登場！\n対象キャラを仲間にする度に対象メモピ200個GET！[-]$"=$1Boosted rates for the Limited ★3 "$1$2"!\nEach pull a target Character will Gets a Bonus of 200 Memory Shards![-]
+sr:"^(\[[0-9A-F,]{6,13}\])★3キャラ出現率2倍！限定「([べ-・ー＆]{2,11})(\（.{2,10}\）)?」(登場|出現率UP)！\n対象キャラを仲間にする度に対象メモピ200個GET！\[-\]$"="$1Boosted rates for the Limited ★3 "$2$3"!\nEach pull a target Chara will Gets 200 Memory Shards![-]"
 
+sr:"^(\[[0-9A-F,]{6,13}\])★3キャラ出現率2倍！限定「([べ-・ー＆]{2,11})(\（.{2,10}\）)?」「([べ-・ー＆]{2,11})(\（.{2,10}\）)?」(登場|出現率UP)！\n対象キャラを仲間にする度に対象メモピ200個GET！\[-\]$"="$1Boosted rates for the Limited ★3 "$2$3"&"$4$5"!\nEach pull a target Chara will Gets 200 Memory Shards![-]"
 
 [3C404E]『10回引く』は[FFBB00,CE4F00]★2以上[-]1キャラ確定！\n対象キャラを仲間にする度に[FFBB00,CE4F00]対象メモピ200個[-]GET！[-]=[3C404E]A [FFBB00,CE4F00]★2 or higher[-] character is guaranteed with each "10x draw"!\nEach pull a target Character, [FFBB00,CE4F00]Gets a Bonus of 200 Memory Shards[-][-]
 
@@ -130,9 +132,6 @@ sr:"^\[FFBB00,CE4F00\]「([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)」(「|)
 プリンセスフェスへ=To the Princess Fes
 日付が変わるまで表示しない=Don't show until the date changes
 
-{{A}}★{{D}}キャラ出現率{{E}}倍！限定「{{B}}」登場！\n対象キャラを仲間にする度に対象メモピ{{C}}個GET！[-]={{A}}Double the appearance rate of ★3 characters!\nLimited "{{B}}" is now available!\nEach pull a target Character, Gets a Bonus of {{C}} Memory Shards[-]
-
-
 無料でガチャを10回引きます。\nよろしいですか？=Draw 10 times for free.\nIs this OK?
 残り回数=Remaining number
 ===Special Tickets===
@@ -160,6 +159,7 @@ sr:"^\[FFBB00,CE4F00\]「([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)」(「|)
 ★3確定ガチャ=Guarantee ★3 Gacha
 [FFBB00,CE4F00]有償ジュエル限定\n★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Limited Guarantee ★3\nPaid Jewel Platinum Gacha! [-]
 有償ジュエルを消費してガチャを 10 回引きます。\nよろしいですか？=Consume paid jewel and draw 10 gacha.\nIs this OK?
+有償ジュエルを消費してガチャを 1 回引きます。\nよろしいですか？=Consume paid jewel and draw 1 gacha.\nIs this OK?
 ===Special Tickets use===
 スペシャル キャラ交換ガチャセット=Special Character Exchange
 4th Anniv. SPキャラ交換ガチャセット=4th Anniv. Special Character Exchange
