@@ -37,3 +37,5 @@ the files that must delete for uninstalling were:
 
 ## SETTING AND OPTIONS
 Press F4 to fullscreen
+
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
