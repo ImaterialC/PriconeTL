@@ -31,6 +31,7 @@ sr:"^([べ-・ー＆]{2,11})(（.{2,10}）)?\n?専用スフィア / Lv(\d+)$"=$1
 sr:"^([べ-・ー＆]{2,11})(（.{2,10}）)?専用のグロウスフィア。キャラのステータスをLv(\d+)/RANK(\d+)まで強化できる。$"=Growsphere exclusively for $1$2.\n Raise character's status to LV$3/RANK$4.
 
 r:"^グロウスフィア / Lv(\d+)\nを使用しました。\n設定値まで、無料で強化できます。$"=You used Growsphere / Lv$1.\nNow you can enhance the set value for free.
+sr:"^([べ-・ー＆]{2,11})(\（.{2,10}\）)?専用スフィア / Lv(\d+)\nを使用しました。\n設定値まで、無料で強化できます。$"=You used $1$2 dedicated\nGrowsphere / Lv$3.\nNow you can enhance the set value for free.
 グロウスフィアセット完了=Growsphere Set Completion
 
 ランクとレベルを一括で強化します。=Increase ranks and levels at once.

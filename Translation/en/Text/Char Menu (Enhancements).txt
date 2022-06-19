@@ -249,6 +249,14 @@ RANKボーナス詳細のステータス=Status Details
 [FF7C4E,D62146]作成した専用装備を元に戻すことはできません。[-]=[FF7C4E,D62146]You cannot undo the UE once created.[-]
 キャラ専用装備の所持最大数に達しています。=You already have UE for this characters.
 作成確認=Creation confirmation
+
+専用装備スフィア=Unique Equipment Spheres
+キャラスフィア=Character Spheres
+専用装備上限Lv=UE max Level
+専用装備Lv=UE Level
+未登場=Not appearing
+専用装備グロウスフィア=Unique Equipment Spheres
+（キャラ）=(Character)
 ====NPC
 プレイヤーLvが、キャラクターLvの上限になります。\nメインクエストやミッション達成で、プレイヤーEXPをGETし\nLvアップを目指しましょう。=Player Lv is the upper limit of character Lv. Get player XP and aim for Lv up by completing main quests and missions.
 装備の欠片・設計図が足りない場合は、\n原鉱を代用して装備の作成が可能になりました。\n皆さまの強化に役立ててくださいまし。=If there are not enough equipment fragments or blueprints, it is now possible to create equipment by substituting the ore. Please use it to strengthen your characters.

@@ -1,12 +1,11 @@
-ル=L
-ナの塔=una Tower
+ル=Lu
+ナの塔=na Tower
 r:"^(\[[0-9A-F,]{6,13}\])階\[-\]$"=$1F[-]
 階=F
 回廊探索=Corridor
 パーティ=Party
 保存パーティ=Save Party
 ルナの塔においてバトル速度の上限を設定できます。=You can set the upper limit\nof battle speed in the Luna Tower
-[3C404E]この設定は後から［設定］で変更できます。[-]=[3C404E] This setting can be changed later in [Settings].[-]
 バトル速度の上限設定=Battle Speed Upper Limit Setting
 このパーティを保存しますか？=Do you want to save this party?
 対象タブ=Tab
@@ -14,9 +13,9 @@ r:"^(\[[0-9A-F,]{6,13}\])階\[-\]$"=$1F[-]
 残り挑戦回数がリセットされるまでお待ちください。=Please wait until your attempt limit resets.
 
 キャラ全回復=Full Heal
-r:"^\[3C404E\]あと\[-\]\[FFBB00,CE4F00\](\d+)時間\[-\]\[3C404E\]で利用できます。\[-\]$"=[3C404E]Can be used in [FFBB00,CE4F00]$1h[-].[-]
+r:"^\[3B3F4D\]あと\[-\]\[64C9FD,0060BA\](\d+)時間\[-\]\[3B3F4D\]で利用できます。\[-\]$"=[3B3F4D]Can be used in [FFBB00,CE4F00]$1h[-].[-]
 1日1回キャラを全回復できます。=You can fully recover your characters once a day.
-sr:"^あと(\d+時|)間(\d+分)で利用できます。$"=$1$2 remaining to use it.
+sr:"^あと(\d+)?時?間(\d+分)で利用できます。$"=$1h$2 remaining to use it.
 
 全てのキャラのHPを全回復します。=Recovers HP of all characters.
 編成したキャラのTPもリセットされます。=TP will also be reset.
@@ -43,7 +42,6 @@ EXクエスト一覧=EX Floors
 本戦を開始しますか？=Do you want to start?
 
 今後このメッセージを表示しない=Don't display this message\nin the future.
-※この設定は後から[設定]で変更できます。=This setting can be changed in [Settings].
 
 r:"^\[3C404E\]リタイアするとスタミナが\[FFBB00,CE4F00\](\d+)\[-\]消費され、\nキャラのHP・TPがバトル前の状態に戻ります。\n\nよろしいですか？\[-\]$"=[3C404E]Retiring will consume [FFBB00,CE4F00]$1[-] stamina and return your character's HP and TP to their pre-battle state.\n\nAre you sure?[-]
 

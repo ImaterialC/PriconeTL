@@ -22,7 +22,7 @@ r:"^メインクエスト([0-9\-\(\)（）\w ]*)クリアで$"=Cleared Main Ques
 これまでのイベントで登場した\n限定キャラを仲間にできたり\nメモリーピースが手に入る\nみたいですよ。やばいですね☆=It seems that you'll be able befriend limited characters from previous events and get their memory shards. Yabai~
 
 過去のストーリーイベントを\n楽しめちゃいますよ！\n遊んだことのないものがあれば\n一緒にやってみましょう♪=You can enjoy story events from the past, and if there's one you haven't played before, we'll do it with you.
-[3C404E]討伐完了[-]=[3C404E]Subjugation Completed[-]
+[FF7C4E,D62146]討伐完了[-]=[FF7C4E,D62146]Subjugation Completed[-]
 ストーリー初回閲覧で、\nボーナスアイテムを獲得できます。=You can get bonus items for\nthe first time view of the story.
 ===NPC===
 ミッションをクリアして、\n報酬をゲットしましょう！=Clear the mission and get a reward!
@@ -45,6 +45,43 @@ r:"^タパスビーチ周辺([0-9\-\(\)\w （）]*)$"=Peripheral Tapas Beach $1
 七夕剣客旅情譚　天に流れる夏の恋=Tanabata Kenkaku Journey Tan: Summer love flowing in heaven
 ===
 r:"^サンレインビーチ([0-9\-\(\)\w （）]*)$"=Sunrain Beach $1
+====
+r:"^ウィッシュビーチ周辺([0-9\-\(\)\w （）]*)$"=Around Wish Beach $1
+r:"^星降る天の川([0-9\-\(\)\w （）]*)$"=Starrying Milky Way $1
+覚醒・浮気星=Awakening / cheating star
+ウィッシュビーチ周辺=Around Wish Beach
+３人いつも=Always three
+未登録=Unregistered
+一緒に！=together!
+ナナカの水着=Nanaka swimsuit
+水着でも二刀流=Two -sword style in swimwear
+見守るということ=To watch
+七夕の願い=Tanabata's wish
+ギルドの近況=Guild status
+一緒にいきたい=I want to go with
+魔法少女\nらしさとは=Magical girl\nWhat is the feeling?
+感想は？=impression?
+天才魔法少女=Genius magical girl
+新たな変身グッズ=New transformation goods
+ナナカ新魔法！=Nanaka new magic!
+恥ずかしい…！=Embarrassing ...!
+我が名は!!=My name is!!
+ぺこぺこ=Be very hungry
+はじめてのあじ=The first hydrangea
+反面教師=Teacher
+海でやること=Do it in the sea
+飲み物といえば=Speaking of drinks
+日焼け、\nどうする？=Sunburn,\nwhat will you do?
+お土産といえば=Speaking of souvenirs
+織姫について=About Orihime
+彦星について=About Hikoboshi
+織姫のこれから=Orihime's future
+素質を\n見抜いた理由=Qualities\nReasons for seeing through
+謎のマフラー=Mysterious muffler
+スタイルについて=About style
+====
+r:"^ビーチボールパーク([0-9\-\(\)\w ]*)$"=Beach Ball Park $1
+渚の暴君・鮫吉=Nagisa's Tyrant Samekichi
 ===Pirate
 解放されし財宝の守護者=The Guardian of the Liberated Treasure
 r:"^呪われた海賊島([0-9\-\(\)\w ]*)$"=Cursed Pirate Island $1
@@ -72,3 +109,14 @@ r:"^キャンピングフィールド([0-9\-\(\)\w （）]*)$"=Camping Field $1
 最高の一杯に\n必要な物=To the best cup\nNecessary
 最高の一杯を\n求めし女=The best cup\nDesired woman
 感動の出会い=Impressive encounter
+========
+r:"^王都ランドソル([0-9\-\(\)\w （）]*)$"=Royal Capital Landosol $1
+r:"^おもちゃ工場([0-9\-\(\)\w （）]*)$"=Toy Factory $1
+究極玩具王 メガトイキング=Ultimate Mega Toy King
+作業服の\n着心地は？=Workwear\nWhat is your comfort?
+人生初アルバイト\nスタート！=My first part-time job\nstart!
+バイト仲間作りで\n脱ぼっちへ！=By making a part-time job\nTo take it off!
+ミフユさんとは\nうまくやれてる？=What is Mifuyu?\nAre you doing it well?
+おもちゃ作りは\nもう慣れた？=Toys making\nalready get used to?
+タマキの\n印象について=Tamaki\nAbout the impression
+マイフレンドくん\nカスタマイズ！=My Friend\nCustomize!

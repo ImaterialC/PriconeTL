@@ -7,8 +7,7 @@ Pアリーナ=P.Arena
 r:"^所持数：(\d+)$"=Held: $1
 sr:"^(\d+月)(\d+)日まで販売中$"=Sale Until $1 $2
 残り0回=Sold out
-r:"^残り([2-9])回$"=$1 Times Left
-残り1回=1 Time Left
+r:"^残り(\d+)回$"=$1 Times Left
 
 残り購入回数=Remain
 すべて選択=Select All

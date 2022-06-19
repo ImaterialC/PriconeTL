@@ -1,6 +1,9 @@
 ===Guildhouse===
 
 んなのカレンダー=veryone's Calendar
+この日付は選択できません。=This date cannot be selected.
+壁画の獲得演出を閲覧すると確認できます。=You can check it by viewing the mural acquisition production.
+この月のカレンダーストーリーは全て既読になっています。=All calendar stories for this month have been read.
 イラスト一覧=Illustration list
 ギルドハウス遷移時に演出を再生するか\nメニューから設定を変更できます。=You can replay the scene at the guild house\nor change the setting from the menu.
 カレンダーストーリーをスキップしますか？=Do you skip calendar stories?
@@ -51,6 +54,9 @@ Like情報=Like Info
 
 翌日へ=→day
 前日へ=←day
+
+翌月へ=Next month
+前月へ=Previous month
 
 設置=Place
 売却不可=Cannot Sell

@@ -14,6 +14,7 @@
 プレゼント受け取り=Receive Present
 報酬はプレゼントに送られました。=Reward have been sent to the Present Box.
 所持上限を超えたアイテムはプレゼントに送られました。=Items that exceed the possession limit have been sent as gifts.
+「信頼度エピソード」で獲得したアイテムです。=item acquired from "Intimacy Episode"
 ===Item List Receive===A->Item,B->Number
 
 ===Item Receive===
@@ -41,6 +42,9 @@ sr:"^プリンセスアリーナ(\d+位)のランキング報酬です。$"="Pri
 sr:"^([0-9]{1,2}月)クランバトルランキング(\d+位)の報酬です。$"="Clan Battle ($1) $2 ranking reward."
 みんなのカレンダー内で獲得したアイテムです。=This item was acquired in everyone's calendar.
 
+
+スタミナ\n受取対象外=Exclude\nStamina
+期限を過ぎていたため、一部のプレゼントは受け取れませんでした。=Some gifts were not received because the deadline had passed.
 ===Login Bonus===
 r:"^「ログインボーナス」(\d+)日目で獲得したアイテムです。$"="Item obtained on day $1 "Login Bonus"."
 r:"^「イベントログインボーナス」(\d+)日目で獲得したアイテムです。$"="Item obtained on day $1 "Event Login Bonus"."
