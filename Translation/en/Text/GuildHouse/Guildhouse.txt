@@ -86,8 +86,14 @@ Like情報=Like Info
 ギフトアイテムを贈るキャラをタップしてください=Tap the character you want to give the gift to.
 以下のギフトアイテムを贈ります。よろしいですか？=Send the following gift?
 ギフト消費後の絆ランク=Bond Level After Gift
-消費ギフト=Consumed
+消費ギフト=Consume
 贈る=Give
+すべて=all
+高まる=Increase
+演出を全てスキップ=Skip all bond rank cutscene
+全てのランクアップで演出を再生=Play the cutscene for all ranks
+再生する絆ランク演出を設定してください。=Please set the bond rank cutscene to play.
+演出確認=Cutscene Confirmation
 ストーリー解放=Story Unlock
 
 r:"^絆ランク (\d+)$"=Bond\nRank $1

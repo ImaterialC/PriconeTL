@@ -6,7 +6,7 @@
 血液型=Blood Type
 誕生日=Birthday
 種族=Race
-趣味=Hoby
+趣味=Hobby
 A型=Type A
 B型=Type B
 AB型=Type AB

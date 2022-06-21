@@ -1,4 +1,5 @@
 スターライトソナタ=Starlight Sonata
+竜の再生=Dragon playback
 ノア＠絶対反撃=ノア＠絶対反撃
 ノア＠絶対反撃が=ノア＠絶対反撃が
 勝しよう=Let's win

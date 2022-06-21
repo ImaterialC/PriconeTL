@@ -51,7 +51,7 @@ r:"^現在、スキップチケットの消費枚数が\n(\d+)枚に設定され
 フレンド以外のサポートキャラは、\nステータスが補正されている場合があります。=Rantal characters other than friends\nmay have their status corrected.
 設定できるサポートキャラがいません。=No rental character can be set.
 消費したスタミナはマスターコインに変換されました。=The consumed stamina was converted to Master Coin.
-Lv上限に達した状態で消費した{{B}}は\n{{A}}に変換されます。=The consumed stamina was converted to Master Coin.
+Lv上限に達した状態で消費したスタミナは\nマスターコインに変換されます。=The consumed stamina was converted to Master Coin.
 プレイヤー経験値は最大に達しているので受け取れませんでした。=The Player EXP could not be received because You reached the max Level.
 経験値の最大値が更新されるまで表示しない=Do not display until the maximum\nvalue of the exp value is updated
 チケットで再戦=Use Skip Tix

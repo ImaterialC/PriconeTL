@@ -1,4 +1,4 @@
-ン=Anne
+ン=nne
 読書=Reading
 アンの魔導書=Grimoire Ann
 ===Bio

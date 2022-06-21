@@ -8,7 +8,9 @@
 ボイスデータは、アプリ起動時に削除されます。=Voice data is deleted when the app is launched.
 ボイスデータは、アプリ起動時に都度削除されます。=Voice data for stories is deleted each time the app is launched.
 [FF7C4E,D62146]ボイスデータは、アプリ起動時に都度削除されます。[-]=[FF7C4E,D62146]Voice data for stories is deleted each time the app is launched.[-]
-[FF7C4E,D62146]再生する場合、ボイスデータをダウンロードします。[-]=[FF7C4E,D62146]if you want character voices, then voice data will be downloaded.[-]
+[FF7C4E,D62146]ボイスデータは、アプリ起動時に削除されます。[-]=[FF7C4E,D62146]Voice data is deleted when the app is launched.[-]
+
+[FF7C4E,D62146]再生する場合、ボイスデータをダウンロードします。[-]=[FF7C4E,D62146]if you want character voices, then voice data\nwill be downloaded.[-]
 
 追加データをダウンロードします。\nボイスを再生しますか?=Additional data will be downloaded.\nApprove?
 r:"^ボイスあり\n\(([.0-9]+) ([MG])B\)$"=Voice ON\n($1 $2B)
@@ -16,7 +18,7 @@ r:"^ボイスなし\n\(([.0-9]+) ([MG])B\)$"=Voice OFF\n($1 $2B)
 ログ=Log
 オート=Auto
 オートON=Auto-on
-
+停止=Stop
 このムービーをスキップしてもよろしいですか？=Are you sure you want to skip this movie?
 r:"^第?(\d+)章 第(\d+)話が\n解放可能になりました。$"=Ch $1 Ep $2\nStory has release.
 r:"^第?(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"=Arc $1 Ch $2 Ep $3\nStory has release.

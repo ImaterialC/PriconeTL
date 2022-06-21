@@ -1,5 +1,4 @@
-ユ=Y
-カリ=ukari
+ユ=Yu
 
 【物理】中衛で最高の一杯を自然と共に愉しむ元聖騎士。【至福のひと時】が増えるほどに、味方の物理攻撃力やクリティカル時のダメージを強力に強化し、勝利を掴む。=[Physics] A former paladin who enjoys the best drink with nature in the MG. The more [Moment of Bliss], the stronger the P.ATK of allies and P.Crit Rate.
 

@@ -44,6 +44,7 @@ r:"^魔法ダメージ\+(\d+)$"="Magic Damage +$1"
 r:"^範囲魔法ダメージ\+(\d+)$"="Range Magic Damage +$1"
 r:"^単体魔法ダメージ\+(\d+)$"="Single Magic Damage +$1"
 r:"^全体魔法ダメージ\+(\d+)$"=Total Magic Damage +$1
+r:"^追加魔法ダメージ\+(\d+)$"=Additional Magic Damage +$1
 
 r:"^物理攻撃力アップ\+(\d+)$"="Physical Attack Power up +$1"
 r:"^物理攻撃力ダウン\+(\d+)$"="Physical Attack Power Down +$1"
@@ -53,6 +54,7 @@ r:"^物理ダメージ\+(\d+)$"="Physical Damage +$1"
 r:"^範囲物理ダメージ\+(\d+)$"=Range Physical Damage +$1
 r:"^単体物理ダメージ\+(\d+)$"=Single Physical Damage +$1
 r:"^全体物理ダメージ\+(\d+)$"=Total Physical Damage +$1
+r:"^追加物理ダメージ\+(\d+)$"=Additional Physical Damage +$1
 
 r:"^HP自動回復＋(\d+)$"="HP Regen +$1"
 r:"^HP吸収＋(\d+)$"="HP Drain +$1"

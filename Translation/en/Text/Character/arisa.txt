@@ -1,4 +1,4 @@
-リサ=Arisa
+リサ=risa
 クインティタニアス=Quintitanius
 ===Bio
 【物理】後衛の、長期戦に優れた、森の守護者見習い。ＴＰ回復によるユニオンバーストの速攻が可能。さらに使用後はスキル効果が上昇するため高い殲滅力を誇る。=[Physical] An aspiring forest guardian who excels at drawn-out battles from the RG. Her rapid TP recovery allows constant firing of her UB, boosting her power every use.
