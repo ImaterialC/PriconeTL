@@ -1,10 +1,3 @@
-===Manga 1Koma Title===
-乙女の憧れ=Maiden's yearning
-守る力=Power to protect
-異色のコンビ=Unique combination
-自信満々=Full of Confidence
-ダメだよ？=That's no good?
-必殺技=Special Move
 ===Skill===
 ソウルバインド=ソウルバインド
 ボイドスラッシュ=ボイドスラッシュ
@@ -281,7 +274,6 @@
 ナッツスラッシュ=ナッツスラッシュ
 セブンスヘブン=セブンスヘブン
 スローイングアイ=スローイングアイ
-奥義？=奥義？
 ドラゴンズロアー=ドラゴンズロアー
 マスケットショット=マスケットショット
 ☆アップル＊ミント♪=☆アップル＊ミント♪

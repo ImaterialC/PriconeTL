@@ -1,5 +1,4 @@
 ===Character List===
-腕前=Skill
 戦力=Power 
 物攻=P.ATK 
 魔攻=Magic Attack 

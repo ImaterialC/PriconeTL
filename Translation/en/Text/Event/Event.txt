@@ -19,7 +19,6 @@ r:"^スキップチケットとボスチケットを消費して\n(\d+)体ボス
 登録中=Registered
 ドロップ報酬=Drop reward
 ボス詳細=Boss Details
-第一の忠臣！=1st loyal retainer!
 信頼度=Intimacy
 消費ボスチケット=Boss Tix Cost
 見放題=All-you-can-see

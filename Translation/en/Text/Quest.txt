@@ -24,8 +24,6 @@ r:"^現在、スキップチケットの消費枚数が\n(\d+)枚に設定され
 編成完了=Done
 
 消費挑戦回数=Use attempts
-
-みんなの手本=Example
 メインクエスト=Main Quest
 開催中=Underway!
 クランバトル=Clan Battle

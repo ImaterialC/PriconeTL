@@ -31,7 +31,6 @@ sr:"^(\d{4})年(\d+月)$"=$2, $1
 sr:"^(\d+月)(\d{1,2})日"=$1 $2
 ===Profile Card===
 保存=Save
-買うぜ？=Buy?
 称号変更=Title change
 キャラ表示切替=Change Chara
 カードデザイン=Card Design
@@ -77,7 +76,6 @@ r:"^※全角(\d+)文字以内$"=※Up to  $1 character
 承認あり=Approval
 ランプロフカード=Clan Profile Card
 平均プレイヤーLv=Average P. LV
-作戦説明=Operation description
 個人=Personal
 過去の戦績=Past Results
 個人合計スコア=Individual Total Score

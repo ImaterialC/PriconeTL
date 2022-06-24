@@ -16,7 +16,8 @@
 カォン=Caon
 メルクリウス財団=Mercurius Foundation
 トワイライトキャラバン=Twilight Caravan
-ヴァイスフリューゲル　ランドソル支部=Weiss Flugel Landsol Branch
+ヴァイスフリューゲル　ランドソル支部=Weissflügel Landsol Branch
+ヴァイスフリューゲル ランドソル支部=Weissflügel Landsol Branch
 ルーセント学院=Lucent Academy
 聖テレサ女学院（なかよし部）=Friendship Club
 ニュージェネレーションズ=New Generations
