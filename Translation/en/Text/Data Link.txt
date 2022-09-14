@@ -21,6 +21,7 @@
 データ連携を行うことで、複数の端末でプリンセスコネクト！Re:Diveのゲームデータを共有してプレイできます。データ連携には「プレイヤーID」と「連携パスワード」が必要です。=Linking data makes it possible to play Princess Connect! Re: Dive on multiple devices using the same user data. A player ID and link pasword are required to link data.
 
 サーバーエラー=Server Error
+エラーが発生しました。\n画面を更新してください。=An error has occurred\nPlease update the screen.
 [3C404E]このゲームデータは他のPC版アカウントと連携しています。\nPC版アカウントと連携可能なゲームデータは1つのみです。[-]=[3C404E]This game data is linked to another PC account.\nOnly one game data can be linked to a PC account.[-].
 
 [3C404E]データ連携には、「プレイヤーID」が必要です。\nプレイヤーIDは、スクリーンショットやメモで、\n忘れないようにしてください。\n※プレイヤーIDの確認は、タイトル画面の右下や、\nフッターメニュー「メニュー」内の「プロフィール」\nから行えます。[-]=[3C404E]A player ID is required to link data.\nPlease write down your player ID or take a screenshot\nso that you do not forget it.\n*You can view your player ID at the bottom right of the\ntitle screen, or in Profile under Menu in the menu bar.[-].

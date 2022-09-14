@@ -1,5 +1,5 @@
 ===Guildhouse===
-
+データの取得に失敗しました。\nタイトルへ戻ります。=Data acquisition failed.\nReturn to the title.
 んなのカレンダー=veryone's Calendar
 この日付は選択できません。=This date cannot be selected.
 壁画の獲得演出を閲覧すると確認できます。=You can check it by viewing the mural acquisition production.
@@ -188,13 +188,20 @@ r:"^プレイヤーLv(\d+)以上 / (\d+)ルピ$"=P. Lv$1 or more & $2 Rupies
 
 ルピ=Rupies
 消費ルピ=Use
-Lvアップ条件=LV up Req.
-Lvアップする=Lv Up
-Lvアップ確認=LV up Confirmation
+Lvアップ条件=LVup Req.
+Lvアップする=LvUp
+Lvアップ確認=LVup Confirmation
 必要時間=Time
 中止=cancel
 以下の家具をLvアップさせます。よろしいですか？=The following furniture will be upgraded. Is this OK?
 Lvアップが完了し、アイテムの生産が開始されました。=LV up has been completed\nand Item production has been started.
+r:"^\[FFBB00,CE4F00\](\d+)分\[-\]$"=[FFBB00,CE4F00]$1 minutes[-]
+r:"^(\d+)分(\d+)秒$"=$1m $2s
+r:"^(\d+)分$"=$1m
+r:"^(\d+)秒$"=$1s
+Lvアップ中止確認=LV-up Cancellation Confirmation
+返還ルピ=Refund Rupies
+[FF7C4E,D62146]Lvアップに消費したルピは半額戻ります。[-]=[FF7C4E,D62146]Rupi consumed for Lv Up will be returned by half.[-]
 ===upgrade done===
 r:"^\[3C404E\]Lv(\d+)→\[-\]\[FFBB00,CE4F00\]Lv(\d+)\[-\]$"=[3C404E]Lv$1→[-][FFBB00,CE4F00]Lv$2[-]
 

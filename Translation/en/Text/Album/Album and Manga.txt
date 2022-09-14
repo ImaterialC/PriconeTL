@@ -2,7 +2,7 @@ Aoi
 気合入れて募集=Doing Her Best
 キャンプマイスター=Camp Meister
 得意分野（かも）=Specialty (Maybe)
-ぼっち専用=For Loner Only
+ぼっち専用=I'm Not Worthy
 
 Akari
 一緒にいきたい=Puppy-Dog Eye
@@ -18,6 +18,9 @@ Anna
 
 Anne
 きょうみしんしん=I'm Curious!
+
+ames
+ぷにぷにプニプニ=Punipuni Punipuni
 
 Arisa
 感動の出会い=Joyful Revelation
@@ -159,7 +162,7 @@ Ninon
 新忍法=Ninpo: Konohagakure no Jutsu
 
 Neneka
-ドッキリ大成功=Prank Success
+ドッキリ大成功=You Got Pranked!
 
 Nozomi
 ちょっとおでかけ=Incognito
@@ -259,3 +262,6 @@ Yukari
 Yuki
 自信満々=The Finest Prize of All
 ボクと癒やしタイム=Healing Time With FemBoy
+
+vampy
+さいきょーですし♪=the best-desushi♪

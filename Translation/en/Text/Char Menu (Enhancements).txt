@@ -19,7 +19,7 @@ Lv強化=Level Up
 メモリーピースとマナが不足しています。=Insufficient Memory Shards and Manas.
 ャラ強化=Enhance Characters
 強化する=Refine
-
+専用装備グロウスフィアを使用するにはRANK7にする必要があります。=At least rank 7 to use a Unique Equipment growsphere.
 ランクアップ=Rank Up
 装備ステータス=Equipment Stats
 使う=Use
@@ -50,7 +50,6 @@ Lv強化=Level Up
 Lv上限に達しているため強化できません。=cannot be refined because it has reached the Max Level.
 キャラLv以上にスキルLvは上げられません。=Skill Lv cannot be raised higher than character Lv.
 この装備の強化段階は最大です。=This equipment cannot be refined any further.
-ジュエルを消費して装備を強化します。\nよろしいですか？=Consumes Jewel and refine the equipment.\nIs this OK?
 強化素材を選択してください。=Please select a refinement material.
 装備可能なスロットがありません。=There is no slot that can be equipped.
 以下のアイテムを消費しておまかせ強化しますか？=Use the following items to enhance\ncharacter as recommended?
@@ -70,6 +69,16 @@ r:"^\[3C404E\]アイテムを消費して、強化Lv上限を\[-\]\[FFBB00,CE4F0
 
 このキャラの★6は今後登場予定です。=A ★6 of this character will be\ncoming in the future.
 パーティ情報がありません。=There is no party information.
+[FF7C4E,D62146]専用装備グロウスフィアを使用できます。[-]=[FF7C4E,D62146]UE Growsphear can be used.[-]
+
+アイテム入手方法=How To Get Items
+★6解放クエストに必要なアイテムの一部をセットします。よろしいですか？=Set some of the items required for the release ★6 quest. Is it OK? 
+まとめてセット確認=Collective Set Confirmation
+
+今の私にできることが\n解放可能になりました。=What I can do now has become liberating.
+あるけな=Somehow
+生産者の顔=Producer's face
+上限解放に必要なキャラLvを満たしていません。\n「まとめて強化」ではEXPポーションを使用して\n上限解放を行えます。=The character Lv required to unlock the upper limit is not met. You can unlock the upper limit by using EXP potions in "Uncap + Lv".
 ===Equip===
 以下のアイテムを消費して装備しますか？=Do you want to consume and equip the following items?
 まとめて装備確認=Equip All?
@@ -183,8 +192,8 @@ EXスキルスロット=EX skill slot
 必要数=Req
 購入数=Price
 
-セットに必要なプリンセスオーブ=Princess Orb required for set
-セットに必要なプリンセスオーブ=Princess orb required for the set
+セットに必要なプリンセスオーブ=Princess Orb required for fusion
+セットに必要なプリンセスオーブ=Princess orb required for the fusion
 プリンセスオーブは最大まで強化する必要があります。\n各段階で必要数が異なります。=You needs Princess Orb to enhance.\nThe required number is different at each stage.
 このクエストは勝利するまで何度でも挑戦可能です。=This quest can be challenged\nas many times until you win.
 編成固定キャラ=Required
@@ -254,8 +263,9 @@ RANKボーナス詳細のステータス=Status Details
 キャラスフィア=Character Spheres
 専用装備上限Lv=UE max Level
 専用装備Lv=UE Level
-未登場=Not appearing
-専用装備グロウスフィア=Unique Equipment Spheres
+未登場=N/A
+登場=Implemented
+専用装備グロウスフィア=UE Spheres
 （キャラ）=(Character)
 ====NPC
 プレイヤーLvが、キャラクターLvの上限になります。\nメインクエストやミッション達成で、プレイヤーEXPをGETし\nLvアップを目指しましょう。=Player Lv is the upper limit of character Lv. Get player XP and aim for Lv up by completing main quests and missions.

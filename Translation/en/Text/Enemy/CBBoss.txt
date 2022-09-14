@@ -35,3 +35,6 @@
 メサルティム=Mesarthim
 ライデン=Raiden
 ムーバ=Night Mare
+マダムエレクトラ=Madam Electra
+メガラパーン=Mega Laphan
+メデューサ=Medusa

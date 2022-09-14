@@ -26,6 +26,10 @@ r:"^\[FFBB00\,CE4F00\]([0-9]+)分前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1m ag
 
 ===Liked for stamnina
 sr:"^(\[.*\])(.{1,10})さんにいいねをして\nスタミナを10獲得しました。\[-\]$"=$1You Liked $2-san\nand you got 10 stamina.[-]
+
+r:"^\[3C404E\]\[3C404E\]クランメンバーに\[FFBB00,CE4F00\](\d+)\[-\]回いいねされて、\nマナ×\[FFBB00,CE4F00\](\d+)\[-\]を獲得しました。\[-\]\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Clan Member liked you,\nReceive Mana × [FFBB00,CE4F00]$2[-][-]
+
+
 [FF7C4E,D62146]いいねされたクランメンバーにはマナがおくられます。[-]=[FF7C4E,D62146]Liked clan members will receive Mana.[-]
 いいね完了=Like Complete
 
@@ -130,7 +134,7 @@ r:"^パーティ(\d+)と\n対戦$"=Party $1\nMatch
 r:"^\[FF7C4E,D62146\]本日の残り寄付数は(\d+)です。\[-\]$"=[FF7C4E,D62146]$1 donations left today.[-]
 ラ=Ra
 ンキング=nking
-
+トレーニングモード解放中=Training Mode was Open
 sr:"^\[25CFDE,0E6C98\](\d+月)全クランランキング\[-\]$"=[25CFDE,0E6C98]Global Ranking($1)[-]
 ===Clan Battle===
 CPと挑戦回数は毎日05:00にリセットされます。=CPs & attempts will be reset at 5:00(JST) daily.
@@ -164,6 +168,11 @@ r:"^トレーニング (\d)段階目$"=Training Tier $1
 今回のクランバトル開催期間中は表示しない=Do not display during CB
 詳細=Detail
 [FFFDF7,FFE0E9]圏外[-]=[FFFDF7,FFE0E9]N/A[-]
+[FDFFF8,CCFFEF]圏外[-]=[FDFFF8,CCFFEF]N/A[-]
+模擬戦・トレーニングバトルのバトル速度上限を設定します。=Set the battle speed maximum for mock battles and training battles.
+モンスター討伐演出設定=Monster Subjugation Speed Setting
+モンスター討伐演出を再生するか設定します。=Set monster subjugation speed.
+
 バトルログ=Fight Log
 トレーニング\nモード=Training Mode
 トレーニング\\nモード=Training\\n Mode
@@ -265,7 +274,7 @@ CPが300たまるごとに挑戦可能数がアップします。\nCPはメイ�
 所属クランのランキング情報がありません。=No ranking information at the moment
 いいねは1日1回のみ利用可能です。=Likes can only be used once per day
 
-r:"^(\d+月)クランバトル最終日！$"=The last day of Clan Battle ($1)!
+sr:"^(\d+月)クランバトル最終日！$"=The last day of Clan Battle ($1)!
 クランバトル開催期間が終了します=The Clan Battle period will end
 r:"^本日([0-9/: ]+)に$"=Today $1 (JST)
 ===Reward
@@ -397,7 +406,7 @@ sr:"^(\d+月)クランバトルの順位が確定しました！$"=$1 Clan Battl
 sr:"^\(クラン内ランキング　(\d+位)\)$"=(in-clan Rank $1)
 
 sr:"^\[25CFDE,0E6C98\](\d+月)クランバトル\[-\]$"=[25CFDE,0E6C98]$1 Clan Battle[-]
-ランキング報酬=Rewards:
+ランキング報酬=Rank Rewards
 ランキング発表！=Ranking Announcement!
 ※報酬はプレゼントに順次、送られます。=※Rewards will be sent to Present Box.
 ===NPC===

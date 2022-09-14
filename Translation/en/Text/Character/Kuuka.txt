@@ -22,7 +22,7 @@
 妄想プロテクション=Sheltered by Fantasy
 
 ===UB *6
-r:"^(\d+)ダメージ分の魔法吸収バリアを展開する\n自分のＨＰを(\d+)回復\n自分が受ける魔法ダメージを25％カット$"=Deploys barrier that absorbs $1 M.DMG.\nRecovers own HP by $2. M.DMG cut to own by 25％.
+r:"^(\d+)ダメージ分の魔法吸収バリアを展開する\n自分のＨＰを(\d+)回復\n自分が受ける魔法ダメージを25％カット$"=Deploys barrier that absorbs $1 M.DMG for 18s.\nRecovers own HP by $2.\nApplies M.DMG cut to own by 25％ for 18s.
 
 自分に魔法吸収バリアを展開し、ＨＰを中回復する。さらに自分に魔法ダメージカット効果を付与する。=Set a barrier around oneself that absorb M.DMG, and recovers own HP by a moderate amount, and grant m. damage cut to own.
 

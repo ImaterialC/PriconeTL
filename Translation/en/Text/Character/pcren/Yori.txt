@@ -8,11 +8,9 @@ Yori
 ライトニングジャベリン=Lightning Javelin
 前方範囲内の敵すべてに魔法中ダメージを与える。=Deals moderate M.DMG to all enemies in range.
 ===S1
-オーバーチャージ=Overcharge
 ＨＰを消費して、自分の魔法攻撃力を大アップさせる。=Large boost to own M.ATK at the cost of HP.
 r:"^自分のＨＰを(\d+)消費\n自分の魔法攻撃力を(\d+)アップ$"=Reduces own HP by $1.\nBoosts own M.ATK by $1.
 ===S2
-シャドウブラスト=Shadow Blast
 前方範囲内の敵すべてに魔法小ダメージを与える。=Deals moderate M.DMG to all enemies in range.
 ===ex
 ライトニングブースト=Lightning Surge
@@ -22,7 +20,6 @@ r:"^自分のＨＰを(\d+)消費\n自分の魔法攻撃力を(\d+)アップ$"=R
 ジャッジメントジャベリン=Judgment Javelin
 前方範囲内の敵すべてに魔法大ダメージを与える。ヨリのＨＰが低いほど、ダメージがアップする。=Great M.DMG to all enemies within the front range. The lower the HP of Yori, the more damage it will increase.
 ===S1
-オーバーチャージ+=Overcharge+
 ＨＰを消費して、自分の魔法攻撃力を特大アップさせ、さらにＴＰを中回復させる。=Massive boost to own M.ATK at the cost of HP. Recovers own TP by a moderate amount.
 r:"^自分のＨＰを(\d+)消費\n自分の魔法攻撃力を(\d+)アップ\n自分のＴＰを(\d+)回復$"=Reduces own HP by $1.\nBoosts own M.ATK by $1.\nRecovers own TP by $1.
 ===S2

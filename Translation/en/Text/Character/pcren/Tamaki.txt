@@ -8,11 +8,9 @@ Tamaki
 ねこねこファイナルブレイク=Kitty Cat-aclysm
 魔法攻撃力が最も高い敵１キャラに物理特大ダメージを与える。=Deals massive P.DMG to an enemy with the highest M.ATK.
 ===S1
-ねこねこスローイング=Feline Fling
 魔法攻撃力が最も高い敵１キャラに物理中ダメージを与え、さらに魔法攻撃力を小ダウンさせる。=Deals moderate P.DMG to the enemy with the highest M.ATK and lowers its M.ATK by a small amount.
 r:"^敵単体に(\d+)の物理ダメージ\n敵単体の魔法攻撃力を(\d+)ダウン$"=Deals $1 P.DMG to an enemy.\nLowers an enemy's M.ATK by $1.
 ===S2
-猫の気まぐれ=Finicky Feline
 魔法攻撃力が最も高い敵１キャラのＴＰを小ダウンさせ、さらに自分のＴＰを小回復する。=Reduces the TP of the enemy with the highest M.ATK power by a small amount while also recovering own TP by a small amount.
 ===ex
 マーベラスキャッツ=One Myarvelous Cat
@@ -22,7 +20,6 @@ r:"^敵単体に(\d+)の物理ダメージ\n敵単体の魔法攻撃力を(\d+)�
 魔法攻撃力が最も高い敵１キャラに物理特大ダメージを与える。対象が魔法攻撃をする敵だった場合、ダメージが増加し、さらに物理防御力を特大ダウンさせる。=Gain physical oversized damage to one character with the highest M.ATK power. If the subject is an enemy who makes a M.ATK, the damage will increase and the P.DEF will be oversized.
 r:"^対象が物理攻撃をする敵だった場合(\d+)の物理ダメージ\n対象が魔法攻撃をする敵だった場合(\d+)の物理ダメージ\n対象が魔法攻撃をする敵だった場合物理防御力を(\d+)ダウン$"=If the subject is an enemy who attacks P.ATKs, the P.DMG of $1\nIf the subject is an enemy who makes a M.ATK, the P.DMG of $1\nIf the subject is an enemy who makes a M.ATK, the P.DEF is $1 down
 ===S1
-ねこねこスローイング+=Feline Fling+
 魔法攻撃力が最も高い敵１キャラに物理中ダメージを与え、さらに魔法攻撃力を中ダウンさせスタンさせる。=Deals moderate P.DMG to the enemy with the highest M.ATK, lowers its M.ATK by a moderate amount, and inflicts Stun.
 r:"^敵単体に(\d+)の物理ダメージ\n敵単体の魔法攻撃力を(\d+)ダウン\n敵単体を一定時間行動不能にする$"=Deals $1 P.DMG to an enemy.\nLowers an enemy's M.ATK by $1.\nRenders an enemy immobile for a set period of time.
 ===S2

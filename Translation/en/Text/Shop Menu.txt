@@ -101,6 +101,9 @@ r:"^(\d)個になります。$"=$1 per Shard
 sr:"^([べ-・ー＆]{2,11})(\（.{2,10}\）)?の\nメモリーピースの購入数が(\d+)になりました。$"=The Total number of purchases of\n$1$2's Memory Shard is $3.
 ====Reset
 r:"^([0-9,]+)で今すぐ更新$"=$1: To Reset
+r:"^([0-9,]+)で一部更新$"=$1: To Reset Some.
+一部毎日5:00更新=Reset some Daily at 5:00(JST)
+
 sr:"^\[3B3F4D\]([べ-・ー]{2,12})を\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]個使用して\nショップの内容をリセットしますか\?\[-\]$"=[3B3F4D]Use $1 ×[FFBB00,CE4F00]$2[-]\nto reset the contents of the shop?[-]
 
 r:"^次回ラインナップは(\d+):00更新$"=Next Reset at $1:00(JST)

@@ -28,7 +28,7 @@ r:"^敵単体に(\d+)の魔法ダメージ$"=Deals $1 M.DMG to an enemy.
 
 ===Skill 2
 目の前の敵１キャラの魔法防御力を大ダウンさせる。=Lowers M.DEF of an enemy directly in front by a moderate amount.
-r:"^敵単体の魔法防御力を(\d+)ダウン"=Lowers an enemy’s M.DEF by $1 for 12s.
+r:"^敵単体の魔法防御力を(\d+)ダウン$"=Lowers an enemy’s M.DEF by $1.
 ===Unique
 デモンズトライデント=Demon's Trident
 

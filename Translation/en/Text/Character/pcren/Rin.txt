@@ -9,7 +9,6 @@ Rin
 味方全体のＨＰを小回復し、さらに物理攻撃力と魔法防御力を中アップさせる。=Recovers HP of all allies by a small amount. Small boost to their P.ATK and M.DEF.
 r:"^味方全体のＨＰを(\d+)回復\n味方全体の物理攻撃力を(\d+)アップ\n味方全体の魔法防御力を(\d+)アップ$"=Recovers all allies' HP by $1.\nBoosts all allies' P.ATK by $1.\nBoosts all allies' M.DEF by $1.
 ===S1
-果報は寝て待てモード=Patience Is a Virtue
 自分の周囲の味方すべての魔法防御力を大アップさせる。=Large boost to M.DEF of all nearby allies.
 r:"^範囲内の味方の魔法防御力を(\d+)アップ$"=Boosts M.DEF of all allies in range by $1.
 ===S2
@@ -21,7 +20,6 @@ r:"^範囲内の味方の魔法防御力を(\d+)アップ$"=Boosts M.DEF of all 
 味方全体のＨＰを小回復し、物理攻撃力と魔法防御力を特大アップ、物理クリティカルを大アップ、ＴＰ上昇を小アップさせる。さらに次の攻撃のダメージ量に応じて追加でＨＰを回復させる。=The HP of all allies is recovered small, the P.ATK and the M.DEF power are increased, the P.Crit Rate is greatly improved, and the TP rise is increased. Furthermore, the additional HP is recovered according to the amount of damage of the next attack.
 r:"^味方全体のＨＰを(\d+)回復\n味方全体の物理攻撃力を(\d+)アップ\n味方全体の魔法防御力を(\d+)アップ\n味方全体の物理クリティカルを(\d+)アップ\n味方全体のＴＰ上昇を(\d+)アップ$"=Recovery of the HP of all allies $1\nUp $1 of P.ATK of all allies\nUp $1 the M.DEF of all allies\nUp $1 the P.Crit Rate of all allies\nUp $1 up the TP rise of all allies
 ===S1
-果報は寝て待てモード+=Patience Is a Virtue+
 自分の周囲の味方すべての魔法防御力を大アップさせ、さらに物理攻撃力を大アップ、物理クリティカルを中アップさせる。=Large boost to M.DEF of all nearby allies, moderate boost to their P.ATK, and small boost to their P.Crit Rate rate.
 r:"^範囲内の味方の魔法防御力を(\d+)アップ\n範囲内の味方の物理攻撃力を(\d+)アップ\n範囲内の味方の物理クリティカルを(\d+)アップ$"=Boosts M.DEF of all allies in range by $1.\nBoosts P.ATK of all allies in range by $1.\nBoosts P.Crit Rate rate of all allies in range by $1.
 ===S2

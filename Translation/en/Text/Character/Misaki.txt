@@ -22,7 +22,7 @@ r:"^範囲内の敵にそれぞれ(\d+)の魔法ダメージ$"=Deals $1 M.DMG pe
 r:"^呪いまたは呪詛状態ではない敵に(\d+)の魔法ダメージ\n呪いまたは呪詛状態の敵に(\d+)の魔法ダメージ\n敵が呪いまたは呪詛状態の場合、誘惑する\n毎秒ダメージが初期値(\d+)の30％ずつアップするダメージを与える呪詛状態にする\n(\d+)ダメージを与える呪い状態にする$"=Deals $1 M.DMG to enemies.\nDeals $2 M.DMG instead if enemies in a cursed/hexed state.\nInflict curse $3 M.DMG/s.\nIf the Enemy is cursed/hexed, Inflict charm for 5s.\nIf the enemy is cursed/hexed, inflict hex $4+30% M.DMG/s.
 ===S1
 最も近くの敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、さらに行動速度を大ダウンさせる。=Deals moderate M.DMG to all enemies in range and reduces their action speed by a large amount.
-r:"^範囲内の敵に(\d+)の魔法ダメージ\n範囲内の敵の行動速度を一定時間低下させる$"=Deals $1 M.DMG to enemies in range.\nReduces action speed of enemies within range 200 for 10s.
+r:"^範囲内の敵に(\d+)の魔法ダメージ\n範囲内の敵の行動速度を一定時間低下させる$"=Deals $1 M.DMG to enemies in range.\nReduces action speed of enemies within 200 range for 10s.
 
 ===S2
 ===ex

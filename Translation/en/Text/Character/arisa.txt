@@ -23,8 +23,8 @@ r:"^敵単体に(\d+)の物理ダメージ\n敵単体の行動速度を一定時
 
 最も魔法攻撃力が高い敵１キャラに物理中ダメージを与え、さらに魔法攻撃力と行動速度を小ダウンさせる。=Deals moderate P.DMG to the enemy with the highest M.ATK. Lowers their M.ATK and reduces their action speed by a small amount.
 ===Skill 1 
-最も魔法攻撃力が高い敵１キャラに物理小ダメージを与え、さらに行動速度を小ダウンさせる。=Deals small physical damage to the enemy with the highest M.ATK and reduces their action speed by a small amount.
-r:"^敵単体に(\d+)の物理ダメージ\n敵単体の行動速度を一定時間低下させる$"=Deals $1 physical damage to an enemy.\nReduces an enemy’s action speed by 20% for 8s.
+最も魔法攻撃力が高い敵１キャラに物理小ダメージを与え、さらに行動速度を小ダウンさせる。=Deals small P.DMG to the enemy with the highest M.ATK and reduces their action speed by a small amount.
+r:"^敵単体に(\d+)の物理ダメージ\n敵単体の行動速度を一定時間低下させる$"=Deals $1 P.DMG to an enemy.\nReduces an enemy’s action speed.
 
 ===Skill 2
 r:"^自分のＴＰを(\d+)回復\nユニオンバースト使用後、自分のＴＰを(\d+)回復$"=Recovers own TP by $1. \nAfter using UB, recovers own TP by $2.

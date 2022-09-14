@@ -2,7 +2,8 @@
 すべて受け取る=Receive All
 受け取り履歴=History
 [FF7C4E,D62146]期限が切れたプレゼントは自動的に削除されます。一度に受け取れるプレゼントは100件までです。[-]=[FF7C4E,D62146]Presents will be automatically deleted once their time limit expires.\nUp to 100 presents can be received at once.[-]
-
+あなたがつないだ絆を\n全力全開でつなぎとめて\n今日までの思い出と\n明日からの希望を守ります！=We will connect the bonds we connect with all our best to protect our memories and hope from tomorrow!
+スタミナ以外=Other than stamina
 新しい順=Newest
 古い順=Oldest
 家具=Furniture
@@ -15,6 +16,9 @@
 報酬はプレゼントに送られました。=Reward have been sent to the Present Box.
 所持上限を超えたアイテムはプレゼントに送られました。=Items that exceed the possession limit have been sent as gifts.
 「信頼度エピソード」で獲得したアイテムです。=item acquired from "Intimacy Episode"
+運営からのお詫びの品です。=It is an apology item from the operation.
+
+ガチャ更新によりキャラ交換Ptを変換したアイテムです。=It is an item that converted character replacement PT by gacha update.
 ===Item List Receive===A->Item,B->Number
 
 ===Item Receive===
@@ -36,6 +40,8 @@ sr:"^(.{3,18})×(\d+)$"=$1 × $2
 受け取り日時=Date and time
 プリンセスアリーナの防衛報酬です。=Princess Arena defense reward.
 バトルアリーナの防衛報酬です。=Battle Arena defense reward.
+「プリンセスアリーナ」で獲得したアイテムです。=This is an item obtained in "Princess Arena".
+「バトルアリーナ」で獲得したアイテムです。=This is an item obtained in "Battle Arena".
 
 sr:"^バトルアリーナ(\d+位)のランキング報酬です。$"="Battle Arena $1 ranking reward."
 sr:"^プリンセスアリーナ(\d+位)のランキング報酬です。$"="Princess Arena $1 ranking reward."
@@ -45,6 +51,8 @@ sr:"^([0-9]{1,2}月)クランバトルランキング(\d+位)の報酬です。$
 
 スタミナ\n受取対象外=Exclude\nStamina
 期限を過ぎていたため、一部のプレゼントは受け取れませんでした。=Some gifts were not received because the deadline had passed.
+所持上限を超えて獲得したスタミナです。=It is a stamina acquired beyond the upper limit.
+スタミナ受取対象外にチェックしているため受け取れません。=You cannot receive it, you exclude it. check your check Box.
 ===Login Bonus===
 r:"^「ログインボーナス」(\d+)日目で獲得したアイテムです。$"="Item obtained on day $1 "Login Bonus"."
 r:"^「イベントログインボーナス」(\d+)日目で獲得したアイテムです。$"="Item obtained on day $1 "Event Login Bonus"."
@@ -52,5 +60,7 @@ r:"^「復刻イベントログインボーナス」(\d+)日目で獲得した�
 
 r:"^「スタートダッシュログインキャンペーン」(\d+)日目で獲得したアイテムです。$"="Item obtained on day $1 "Start Dash Log In Campaign"."
 r:"^「事前登録キャンペーン」の(\d+)万人達成報酬です。$"="Item obtained on day $1 "Pre-registration Campaign"."
+r:"^「([0-9.]+) Year Anniversary スペシャルログインボーナス」(\d+)日目で獲得したアイテムです。$"="This item was obtained on the day $2 of the $1 Year Anniversary Special Login Bonus."
+
 メンテナンスにご協力いただいたお礼です。=Thank you for your cooperation in maintenance.
 運営からのプレゼントです。=Gift from the management.

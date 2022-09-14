@@ -1,0 +1,24 @@
+事件調査もお仕事です=Incident Investigation is Also a Job.
+新人サポートもお仕事です=New employee support is also a Job.
+犯人逮捕もお仕事です=A Job to Catch Criminals.
+人材発見がお仕事です=A Job to Find Talent
+【ギルド管理協会】職員の親切なお姉さん=Kind lady of Guild Management Association staff
+
+書類仕事、散歩、ボードゲーム=Document Work, Walk, Board game
+【魔法】後衛で皆を支える、ギルド管理協会の職員さん。\n通常攻撃の代わりに味方の能力を高める魔法を掛け、\n味方の守護や敵への妨害など、完璧なサポートをこなす。=[Magic]A staff of the GMA who supports everyone as a RG. Instead of normal attacks, he casts magic that enhances the abilities of his allies, providing perfect support such as protecting allies and hindering enemies.
+
+コールオブギルド=Call of Guilds
+味方全体のクリティカル時のダメージを小アップさせ、敵全体のクリティカル時のダメージを中ダウンさせる。さらに、味方全体に物理/魔法無効バリアを展開する。=Slightly increases the critical damage of all allies, and moderately decreases the critical damage of all enemies. In addition, deploys a physical/magical nullification barrier to all allies.
+r:"^味方全体のクリティカル時のダメージを10%アップ\n敵全体のクリティカル時のダメージを25%ダウン\n(\d+)ダメージ分の物理魔法無効バリアを展開する$"=Boosts all allies’ P.&M.Crit DMG by 10% for 18s.\nInflict P.&M. Crit DMG Debuff to all enemies by 25% for 18s.\nDeploy a barrier that Nullifies P.&M. DMG $1 to All Allies for 18s.
+
+味方全体の物理攻撃力と魔法攻撃力\nを大アップさせ、さらに力の魔字を\n刻む。力の魔字が刻まれている間、\n味方の行動速度を大アップさせる。\n（このスキルの効果は他の行動速度\n変化スキルと重複する）=Greatly increases the physical attack power and magic attack power of all allies, and engraves the power spell. Greatly increases the action speed of allies while the power spell is engraved. (The effect of this skill overlaps with other action speed change skills)
+
+敵全体に魔法中ダメージを与え、さ\nらに大きく吹き飛ばす。=Inflicts moderate magic damage to all enemies and blows them away.
+
+ペンオブハーモニー+=Pen of Harmony+
+ペンオブハーモニー=Pen of Harmony
+
+このスキルのスキルレベルは「コールオブギ\nルド」と連動しています=The skill level of this skill is linked to "Call of Guild"
+
+味方全体の物理攻撃力と魔法攻撃力と物理防御力と魔法防御力を中アップさせる。=Moderately increases physical attack, magic attack, physical defense, and magic defense of all allies.
+味方全体の物理攻撃力を初期値の20%アップ\n味方全体の魔法攻撃力を初期値の20%アップ\n味方全体の物理防御力を初期値の20%アップ\n味方全体の魔法防御力を初期値の20%アップ=Boosts all allies' P.ATK by 20% of initial value for 12s.\nBoosts all allies' M.ATK by 20% of initial value for 12s.\nBoosts all allies' P.DEF by 20% of initial value for 12s.\nBoosts all allies' M.DEF by 20% of initial value for 12s.

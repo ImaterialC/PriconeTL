@@ -27,6 +27,23 @@
 高い魔法攻撃力を宿し、強力な範囲攻撃を行うよう\nプログラムされたマルチターゲットのボスが現れる。=A multi-target boss programmed to have a high\nM.ATK and perform a powerful range attack.
 
 モンスターHPが\n減少しない状態にする=Monster HP\nCan not decrease
+
+
+クランバトルボス=Clan Battle Boss
+
+sr:"^(\d+)年(\d+月) クランバトル（([0-9 :/]+)まで）$"=Clan Battle $2 $1 (until $3)
+
+
+前月のクランバトル登場ボスとバトルできます。=Challange the last month's Clan Battle's boss.
+※限界突破によるキャラの強化内容は反映されません。=※Character's Limit Break Level not applied.
+
+
+稽古場バトルをリタイアしますか？=Do you want to retire the rehearsal area battle?
+稽古場バトルリタイア=Rehearsal room battle retirement
+申請相手のフレンドが上限に達しています。=The friend of the application partner has reached the upper limit.
+無料対象のためアイテムやマナは消費しません。=Items and mana are not consumed because they are free.
+r:"^難易度「(.+)」のクリア報酬です。$"="It is a clear reward for the difficulty "$1"."
+初回クリア報酬獲得=Get first time clear reward
 ===Mission
 古場ミッション=ehearsal Mission
 稽=R
@@ -36,5 +53,9 @@ sr:"^(\[[0-9A-F]{6}\])?(ガーゴイル|マグスガーゴイル|ガードガー
 
 ===NPC
 ここで腕試しを\nしていきましょう！\n全力全開、\nがんばっちゃいますよ～！=Let's try your skills here! I'll do my best, I'll do my best!
+ここで腕試しが\nできるみたいね。\n試してみるのも\nいいんじゃない？=It looks like you can try your skills here. Isn't it good to try it?
 腕試しをがんばれば、\n報酬がもらえますよ。\n挑戦していきましょう☆=If you do your best to test your skills, you will be rewarded.\nLet's try☆
 こちらでは、さまざまなタイプのボスと腕試しができます。\n何度でも挑戦することができますので、\n主さまに合った難易度で挑戦してみましょう。=Here My lord can test your skills with different types of bosses. My lord can try as many times as My lord like, so let's try it with the difficulty level that suits My lord.
+腕試しができるようです。\nここで練習を重ね、実戦に\n活かしてまいりましょう。=It seems that you can try your skills. Let's practice here and use it in the actual battle.
+ここでは腕試しが\nできるんですって。\n自分の実力を測るのに、\nちょうどよさそうね。=You can try your skills here. It looks good to measure your ability.
+

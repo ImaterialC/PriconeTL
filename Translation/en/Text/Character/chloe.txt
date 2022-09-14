@@ -14,7 +14,7 @@
 クロエ勤労日報／飲食店編=Chloe's Working Diary / Restaurant Part
 クロエ勤労日報／配送業編=Chloe's Working Diary / Delivery Job Part
 クロエ勤労日報／服飾店編=Chloe's Working Diary / Clothing Store Part
-クロエ勤労日報／幕間=Chloe's Working Diary / Interlude
+クロエ勤労日報／幕間=Chloe's Working Diary / Epilogue
 クロエ勤労日報／採取係編=Chloe's Working Diary / Collection Staff Part
 クロエ勤労日報／古物商編=Chloe's Working Diary / Secondhand Dealer Part
 クロエ勤労日報／居酒屋編=Chloe's Working Diary / Japanese Bar Part

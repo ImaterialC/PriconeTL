@@ -1,0 +1,45 @@
+r:"^最果てを目指す旅路([0-9\-\(\)\w （）]*)$"=Journey to the End $1
+r:"^世界の果ての森([0-9\-\(\)\w （）]*)$"=Forest at the End of the World $1
+ホーリーエンブレイス=Holy Embrace
+ほっと一息、お茶の時間=Relievedly a breath, tea time
+二人のティータイム=Two tea time
+特製の服=Special clothes
+哀執のバロメッツ=Sorrowful Baromets
+目的地はどこに=Where is the destination
+
+夢の鞄に\n詰めるもの=pack in\ndream bag
+寂しい時の\nおまじない=Lonely\ncharm
+冒険のための基礎=Basics for adventure
+バロメッツ=Baromets
+
+スーパー●●●=Super ●●●
+すごい強いアヤネちゃん。=A very strong Ayane-chan.
+石頭のアヤネちゃん。=together with Ayane-chan.
+いつも通りのアヤネちゃん。=Ayane-chan as usual.
+[3C404EFF]どんな私だと思う？=[3c404eff] What kind of me do you think?
+[3C404EFF]そうしたら私が守ってあげるね♪=[3c404eff] Then I will protect you♪
+
+モフモフ勝負とは=What is Flufy game?
+[3C404EFF]リマさんの言ってたモフモフ勝負って=[3C404EFF] Mofumofu game that Lima said
+リマちゃんも、もこもこ大きくなったりするのかな。=I wonder if Lima will get bigger.
+アヤネちゃんが審判になるのは？=Ayane-chan will be the referee?
+アヤネちゃんも参戦してみよう。=Ayane-chan, let's join the battle.
+[3C404EFF]\n何だったんだろう？=[3c404eff]\nWhat was I would?
+[3C404EFF]今度やってもらおうよー！=[3c404eff] Let's do it next time!
+
+[3C404EFF]私がどこかで一人ぼっちで、=[3c404eff] I'm alone somewhere,
+[3C404EFF]\nすっごく寂しくなってたら……=[3c404eff] If i am alone...
+[3C404EFF]お兄ちゃんは来てくれる？=[3c404eff] Will onii-chan come?
+
+ぷうきちと一緒に駆けつける。=Rush with Puukichi.
+離れていても気持ちはずっと一緒だよ。=Even if we are apart, our feelings are always together.
+必ず行くよ。=I will definitely go.
+
+冒険しよう！=Let's adventure!
+ランドソルを10周！=10 laps of Land Sol!
+いっぱい食べよう。=Let's eat a lot.
+
+フリルやレースを足してみよう。=Let's add frills and laces.
+僕もお揃いが欲しい。=I want a match too.
+マホ姫の新境地だね。=New frontier for Princess Maho.
+[3C404EFF]似合うてますやろか？=[3c404eff]Does it look good on me?

@@ -26,6 +26,7 @@
 （エンジェル）= (Angel)
 （デレマス）= (Deremas)
 （キャンプ）= (Camp)
+（エクスプローラー）= (Explorer)
 クリスティーナ=Christina
 ラビリスタ=Labyrista
 ペコリーヌ=Pekorine
@@ -120,3 +121,10 @@ sr:"^・([べ-・ー＆]{2,11})(\（.+\）)?\n・([べ-・ー＆]{2,11})(\（.+\
 ===Story Nick Name
 シュテッヒパルム=Stechpalm
 草花さんたち=Flowers
+ゴロツキ１=Gorotsuki 1
+ゴロツキ２=Gorotsuki 2
+二人=Both
+ぷうきち=Pukichi
+老旅人=Old traveler
+店員=Clerk
+商人=Merchant

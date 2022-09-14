@@ -1,0 +1,43 @@
+オートで次のクエストへ進行！=Advance to the next quest with auto!
+オート進行=Auto Adv
+スキップチケットを使ってクエストをスキップ!=Skip the quest using a skip ticket!
+オート進行設定中=Auto Advance setting
+主さま、オート進行が使えるようになりましたよ。\nオート進行はまだクリアしていないイベントクエストで使用できます。\nクエストの攻略が便利になりますので、さっそく使ってみましょう。=Lord, the advance of the Auto Advance is now available. Auto Advance can be used in event quests that have not been cleared yet. Quest capture will be convenient, so let's use it immediately.
+
+停止する=Stop
+停止しない=Don't
+合計消費スタミナ=Total consumption stamina
+オート進行設定=Auto Advance setting
+使用しない=Not use
+sr:"^オート進行で(メイン|イベント)クエスト(.+)まで進めた場合、最大で以下のスタミナを消費します。$"=If you proceed to the $1 Quest $2 on an Auto Advance, you will consume the following stamina at the maximum.
+プレイヤーLvアップ時や特別なコンテンツが解放された際、オート進行が停止する場合があります。=At the time of player LV up or special content is released, the Auto Advance may stop.
+オート進行中にユニオンバーストを使用するか設定します。=Set whether to use the union burst while the Auto Advance.
+オート進行中のユニオンバースト使用設定=Union burst usage settings in advance
+イベントストーリー解放時にオート進行を停止するか設定します。=Set whether to stop the Auto Advance when the event story is released.
+イベントストーリー解放時のオート進行停止設定=Auto Advance suspension setting when the event story is released
+
+オート進行を停止しますか？\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Do you want to stop the Auto Advance?\nTotal Stamina Consumtion during Auto Adv.\n※Stamina consumption at the time of retirement and lose is not included.
+クエストクリア数=Cleared Quest
+オート進行停止=Auto Advance Suspension
+最終クエストのためオート進行を終了しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=The Auto Advance has ended for the final quest.\nTotal Stamina Consumtion during Auto Adv.\n※Stamina consumption at the time of retirement and lose is not included.
+オート進行終了=End of Auto Advance
+オート進行報酬一覧=List of Auto Advance Rewards
+[FF7C4E,D62146]所持上限を超えたアイテムはプレゼントに送られました。[-]=[FF7C4E,D62146]Items that exceed the upper limit of the possession\nhave been sent to the present. [-]
+r:"^イベントストーリーが\n(\d+)つ解放されました。$"=$1 event stories have been released.
+イベントストーリー解放=Event Story Release
+限定ショップにアイテムが\n追加されました。=An item has been added to the limited shop.
+オート進行解放コンテンツ一覧=List of Auto Advance Release Content
+キャラクターストーリー解放=Character Story Release
+sr:"^([べ-・ー＆]{2,11})の\n絆ランクが(\d+)になりました。$"=$1\nThe bond rank is $2.
+sr:"^([べ-・ー＆]{2,11})の\n絆ランクが(\d+)になりました。$"=$1\nThe bond rank is $2
+
+特別なコンテンツの解放のため、オート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Auto progress has been stopped to unlock special content. The following stamina consumption is performed by this auto progression. * Stamina consumption at retirement and defeat is not included.
+
+最小=Min
+最大=Max
+自動選択する=Auto select
+ストーリーのオート再生時、複数の選択肢が表示された際に、選択肢を自動選択させるか設定します。\n「自動選択する」を選択すると、一番上の選択肢が自動選択されます。\n「自動選択しない」を選択すると、複数の選択肢が表示された際に、オート再生が一時停止します。\n※表示される選択肢が１つだけの場合、設定によらず自動選択されます。=Set whether to automatically select an option when multiple options are displayed during auto-play of the story.\nIf you select "Auto Select", the top option will be automatically selected.\nIf you select "Do not auto-select", auto-play will pause when multiple options are displayed.\n※If only one option is displayed, it will be automatically selected regardless of the settings.
+ストーリーのオート再生設定=Story auto playback setting
+クエスト挑戦時に挑戦回数の設定を、最小回数か最大回数のどちらにするか設定します。=Set whether to set the minimum number of times or the maximum number of times when challenging the quest.
+挑戦回数上限設定=Challenge limit setting
+自動選択しない=Do not auto select

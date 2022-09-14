@@ -62,6 +62,8 @@ Lv上限に達した状態で消費したスタミナは\nマスターコイン�
 ===Re enter===AB->Text color,C-> stamina,D number
 再戦する=Retry
 
+r:"^\[3C404E\]挑戦回数を\[FFBB00,CE4F00\](\d+)\[-\]消費して、同じパーティで\nもう一度クエストをプレイします。\[-\]$"=[3C404E]Use [FFBB00,CE4F00]$1[-] Attempt to play quest\none more time with same party.[-]
+
 r:"^\[3C404E\]スタミナを\[FFBB00,CE4F00\](\d+)\[-\]消費して、同じパーティで\nもう一度クエストをプレイします。\[-\]$"=[3C404E]Use [FFBB00,CE4F00]$1[-] Staminas to play quest\none more time with same party.[-]
 
 r:"^\[3C404E\]ボスチケットを\[FFBB00,CE4F00\](\d+)\[-\]枚消費して、同じパーティで\nもう一度クエストをプレイします。\[-\]$"=[3C404E]Use [FFBB00,CE4F00]$1[-] Boss Tickets to play quest\none more time with same party.[-]
@@ -74,12 +76,18 @@ r:"^\[3C404E\]ボスチケットを\[FFBB00,CE4F00\](\d+)\[-\]枚消費して、
 sr:"^\[3C404E\]リタイアするとクエスト報酬を獲得できず、\nスタミナが\[FFBB00,CE4F00\]([0-9])\[-\]消費されます。\n\nよろしいですか？\[-\]$"=[3C404E]You will not receive any rewards if you quit,\nand stamina is consumed [FFBB00,CE4F00]$1 [-].\n\nIs this OK?[-]
 
 ===Recharges stamina===
+回復回数指定=Heal count
+現在のスタミナ回復（１回あたり）の消費ジュエル=Current Heal price
+支払・提供時期・返品について=About Payment/Offer/refund
+ジュエルが不足しています。=Not enough Jewels
+回復回数=#Heal
+スタミナ回復単価一覧=Stamina Recovery Unit Price List
+スタミナ回復回数に応じて、スタミナ回復１回あたりの\nジュエルの必要数が異なります。詳細は下記をご覧ください。=Depending on the number of stamina recovery, the required number of jewels per stamina recovery differs.\nSee below for details.
+スタミナ回復すると、スタミナ上限を超えてしまうため回復できません。=You can't heal anymore because you reach max stamina.
 [3C404E]スタミナが不足しています。\n回復しますか?[-]=[3C404E]Insufficient Stamina.\nDo you want to heal? [-]
 
-r:"^\[3C404E\]\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個使用して\nスタミナを\[-\]\[FFBB00,CE4F00\]120\[-\]\[3C404E\]回復しました。\[-\]\n\n本日の回復可能回数 ([0-9/]+)回\[-\]$"=[3C404E]Use [FFBB00,CE4F00]$1[-] Jewels \nto recover [FFBB00,CE4F00]120[-] Stamina\n\nRecharges left today: $2[-]
+r:"^\[3C404E\]\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個使用して\nスタミナを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]回復しました。\[-\]\n\n本日の回復可能回数 ([0-9/]+)回\[-\]$"=[3C404E]Use [FFBB00,CE4F00]$1[-] Jewels \nto recover [FFBB00,CE4F00]$2[-] Stamina\n\nRecharges left today: $3[-]
 ===Attempt restore===
-{{B}}ジュエルを[-]{{A}}{{C}}[-]{{B}}個消費して、\n以下のクエストの残り挑戦回数を回復しました。[-]={{B}}Use[-]{{A}} {{C}} [-]{{B}}Jewels to recover the attempts\nfor the following quests.[-] 
-
 r:"^\[3C404E\]\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個使用して\n残り挑戦回数を\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]回復しました。\[-\]\n\n本日の回復可能回数 ([0-9/]+)回\[-\]$"=[3C404E]Use [FFBB00,CE4F00]$1[-] Jewels\nto recover [FFBB00,CE4F00]$2[-] Attempts\n\nRecharges left today: $3[-]
 ===Skip Table===
 本日の回復可能回数上限に達しました。=Today's recoverable limit was reached.

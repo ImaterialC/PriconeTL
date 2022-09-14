@@ -8,10 +8,8 @@ Suzuna
 ハートブレイク=Heart Breaker
 目の前の敵１キャラに物理特大ダメージを与える。このスキルは必ずクリティカルする。=Deals large P.DMG to an enemy directly in front. This always results in a critical hit.
 ===S1
-おこぷんダーツ=Meany Missile
 目の前の敵１キャラに物理中ダメージを与える。このスキルは必ずクリティカルする。=Deals moderate P.DMG to an enemy directly in front. This always results in a critical hit.
 ===S2
-カリスマオーラ♪=Charming Aura ♪
 自分の物理攻撃力を中アップさせる。=Moderate boost to own P.ATK.
 ===ex
 もにカワフィーリング=Super Cute Sensation
@@ -21,7 +19,6 @@ Suzuna
 自分の物理攻撃クリティカル時のダメージを中アップさせる。さらに目の前の敵１キャラに物理特大ダメージを与える。このスキルの１ヒットのダメージは必ずクリティカルする。=Upload the damage during your P.ATK critical. Furthermore, it deals physical oversized damage to one enemy in front of you. Be sure to crity the damage of one hit in this skill.
 r:"^自分の物理攻撃クリティカル時のダメージを25％アップ\n敵単体に(\d+)の物理ダメージ$"=Improve the damage during your P.ATK critical by 25 %\nP.DMG of $1 to the enemy alone
 ===S1
-おこぷんダーツ+=Okopon Darts+
 目の前の敵１キャラに計３回ヒットし、クリティカル時のダメージが２倍ではなく３倍になる物理大ダメージを与える。このスキルの１ヒットのダメージは必ずクリティカルする。=It hits one character in front of you three times, causing a physical -size damage that makes the critical damage three times more than twice. Be sure to crity the damage of one hit in this skill.
 r:"^敵単体に(\d+)の物理ダメージ\n敵単体に(\d+)の物理ダメージ\n敵単体に(\d+)の物理ダメージ$"=P.DMG of $1 to the enemy alone\nP.DMG of $1 to the enemy alone\nP.DMG of $1 to the enemy alone
 ===S2

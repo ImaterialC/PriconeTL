@@ -13,7 +13,7 @@
 ===UB (Non-6*)
 敵全体に魔法中ダメージを与えるが、使用後アンナの物理防御力と魔法防御力が特大ダウンする。=Deals moderate M.DMG to all enemies. Lowers own P.DEF and M.DEF by a massive amount after use.
 and M.DEF by a massive amount after use.
-r:"^敵全体に(\d+)の魔法ダメージ\n自分の物理防御力を0にする\n自分の魔法防御力を0にする$"=tes Deals $1 M.DMG to all enemies.\nLowers own P.DEF to 0. \nLowers own M.DEF to 0.
+r:"^敵全体に(\d+)の魔法ダメージ\n自分の物理防御力を0にする\n自分の魔法防御力を0にする$"=Deals $1 M.DMG to all enemies.\nLowers own P.DEF to 0. \nLowers own M.DEF to 0.
 ===Skill 1 (with UE) (Need UE)
 目の前の敵１キャラに魔法中ダメージを与え、さらに魔法防御力を小ダウンさせる。=Deals moderate M.DMG to an enemy directly in front and lowers its M.DEF by small amount.
 ===Skill 1 (no UE) 

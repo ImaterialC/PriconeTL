@@ -17,8 +17,12 @@
 ===UB
 ヴァーミリオンバイト=Vermilion Bite
 
-r:"^範囲内の敵に(\d+)の魔法ダメージ\n自分のＨＰを(\d+)回復$"=Deals $1 M.DMG to enemies in Frontline (Range 250).\nRecovers own HP by $2.
+r:"^範囲内の敵に(\d+)の魔法ダメージ\n自分のＨＰを(\d+)回復$"=Shift to the nearest enemy target and return to original postion after skill ends.\nDeals $1 M.DMG to enemies in Frontline (Range 250).\nRecovers own HP by $2.
 最も近くの敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージ\nを与え、さらに自分のＨＰを中回復させる。=Deals large M.DMG to all enemies in range and recovers own HP by moderate amount.
+
+ヴァーミリオンエンプレス=Vermilion Empress
+r:"^範囲内の敵に(\d+)の魔法ダメージ\n自分のＨＰを(\d+)回復\n自分がクリティカルを受けた際のダメージを50％ダウン$"=Deals $1 M.DMG to enemies in Frontline (Range 250).\nRecovers own HP by $2.\nBoost to own 50% M.Crit DMG resistance for 18s.\nReceive Blessing of Twilight.
+最も近くの敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージを与え、自分のＨＰを中回復し、クリティカルを受けた際のダメージを大ダウンさせる。さらに【宵闇の加護】を１つ追加する。【宵闇の加護】を得た状態で使用するスキルのダメージが【宵闇の加護】の個数に応じて増加する。【宵闇の加護】は最大４まで追加される。=Inflicts large amounts of M.DMG to all enemies within range, Shift to the closest enemy, moderately restores own HP, and greatly reduces damage taken when receiving a crit hit. In addition, add one 【Blessing of Twilight】. The damage of skills used with [Blessing of Twilight] increases according to the number of stack (up to 4).
 
 ===Skill 1+
 自分の魔法攻撃力を中アップさせ、さらに目の前の敵１キャラに魔法大ダメージを与えるが、自分のＨＰを消費する。=Moderate boost to own M.ATK. Deals moderate M.DMG to an enemy directly in front at cost of own HP.

@@ -15,6 +15,10 @@ r:"^敵単体に(\d+)の物理ダメージ\nとどめを刺した時、自分の
 狂愛の力=Unrelenting Obsession
 ===Skills+
 ===UB
+デッドリーエグゼキューション=Deadly Execution
+r:"^敵単体に(\d+)の物理ダメージ\n敵単体に(\d+)の物理ダメージ\n敵単体のクリティカルを受けた際のダメージを6％アップ\n自分の物理攻撃力を(\d+)アップ\nとどめを刺せなかった時、自分の物理攻撃クリティカル時のダメージを40％アップ$"=Deal $1 P.DMG to an Enemy.\nDeal $2 P.DMG to an Enemy.\nReduce 6% P.Crit dmg resistance for 18s.\nBoosts own P.ATK by $3 for 180s.\nIf target not defeat, Boosts own P.Crit dmg by 40% for 18s.
+
+目の前の敵１キャラに物理特大ダメージを２回与え、クリティカルを受けた際のダメージを小アップさせ、さらに自分の物理攻撃力を大アップさせる。このスキルで敵を倒せなかった場合、自分の物理攻撃クリティカル時のダメージを大アップさせる。=Inflicts massive P.DMG twice to the first enemy character in front of you, slightly inflict the critical damage reduce toward the target, and greatly increases your P.ATK power. If this skill fails to defeat the enemy, greatly increases the P.Crit dmg.
 ===S1
 自分の物理攻撃力を大アップさせ、さらに短時間物理攻撃力と物理クリティカルを特大アップさせる。=Large boost to own P.ATK. Additional massive boost to own P.ATK and P.Crit Rate rate for a brief period.
 r:"^自分の物理攻撃力を(\d+)アップ\n自分の物理攻撃力を(\d+)アップ\n自分の物理クリティカルを(\d+)アップ$"=Boosts own P.ATK by $1 for 12s.\nBoosts own P.ATK by $2 for 7.5s.\nBoosts own P.Crit Rate rate by $3 for 7.5s.

@@ -6,6 +6,8 @@ r:"^メインクエスト エリア([0-9～ ]+)$"=Main Quest Area $1
 SPダンジョン=SP dungeon
 聖跡調査クエスト=Sanctum Survey Quest
 神殿調査クエスト=Temple Trek Quest
+スキップ確認 =Skip Confirmation 
+全バトルをスキップして、報酬を獲得しますか？=Do you want to skip all battles and get rewards?
 ===Half Stamina===
 r:"^\[475F7B\]メインクエスト(.+|)の\n消費スタミナが半減\[-\]$"=[475F7B]Consumption Stamina halved \nfor Main Quest$1[-]
 消費スタミナ半減=Consumption Stamina Halved

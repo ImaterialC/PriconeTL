@@ -72,6 +72,7 @@ r:"^(\d+)階 クリアパーティ一覧$"=$1 Floor Clear Party List
 現在のキャラの★=Current character ★
 同じキャラを編成することはできません。=You can not organize the same character.
 05:00までは他のサポートキャラを選択できません。=You can not select other\nrental characters until 05:00(JST).
+[FF7C4E,D62146]全回復できる回数は毎日5:00にリセットされます。[-]=[FF7C4E,D62146]Full Heal's time are reset at 5:00 every day.[-]
 [FF7C4E,D62146]　1度本戦でサポートキャラを使用すると、\n05:00まで他のサポートキャラは使用できません。[-]=[FF7C4E,D62146] Once a support character\nis selected, no other support character can be picked until 05:00(JST).[-]
 [3C404E]全てのキャラのHPを全回復しました。[-]=[3C404E]HP of all characters\nhas been fully recorvered.[-]
 [3C404E]全回復できる回数は毎日05:00にリセットされます。[-]=[3C404E]Full Heals resets daily at 05:00(JST).[-]

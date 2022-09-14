@@ -7,11 +7,9 @@ Ninon
 ===UB
 忍法・灼熱地獄=Ninpo: Scorching Hell
 ===S1
-旋風撃=Hurricane Assault
 前方範囲内の敵すべてに物理小ダメージを与え、さらにこのスキルで敵を倒した場合、自分のＴＰを中回復する。とどめを刺した敵の数に応じてＴＰの回復量が増加する。=Deals small P.DMG to all enemies in range. Recovers own TP by a moderate amount if an enemy is defeated by this skill.
 r:"^範囲内の敵に(\d+)の物理ダメージとどめを刺した時、自分のＴＰを(\d+)回復$"=Deals $1 P.DMG to enemies in range.Recovers own TP by $1 upon defeating an enemy.
 ===S2
-火炎扇=Blazing Fan
 目の前の敵１キャラに物理中ダメージを与え、さらに小さく吹き飛ばす。=Deals moderate P.DMG to an enemy directly in front and knocks them back slightly.
 ===ex
 ホンノウジブースト=Honnoji Hustle
@@ -21,7 +19,6 @@ r:"^範囲内の敵に(\d+)の物理ダメージとどめを刺した時、自�
 前方範囲内の敵すべてに物理大ダメージを与え、自分の物理攻撃力を大アップさせ、ＴＰを小回復する。とどめを刺した敵の数に応じて物理攻撃力の上昇量とＴＰの回復量が増加する。=Damage all of the enemies within the front range, increase your P.ATK, and recover the TP small. The amount of P.ATK increases and the amount of TP recovery increases according to the number of enemies that stabbed the end.
 r:"^範囲内の敵に(\d+)の物理ダメージ自分の物理攻撃力を(\d+)アップ自分のＴＰを(\d+)回復$"=P.DMG of $1 to enemies in the range$1 up your P.ATKRecovery of your TP $1
 ===S1
-旋風撃+=Hurricane Assault+
 前方範囲内の敵すべてに物理中ダメージを与え、さらにこのスキルで敵を倒した場合、自分のＴＰを特大回復する。=Deals moderate P.DMG to all enemies in range. Recovers own TP by a massive amount if an enemy is defeated by this skill.
 r:"^範囲内の敵に(\d+)の物理ダメージとどめを刺した時、自分のＴＰを(\d+)回復$"=Deals $1 P.DMG to enemies in range.Recovers own TP by $1 upon defeating an enemy.
 ===S2
