@@ -74,10 +74,10 @@ EX防具コイン交換対象=Ex Armor coin replacement target
 武器全て=All Weapons
 EX武器コイン交換対象=Ex Weapon coin replacement target
 EX装備種別=Ex Equip type
-優先消費設定=Priority consumption setting
+優先消費設定=Priority Consumption Settings
 アドベンチャーで獲得した際に自動で分解するEX装備を設定します。=Set EX Equip that will be auto dismantled\nwhen acquired in an adventure.
 
-おまかせ強化設定=Auto Refine Setting
+おまかせ強化設定=Auto Refine Settings
 EX装備強化=EX Equip Refine
 所持強化Pt=Possession Pt
 EX装備強化Ptを使用します。=Use Ex Equip Refine PT.
@@ -101,7 +101,7 @@ EX装備は\nアドベンチャーで入手することができます。=Ex Equ
 EX装備一覧にフィルタを適用します。=Apply the filter to the Ex Equipment list.
 EX装備強化素材絞り込み=Filter Ex Equipment refine material
 おまかせ強化実行時の消費対象を設定します。=Set the consumption target when performing Auto Refine.
-おまかせEX装備強化設定=Auto Ex Equipment Refine Setting
+おまかせEX装備強化設定=Auto Ex Equipment Refine Settings
 EX装備強化Pt=Ex Equip\nRefine Pt
 
 以下のアイテムを消費して強化します。=Consume the following items to refine it.

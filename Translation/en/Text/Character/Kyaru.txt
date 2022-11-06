@@ -3,7 +3,7 @@
 行き倒れの謎のネコミミ魔法使い=A mysterious cat-eared sorceress\ndiscovered lying unconscious
 ケイオスグリモワール=Chaos Grimoire
 ===Intro
-【魔法】後衛から、強力な全体攻撃を放つ、強気な猫娘。スキルで敵の物理、魔法両方の防御力を下げるため編成を選ばずにバトルを有利に進められる。=[Magic]A willful catgirl that casts powerful attacks from RG that hit all foes. Her skills lower both M.DEF and P.DEF, making her an easy choice for wining in any lineup.
+【魔法】後衛から、強力な全体攻撃を放つ、強気な猫娘。スキルで敵の物理、魔法両方の防御力を下げるため編成を選ばずにバトルを有利に進められる。=[Magic] A willful catgirl that casts powerful attacks from RG that hit all foes. Her skills lower both M.DEF and P.DEF, making her an easy choice for winning in any lineup.
 
 ===Story
 いつかお気楽な冒険を=Someday... a Normal Adventure.

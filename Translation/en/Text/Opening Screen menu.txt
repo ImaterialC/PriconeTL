@@ -7,7 +7,7 @@
 メニュー=Menu
 ゲーム起動中=Game Start
 データダウンロード=Data Download
-ＳＤカード保存設定=SDCard Storage Setting
+ＳＤカード保存設定=SDCard Storage Settings
 
 
 ===Data Link===

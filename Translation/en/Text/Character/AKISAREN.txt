@@ -6,7 +6,7 @@
 -型=n/a
 切磋琢磨=Working Hard
 
-【物理】中衛で背を預けあう最高の好敵手で親友の二人。味方の物理攻撃をサポートしつつＨＰとＴＰを継続回復しＨＰが多いほど威力が増すＵＢで、共に勝利の道を征く。=[Physics]The best friend-rival who keep their backs in the MG. Buffing the P.ATK of allies, give HP and TP regen, and the more HP there is, the more powerful the UB.
+【物理】中衛で背を預けあう最高の好敵手で親友の二人。味方の物理攻撃をサポートしつつＨＰとＴＰを継続回復しＨＰが多いほど威力が増すＵＢで、共に勝利の道を征く。=[Physical] The best friend-rival who keep their backs in the MG. Buffing the P.ATK of allies, give HP and TP regen, and the more HP there is, the more powerful the UB.
 
 メルクリウス財団、サレンディア救護院=Mercurius Foundation, Sarendia Orphan
 

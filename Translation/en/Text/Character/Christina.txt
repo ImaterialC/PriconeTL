@@ -1,7 +1,7 @@
 リスティーナ=Christina
 強敵との闘争=Fighting strong opponents
 傍若無人な王宮騎士団副団長=The audacius vice-Captain of Nightmare
-【物理】前衛で、絶対的な制圧力を誇る『誓約女君』。攻防一体かつ超大な破壊力を誇るユニオンバーストと、その発動を加速するＴＰ上昇アップスキルを併せ持つ。=[Physical]The peerless Regina Geas who exerts herdominance from the FL. Her destructive UB annihilates foes while also protecting her from harm, and thanks to TP-boosting skill, she uses it with alarming frequency.
+【物理】前衛で、絶対的な制圧力を誇る『誓約女君』。攻防一体かつ超大な破壊力を誇るユニオンバーストと、その発動を加速するＴＰ上昇アップスキルを併せ持つ。=[Physical] The peerless Regina Geas who exerts herdominance from the FL. Her destructive UB annihilates foes while also protecting her from harm, and thanks to TP-boosting skill, she uses it with alarming frequency.
 聖域剣アヴァロン=Sanctuary Sword Avalon
 ===Story
 『七冠』の余暇は３０分="Seven Crowns" leisure for 30 minutes

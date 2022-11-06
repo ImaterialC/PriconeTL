@@ -1,8 +1,8 @@
 予定の整理=Schedule Book Settings
-イベントのデイリーミッション設定=Event Daily Mission Setting
+イベントのデイリーミッション設定=Event Daily Mission Settings
 開催中のイベントのデイリーミッションが達成済みで、報酬を受け取っていないものがあるとき\n予定帳に表示するかどうかを設定できます。=You can set whether or not to display in the schedule book when there are daily missions of the ongoing event that have been completed but have not received rewards.
 
-イベントボス設定=Event Boss Setting
+イベントボス設定=Event Boss Settings
 イベントボス（VERY HARD）を討伐していないときに予定帳に表示するかどうかを設定できます。\n開催中のイベントが無い、イベントボス（VERY HARD）が未解放の場合は設定によらず表示されません。\n複数のイベントが平行して開催されている場合はイベントごとに表示されます。=To display in the schedule book when the event boss (VERY HARD) is not defeated.\nIf there is no event in progress and the event boss (VERY HARD) is not released, it will not be displayed regardless of the settings.\nIf multiple events are held in parallel, they will be displayed for each event.
 
 通常ショップ設定=Normal Shop Settings
@@ -63,7 +63,7 @@
 マナ購入回数設定=Mana Purchase Number Settings
 予定帳からマナを購入する回数を設定できます。\n事前にマナを購入していた場合はその購入回数とあわせて設定した回数になるようマナを購入します。=You can set the number of times to purchase mana from the schedule book.\nIf you have purchased mana in advance, you will purchase mana so that the number of purchases and the number of times you set will be the same.
 
-マナ購入詳細設定=Mana Purchase Details Setting
+マナ購入詳細設定=Mana Purchase Details Settings
 消費する=Consume
 消費しない=Do Not
 予定帳からマナを購入するときに無償ジュエルが不足していた場合、有償ジュエルを消費するか設定できます。=If there is a shortage of free jewels when purchasing mana from the Schedule Book, you can set to usage of the Paid Jewels.

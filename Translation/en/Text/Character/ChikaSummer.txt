@@ -1,4 +1,4 @@
-【魔法】中衛で、守護の賛歌を捧げる夏海の歌姫。\n最序盤に味方の魔法防御を大幅に強化し、吸収バリアや\nＨＰ回復スキルで、如何なる猛攻からも味方を守る。=[Magic]Summer's songstress who sings the hymn of protection. She greatly strengthens the M.DEF of her allies in the early stages, and protects her allies from any onslaught with her absorbing barrier and HP recovery skills.
+【魔法】中衛で、守護の賛歌を捧げる夏海の歌姫。\n最序盤に味方の魔法防御を大幅に強化し、吸収バリアや\nＨＰ回復スキルで、如何なる猛攻からも味方を守る。=[Magic] Summer's songstress who sings the hymn of protection. She greatly strengthens the M.DEF of her allies in the early stages, and protects her allies from any onslaught with her absorbing barrier and HP recovery skills.
 
 サマーオーシャンシンフォニー=Summer Ocean Symphony
 味方全体の物理防御力と魔法防御力を中アップさせる。さらに、物理/魔法吸収バリアを展開する。=Moderately increases the P.DEF and M.DEF of all allies. In addition, deploy a physical/magical absorption barrier.

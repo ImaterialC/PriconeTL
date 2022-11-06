@@ -6,7 +6,7 @@
 通知=Notification
 
 ボイスデータダウンロード=Voice Data Downloads
-ボイスデータのダウンロード設定です。\n設定をOFFにすると、ダウンロードしていないボイスは再生されなくなります。=Setting for downloading voice data.\nWhen OFF, voices that have not been downloaded will not play.
+ボイスデータのダウンロード設定です。\n設定をOFFにすると、ダウンロードしていないボイスは再生されなくなります。=Settings for downloading voice data.\nWhen OFF, voices that have not been downloaded will not play.
 
 ムービー画質=Movie Quality
 各ムービーの画質を設定します。=Sets quality of graphics for movies.

@@ -1,20 +1,20 @@
 オートで次のクエストへ進行！=Advance to the next quest with auto!
 オート進行=Auto Adv
 スキップチケットを使ってクエストをスキップ!=Skip the quest using a skip ticket!
-オート進行設定中=Auto Advance Setting
+オート進行設定中=Auto Advance Settings
 主さま、オート進行が使えるようになりましたよ。\nオート進行はまだクリアしていないイベントクエストで使用できます。\nクエストの攻略が便利になりますので、さっそく使ってみましょう。=Lord, the advance of the Auto Advance is now available. Auto Advance can be used in event quests that have not been cleared yet. Quest capture will be convenient, so let's use it immediately.
 
 停止する=Stop
 停止しない=Don't
 合計消費スタミナ=Total Consumption Stamina
-オート進行設定=Auto Advance Setting
+オート進行設定=Auto Advance Settings
 使用しない=Not use
 sr:"^オート進行で(メイン|イベント)クエスト(.+)まで進めた場合、最大で以下のスタミナを消費します。$"=If you proceed to the $1 Quest $2 on an Auto Advance, you will consume the following stamina at the maximum.
 プレイヤーLvアップ時や特別なコンテンツが解放された際、オート進行が停止する場合があります。=At the time of player LV up or special content is released, the Auto Advance may stop.
 オート進行中にユニオンバーストを使用するか設定します。=Set whether to use the union burst while the Auto Advance.
 オート進行中のユニオンバースト使用設定=Union Burst Usage Settings in advance
 イベントストーリー解放時にオート進行を停止するか設定します。=Set whether to stop the Auto Advance when the event story is released.
-イベントストーリー解放時のオート進行停止設定=Auto Advance Suspension Setting When the Event Story is Released
+イベントストーリー解放時のオート進行停止設定=Auto Advance Suspension Settings When the Event Story is Released
 
 オート進行を停止しますか？\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Do you want to stop the Auto Advance?\nTotal Stamina Consumtion during Auto Adv.\n※Stamina consumption at the time of retirement and lose is not included.
 クエストクリア数=Cleared Quest
@@ -37,7 +37,7 @@ sr:"^([べ-・ー＆]{2,11})の\n絆ランクが(\d+)になりました。$"=$1\
 最大=Max
 自動選択する=Auto select
 ストーリーのオート再生時、複数の選択肢が表示された際に、選択肢を自動選択させるか設定します。\n「自動選択する」を選択すると、一番上の選択肢が自動選択されます。\n「自動選択しない」を選択すると、複数の選択肢が表示された際に、オート再生が一時停止します。\n※表示される選択肢が１つだけの場合、設定によらず自動選択されます。=Set whether to automatically select an option when multiple options are displayed during auto-play of the story.\nIf you select "Auto Select", the top option will be automatically selected.\nIf you select "Do not auto-select", auto-play will pause when multiple options are displayed.\n※If only one option is displayed, it will be automatically selected regardless of the settings.
-ストーリーのオート再生設定=Story auto playback setting
+ストーリーのオート再生設定=Story Auto Playback Settings
 クエスト挑戦時に挑戦回数の設定を、最小回数か最大回数のどちらにするか設定します。=Set whether to set the minimum number of times or the maximum number of times when challenging the quest.
-挑戦回数上限設定=Challenge limit setting
+挑戦回数上限設定=Challenge Limit Settings
 自動選択しない=Do not auto select

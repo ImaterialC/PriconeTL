@@ -13,14 +13,14 @@ BGM変更=BGM
 マイページBGM設定=BGM Settings
 初期BGMに戻す=Default BGM
 BGM購入へ=Buy BGM
-変更確認=Setting Confirmation
+変更確認=Settings Confirmation
 並べ替えたい順に押してください。=Press in the order you want to sort.
 最低1つ以上設定する必要があります。=There must be at least one.
 
 
 アニメ内\n音声=Voice Over\nAnimation
 
-マイページ1のBGMを初期設定に戻します。\nよろしいですか？=Reset the background music on Homescreen 1 to the default setting.
+マイページ1のBGMを初期設定に戻します。\nよろしいですか？=Reset the background music on Homescreen 1 to the default settings.
 
 BGM購入ページへ移動=Move to BGM Shop
 [3C404E]BGM購入ページへ移動しますか?[-]=[3C404E]Do you want to go BGM shop?

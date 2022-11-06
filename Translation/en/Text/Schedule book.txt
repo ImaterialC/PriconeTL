@@ -2,7 +2,7 @@
 主さま、ご用事が立て込んでいらっしゃるようですね。\n日々のご予定の管理はわたくしにおまかせくださいまし。=Aruji-sama, it seems that your business is built in. Leave it to me for your daily plan.
 
 まとめておまかせ=Do it all
-リストの設定=List Setting
+リストの設定=List Settings
 実行=Do
 
 メインかイベントクエストを10回クリアしよう=Clear "Main Quest" or "Event Quest" 10 Times

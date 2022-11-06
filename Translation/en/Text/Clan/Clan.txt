@@ -26,7 +26,7 @@ r:"^\[FFBB00\,CE4F00\](\d+)時間前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1h ag
 r:"^\[FFBB00\,CE4F00\](\d+)分前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1m ago[-]
 
 ===Liked for stamnina
-sr:"^(\[.*\])(.{1,10})さんにいいねをして\nスタミナを10獲得しました。\[-\]$"=$1You Liked $2-san\nand you got 10 stamina.[-]
+sr:"^(\[.*\])(.{1,10})さんにいいねをして\nスタミナを10獲得しました。\[-\]$"=$1You Liked $2-san\nand got 10 stamina.[-]
 
 r:"^\[3C404E\]\[3C404E\]クランメンバーに\[FFBB00,CE4F00\](\d+)\[-\]回いいねされて、\nマナ×\[FFBB00,CE4F00\](\d+)\[-\]を獲得しました。\[-\]\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Clan Member liked you,\nReceive Mana × [FFBB00,CE4F00]$2[-][-]
 
@@ -34,12 +34,12 @@ r:"^\[3C404E\]\[3C404E\]クランメンバーに\[FFBB00,CE4F00\](\d+)\[-\]回�
 [FF7C4E,D62146]いいねされたクランメンバーにはマナがおくられます。[-]=[FF7C4E,D62146]Liked clan members will receive Mana.[-]
 いいね完了=Like Complete
 
-r:"^(.{1,10})がクランに加入しました。$"=$1 has joined the clan.
-r:"^(.{1,10})がリーダーになりました。$"=$1 has become a leader.
-r:"^(.{1,10})がサブリーダーになりました。$"=$1 has become a sub-leader.
-r:"^(.{1,10})がクランを結成しました。$"=$1 created a clan.
-r:"^(.{1,10})がクランから脱退しました。$"=$1 has left the clan.
-r:"^(.{1,10})をクランから除名しました。$"=$1 has kicked from the clan.
+r:"^(.{1,10})がクランに加入しました。$"=$1 joined the clan.
+r:"^(.{1,10})がリーダーになりました。$"=$1 is now a leader.
+r:"^(.{1,10})がサブリーダーになりました。$"=$1 is now a sub-leader.
+r:"^(.{1,10})がクランを結成しました。$"=$1 created the clan.
+r:"^(.{1,10})がクランから脱退しました。$"=$1 left the clan.
+r:"^(.{1,10})をクランから除名しました。$"=$1 was kicked from the clan.
 
 r:"^(\d+)日(\d+)時間(\d+)分$"=$1d $2h $3m
 r:"^(\d+)日(\d+)時間$"=$1d $2h
@@ -163,7 +163,7 @@ r:"^トレーニング (\d)段階目$"=Training Tier $1
 [FFFDF7,FFE0E9]圏外[-]=[FFFDF7,FFE0E9]N/A[-]
 [FDFFF8,CCFFEF]圏外[-]=[FDFFF8,CCFFEF]N/A[-]
 模擬戦・トレーニングバトルのバトル速度上限を設定します。=Set the battle speed maximum for mock battles and training battles.
-モンスター討伐演出設定=Monster Subjugation Speed Setting
+モンスター討伐演出設定=Monster Subjugation Speed Settings
 モンスター討伐演出を再生するか設定します。=Set monster subjugation speed.
 
 バトルログ=Fight Log
@@ -403,7 +403,7 @@ sr:"^\[25CFDE,0E6C98\](\d+月)クランバトル\[-\]$"=[25CFDE,0E6C98]$1 Clan B
 ランキング発表！=Ranking Announcement!
 ※報酬はプレゼントに順次、送られます。=※Rewards will be sent to Present Box.
 ===NPC===
-『クランモード』はクランメンバーとボスに挑戦し他クランとランキング\nを競います。『シングルモード』は個々にボスと戦い討伐数に応じた報酬\nを獲得できます。クランリーダー、サブリーダーがモード選択できます。=In Clan Mode, all clan members cooperate to defeat bosses and compete with other clans. In Solo Mode, each member fights separately and earns their own rewards. Clan leaders and sub leaders can change this setting.
+『クランモード』はクランメンバーとボスに挑戦し他クランとランキング\nを競います。『シングルモード』は個々にボスと戦い討伐数に応じた報酬\nを獲得できます。クランリーダー、サブリーダーがモード選択できます。=In Clan Mode, all clan members cooperate to defeat bosses and compete with other clans. In Solo Mode, each member fights separately and earns their own rewards. Clan leaders and sub leaders can change this from the settings.
 
 
 『クランモード』はクランメンバーとボスに挑みランキングを競います。『シングルモード』は個々に挑み、討伐数に応じた報酬を獲得できます。\nクエストや調査で勝利し、CPを貯めることでボスに挑戦できますよ。=In Clan Mode, all clan members defeat bosses together and compete in clan rangkings. In Solo Mode, each member defeats bosses individually. You can earn Clan Battle attempts by completing quest and earning CP

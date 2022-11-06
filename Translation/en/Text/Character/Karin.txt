@@ -5,7 +5,7 @@
 【ギルド管理協会】職員の親切なお姉さん=Kind lady of Guild Management Association staff
 
 書類仕事、散歩、ボードゲーム=Document Work, Walk, Board game
-【魔法】後衛で皆を支える、ギルド管理協会の職員さん。\n通常攻撃の代わりに味方の能力を高める魔法を掛け、\n味方の守護や敵への妨害など、完璧なサポートをこなす。=[Magic]A staff of the GMA who supports everyone as a RG. Instead of normal attacks, he casts magic that enhances the abilities of his allies, providing perfect support such as protecting allies and hindering enemies.
+【魔法】後衛で皆を支える、ギルド管理協会の職員さん。\n通常攻撃の代わりに味方の能力を高める魔法を掛け、\n味方の守護や敵への妨害など、完璧なサポートをこなす。=[Magic] A staff of the GMA who supports everyone as a RG. Instead of normal attacks, he casts magic that enhances the abilities of his allies, providing perfect support such as protecting allies and hindering enemies.
 
 コールオブギルド=Call of Guilds
 味方全体のクリティカル時のダメージを小アップさせ、敵全体のクリティカル時のダメージを中ダウンさせる。さらに、味方全体に物理/魔法無効バリアを展開する。=Slightly increases the critical damage of all allies, and moderately decreases the critical damage of all enemies. In addition, deploys a physical/magical nullification barrier to all allies.

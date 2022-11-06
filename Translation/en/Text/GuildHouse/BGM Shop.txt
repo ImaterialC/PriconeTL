@@ -26,7 +26,7 @@ r:"^(.{3,20})\nを購入しました。$"=Purchased\n$1
 ===NPC karin
 ようこそ！\nこちらでは、\nギルドハウスで流れる音楽の\n変更や購入が出来ますよ=Hello there!\nIn this section, you can choose new music to play on your home screen or in the guild house
 
-こちらでは、ＢＧＭの変更が\nできますよ\nどんな曲に変更しますか？\nふふふ、私も楽しみです♪=This is where you can change BGM setting! What kind of track are you after?\nHaha, I can't wait to hear it!
+こちらでは、ＢＧＭの変更が\nできますよ\nどんな曲に変更しますか？\nふふふ、私も楽しみです♪=This is where you can change the BGM settings! What kind of track are you after?\nHaha, I can't wait to hear it!
 
 ギルドハウスの\nＢＧＭを変更できますよ\nあなたの好きな曲、\n私にも聴かせてくださいね=You can chose all sorts of tracks to play on your screen or in the guildhouse! Why do'nt you show me some of your favorites?
 

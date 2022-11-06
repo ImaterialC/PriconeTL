@@ -1,5 +1,5 @@
 アイテム=Items
-設定=Setting
+設定=Settings
 ニュー=Menu
 メ=
 タイトルへ戻る=Return to Title
@@ -9,7 +9,7 @@ SDカード保存設定=Transfer data to SD
 コード入力=Code Input
 アカウント連携=Social Media Bind
 ４コマまんが=4-koma Manga
-サポート=Suport
+サポート=Support
 フレンド=Friend
 アルバム=Album
 ジュエル\nショップ=Jewel Shop

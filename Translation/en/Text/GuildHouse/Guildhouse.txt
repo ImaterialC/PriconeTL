@@ -5,7 +5,7 @@
 壁画の獲得演出を閲覧すると確認できます。=You can check it by viewing the mural acquisition production.
 この月のカレンダーストーリーは全て既読になっています。=All calendar stories for this month have been read.
 イラスト一覧=Illustration list
-ギルドハウス遷移時に演出を再生するか\nメニューから設定を変更できます。=You can replay the scene at the guild house\nor change the setting from the menu.
+ギルドハウス遷移時に演出を再生するか\nメニューから設定を変更できます。=You can replay the scene at the guild house\nor change the settings from the menu.
 カレンダーストーリーをスキップしますか？=Do you skip calendar stories?
 『みんなのカレンダー』では、毎日少しずつランドソルを囲む壁に\n壁画が描き足されていく様子を楽しむことができます。\n主さま、ご一緒にみなさまの活動を見届けましょう。="Everyone's calendar" can enjoy the way the mural will be drawn by the wall that surrounds the Landsol every day. Main, let's watch everyone's activities together.
 カレンダーから日付を選択して、過去の出来事を\n見返すこともできますよ。活動を振り返りたくなったときや、\n見逃してしまったときは、カレンダーを開いてくださいまし。=You can also select a date from the calendar and revert the past events. When you want to look back on the activities, or miss it, please open the calendar.

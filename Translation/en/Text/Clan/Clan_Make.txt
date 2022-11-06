@@ -11,8 +11,8 @@
 勧誘設定:受け付ける=Will get an invite
 勧誘設定:受け付けない=Won't get an invite
 設定変更=Change Settings
-勧誘設定を変更しますか？=Change invitation setting?
-クランからの勧誘を受け付けるか選択できます。\nすでにクランに所属している場合は、新たに勧誘はされません。=Sellect whether or not to receive invitation from clans.\nYou will not receive invitations if you are already in a Clan.
+勧誘設定を変更しますか？=Change invitation settings?
+クランからの勧誘を受け付けるか選択できます。\nすでにクランに所属している場合は、新たに勧誘はされません。=Select whether or not to receive invitation from clans.\nYou will not receive invitations if you are already in a Clan.
 受け付けない=Don't accept
 受け付ける=Accept
 

@@ -3,7 +3,7 @@
 記憶喪失のドラゴン娘=Dragon girl with amnesia
 読書、ストレッチ=Reading, Stretching
 ===Intro
-【物理】中衛で氷雪を操り敵を凍滅する、氷竜の少女。\nユニオンバーストで獲得する【氷竜の印】を消費して、\nスキルの効果を増幅し、清廉な剣技で敵を切り伏せる。=[Physics] A ice dragon girl, who controls ice and freezes the enemy. She consumes the Kennzeichen earned with the UB, amplifies her skills, and cuts the enemy with his innocence.
+【物理】中衛で氷雪を操り敵を凍滅する、氷竜の少女。\nユニオンバーストで獲得する【氷竜の印】を消費して、\nスキルの効果を増幅し、清廉な剣技で敵を切り伏せる。=[Physical] A ice dragon girl, who controls ice and freezes the enemy. She consumes the Kennzeichen earned with the UB, amplifies her skills, and cuts the enemy with his innocence.
 
 ===Skill Name
 舞斬・月下氷竜=Schneetanz

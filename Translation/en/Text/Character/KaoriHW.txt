@@ -1,4 +1,4 @@
-【物理】前衛の敵を追い詰める程、力を増す幽玄南国娘。敵の体力が少ない程、効果が高まる攻撃力アップスキルとダメージ量アップの攻撃スキルで、敵を逃さず仕留める。=[Physics] A ghostly southern country girl whose power increases to the extent that she hunts down her vanguard enemies. The few the enemy's HP, the more power up skill and increases the damage amount, so you can kill the enemy without missing it.
+【物理】前衛の敵を追い詰める程、力を増す幽玄南国娘。敵の体力が少ない程、効果が高まる攻撃力アップスキルとダメージ量アップの攻撃スキルで、敵を逃さず仕留める。=[Physical] A ghostly southern country girl whose power increases to the extent that she hunts down her vanguard enemies. The few the enemy's HP, the more power up skill and increases the damage amount, so you can kill the enemy without missing it.
 目の前の敵１キャラに物理大ダメージを与える。対象の最大ＨＰに対する残りＨＰの割合が少ない程ダメージがアップする。=Inflicts great P.DMG to one enemy character in front. The smaller the ratio of the target's remaining HP to its maximum HP, the greater the damage.
 
 
