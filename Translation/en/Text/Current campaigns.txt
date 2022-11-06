@@ -1,7 +1,6 @@
 開催中キャンペーン=Special Campaign
 r:"^メインクエスト エリア([0-9～ ]+)$"=Main Quest Area $1
 復刻イベントクエスト=Revival Event Quest
-サイドストーリー=Side story
 サイドストーリークエスト=Side story quest
 SPダンジョン=SP dungeon
 聖跡調査クエスト=Sanctum Survey Quest

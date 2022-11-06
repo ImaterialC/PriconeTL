@@ -30,3 +30,5 @@
 
 【魔法】近接攻撃\n小さくても強力な炎を吐く、\nこどものオオトカゲ。=[Magic]A baby Monitor Lizard that breathes powerful flames despite its small size.
 コドモオオトカゲ=Monitor Lizard Child
+
+ウキキー=Ukiki

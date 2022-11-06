@@ -460,3 +460,14 @@ sr:"^「(.+)」([の設計図欠片\n]+)。$"="A$2 of $1."
 オアシスファアス=Oasis Faas
 オリエンタルハリケーンボウ=Oriental Hurricane Bow
 ウィンドレガシースピア=Wind Legacy Spear
+
+エンシェントエメラルド=Ancient Emerald
+エンシェントルビー=Ancient Ruby
+エンシェントサファイア=Ancient Sapphire
+
+ブルーローズシールド=Blue Rose Shield
+ローズエンプレスメイル=Rose Empress Mail
+ローズプリエステスドレス=Rose Priestess Dress Up
+ローズバロネスドレス=Rose Baroness Dress
+薔薇術士の魔宴帽=Rosemancer's Magical Cap
+ローズデイムプレート=Rose Dame Plate

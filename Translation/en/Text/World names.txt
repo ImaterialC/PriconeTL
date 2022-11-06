@@ -62,6 +62,6 @@ r:"^(|56\.)オニュクス砂島(・|\n　　　　　)北部(.*)$"=$1 Onyx Sand
 r:"^(|57\.)オニュクス砂島(・|\n　　　　　)南部(.*)$"=$1 Onyx Sandland (South) $3
 r:"^(|58\.)クルース(|\n　　　　　)密林・東部(.*)$"=$1 Cruz Dense Forest (East) $3
 r:"^(|59\.)クルース(|\n　　　　　)密林・西部(.*)$"=$1 Cruz Dense Forest (West) $3
-
+r:"^(|60\.)カウダ(|\n　　　　　)砂浜・北部(.*)$"=$1 Kauda Beach (North) $3
 ===*6 Quest
 sr:"^([べ-・ー＆]{2,11})(\（.{2,10}\）)?の解放クエスト$"=$1$2 Ascension Quest

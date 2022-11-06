@@ -90,7 +90,11 @@ r:"^(\d+)階EX クリアパーティ一覧$"=Floor $1 EX Clear Party List
 このクエストをクリアしたクランメンバーです。=Clan members that have cleared this quest.
 回廊探索 クリアメンバー=Corridor Exploration Survivors
 r:"^回廊探索 wave(\d)$"=Corridor Exploration Wave$1
+バトルスキップを行いますか？=Do you want to skip the battle?
+[FF7C4E,D62146]対象のクエストはありません。[-]=[FF7C4E,D62146]No quests are available.[-]
 クリアで使用できます。=Must clear it first.
+AUTO・SMARTで操作せずバトル終了した場合リプレイできます。=You can replay if the battle ends without using AUTO/SMART.
+※「AUTO」にてバトルが行われます。\nまたスキップ時はUB即発動モードはOFFになります。\n※リプレイは最後まで操作方法を変えずにバトルを行った場合に再生できます。="※Battle will be held in "AUTO".\nAlso, when skipping, UB immediate activation mode will be OFF.\n※Replays can be replayed when the battle is played without changing the operation method until the end."
 ===Story card===
 閲覧したい章を選択してください。=Please select the chapter you whould like\nto view.
 ルナの塔ストーリー一覧=Luna's Tower Story List

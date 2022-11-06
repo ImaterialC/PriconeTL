@@ -21,11 +21,11 @@ r:"^敵単体に(\d+)の物理ダメージ\n自分の物理攻撃力を(\d+)ア�
 
 目の前の敵１キャラに物理特大ダメージを与え、さらに自分の物理攻撃力を特大アップさせる。=Deals massive P.DMG to an enemy directly in front, and massive boost to own physical attack.
 ===S1
-目の前の敵１キャラに物理特大ダメージを与える。さらに、自分のＴＰを中回復し、自分以外の味方全てのＴＰを小回復させる。=Deals large physical damage to an enemy directly in front. Recovers own TP by a moderate amount, and all other allies' TP by a small amount.
-r:"^敵単体に(\d+)の物理ダメージ\n自分のＴＰを200回復\n自分以外の味方全員のＴＰを100回復$"=Deals $1 physical damage to an enemy.\nRecovers own TP by 200.\nRecovers all other allies' TP by 100.
+目の前の敵１キャラに物理特大ダメージを与える。さらに、自分のＴＰを中回復し、自分以外の味方全てのＴＰを小回復させる。=Deals large P.DMG to an enemy directly in front. Recovers own TP by a moderate amount, and all other allies' TP by a small amount.
+r:"^敵単体に(\d+)の物理ダメージ\n自分のＴＰを200回復\n自分以外の味方全員のＴＰを100回復$"=Deals $1 P.DMG to an enemy.\nRecovers own TP by 200.\nRecovers all other allies' TP by 100.
 ===S2
 目の前の敵１キャラに物理大ダメージを与え、さらに自分のＴＰを大回復する。=Deals large P.DMG to an enemy directly in front, and recovers own TP by a large amount.
-r:"^敵単体に(\d+)の物理ダメージ\n自分のＴＰを(\d+)回復$"=Deals $1 physical damage to an enemy.\nRecovers own TP by $2.
+r:"^敵単体に(\d+)の物理ダメージ\n自分のＴＰを(\d+)回復$"=Deals $1 P.DMG to an enemy.\nRecovers own TP by $2.
 ===ex
 竜巻の攻刃+=Tornado Blade+
 剣聖の賦性=Sword Saint

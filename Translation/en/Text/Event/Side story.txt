@@ -1,10 +1,12 @@
 イドストーリー=ide Story
-[3C404E][FFBB00,CE4F00]サイドストーリー[-]が解放されました。[-]=[3C404E]The [FFBB00,CE4F00]Side Story[-] has been released.[-]
+サイドストーリー=Side Story
+sr:"^\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]が解放されました。\[-\]$"=[3C404E]The [FFBB00,CE4F00]$1[-] has been released.[-]
 r:"^メインクエスト([0-9\-\(\)（）\w ]*)クリアで$"=Cleared Main Quest $1
 
 コンテンツ解放=Content Release
 
 エンディング=Ending
+イベントストーリー=event story
 イベントストーリー一覧=Event Story List
 入手できるメモリーピースで絞り込み=Filter by Memory Shards
 クエストが解放されていません。=The quest has not been unlocked.

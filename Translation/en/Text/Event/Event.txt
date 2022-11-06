@@ -83,7 +83,7 @@ r:"^([1-9])回目の報酬をリセット$"=Reward Reset $1
 獲得した報酬は所持アイテムに直接付与されます。=The rewards earned will be given directly to the your own.
 現在のラインナップ=Current Lineup
 リンノート=udding Notes
-スキップチケット解放=Skip Ticket Release
+スキップチケット解放=Unlock Skip Ticket
 
 ダメージ割合=DMG Ratio
 与えた総ダメージ=Total DMG
@@ -96,8 +96,9 @@ r:"^([1-9])回目の報酬をリセット$"=Reward Reset $1
 後編へ=To Part 2
 [3C404E]リタイアするとボスバトル報酬を\n獲得することができません。\nボスチケットは消費されません。\n\nよろしいですか？\n[-]=[3C404E]You will not be able to earn boss battle rewards if you retire.\nBoss tickets are not consumed.\n\nIs this OK?[-]
 ボスバトルリタイア=Retire Boss Battle
-あとボスを2回1バトルで撃破することで解放されます。=Can Skip by defeating the boss twice in one pan.
-あとボスを1回1バトルで撃破することで解放されます。=Can Skip by defeating the boss once in one pan.
+あとボスを3回1バトルで撃破することで解放されます。=Can Skip by defeating the boss 3 times in one battle.
+あとボスを2回1バトルで撃破することで解放されます。=Can Skip by defeating the boss twice in one battle.
+あとボスを1回1バトルで撃破することで解放されます。=Can Skip by defeating the boss once in one battle.
 
 ===Login===
 イベントログインボーナス獲得=Event Login Bonus Received
@@ -120,8 +121,8 @@ r:"^挑戦(\d+)回目$"=Party $1
 
 交換=Roll
 r:"^(\d+)枚消費$"=Exchange $1
-r:"^(\d+)回目$"="Line $1"
-r:"^(\d+)回目～$"="Line $1+"
+r:"^(\d+)回目$"="Lap $1"
+r:"^(\d+)回目～$"="Lap $1+"
 全ラインナップの確認=Full Lineup
 リセット対象報酬=Reset Rewards
 通常報酬=Normal Rewards

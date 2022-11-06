@@ -33,8 +33,8 @@
 r:"^敵単体に(\d+)の物理ダメージ\n自分の物理防御力を(\d+)アップ\n自分の魔法防御力を(\d+)アップ\n自分の物理攻撃力を(\d+)アップ$"=Deals $1 P.DMG to an enemy.\nBoosts own P.DEF by $2 for 18s.\nBoosts own M.DEF by $3 for 18s.\nBoosts own P.ATK by $4 for 18s.
 目の前の敵１キャラに物理特大ダメージを与え、物理防御力と魔法防御力を特大アップさせ、物理攻撃力を中アップさせる。物理攻撃力アップの効果値は、残りＨＰが高い程増加する。=Deals massive P.DMG to an enemy directly in front. Massive boost to own P.DEF and M.DEF. Moderate boost to own P.ATK (Amount of P.ATK buff increase based on how high Pecorine's current HP.)
 ===UB
-目の前の敵１キャラに物理大ダメージを与え、さらに物理防御力と魔法防御力を大アップさせる。=Deals large physical damage to an enemy directly in front. Moderate boost to own P.DEF and M.DEF.
-r:"^敵単体に(\d+)の物理ダメージ\n自分の物理防御力を(\d+)アップ\n自分の魔法防御力を(\d+)アップ$"=Deals $1 physical damage to an enemy.\nBoosts own physical defense by $2.\nBoosts own M.DEF by $3.
+目の前の敵１キャラに物理大ダメージを与え、さらに物理防御力と魔法防御力を大アップさせる。=Deals large P.DMG to an enemy directly in front. Moderate boost to own P.DEF and M.DEF.
+r:"^敵単体に(\d+)の物理ダメージ\n自分の物理防御力を(\d+)アップ\n自分の魔法防御力を(\d+)アップ$"=Deals $1 P.DMG to an enemy.\nBoosts own physical defense by $2.\nBoosts own M.DEF by $3.
 ===Skill 1+
 r:"^自分の魔法防御力を(\d+)アップ\n自分のＨＰを(\d+)回復\n(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=Boosts own M.DEF by $1 for 12s.\nRecovers own HP by $2.\nDeploy Barrier that absorbs $3 P.DMG and M.DMG for 8s.
 自分の魔法防御力を中アップさせ、さらにＨＰを大回復し、自分に物理/魔法吸収バリアを展開する。=Increases own M.DEF by a small amount. Deploy a barrier around oneself that absorbs P.DMG and M.DMG.
@@ -46,5 +46,5 @@ r:"^自分の魔法防御力を(\d+)アップ\n自分のＨＰを(\d+)回復$"=B
 バトル開始時に自分の最大ＨＰを大アップさせる。=Large boost to own max HP at start of battle.
 バトル開始時に自分の最大ＨＰを中アップさせる。=Moderate boost to own max HP at start of battle.
 r:"^自分の最大ＨＰを(\d+)アップさせる$"=Boosts own max HP by $1.
-r:"^自分の最大ＨＰを17700アップ$"=Boosts own max HP by $1.
+r:"^自分の最大ＨＰを(\d+)アップ$"=Boosts own max HP by $1.
 ===(temp)

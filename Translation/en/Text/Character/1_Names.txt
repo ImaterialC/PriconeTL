@@ -27,6 +27,7 @@
 （デレマス）= (Deremas)
 （キャンプ）= (Camp)
 （エクスプローラー）= (Explorer)
+（ワイルド）= (Wild)
 クリスティーナ=Christina
 ラビリスタ=Labyrista
 ペコリーヌ=Pekorine
@@ -113,18 +114,29 @@
 カズマサ=Kazumasa
 レイ=Rei
 ユウキ=Yuuki
+ネア=Nea
 sr:"^・?([べ-・ー＆]{2,11})(\（.+\）)?$"=$1$2
 sr:"^・([べ-・ー＆]{2,11})(\（.+\）)?\n・([べ-・ー＆]{2,11})(\（.+\）)?$"=$1$2\n$3$4
 sr:"^・([べ-・ー＆]{2,11})(\（.+\）)?\n・([べ-・ー＆]{2,11})(\（.+\）)?\n・([べ-・ー＆]{2,11})(\（.+\）)?$"=$1$2\n$3$4\n$5$6
-
+sr:"^([べ-・ー＆]{2,11})(\（.+\）) が仲間になりました。$"=$1$2 has become a friend.
 
 ===Story Nick Name
+エリス=Eris
+アゾールド=Azold
+ミソラ=Misora
+ゼーン=Zane
+カリザ=Caliza
+
 シュテッヒパルム=Stechpalm
 草花さんたち=Flowers
 ゴロツキ１=Gorotsuki 1
 ゴロツキ２=Gorotsuki 2
+王宮騎士団員１=Royal Knight 1
+王宮騎士団員２=Royal Knight 2
 二人=Both
 ぷうきち=Pukichi
 老旅人=Old traveler
 店員=Clerk
 商人=Merchant
+女の子=Girl
+カガミ=Kagami

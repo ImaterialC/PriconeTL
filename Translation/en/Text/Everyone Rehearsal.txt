@@ -1,6 +1,5 @@
 みんなの稽古場=Everyone's rehearsal room
 んなの稽古場=veryone's Rehearsal Room
-[3C404E][FFBB00,CE4F00]みんなの稽古場[-]が解放されました。[-]=[3C404E]The [FFBB00,CE4F00]Everyone's Rehearsal Room[-]\nhas been released.[-]
 
 ガーゴイル=Gargoyle
 剛力なる鳥像=A strong bird statue

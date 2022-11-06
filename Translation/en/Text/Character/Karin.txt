@@ -9,7 +9,7 @@
 
 コールオブギルド=Call of Guilds
 味方全体のクリティカル時のダメージを小アップさせ、敵全体のクリティカル時のダメージを中ダウンさせる。さらに、味方全体に物理/魔法無効バリアを展開する。=Slightly increases the critical damage of all allies, and moderately decreases the critical damage of all enemies. In addition, deploys a physical/magical nullification barrier to all allies.
-r:"^味方全体のクリティカル時のダメージを10%アップ\n敵全体のクリティカル時のダメージを25%ダウン\n(\d+)ダメージ分の物理魔法無効バリアを展開する$"=Boosts all allies’ P.&M.Crit DMG by 10% for 18s.\nInflict P.&M. Crit DMG Debuff to all enemies by 25% for 18s.\nDeploy a barrier that Nullifies P.&M. DMG $1 to All Allies for 18s.
+r:"^味方全体のクリティカル時のダメージを10%アップ\n敵全体のクリティカル時のダメージを25%ダウン\n(\d+)ダメージ分の物理魔法無効バリアを展開する$"=Boosts all allies’ P.&M.Crit DMG by 10% for 18s.\nInflict P/M. Crit DMG Debuff to all enemies by 25% for 18s.\nDeploy a barrier that Nullifies P.&M. DMG $1 to All Allies for 18s.
 
 味方全体の物理攻撃力と魔法攻撃力\nを大アップさせ、さらに力の魔字を\n刻む。力の魔字が刻まれている間、\n味方の行動速度を大アップさせる。\n（このスキルの効果は他の行動速度\n変化スキルと重複する）=Greatly increases the physical attack power and magic attack power of all allies, and engraves the power spell. Greatly increases the action speed of allies while the power spell is engraved. (The effect of this skill overlaps with other action speed change skills)
 

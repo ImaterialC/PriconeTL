@@ -19,15 +19,15 @@
 r:"^敵単体に(\d+)の物理ダメージ\n毎秒(\d+)の物理ダメージを与えるフィールドを展開する\n自分の物理攻撃力を(\d+)アップ\n(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=Deals $1 P.DMG to an enemy. \nDeploys a 400 radius field that deals $2 every second for 15.5s. \nBoosts own P.ATK by $3 for 12s. \nDeploys a barrier that absorbs $4 P.DMG and M.DMG for 18s.
 
 ===UB (Need Non-6*)
-目の前の敵１キャラに物理特大ダメージを与える。=Deals massive physical damage to an enemy directly in front.
-r:"^敵単体に(\d+)の物理ダメージ$"=Deals $1 physical damage to an enemy.
+目の前の敵１キャラに物理特大ダメージを与える。=Deals massive P.DMG to an enemy directly in front.
+r:"^敵単体に(\d+)の物理ダメージ$"=Deals $1 P.DMG to an enemy.
 
 ===Skill 1 (with UE)
 目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を中アップ、ＴＰ上昇を小アップさせ挑発する。笑っている間に攻撃されると、前方範囲内の敵に反撃する。=Deals moderate P.DMG to an enemy directly in front. Small boost to own P.ATK and TP Boost. Taunts the enemy. If attacked while laughing, counterattack on enemies in range.
 
 r:"^敵単体に(\d+)の物理ダメージ\n範囲内の敵に(\d+)の物理ダメージ\n自分の物理攻撃力を(\d+)アップ\n自分のＴＰ上昇を(\d+)アップ$"=Provokes all enemies for 5s\nDeals $1 P.DMG to an enemy.\nDeals $2 P.DMG to all enemies within 320 range.\nBoosts own P.ATK by $3 for 12s.\nBoosts own TP Boost by $4 for 12s.
 ===Skill 1 (no UE) (Need Non-UE)
-目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を小アップさせる。その後笑っている間に攻撃されると、前方範囲内の敵に反撃する。=Deals moderate physical damage to an enemy directly in front. Small boost to own physical attack. If attacked while laughing, unleashes a counterattack on enemies in range.
+目の前の敵１キャラに物理中ダメージを与え、自分の物理攻撃力を小アップさせる。その後笑っている間に攻撃されると、前方範囲内の敵に反撃する。=Deals moderate P.DMG to an enemy directly in front. Small boost to own physical attack. If attacked while laughing, unleashes a counterattack on enemies in range.
 r:"^敵単体に(\d+)の物理ダメージ範囲内の敵に(\d+)の物理ダメージ\n自分の物理攻撃力を(\d+)アップ$"=Deals $1 P.DMG to an enemy.\nDeals $1 P.DMG to enemies in range.\nBoosts own physical attack by $1.
 ===Skill 2
 自分の周囲に、範囲内の味方すべてを小回復するフィールドを展開する。=Deploys a Field that recovers HP of all nearby allies by a small amount.

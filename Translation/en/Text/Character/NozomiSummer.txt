@@ -2,7 +2,7 @@
 
 メモリーズ・オブ・サマー=Memories of Summer
 
-r:"^味方全体の物理攻撃クリティカル時のダメージを16％アップ\n敵単体に(\d+)の物理ダメージ$"=Boosts all allies' P.Crit dmg by 16% for 18s.\nDeals $1 physical damage to an enemy.
+r:"^味方全体の物理攻撃クリティカル時のダメージを16％アップ\n敵単体に(\d+)の物理ダメージ$"=Boosts all allies' P.Crit dmg by 16% for 18s.\nDeals $1 P.DMG to an enemy.
 味方全体の物理攻撃クリティカル時のダメージを小アップさせ、目の前の敵１キャラに物理特大ダメージを与える。=Slightly increases the P.Crit dmg of all allies, and deals massive P.DMG to the nearest enemy.
 
 味方全体の物理攻撃力を大アップさせ、物理防御力と魔法防御力を中アップさせる。=Greatly increases the P.ATK of all allies, and moderately increases the P.DEF and M.DEF of all allies.

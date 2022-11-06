@@ -68,15 +68,14 @@ r:"^※全角(\d+)文字以内$"=※Up to  $1 character
 [3C404E]画像を保存しました。[-]=[3C404E]The image has been saved.[-]
 プレイヤーIDをコピーしました。=Copied player ID.
 友達を招待=Invite friends
-所属なし=No affiliation
+所属なし=None
+クランに所属していません。=You do not belong to a Clan.
 ===Clan Profile Card===
+クランランキング=Clan Ranking
 マイプロフ=My Profile
 募集要項=Bio
-加入条件=Status
-活動方針=Activity
 メンバー数=Member
-未参加=Join
-承認あり=Approval
+未参加=N/A
 ランプロフカード=Clan Profile Card
 平均プレイヤーLv=Average P. LV
 個人=Personal
@@ -91,6 +90,8 @@ r:"^※全角(\d+)文字以内$"=※Up to  $1 character
 
 生放送のお知らせ=Live broadcast news
 配信ページへ=To the distribution page
+クランメンバー募集中！一緒にプリコネ楽しもう！=We're looking for clan members!
+
 ===Title===
 
 ===Name& Self Introduce===
@@ -106,10 +107,6 @@ Translating JP Pricon atm.
 for Eng-UI contact Cornelia#0402
 ===Not sure===
 到着階=Arrival floor
-除名する=Delete
-クラン勧誘=Clan Recruit
-よろしくお願いします。=Nice to meet you.
-シングルモード参加=Participation in single mode
 
 ===NPC===
 オリジナルのプロフカード画像を作成して、画像付きでTwitterに投稿することができます。\n素敵なお仲間と出会えるといいですね。=You can create your own profile card image and post it on Twitter with the image.\nI hope you can meet nice friends.

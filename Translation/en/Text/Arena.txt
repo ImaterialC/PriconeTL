@@ -44,12 +44,17 @@ r:"^プリセット(\d+)$"=Preset $1
 ログを削除=Remove log
 バトルログ投稿完了=Battle Log Posting Completed
 [3C404E]パーティ編成を保存しました。[-]=[3C404E]Party Formation has been saved.[-]
+[FF7C4E,D62146]マイパーティに保存されている数が上限に達しています。\n上書きして保存するパーティを選択してください。[-]=[FF7C4E,D62146]The number stored in My Party has reached the upper limit.\nSelect the party to overwrite and save. [-]
+ここに保存=Save here
+上書きして保存するパーティを選択してください。=Select the party to overwrite and save.
+保存場所を選択=Select a storage location
 編成制限のため選択できません。=Cannot be selected due to organization restrictions.
 保存完了=Save Completed
 バトルアリーナではオートのみになります。=In the battle arena it will only be auto.
 [3B3F4D]クールタイム中です。\nジュエル×[-][FFBB00,CE4F00]10[-][3B3F4D]を使用して\nクールタイムを解除しますか？[-]=[3B3F4D]You are currently on cooldown.\nuse Jewels × [FFBB00,CE4F00]10[-]\n to reset cooldown?[-]
 [FF7C4E,D62146]スキップ設定になっています。[-]=[FF7C4E,D62146]It's set to skip.[-]
 [3C404E]パーティ編成が時間切れになりました。\n対戦相手を選択し直してください。[-]=[3C404E]The party formation has expired.\nPlease reselect your opponent.[-]
+現在クールタイムです。\nしばらくお待ちください。=It's currently on cool time,\nplease wait a moment.
 選択は5キャラまでです。=Up to 5 characters can be selected.
 r:"^パーティ(\d)にキャラが選択されていません。$"=No character is selected for Party $1.
 フレンド以外のプレイヤーのキャラは、ステータスが\\n下方補正されている場合があります。=Characters of players other than friends\\nmay have their stats revised downwards.
@@ -66,13 +71,13 @@ sr:"^\[3C404E\]対戦相手のランキングが(\d+位)に変更されました
 対戦履歴はありません。=There is no match history.
 r:"^\[3C404E\](\d)勝(\d)敗\[-\]$"="[3C404E]win:$1 lose:$2[-]"
 r:"^\[3B3F4D\]ランキングが\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3B3F4D\]位アップし、\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3B3F4D\]位になりました。\[-\]$"=[3B3F4D]Climb [FFBB00,CE4F00]$1[-] rank, Current Rank: [FFBB00,CE4F00]$2[-].[-]
-
+プリンセスアリーナではオートのみになります。=Princess Arena only can auto.
 
 [FF7C4E,D62146]ランキング変動なし、スキップ不可のバトルです。[-]=[FF7C4E,D62146]This is a non-skipable battle, no change in ranking.[-]
 3パーティの総戦力=3Party Total Power
 
 [FF7C4E,D62146]相手または自分が50位以内のためスキップ不可です。[-]=[FF7C4E,D62146]Only chalange rank under 50 can skip.
-[3C404E]クールタイム中です。\n解除しますか？[-]=[3C404E]During Cooldown.\nDo you want to release cooldown?[-]
+[3C404E]クールタイム中です。\n解除しますか？[-]=[3C404E]During Cooldown.\nDo you want to reset cooldown?[-]
 [FF7C4E,D62146]メッセージは必須ではありません。[-]=[FF7C4E,D62146]Message is not mandatory.[-]
 ※80文字以下=※80 characters or less
 バトルログをクランチャットに投稿しますか？=Do you want to post battle log to Clan chat?

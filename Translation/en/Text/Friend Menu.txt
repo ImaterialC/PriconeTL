@@ -11,7 +11,6 @@ r:"^プレイヤーLv:([0-9～ ]+)$"=Player Lv: $1
 サポートキャラにはLv10以上のキャラを設定できます。=You can set a Lv10 or higher character as a rental character.
 サポートキャラを設定しておくと、マナを獲得できます。=Rent your characters to get manas.
 
-クランに所属していません。=Not in a clan.
 
 サポート時間=Duration
 獲得マナ=Mana
@@ -38,7 +37,7 @@ r:"^プレイヤーLv:([0-9～ ]+)$"=Player Lv: $1
 [FF7C4E,D62146]フレンド申請を受けているプレイヤーはいません。[-]=[FF7C4E,D62146]No one has added you yet.[-]
 
 フレンドを探す=Search
-検索設定=Filter
+検索設定=Search Settings
 フレンド申請=Add
 
 プレイヤーID検索=Player ID Search
@@ -108,11 +107,12 @@ r:"^\[3C404E\](.{1,10})への\nフレンド申請を取り消しました。\[-\
 フレンド申請取り消し完了=Friend Application Cancellation Completed
 ===NPC===
 こちらがフレンドの\n皆さんです\n素敵な関係を\n築いてくださいね！=This is your friends list, let's build a wonderful relationship!
-主さま、フレンドを作りましょう。\nフレンドからはクエストにてサポートキャラをレンタルすることができますよ。=My lord, let's make friends.\nYou can rent support characters from your friends in the quest.
+主さま、フレンドを作りましょう。フレンドからはクエストにてサポートキャラをレンタルすることができますよ。=My lord, the time is ripe for making friends.\nOnce you register a friend, you will be able to call on their characters for suppport in various quests.
+サポートキャラを設定してフレンドの方々をお助けいたしましょう。また、サポートを設定すると主さまもマナを獲得できますよ。=You can set support characters to aid your friend in battle.\nYou will also earn Mana for providing this service.
 主さま、こちらでサポートキャラの設定ができますよ。\n設定してクランのメンバーやフレンドの方々をお助けいたしましょう。\nまた、サポートを設定すると主さまもマナを獲得できます。=Let's set a support character and help your friends.\nAlso, if you set support, you can also get mana.
 ギルド管理協会です\nフレンドに関しては\nこちらでご確認ください=This is the Guild Management Association. Check here for friends.
 こちらの一覧で\nフレンドのプロフィールを\n確認できますよ=You can see your friend's profile in this list.
 気になるパーティと\nバトルをしてみましょう！\nどちらが勝利するのか、\n私も楽しみにしていますね=Let's battle with the\nFriend's party! I'm looking forward\nto seeing which one will win.
-フレンドやクランメンバーと手合わせをいたしましょう。\nまた、自分で編成したパーティと対戦することも可能です。\n主さまの鍛錬の成果、楽しみにしております。=Get in touch with your friends and clan members. You can also play against your own party. I am looking forward to the results of the training of the Lord.
-クランのチャットへフレンドバトルのパーティを投稿できるようです。\n主さまのご自慢のパーティをお披露目してくださいませ。=You can post a friend battle party to the clan chat. Please show off your proud party.
+フレンドやクランメンバーと手合わせをいたしましょう。また、自分で編成したパーティと対戦することも可能です。主さまの鍛錬の成果、楽しみにしております。=Let us spar with our friends and clan members in battle, my lord.\nIlook forward to witnessing your strategic powess.
+クランのチャットへフレンドバトルのパーティを投稿できるようです。主さまのご自慢のパーティをお披露目してくださいませ。=It seems you can post your Friend Battle parties to your clan chat.\nPlease take this opportunity to show off your most remarkable teams.
 フレンド管理は\nこちらになります\n新しいフレンドとの出会いを\n楽しんでくださいね！=Friend management will be here.\nEnjoy meeting new friends!

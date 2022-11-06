@@ -61,7 +61,7 @@ r:"^ストーリー (\d+)話$"=Story Episode $1
 r:"^RANK(\d+)/Lv(\d+)/装備強化MAX/RANKボーナスを含むステータスです。$"=Rank$1/Lv$2/MAX Refined Equipment/Status including Rank Bonus.
 強化済=Enhanced
 所持スキル=Possessed skill
-
+イベントを進めてボスを討伐しよう！\n残り25体 BOSS討伐で解放=Advance the event and defeat the boss!\nRemaining 25 subjugating BOSS
 ==Banner time
 r:"^(\[[0-9A-F,]{6,13}\])([0-9/ :]{16})～([0-9/ :]{11,16})まで\[-\]$"="$1$2 to $3 (JST)[-]"
 r:"^(\[[0-9A-F,]{6,13}\])有効期間:([0-9/ :]{16}) ～ ([0-9/ :]{11,16})\[-\]$"="$1 Period: $2 to $3 (JST)[-]"

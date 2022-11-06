@@ -25,6 +25,7 @@ r:"^第?(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"
 r:"^第?(\d+)部 第(\d+)章 幕間が\n解放可能になりました。$"=Arc $1 Ch $2 Epilogue\nStory has release.
 r:"^第?(\d+)部 第(\d+)章$"=Arc $1 Ch $2
 r:"^第([0-9.]+)話$"=Episode $1
+sr:"(.+)が\n?解放可能になりました。$"=$1\nhas been unlocked.
 ===Story Menu==
 
 メイン=Main
@@ -56,9 +57,9 @@ r:"^第([0-9.]+)話$"=Episode $1
 ===NPC===
 解放したコンテンツにまつわるストーリーを見られます。\n冒険の途中で出会った、ちょっと特別な物語を振り返ってみましょう。=Watch stories about content you have unlocked\n and gain slightly different perspective of events from your advantures.
 各ギルドのストーリーを見られます。\nギルドストーリーは、ギルドに所属するキャラを１人以上仲間にし、\nギルドメンバーの絆ランク合計を、一定以上にすると解放されます。=Experience the stories of each guild.\nNew episodes unlock as you recruit characters belonging to that guild and reach a certain bond level total with its members.
-各キャラの専用ストーリーを見られます。\n絆ランクアップで、新しいストーリーが解放されます。\nストーリーの中には、見ることでステータスアップするものもあります。=You can see the exclusive character story.\nBond rank up will unlock new stories.\nSome stories can be viewed to improve their status.
-メインクエストの名場面を、振り返ることができます。\nそれぞれのストーリー初回閲覧で、ジュエルがもらえます。=You can look back on the scenes of the main quest.\nYou can get a jewel for the first viewing of each story.
-キャラ専用装備はみなさまの秘められた力を解放して、\nさらにスキルもパワーアップするようです。\n主さま、さっそく必要なアイテムを探しに行きましょう。=Unique Equipment seems to release your hidden power and further power up your skills. My Lord, let's go find the item you need.
+各キャラの専用ストーリーを見られます。絆ランクアップで、新しいストーリーが解放されます。ストーリーの中には、見ることでステータスアップするものもあります。=Watch stories unique to each character.\nNew episodes will be unlocked as bond level rises.\nViewingsome episodes will give stat boost bonuses.
+メインクエストの名場面を、振り返ることができます。それぞれのストーリー初回閲覧で、ジュエルがもらえます。=View various scenes from the Main Quest.\nJewels will be awarded the first time you view each episode.
+キャラ専用装備はみなさまの秘められた力を解放して、さらにスキルもパワーアップするようです。主さま、さっそく必要なアイテムを探しに行きましょう。=Unique Equipment unlocks each of our hidden potentials, making our skills even more powerful.\nLet us go search for necessary items at once, my lord.
 ===Character===
 ま～わ=Ma-Wa
 た～は=Ta-Ha

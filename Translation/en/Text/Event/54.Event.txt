@@ -1,3 +1,7 @@
+マホマホ・ミラクル・ジャーニー！　旅する少女と最果ての大樹=Mahomaho Miracle Journey! The Traveling Girl and the Farthest Tree
+
+綿と旅が紡ぐ物語=A tale of cotton and travel
+
 r:"^最果てを目指す旅路([0-9\-\(\)\w （）]*)$"=Journey to the End $1
 r:"^世界の果ての森([0-9\-\(\)\w （）]*)$"=Forest at the End of the World $1
 ホーリーエンブレイス=Holy Embrace
@@ -41,5 +45,7 @@ r:"^世界の果ての森([0-9\-\(\)\w （）]*)$"=Forest at the End of the Worl
 
 フリルやレースを足してみよう。=Let's add frills and laces.
 僕もお揃いが欲しい。=I want a match too.
-マホ姫の新境地だね。=New frontier for Princess Maho.
+マホ姫の新境地だね。=It's a New frontier for Princess Maho.
 [3C404EFF]似合うてますやろか？=[3c404eff]Does it look good on me?
+
+sr:"イベント「([\s\S]+)」のスペシャルエピソードが解放されました。"="A special episode of the event\n"$1"\nhas been unlock."

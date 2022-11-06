@@ -42,7 +42,7 @@ sr:"^(.{3,18})×(\d+)$"=$1 × $2
 バトルアリーナの防衛報酬です。=Battle Arena defense reward.
 「プリンセスアリーナ」で獲得したアイテムです。=This is an item obtained in "Princess Arena".
 「バトルアリーナ」で獲得したアイテムです。=This is an item obtained in "Battle Arena".
-
+「ギルドハウス」で獲得したアイテムです。=This is an item obtained in "Guild House".
 sr:"^バトルアリーナ(\d+位)のランキング報酬です。$"="Battle Arena $1 ranking reward."
 sr:"^プリンセスアリーナ(\d+位)のランキング報酬です。$"="Princess Arena $1 ranking reward."
 sr:"^([0-9]{1,2}月)クランバトルランキング(\d+位)の報酬です。$"="Clan Battle ($1) $2 ranking reward."

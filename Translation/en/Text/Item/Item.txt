@@ -19,6 +19,7 @@ EXPギガポーション=Giga EXP Potion
 赤枠の原鉱=Red Ore
 橙枠の原鉱=Orange Ore
 
+ファストチケット=Fast Ticket
 スキップチケット=Skip Ticket
 ミックスベリーケーキ=Mixed berry cake
 アップルパイ=Apple Pie

@@ -16,7 +16,7 @@
 先月へ=Last month
 Lvアップ=LV up
 情報=Info
-移動=Move
+移動=Go
 
 Lv上限：=Max Lv:
 r:"^(\d+)ルピを消費してLvアップ可能$"=Ready to Lv up using [FFBB00,CE4F00]$1[-] Rupies
@@ -214,3 +214,6 @@ r:"^(\d+)時間$"=$1h
 ギルドハウスの\n使い心地は\nどうですか？=How is the\nguild house\ncomfortable isn't it?
 ご用があれば\nなんでも言って\nくださいね～♪=Please tell me\nif you need\nsomething~♪
 ふぁ～…あっ\n見られちゃい\nましたか？=Ah...\nChould be\nyou see it?
+
+好きな家具をレイアウトしてギルドハウスを充実させましょう。家具の中には、冒険に役立つアイテムを獲得できるものもありますよ。=Fill your Guildhouse with arrangements of your favorite furnishings.\nSome furniture may give you items that come handy on your advantures.
+ギルドハウスにいる女の子に、お菓子をプレゼントしてみましょう。たくさんプレゼントすると、絆ランクが上がりますよ。=Try giving sweets to girls in your Guildhouse.\n offer them lots to raise their bond level.

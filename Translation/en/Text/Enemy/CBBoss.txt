@@ -38,3 +38,4 @@
 マダムエレクトラ=Madam Electra
 メガラパーン=Mega Laphan
 メデューサ=Medusa
+ゴブリンライダー=Goblin rider

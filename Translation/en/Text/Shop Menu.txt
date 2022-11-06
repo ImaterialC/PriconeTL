@@ -1,6 +1,6 @@
 通常=Normal
 Pアリーナ=P.Arena
-アリーナ=B.Arena
+アリーナ=Arena
 マスター=Master
 限定=Bonus
 購入する=Buy
@@ -14,7 +14,7 @@ r:"^残り(\d+)回$"=$1 Times Left
 全て解除=Clear
 全て選択=Select All
 すべて解除=Cancel
-[FF7C4E,D62146]限定キャラはメモリーピースによる解放はできません。[-]=[FF7C4E,D62146]Limited characters can not be\nreleased by Memory Shards.[-]
+[FF7C4E,D62146]限定キャラはメモリーピースによる解放はできません。[-]=[FF7C4E,D62146]Limited characters can not be\nunlock by Memory Shards.[-]
 主さま、旅の準備を整えて\nより充実した冒険をいたし\nましょう=My Lord, let us prepare for our journey. It will make for an even more fulfilling adventure.
 
 これ以上、\n購入できません=Cannot purchase\nany more.
@@ -51,7 +51,7 @@ sr:"^\[3C404E\]([べ-・ー]{2,12}|女神の秘石)×\[FFBB00,CE4F00\](\d+)\[-\]
 女神の秘石必要数確認=Exchange Divine Amulet Confirmation
 
 ===bonus===
-限定ショップ （準備中）=Bonus Shop(Closed)
+限定ショップ （準備中）=Bonus Shop (Closed)
 
 限定ショップの出現回数上限に達しました。\n04:59まで限定ショップは出現しません。=The maximum number of times the Bonus Shop can appear has been reached, and the Bonus Shop will not appear until 04:59(JST).
 
@@ -89,7 +89,18 @@ r:"^([0-9/]+) 枚$"=$1 Coin
 ピュアメモリーピース単価一覧=Pure Memory Shard price list
 ピュアメモリーピース購入時の、1個あたりの女神の秘石の\n必要数の詳細は下記をご覧ください。=See below for details on the number of Divine Amulet required per Shard when purchasing a Pure Memory Shard.
 
+メモリーピース購入数=Number of Memory Shards purchased
+そのまま購入=Purchase as it is
+r:"^(\d+)で購入$"=Purchase at $1
+★6才能開花に必要な数を超えています。=Exceeds the number required for *6 Ascension.
+キャラLv限界突破に必要な数が含まれています。\n専用装備の上限解放に必要な数を購入できます。=Contains the number required to break character Lv limit.\nYou can purchase the number required to unlock the limit of exclusive equipment.
+特定の強化分の購入数を超えています。\nそのまま購入しますか？=Exceeded the number of purchases for a UE enhancement.\nDo you want to buy it as is?
 ★5に必要な個数まで指定できます。=You can specify up to the number you need for ★5.
+★4に必要な個数まで指定できます。=You can specify up to the number you need for ★4.
+★3に必要な個数まで指定できます。=You can specify up to the number you need for ★3.
+★2に必要な個数まで指定できます。=You can specify up to the number you need for ★2.
+限定ショップは開かれていません=Limited shop is not open
+メモリーピース購入数=Number of memory shards purchased
 以下のアイテムを購入しますか?=Do you buy the following items?
 メモリーピース購入数に応じて、1個あたりの女神の秘石の\n必要数が異なります。詳細は下記をご覧ください。=The required number of Divine Amulet per Shard\ndepends on the number of memory shards has purchased.\nSee below for details.
 メモリーピース単価一覧=Memory Shard unit Price List
@@ -110,3 +121,6 @@ r:"^次回ラインナップは(\d+):00更新$"=Next Reset at $1:00(JST)
 毎日5:00ラインナップ更新=Reset Daily at 5:00(JST)
 毎日5:00更新　出現数4/5
 r:"^毎日5:00更新　出現数(\d)/5$"=Reset Daily at 5:00(JST) Up:$1/5
+
+r:"^本日の出現数　([0-9/]+)回$"=Appearance Today: $1
+メインクエストのクリア時に\n出現することがあります。=Occasionally appears after\nclearing Main Quests.

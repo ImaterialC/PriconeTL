@@ -9,8 +9,8 @@ r:"^スコアを累計で(\d+)獲得しよう$"=Get a total of $1 scores
 難易度EXTRAで、1度にスコアを135000以上獲得しつつ、全ラウンド1着でゴールしよう=Get a score of 135,000 or more at a time on EXTRA difficulty, and finish first in all rounds.
 難易度EXTRAで、1度にスコアを115000以上獲得しよう=Get a score of 115,000 or more at a time on EXTRA difficulty
 
-ベーシックGPのNORMALを1度プレイすると解放されます。=It will be released once you play NORMAL of Basic GP.
-ベーシックGPのHARDを1度プレイすると解放されます。=It will be released once you play HARD of Basic GP.
+ベーシックGPのNORMALを1度プレイすると解放されます。=It will be unlock once you play NORMAL of Basic GP.
+ベーシックGPのHARDを1度プレイすると解放されます。=It will be unlock once you play HARD of Basic GP.
 ャラ選択=Character Selection
 天候適正=Proper Weather
 ガッツ=Guts

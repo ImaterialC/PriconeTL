@@ -1,17 +1,20 @@
 専用装備=Unique
 才能開花=Ascension
 スキル強化=Skills
+強化スキル1=Enhance Skill 1
+強化スキル2=Enhance Skill 2
 Lv強化=Level Up
-装備=Equipment
+装備=Equip
 絆ストーリー=Story
 ★変更=★Change
 おまかせ強化=Optimize
 まとめて装備=Equip All
 装備する=Equip
 入手方法=How to\nObtain
-解放OK！=Release OK!
-未開放ユニット=Unreleased unit
-限定キャラのため解放できません。=Limited character cannot be released.
+解放OK！=Ready to\nUnlock!
+未開放ユニット=Locked unit
+限定キャラのため解放できません。=Limited character cannot be unlocked.
+限界突破するための素材が足りません。=You don't have enough materials to Limit Break.
 降順=DESC
 昇順=ASC
 未解放キャラ=Locked Characters
@@ -60,20 +63,20 @@ r:"^\[3C404E\]アイテムを消費して、強化Lv上限を\[-\]\[FFBB00,CE4F0
 解放する=Unlock
 アイテムが不足しています。=Insufficient Items.
 メモリーピース入手方法=How to Obtain Memory Shards
-入手場所=Location
+入手場所=Search
 現在、このアイテムは\nメインクエスト等では入手できません。=This item cannot be obtained in the Main Quest.
 以下のアイテムの入手場所を確認できます。=View locations where the follow items can be obtained
 
 キャラのRANKが7以上で装備できます。=Equippable at RANK 7.
 [FF7C4E,D62146]キャラのRANKが7以上で装備できます。[-]=[FF7C4E,D62146]Equippable at RANK 7.[-]
 
-このキャラの★6は今後登場予定です。=A ★6 of this character will be\ncoming in the future.
+このキャラの★6は今後登場予定です。=This character's 6★ ascension \nwill be introduced at a later date.
 パーティ情報がありません。=There is no party information.
 [FF7C4E,D62146]専用装備グロウスフィアを使用できます。[-]=[FF7C4E,D62146]UE Growsphear can be used.[-]
 
 アイテム入手方法=How To Get Items
-★6解放クエストに必要なアイテムの一部をセットします。よろしいですか？=Set some of the items required for the release ★6 quest. Is it OK? 
-まとめてセット確認=Collective Set Confirmation
+★6解放クエストに必要なアイテムの一部をセットします。よろしいですか？=Fuse some of the items required for unlock ★6 quest. Is it OK? 
+まとめてセット確認=Collective Fuse Confirmation
 
 今の私にできることが\n解放可能になりました。=What I can do now has become liberating.
 あるけな=Somehow
@@ -92,7 +95,7 @@ r:"^\[3C404E\]アイテムを消費して、強化Lv上限を\[-\]\[FFBB00,CE4F0
 この装備は素材から作成できません。=You cannot craft this equipment.
 ===ORE===
 原鉱を使えば作成できます。=Can be created by using Ore.
-今後このメッセージを表示しない\n※設定から変更可=Do not show this message in the future\n※Can be changed from the settings
+今後このメッセージを表示しない\n※設定から変更可=Do not show this message in the future\n※Can be changed from the settings.
 原鉱消費確認=Ore Consumption Confirmation
 以下の原鉱が消費されます。\nよろしいですか？=The following ore will be consumed.\nIs this OK?
 消費装備が十分のため、原鉱を消費できません。=No need, you have enough equipment.
@@ -202,7 +205,7 @@ EXスキルスロット=EX skill slot
 UB予約を有効にする=Enable UB reservation
 [3C404E]リタイアすると報酬は獲得できませんが、\nクリアするまで何度でも再挑戦できます。[-]=[3C404E]If you retire, you won't get any rewards,\nYou can try again until you clear it.[-]
 r:"^(\d+)文字以上(\d+)文字以下で入力してください。$"=Please enter between $1-$2 character.
-
+強化上限に達しています。上限解放を行ってください。="You have reached the enhancement limit.\You can enhance by select "Uncap"."
 ===rank up===
 ランクアップ確認=Rank Up Character
 以下のアイテムを装備してランクアップします。\nよろしいですか？=Equip the following items?
@@ -268,10 +271,16 @@ RANKボーナス詳細のステータス=Status Details
 専用装備グロウスフィア=UE Spheres
 （キャラ）=(Character)
 ====NPC
-プレイヤーLvが、キャラクターLvの上限になります。\nメインクエストやミッション達成で、プレイヤーEXPをGETし\nLvアップを目指しましょう。=Player Lv is the upper limit of character Lv. Get player XP and aim for Lv up by completing main quests and missions.
+プレイヤーLvが、キャラクターLvの上限になります。\nメインクエストやミッション達成で、プレイヤーEXPをGETし\nLvアップを目指しましょう。=Character levels can only go as high as your player level.\nComplete Main Quests and missions to earn player EXP and raise your level.
 装備の欠片・設計図が足りない場合は、\n原鉱を代用して装備の作成が可能になりました。\n皆さまの強化に役立ててくださいまし。=If there are not enough equipment fragments or blueprints, it is now possible to create equipment by substituting the ore. Please use it to strengthen your characters.
-メモリーピースとは、キャラの記憶の欠片が封印されたアイテムです。\nたくさん集めると、対象キャラを「才能開花」することができます。\nキャラをパワーアップできるので頑張って集めましょう。=A memory shard is an item that contains a piece of character's memory. If you collect a lot, you can make the target character "Ascend". You can power up your characters, so let's do our best to collect them.
+メモリーピースとは、キャラの記憶の欠片が封印されたアイテムです。\nたくさん集めると、対象キャラを「才能開花」することができます。\nキャラをパワーアップできるので頑張って集めましょう。=Memory Shards are crystals with forgotten memories sealed within. You will need to collect them to Ascend characters, so try to gather as many as you can to power up your roster.
 
-キャラは、最大★６まで才能開花できます。\n★５まで才能開花すると、ＥＸスキルが\nＥＸスキル＋となり、さらにパワーアップしますよ。=Characters can ascend up to ★6. When your character ascend to ★5, your EX skill will become EX skill+, and you will be even more powerful.
+マナを使ってスキルLv、ユニオンバーストのLvを強化できます。冒険で立ちはだかる強敵も、スキル強化で撃退しましょう。=You can use Mana to enhance skills and Union Bursts.\nEnhance your skills and fell even the most powerful foes encountered on your adventures!
 
-最後に、解放クエストをクリアすると才能開花ができます。\nステータスに加え、ユニオンバーストもパワーアップしますよ。\nみなさまの真の力の解放を目指して頑張りましょう。=Finally, if you clear the release quest, you can blossom talent. In addition to the status, you will also power up Union Burst. Let's do our best to release your true power.
+装備には、強化できるものがあります。装備を強化すると、ステータスがアップします。強敵に備え、装備を強化しておきましょう。=Some equipment can be refined in order to power up its stats. Make sure to refine your equipments so that you're always ready to face dangerous opponents
+
+キャラは、最大★６まで才能開花できます。★５まで才能開花すると、ＥＸスキルがＥＸスキル＋となり、さらにパワーアップしますよ。=Characters can be ascended up to ★6.\nReaching ★5 will transform the character's EX skill to an EX skill+, making them even more powerful.
+
+専用装備を装備したら、★6才能開花に必要なアイテムを集めましょう。「ピュアメモリーピース」はメインクエストのVERY HARD、「プリンセスオーブ」は神殿調査から入手できますよ。=After equiping their UE, gather the necessary items to upgrade a character to ★6. Pure Memory Shards can be obtained from VH stage, and Princess Orbs from Tample Trek.
+
+最後に、解放クエストをクリアすると才能開花ができます。ステータスに加え、ユニオンバーストもパワーアップしますよ。みなさまの真の力の解放を目指して頑張りましょう。=Finally, must complete the character's Ascension Quest. If you succed, both their stats and their UB will be upgraded. Please do your best to unlock our friend's true power.

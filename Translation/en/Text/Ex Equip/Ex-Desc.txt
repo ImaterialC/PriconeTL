@@ -1,0 +1,254 @@
+Pink ----------------------------------------------------------
+ソードオブエレメント=Sword of Element
+ドラグーンファング=Dragoon Fang
+貴忠装リヴガルデット=Tadatada Live Gardette
+インドミタブルスカイ=Indian Mitables Sky
+ルミナスエンゲージメント=Luminous Engagement
+疾風弓ワールウィンド=Gale Bow World Wind
+アメイジングアーケイン=Amazing Archine
+福音装イノセントプレイヤー=Innocent Prayer Gospel
+エンドレスエクリプス=Endless Eclipse
+ゲーズオブジャッジメント=Game of Judgment
+暗夜剣アルプトラオム=Dark Night Sword Alptraom
+アースオブジャイアント=Earth of Giant
+追憶輪ディバイングリフ=Remembrance Divine Glyph
+ホープフルブルー=Hopeful blue
+ブルーノヴァ=Brunova
+インファーナルオーブ=Infernal Orb
+雷鳴剣ユニコーンヴォルト=Thunder Sword Unicorn Vault
+ヘブンリーナックル=Heavenly Knuckle
+イモータルティアーズ=Immortal Tears
+
+Gold ----------------------------------------------------------
+【クラン】ブレイブオブグラップラー=[Clan] Brave of Grappler
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した手甲。人々の絆の力によって強化された拳打は音よりも速く飛び、敵対者を打ち砕く。=A gauntlet crafted from a rainbow-ore by a best craftsman. Strengthened by the power of people's bonds, punche can faster than sound and crush opponents.
+
+【クラン】ブレイブオブウォーリアー=[Clan] Brave of Warrior
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した大斧。人々の絆の力によって苛烈な攻撃が可能となり、悪意ある者を粉砕する。=A large ax crafted from a rainbow ore by a best craftsman. The power of people's ties enables a fierce attack, crushing those with bad intentions.
+
+【クラン】ホープオブレンジャー=[Clan] Hope of Ranger
+虹色に輝く鉱石を、一流の職人が心血を注いで鍛え上げた剣。絆の力を刃に帯びることで全ての障害を切り払い、進路を拓くことができる。=A sword forged from a rainbow ore by a best craftsman. By carrying the power of bonds on its blade, it is possible to cut through all obstacles and open up a path.
+
+【クラン】ブレイブオブホプライト=[Clan] Brave of Hoplite
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した大剣。人々の絆の力を刀身にまとい、悪意ある者を一刀で斬り伏せる。=A large sword crafted from a rainbow ore by a best craftsman. With the power of people's ties in its blade, it cuts down those with malicious intent with a single sword.
+
+キングスプライド=King's Pride
+王に認められた騎士にのみ与えられる大斧。これを携えながら敗走するということは許されず、使い手は決死の覚悟を求められる。=A large ax given only to the knight recognized by the king. It is not permissible to lose while carrying this, and the user is determined to be deadly.
+
+天空のネックレス=Necklace In The Sky
+青い魔法石が繋がれたネックレス。元来は天空に祈りを捧げる巫女の装飾品であり、敬虔な祈りを捧ぐ者には星の加護を与えてくれるという。=A necklace with blue magic stones. Originally an acc for a miko who prays to the sky, those who offer devout prayers are blessed with the blessings of the stars.
+
+ネイチャーズブレス=Nature's Breath
+大自然の魔力を帯びる宝石を用いた腕輪。着用者はその一身に木々と大地の力を得て、あらゆる災害から身を護る術を得る。=A bracelet using jewelry with the magical power of nature. The wearer gains the power of the trees and the earth, and protection from all disasters.
+
+ゴシックアイリス=Gothic Iris
+貴族向けのドレスの中でも最高級の逸品。たおやかに咲く花を思わせる美しい装飾の数々は、見た者を恍惚とさせるという。=The finest gem among nobles dresses. Many of the beautiful decorations reminiscent of a gentle blooming flower.
+
+蓮花宣誓の装束=Lotus Oath Robe
+咲き誇る蓮の花に向かい、神々への誓いを立てるための装束。誓いと引き換えに得られた加護は、あらゆる災いから着用者を守り抜く。=A robe for make a vow to the gods, heading to the blooming lotus flowers. The blessing obtained in exchange for the oath protects the wearer from all the disasters.
+
+エメラルドホーク=Emerald Hawk
+風の魔法がかけられている鎧。これをまとった戦士は鷲のように戦場を飛び回る身軽さを得て、あらゆる攻撃を避けられるようになる。=Armor with wind magic. The warrior who wears this will be able to avoid any attacks, gaining the lightness of flying around the battlefield like an eagle.
+
+深紅の宝石が目を引く聖鎧。祖国に尽くした騎士の魂が宿るとされ、身に着けた者は一撃で敵を葬る剣技を繰り出せるようになる。=A holy armor with a crimson jewel. It is said that the soul of the knight who has been working in his homeland will be dwelled, and those who wear it will be able to produce sword techniques that bury the enemy with a single blow.
+
+ゴールデンソルジャー=Golden Soldier
+戦場でもはっきりとわかるほど、金色に煌めく鎧。その輝きは魔力による加工を経たためで、身体能力を限界まで高める効果を備えている。=An armor that sparkles goldenly so clearly that you can clearly see it on the battlefield. The glow has passed the magical power, and has the effect of enhancing physical abilities to the limit.
+
+桜花蒼天の戦装束=War Robe of Cherry Blossom Blue Sky
+鮮やかな桜色と青色が目を引く、戦用の装束。着用すれば宙に舞う花びらのように自在な剣捌きが可能となり、曇りなき勝利が得られる。=A dress for war, with vivid cherry blossom colors and blue. If you wear it, you will be able to handle the sword freely like a petal dancing in the air, and a cloudy victory will be obtained.
+
+シャドウオブローズ=Shadow Of Rose
+かつて世間を騒がせた怪盗が用いていたという装束。施された派手な装飾は、それでも盗みを成功させるという怪盗の自信のあらわれである。=A robe that was once worn by a phantom thief who caused a stir in the world. The flashy decorations on it are a manifestation of the phantom thief's confidence that he will succeed in stealing.
+
+デーモンハンド=Demon Hand
+邪悪な魔力を帯びているかぎづめ。やすやすと鎧を切り裂き、確実に致命傷を与えてくるため、悪魔の手招きとも例えられている。=A claw imbued with evil magic. Because it easily cuts armor and inflicts fatal injuries, it is also called the devil's beckoning.
+
+ゴールデンサウンド=Golden Sound
+純金を贅沢に用いた多弦弓。この弓で奏でられる旋律は黄金に等しい価値があると称えられ、戦場に立つ全ての兵士を奮い立たせる。=A multi-stringed bow made of pure gold. The melody played by this bow is hailed as worthy of gold, inspiring all soldiers on the battlefield.
+
+イビルホーン=Evil Horn
+悪魔の角を切り落として作られた片手斧。邪気をまとった黒い刃は、使い手の心から慈悲をなくし、敵対者に致命の一撃を与える。=A one-handed ax made by cutting off a demon's horn. A black blade encased in wickedness removes mercy from the user's heart and inflicts a fatal blow on the enemy.
+
+エンドレスバーン=Endless Burn
+烈火の如き猛攻を可能にする、炎の魔力を帯びた大斧。使い手の闘争心を高め、一度振り下ろすと相手が倒れるまで連撃を止められなくなる。=A large ax imbued with fiery magic that allows for fierce attacks like raging fire. Raises the fighting spirit of the user, and once you swing it down, you will not be able to stop the continuous attack until the opponent is defeated.
+
+コマンダーランス=Commander Lance
+軍隊の指揮官が用いるランス。階級を示すための装備であり、混乱した戦場においても、兵士たちはこの槍を持つ者に付き従う。=Lance used by military commanders. It is equipment to show the rank, and even on the confused battlefield, soldiers obey the spear.
+
+エルダーナイトランス=Elder Knight Lance
+優秀な騎士のみが持つことを許されるランス。これを持っていること自体が一騎当千の証とされ、敵対者の戦意を奪う。=A lance that only elite knights are allowed to wield. Possessing this itself is considered proof of Ikki Tousen, and it deprives opponents of their fighting spirit.
+
+祈りの小剣=Prayer Stiletto
+信仰にその身を捧げる人々が携えている小剣。信心の高い持ち主には神聖な加護が与えられ、邪悪な存在から身を守るという。=A dagger carried by those who devote themselves to their faith. It is said that the owner with high faith will be given divine protection and will protect themselves from evil beings.
+
+ウナーデシュヴァリエ=Unadeschevalier
+主君に命懸けの誓いを立てた、ある騎士の短剣。誓いは剣に力を与え、細身の刀身から想像もできないほど強烈な刺突を放つことができる。=A knight's dagger who made a vow of his lord. The oath gives the sword power and can emit a stuck enough to imagine from a slender blade.
+
+ドラゴンネイル=Dragon Nail
+竜を崇める傭兵団が使っていたとされる大剣。その刀身自体が黒い竜の爪先を模しているとされ、頑強な鎧でもたやすく切り裂いてしまう。=A large sword said to have been used by a group of mercenaries who worshiped dragons. The blade itself is said to resemble the toe of a black dragon, and can easily cut through even the toughest armor.
+
+アイスバウンド=Ice Bound
+氷のように冷たい鋼材を用いた剣。寒冷地を守護する騎士が用いたとされ、氷点下で打ち合っても刃こぼれひとつしないという。=A sword using cold steel material like ice. It is said that the knight protected by the cold region was used, and it would not spill out even if you hit it under freezing.
+
+暗殺者の装飾剣=Assassin's Decorative Sword
+遺跡から発掘された、美しい装飾の曲剣。伝承では、暗殺者がこれを王に献上するふりをして近づき、一刀\nで命を絶ったという。=A beautiful decorated curved sword excavated from the ruins. Legend has it that an assassin pretended to present this to the king and approached, killing him with a single cut.
+
+ノーブルフラッシュ=Noble Flash
+ある貴族のために制作された長剣。その絢爛ながらも上品な装飾には、強さと優雅さを備えた貴族たれ、という願いが込められている。=A long sword made for a nobleman. The splendid yet elegant decoration is filled with the desire to be a powerful and elegant aristocrat.
+
+インドミタブルスカイ=Indian Mitables Sky
+自由のために命を懸けた、ある英雄の鎧。誰も大空を支配することができないように、この鎧の着用者を屈服させることは不可能である。=A hero's armor who died for freedom. It is impossible to succumb to the wearer of this armor so that no one can control the sky.
+
+伊藤美来すこすこ侍=Mika Ito Samurai Mail
+貴族が決闘の際に着用する服装。見事な装飾が目を引くが、使われている生地は強力な魔物の皮であり、並の鎧よりはるかに堅牢である。=Clothes worn by nobles during duel. The stunning decorations are eye-catching, but the fabric used is a strong monster skin, much more robust than the average armor.
+
+
+
+
+Silver---------------------------------------------------------------------------------
+【クラン】ウィッシュオブセージ=[Clan] Wish of Sage
+虹色に輝く鉱石を、職人が丁寧に加工した魔導書。強く他者を想うほど鉱石に力が宿り、多彩な秘術を扱えるようになる。=A magic book carefully processed by craftsmen with a rainbow ore. The more you strongly think of others, the more powerful you are, and you will be able to handle a variety of secrets.
+
+【クラン】ウィッシュオブウィザード=[Clan] Wish of Wizard
+虹色に輝く鉱石を、職人が丁寧に加工した杖。強く他者を想うほど鉱石に力が宿り、より強力な魔法を放つことができる。=A wand carefully processed by a craftsman with a rainbow ore. The more powerful you think of others, the more powerful you can emit a more powerful magic.
+
+【クラン】ウィルオブガード=[Clan] Will of Guard
+虹色に輝く鉱石を、職人が丁寧に加工した盾。強く他者を想うほど鉱石に力が宿り、強力な攻撃に耐えられる強度を得る。=A shield carefully processed by a craftsman with a rainbow ore. The more power you think of others, the more power you think of it, the strength that can withstand powerful attacks.
+
+【クラン】ウィルオブグラップラー=[Clan] Will of Grappler
+虹色に輝く鉱石を、職人が丁寧に加工した手甲。強く他者を想うほど鉱石に力が宿り、困難を打ち砕く拳打を放つことができる。=A handle that is carefully processed by a craftsman with a rainbow ore. The more you strongly think of others, the more power you are in the ore, and you can hit a fist that breaks the difficulties.
+
+【クラン】ウィッシュオブアーチャー=[Clan] Wish of Archer
+虹色に輝く鉱石を、職人が丁寧に加工した弓。強く他者を想うほど鉱石に力が宿り、より正確な一矢を放つことができる。=A bow carefully processed by a craftsman with a rainbow ore. The more power you think of others, the more you think of others, and you can release a more accurate one arrow.
+
+【クラン】ウィルオブウォーリアー=[Clan] Will of Warrior
+虹色に輝く鉱石を、職人が丁寧に加工した大斧。強く他者を想うほど鉱石に力が宿り、相手を防具ごと両断できる一撃を放つことができる。=A large ax that is carefully processed by craftsmen with a rainbow ore. The more you strongly think of others, the more power you can do, and you can fire a blow that can be cut off with the armor.
+
+【クラン】ウィルオブトルーパー=[Clan] Will of Trooper
+虹色に輝く鉱石を、職人が丁寧に加工した槍。強く他者を想うほど鉱石に力が宿り、より強烈な刺突を放つことができる。=A spear carefully processed by craftsmen with a rainbow ore. The more powerful you think of others, the more powerful you can, and you can emit a more intense piercing.
+
+【クラン】ウィッシュオブレンジャー=[Clan] Wish of Ranger
+虹色に輝く鉱石を、職人が丁寧に鍛え上げた短剣。強く他者を想うほど鉱石に力が宿り、切っ先が鋭さを増していく性質を持つ。=A dagger carefully trained by a craftsman with a rainbow ore. The more powerful people think of others, the more power they are, and the cuts are increasingly sharp.
+
+【クラン】ウィルオブホプライト=[Clan] Will of Hoplite
+虹色に輝く鉱石を、職人が丁寧に加工した大剣。強く他者を想うほど鉱石に力が宿り、斬撃の重みが増す性質を持つ。=A large sword carefully processed by a craftsman with a rainbow ore. The more strongly reminiscent of others, the more powerful in the ore, and the weight of slashing is increased.
+
+【クラン】ウィッシュオブナイト=[Clan] Wish of Knight
+虹色に輝く鉱石を、職人が丁寧に鍛え上げた剣。強く他者を想うほど鉱石に力が宿り、刃が強靭になっていく性質を持つ。=A sword carefully trained by a craftsman with a rainbow -colored ore. The more powerful people think of others, the more power they are, and the blades become tough.
+
+ファングイヤリング=Fang Earrings
+獣の牙を模したイヤリング。大地の力を借り受けて、攻撃魔法の威力を高める効果があるとされている。=Earrings that imitate the beast's fangs. It is said to have the effect of borrowing the power of the earth and enhancing the power of attack magic.
+
+ターコイズペンダント=Turquoise Pendant
+ターコイズを用いたペンダント。健康への願いが込められており、身に着けると病気にかかりにくくなるという。=Pendant using turquoise. It has a wish for health, and if you wear it, it will be less likely to get sick.
+
+シルバーネックレス=Silver Necklace
+宝石が美しい、銀製のネックレス。魔除けの効果もあるとされ、夜更けに出歩く際に身に着けるとよいとされる。=Silver necklace with beautiful jewelry. It is said to have the effect of an amulet, and it is good to wear it when you go out late at night.
+
+ウォーリアーバングル=Warrior Bangle
+実戦において、防具としての性能をもたせた腕輪。腕輪自体の堅牢さに加え、魔法によって着用者の頑強さも向上させることができる。=A bracelet that gives the performance as armor in the actual battle. In addition to the robustness of the bracelet itself, magic can also improve the stubbornness of the wearer.
+
+ゴールドアンクレット=Gold Anklet
+純金の腕輪に宝石をはめ込んだ贅沢なアクセサリー。これを持つことはステータスとされ、持ち主の胆力を高めてくれる。=A luxurious accessories with jewelry in a pure gold bracelet. Having this is a status and enhances the owner's ghost.
+
+クラシカルドレス=Classical Dress
+厳かな雰囲気のドレス。落ち着いた色合いであるため、どのような式典にも着用していける。=A dress with a strict atmosphere. Because it is a calm shade, it can be worn for any ceremony.
+
+シーカーズローブ=Seeker's Robe
+研究者が身に着けているローブ。厚手の生地を採用しており、危険な薬品を取り扱う際に重宝される。=Robe worn by researchers. It adopts thick fabric and is useful when handling dangerous drugs.
+
+純鉄の甲冑=Pure Iron Armor
+純粋な鉄を用いた鎧。安価でシンプルな構造ながら職人の技が光る逸品であり、軍隊からも発注がかかるほど評価は高い。=Armor using pure iron. It is a gem with a cheap and simple structure, and the craftsman's skills are shining, and the evaluation is high as the order is made from the army.
+
+プレートアーマー=Plate Armor
+皮と鉄板を組み合わせた鎧。傭兵の間では人気のある装備で、十分な強度を持ちながら動きやすいと評判である。=Armor that combines skin and iron plate. It is a popular equipment among mercenaries and has a reputation for being easy to move while having sufficient strength.
+
+ヘビーアーマー=Heavy Armor
+全身を覆う鉄製の鎧。身動きは取りにくくなるが優れた耐久を誇り、半端な魔物では装備者に傷ひとつつけられない。=Iron armor that covers the whole body. It is difficult to get stuck, but it boasts excellent durability, and odd monsters cannot be scratched by equipment.
+
+トーゴクの旅衣装=Togok Travel Cloth
+はるか東の国で、広く親しまれている旅装束。ゆったりとした着心地でいざという時に刀を振るいやすいと評判である。=A widespread travel bundle in a far eastern country. It has a reputation for swinging a sword in case of a relaxing comfort.
+
+シーフクローク=Thief Cloak
+深い闇夜に溶け込むことを目的とした外套。衣擦れ音がしないよう特殊な繊維を用いており、盗賊たちからの人気が高い。=A cloak for the purpose of blending into a deep dark night. We use special fibers so that they do not rub their clothes, and they are very popular with bandits.
+
+若葉の外套=Wakaba's Cloak
+明るい緑色が目を引く外套。雨天でも着用できるほど撥水性に優れ、手入れも簡単だと幅広い層から人気がある。=A cloak with a bright green color. It is so water -repellent that it can be worn even in rainy weather, and it is popular among a wide range of people if it is easy to clean.
+
+ヒーラーズバイブル=Healer's Bible
+主に回復魔法について記されている書物。市民の間でも広く親しまれている書物で、簡単なケガや病であればこの一冊で対応できる。=A book that mainly describes recovery magic. This book is widely known among citizens, and can be used with this one book if it is a simple injury or illness.
+
+ハンドガード=Hand Guard
+主に兵士や騎士が着用する手甲。職人の丁寧な仕上げもあり、指の動きを阻害することなく武器を振ることができる。=Mainly worn by soldiers and knights. There is also a careful finish of the craftsman, so you can wield weapons without inhibiting your finger movements.
+
+アイアンクロスボウ=Iron Crossbow
+軍隊向けに大量生産されている鉄製のクロスボウ。安定して狙いをつけられるため、新兵から熟練者まで広く愛用される。=Iron crossbow, which is mass -produced for the army. It is widely used from recruiters to skilled people because it is aimed stably.
+
+コンポジットボウ=Composite Bow
+獣の骨と鉄を組み合わせた合成弓。その剛性と弾性は弓として最適なバランスを持ち、使い手を選ばず安定した性能を発揮できる。=Synthetic bow that combines beast bones and iron. Its rigidity and elasticity have the optimal balance as a bow, and can demonstrate stable performance regardless of user.
+
+合金の片手斧=Alloy One-Handed Ax
+特殊な合金を用いて、軽さと強度を両立した片手斧。敵にめがけて投擲するといった使い方も可能で、活躍の場を選ばない。=A 1H ax that combines lightness and strength using a special alloy. It is also possible to throw it to the enemy, so you do not choose a place to play.
+
+ヘビーアックス=Heavy Ax
+非常に重量のある鉄製の大斧。小回りは利かないが、それと引き換えに敵を鎧ごと叩き斬ることに特化している。=A very heavy iron ax. Although it is not a small turn, it specializes in slashing the enemy with armor in exchange for it.
+
+ウォーリアーアックス=Warrior Ax
+戦場で使用されている両手斧。シンプルな作りゆえに扱いやすく、頑丈な刃を生かして相手を薙ぎ払うことができる。=A 2H ax used on the battlefield. Because it is simple, it is easy to handle, and you can use a sturdy blade to get rid of the opponent.
+
+バンディッドナイフ=Banded Knife
+裏社会で大量に流通している小剣。安価でありながら品質は悪くなく、新興の盗賊団などが数を揃える際に多く採用している。=A small sword that is distributed in large quantities in the back society. Although it is inexpensive, the quality is not bad, and the emerging bandits and others are adopted many when they have numbers.
+
+シルバーナイフ=Silver Knife
+銀を用いて作られた小剣。強度は高くないが、錆には非常に強いため、長旅の際はこれを携える旅人も少なくない。=A sword made using silver. Although it is not strong, it is very strong in rust, so many travelers carry this on a long journey.
+
+スチールスティレット=Steel Stiletto
+戦場で兵士たちが用いる、鋼鉄製の短剣。鎖帷子を貫くことを目的としており、鋭い刺突は十分致命傷になりうる。=A steel dagger used by soldiers on the battlefield. The purpose is to penetrate the chain mail, and sharp stabbing can be fatally injured.
+
+銀の儀礼剣=Silver Ceremonial Sword
+式典の際に用いる銀製の直剣。実戦向けではないが、その厳かな雰囲気は携える者の気を引き締める。=A silver straight sword used for the ceremony. Although it is not for actual battles, the strict atmosphere is tightened by the person who is involved.
+
+ソルジャーソード=Soldier Sword
+軍隊で採用されている両刃の大剣。安価で大量に揃えることができ、素直な性能で使い手を選ばない。=A double -edged sword adopted by the army. It is inexpensive and can be prepared in large quantities, and does not choose the user with obedient performance.
+
+Bronze---------------------------------------------------------------------------------
+ウッドイヤリング=Wood Earring
+お土産物として親しまれているイヤリング。素朴ながらも温かみのあるデザインは、身に着ける人を選ばない。=Earrings that are popular as souvenirs. The simple but warm design does not choose anyone who wears it.
+
+木皮のネックレス=Boiled Necklace
+木の皮で編まれたネックレス。お守りとしても人気があり、初めて長旅に出る旅人への贈り物としてもよく知られている。=A necklace woven with wooden skin. It is also popular as a talisman, and is well known as a gift for travelers who go on a long journey for the first time.
+
+ウッドバンクル=Wood Bangle
+ガラス玉で装飾された木製の腕輪。無病息災の願いが込められており、市民の間でも人気のある贈り物である。=Wooden bracelet decorated with glass balls. It is a popular gift among citizens, with the wish of illness and no -illness.
+
+木彫りの指輪=Wood Carved Ring
+職人の丁寧な仕上げが人気の指輪。どんな服装にも無難にあわせられると、幅広い層から人気がある。=A popular ring for craftsmen's careful finish. It is popular among a wide range of people if any clothes are safe.
+
+ビギナーズローブ=Beginner's Blove
+勉学に励む魔法使いのための装束。魔力の制御を助ける効果があり、未熟な魔法使いが安全に魔法を研究するのに欠かせない装備である。=A costume for wizards working hard. It has the effect of helping magic control, and is an essential equipment for immature wizards to safely study magic.
+
+レザーアーマー=Leather Armor
+一般的な革製の鎧。鉄製のものと比較するとやや防御力に劣るが、安価で軽量ゆえに、駆け出しの冒険者が身に着けることが多い。=General leather armor. Although it is slightly inferior to defensive power compared to iron ones, because of its cheap and lightweight, rush adventurers are often worn.
+
+ポピュラーワンピース=Popular Dress
+明るい色合いが人気のワンピース。良くも悪くも普通の服だが、通気性や肌触りには定評がある。=One piece that is popular with bright colors. For better or worse, it is normal clothes, but it has a reputation for breathability and touch.
+
+導きの教本=Guidebook
+見習い魔法使いのための魔導書。基本的な魔法について記されており、入門書としては最適である。=A magic book for apprentice wizards. It describes the basic magic and is ideal as an introductory book.
+
+ストーンナックル=Stone Knuckle
+鋭利な石を複数取り付けた、武闘用の手袋。元はならず者がけんかの際に用いていたもので、侮れない威力を誇る。=Working gloves with multiple sharp stones attached. It was used by the unwilling person in the event of a fight, and boasts the power that cannot be underestimated.
+
+ウッドボウ=Woodbow
+木を削りだして作った簡易な弓。軽量で構えやすいことから、弓術の入門者には最適である。=A simple bow made by shaving trees. Because it is lightweight and easy to hold, it is ideal for beginners of bow art.
+
+がんせきのオノ=Ganseki Ono
+加工した岩を取り付けた斧。鉄製のものより壊れやすいが、簡単に作れる。複数用意して手投げ斧として活用する者もいる。=An ax with processed rocks. It is more fragile than iron, but can be easily made. Some are prepared and use as a hand throwing ax.
+
+アイアンナイフ=Iron knife
+標準的な鉄を用いて作られた短剣。安価ゆえに性能は控えめだが、一般市民の護身用としては十分な強度がある。=A dagger made using standard iron. Although the performance is modest because of the cheap price, it has sufficient strength for the protection of the general public.
+
+ストーンソード=Stone sword
+一般的な石材で制作された大剣。切れ味が鈍くほぼ鈍器に近いが、手入れが簡単で荒くれ者に好まれる。=A large sword produced with general stone. Although the sharpness is slow and close to the blunt instrument, it is easy to clean and is preferred by those who are rough.
+

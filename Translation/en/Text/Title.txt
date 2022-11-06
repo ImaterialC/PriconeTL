@@ -5,6 +5,11 @@
 選択中の称号=Selected Title
 現在の称号=Current Title
 さまざまな条件を達成することで獲得できる称号。=Title can be earned by fulfilling various conditions.
+変更完了=Change completed
+選択した称号に変更が完了しました。=The selected title has been changed.
+主さまと過ごす夏=Summer with the Lord
+魔法狩人ピュアリー★シオリ=Magic Hunter Purely★Siori
+サマー☆チアリーダー=Summer Cheerleader
 r:"^([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)の絆$"=Bond with $1$2
 
 sr:"^([^NVHS]+?)(NORMAL|VERY HARD|SPECIAL|HARD)討伐！$"=Defeat $1 ($2)

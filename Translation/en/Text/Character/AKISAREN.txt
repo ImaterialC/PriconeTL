@@ -19,7 +19,7 @@
 
 目の前の敵１キャラに物理特大ダメージを与える。自分の残りＨＰが高い程、このダメージがアップする。さらにその敵を中心として物理ダメージフィールドを展開する。=Deals massive P.DMG to an enemy directly in front. The higher the remaining HP, the higher this damage. In addition, it develops P.DMG fields around the enemies.
 
-r:"敵単体に(\d+)の物理ダメージ\n毎秒(\d+)の物理ダメージを与えるフィールドを展開する$"=Deals $1 physical damage to an enemy.\nCreates a Field (Radius 300) around the target for 15.5s.\nDeals $2 P.DMG/s to All Enemies within the Field.
+r:"敵単体に(\d+)の物理ダメージ\n毎秒(\d+)の物理ダメージを与えるフィールドを展開する$"=Deals $1 P.DMG to an enemy.\nCreates a Field (Radius 300) around the target for 15.5s.\nDeals $2 P.DMG/s to All Enemies within the Field.
 
 味方全体の物理攻撃力を特大アップさせ、物理クリティカルと物理攻撃クリティカル時のダメージを小アップさせる。=Massively increases the physical attack power of all allies, and slightly increases physical critical damage and physical attack critical damage.
 

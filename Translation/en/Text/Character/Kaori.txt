@@ -13,7 +13,7 @@ r:"^攻撃する度にダメージ(\d+)増加$"=Adds $1 damage per attack.
 ===Skills+
 ===UB
 真・琉球犬ナックルラッシュ=True Ryukyu Dog Nucklush
-自分の物理攻撃力を中アップさせ、目の前の敵１キャラに物理極大ダメージを与える。=Deals Colossal Physical Damage to an enemy directly in front.\nApplies Moderate Physical Attack Buff to Self for 180s.
+自分の物理攻撃力を中アップさせ、目の前の敵１キャラに物理極大ダメージを与える。=Deals Colossal P.DMG to an enemy directly in front.\nApplies Moderate Physical Attack Buff to Self for 180s.
 
 ===S1
 目の前の敵１キャラに物理大ダメージを与える。=Deals large P.DMG to an enemy directly in front.

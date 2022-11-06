@@ -12,7 +12,7 @@
 　魔法中ダメージを与える。さらに、物理防御力=　In addition, it reduces physical defense by a small amount,
 　を小ダウン、魔法防御力を中ダウンさせ、=　and reduces HP recovery by 70% for a certain period of time.
 　一定時間ＨＰ回復量を70％ダウンさせる。=　70 % down the HP recovery amount for a certain period of time.
-・前方２キャラに物理中ダメージを与える。=・Inflicts moderate physical damage to two characters in front.
+・前方２キャラに物理中ダメージを与える。=・Inflicts moderate P.DMG to two characters in front.
 
 輝け、魔法少女！=Shine, Mahou Shoujo!
 

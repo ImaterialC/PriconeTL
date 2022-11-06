@@ -50,11 +50,11 @@ r:"^物理攻撃力アップ\+(\d+)$"="Physical Attack Power up +$1"
 r:"^物理攻撃力ダウン\+(\d+)$"="Physical Attack Power Down +$1"
 r:"^物理防御力アップ\+(\d+)$"="Physical Defense up +$1"
 r:"^物理防御力ダウン\+(\d+)$"="Physical Defense Down +$1"
-r:"^物理ダメージ\+(\d+)$"="Physical Damage +$1"
-r:"^範囲物理ダメージ\+(\d+)$"=Range Physical Damage +$1
-r:"^単体物理ダメージ\+(\d+)$"=Single Physical Damage +$1
-r:"^全体物理ダメージ\+(\d+)$"=Total Physical Damage +$1
-r:"^追加物理ダメージ\+(\d+)$"=Additional Physical Damage +$1
+r:"^物理ダメージ\+(\d+)$"="P.DMG +$1"
+r:"^範囲物理ダメージ\+(\d+)$"=Range P.DMG +$1
+r:"^単体物理ダメージ\+(\d+)$"=Single P.DMG +$1
+r:"^全体物理ダメージ\+(\d+)$"=Total P.DMG +$1
+r:"^追加物理ダメージ\+(\d+)$"=Additional P.DMG +$1
 
 r:"^HP自動回復＋(\d+)$"="HP Regen +$1"
 r:"^HP吸収＋(\d+)$"="HP Drain +$1"

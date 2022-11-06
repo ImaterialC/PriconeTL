@@ -7,7 +7,7 @@
 味方全体の物理防御力と魔法防御力を大アップさせ、継続ＨＰ回復状態を付与し、物理/魔法無効バリアを展開する。=Greatly increases the P.DEF & M.DEF of all allies, grants continuous HP recovery, and deploys a physical/magic nullification barrier.
 
 フィオレ・フェリチータ=Fiore Felicita
-r:"^味方全体の物理防御力を(\d+)アップ\n味方全体の魔法防御力を(\d+)アップ\n毎秒ＨＰを(\d+)回復する\n(\d+)ダメージ分の物理魔法無効バリアを展開する$"=Boosts all allies' P.DEF by $1 for 18s.\nBoosts all allies' M.DEF by $2 for 18s.\nRecovers HP of all allies by $3/s for 10.5s.\nDeploy a barrier that Nullifies P.&M. DMG $4 to All Allies for 90s.
+r:"^味方全体の物理防御力を(\d+)アップ\n味方全体の魔法防御力を(\d+)アップ\n毎秒ＨＰを(\d+)回復する\n(\d+)ダメージ分の物理魔法無効バリアを展開する$"=Boosts all allies' P.DEF by $1 for 18s.\nBoosts all allies' M.DEF by $2 for 18s.\nRecovers HP of all allies by $3/s for 10.5s.\nDeploy a barrier that Nullifies P/M. DMG $4 to All Allies for 90s.
 
 
 最もＨＰが低い味方１キャラのＨＰを中回復し、さらに物理ダメージカット効果と魔法ダメージカット効果を付与する。=Moderately restores the HP of the 1 ally character with the lowest HP, and also grants P.DMG cut and M.DMG cut effects.
