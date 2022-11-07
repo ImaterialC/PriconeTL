@@ -66,6 +66,9 @@ EX装備入れ替え詳細=Replace details
 上限解放回数=Limit Breaks
 スキルあり=Skills
 
+EX装備絞り込み=Filter EX Equipment
+選択したEX装備を絞り込み表示します。=Selected EX equipment will be filtered.
+
 絞り込みをリセット=Reset Filter
 アクセサリー全て=All Accessories
 EX防具アクセサリー交換対象=Ex Accessories replacement target
@@ -148,45 +151,28 @@ EX装備で、キャラのステータスをさらにパワーアップできま
 
 EX装備コインを使ってEX装備の交換ができるようです。\nEX装備コインは武器・防具・アクセサリーの種類があり、\n対応するEX装備を分解または強化で消費すると手に入りますよ。=It seems that EX equipment can be exchanged using EX equipment coins. There are types of EX equipment coins for weapons, armor, and accessories, and you can get them by disassembling or enhancing the corresponding EX equipment.
 
-【クラン】ホープオブナイト=[Clan] Hope of Night
-【クラン】ブレイブオブトルーパー=[Clan] Brave of Trooper
 【クラン】ホープオブアーチャー=[Clan] Hope of Archer
-【クラン】ブレイブオブガード=[Clan] Brave of Guard
 【クラン】ホープオブセージ=[Clan] Hope of Sage
 【クラン】ホープオブウィザード=[Clan] Hope of Wizard
 
 
-ゴールデンソーン=Golden Thorn
 カシコミノツルギ=Kashikominotsurugi
-僧兵の槍斧=Monk Spear Ax
 ヒドゥンエッジ=Hidden Edge
 白馬の戦弓=White Horse War Bow
 クルーエルナックル=Cruel Knuckle
 グリーンウッド=Green Wood
 スペリオールガントレット=Superior Gauntlets
-白翼の銀盾=White-Winged Silver Shield
 紅蓮の大盾=Crimson Great Shield
 ストームガード=Storm Guard
 レッドアイウィズダム=Red Eye Wisdom
 大神官の聖杖=High Priest's Scepter
-プロミネンススタッフ=Prominence Staff
 テンペストオーダー=Tempest Order
-パイレーツカットラス=Pirate Cutlass
-スティールソード=Steel Sword
 トリックスター=Trickster
 救済者の聖典=Savior's Scripture
-ヘビーブレード=Heavy Blade
-アイアンレイピア=Iron Rapier
-傭兵隊のハルバード=Mercenary Halberd
-祈願の鉄槍=Iron Spear Of Prayer
-ソルジャーランス=Soldier Lance
 ハープボウ=Harp Bow
 ナイトガード=Night Guard
-ブロンズガントレット=Bronze Gauntlets
-アイアンクロー=Iron Claw
 カーススタッフ=Curse Staff
 ハイワンド=High Wand
-ブロンズバックラー=Bronze Buckler
 アイアンシールド=Iron Shield
 特殊魔法大全=Special Magic Encyclopedia
 黒魔女の本=Black Witch Book
@@ -196,13 +182,9 @@ EX装備コインを使ってEX装備の交換ができるようです。\nEX装
 ノーブルビースト=Noble Beast
 デモンズオーダー=Demon's Order
 グレイブウィッチ=Grave Witch
-ホーリーエイド=Holy Aid
 巫女の法衣=Shrine Maiden's Robe
-マジカルドレス=Magical Dress
-隠者の装束=Hermit's Garb
 パールドレス=Pearl Dress
 ゆらぎの星石=Fluctuation Star Stone
-エンシェントオーブ=Ancient Orb
 フォーチュンペンダント=Fortune Pendant
 グローリーオブマーセナリー=Glory Of Mercenary
 灼熱の指輪=Burning Ring
@@ -211,10 +193,8 @@ EX装備コインを使ってEX装備の交換ができるようです。\nEX装
 パワーリング=Power Ring
 慈母の涙=Mother's Tears
 賢王の耳飾り=Wise King's Earrings
-マジシャンズオーブ=Magician's Orb
 ロッククリスタル=Rock Crystal
 ヒールイヤリング=Heel Earrings
 クリティカルリング=Critical Ring
-パワーリング=Power Ring
 慈母の涙=Mother's Tears
 賢王の耳飾り=Wise King's Earrings
