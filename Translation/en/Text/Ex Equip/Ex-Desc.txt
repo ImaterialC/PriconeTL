@@ -20,6 +20,15 @@ Pink ----------------------------------------------------------
 イモータルティアーズ=Immortal Tears
 
 Gold ----------------------------------------------------------
+【クラン】ブレイブオブガード=[Clan] Brave of Guard
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した盾。人々の絆の力がそのまま堅牢さとなり、どんな攻撃からも使い手を守り抜く。=A shield crafted from a rainbow-ore by a best craftsman. The power of people's bonds becomes robust as it is, protecting the user from any attack.
+
+【クラン】ブレイブオブトルーパー=[Clan] Brave of Trooper
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した槍。人々の絆の力を穂先に込めることで、あらゆる邪悪を穿ち、祓うことができる。=A spear crafted from a rainbow-ore by a best craftsman. By putting the power of the bonds in the tip, all kinds of evil can be worn and purified.
+
+【クラン】ホープオブナイト=[Clan] Hope of Knight
+虹色に輝く鉱石を、一流の職人が心血を注いで鍛え上げた剣。人々の絆を鋭さに変え、それを脅かそうとする全てを斬り払う力を持つ。=A sword crafted from a rainbow-ore by a best craftsman. It has the power to sharpen people's bonds and slash away anything that threatens them.
+
 【クラン】ブレイブオブグラップラー=[Clan] Brave of Grappler
 虹色に輝く鉱石を、一流の職人が心血を注いで加工した手甲。人々の絆の力によって強化された拳打は音よりも速く飛び、敵対者を打ち砕く。=A gauntlet crafted from a rainbow-ore by a best craftsman. Strengthened by the power of people's bonds, punche can faster than sound and crush opponents.
 
@@ -31,6 +40,25 @@ Gold ----------------------------------------------------------
 
 【クラン】ブレイブオブホプライト=[Clan] Brave of Hoplite
 虹色に輝く鉱石を、一流の職人が心血を注いで加工した大剣。人々の絆の力を刀身にまとい、悪意ある者を一刀で斬り伏せる。=A large sword crafted from a rainbow ore by a best craftsman. With the power of people's ties in its blade, it cuts down those with malicious intent with a single sword.
+
+エンシェントオーブ=Ancient Orb
+古代の遺跡から発掘された宝珠。一流の魔法使いであっても扱いには危険を伴うが、得られる膨大な魔力は極上の魔法を実現させる。=A jewel excavated from an ancient ruin. Even a first-class magician is dangerous to use, but the enormous amount of magical power that can be obtained enables the realization of the finest magic.
+
+ホーリーエイド=Holy Aid
+回復魔法を扱う者のための装束。清らかな心で負傷者を救ってほしいという願いが込められており、着用者は速やかな治療が可能になる。=A robe for those who handle recovery magic. The desire to save the injured with a pure heart is included, and the wearer will be able to treat promptly.
+
+プロミネンススタッフ=Prominence Staff
+燃え盛る炎の力を封じ込めたという杖。その一撃は瞬く間に戦場を火の海に変えてしまうほどで、扱うには相応の技量を要する。=A wand that contains the power of burning flame. The blow quickly turns the battlefield into a fire sea, and it takes appropriate skills to handle it.
+
+白翼の銀盾=White-Winged Silver Shield
+高潔な騎士が愛用した盾。使い手が盾に認められると羽毛のように軽く認められなければ鉄塊の如く重くなることから試しの盾とも言われる。=A shield used by a noble knight. If the user is recognized by the shield, it will be a heavy like an iron mass unless recognized it will lightly like feathers.
+
+僧兵の槍斧=monk's spear-axe
+聖職者が悪しき存在と戦う時に用いる槍斧。聖水を用いて研がれた刃には破魔の効果が宿り、巨大な魔物をも退けるという。=A spear-axe used when a priest fights bad beings. It is said that the blades aged using holy water have the effects of the devil, leaving huge monsters.
+
+
+ゴールデンソーン=Golden Thorn
+金色の棘を刀身に備えたレイピア。聖者が祝福した薔薇を用いて作ったとされ、あらゆる困難を耐え忍ぶ信仰心を持ち主に与えるという。=Rapier with golden spines on the blade. It is allegedly made by the saint using a blessed rose, giving it to the owner who can withstand all difficulties.
 
 キングスプライド=King's Pride
 王に認められた騎士にのみ与えられる大斧。これを携えながら敗走するということは許されず、使い手は決死の覚悟を求められる。=A large ax given only to the knight recognized by the king. It is not permissible to lose while carrying this, and the user is determined to be deadly.
@@ -137,6 +165,48 @@ Silver--------------------------------------------------------------------------
 【クラン】ウィッシュオブナイト=[Clan] Wish of Knight
 虹色に輝く鉱石を、職人が丁寧に鍛え上げた剣。強く他者を想うほど鉱石に力が宿り、刃が強靭になっていく性質を持つ。=A sword carefully trained by a craftsman with a rainbow -colored ore. The more powerful people think of others, the more power they are, and the blades become tough.
 
+マジシャンズオーブ=Magician's Orb
+特殊な鉱石を加工して製作された宝珠。十分な魔力を蓄えることができ、魔法使いが戦いの際に力を補給するために用いる。=A jewel made by processing a special ore. It can accumulate enough magic, and use it to replenish the power in the event of a wizard.
+
+隠者の装束=Hermit's Garb
+俗世から離れ、魔法の探求に没頭する者のための装束。より高位の魔法を扱えるようにするため、魔力を高める特殊な素材で作られている。=A costume for those who are immersed in magic quests away from the world. It is made of special materials that enhance the magical power to enable higher-level magic.
+
+ブロンズバックラー=Bronze Buckler
+小型で取り回しに優れた丸盾。その扱いやすさから、的確に攻撃を防御できると評判の中級者向き装備。=A small and excellent round shield. Equipped with intermediate players who can accurately protect the attack because of its ease of handling.
+
+ブロンズガントレット=Bronze Gauntlets
+主に銅を用いて作られた手甲。腐食に強いため、湿気の多い場所では鉄製のものより重宝される。=The back of the hand is mainly made using copper. Because it is resistant to corrosion, it is more useful than iron ones in humid places.
+
+アイアンクロー=Iron Claw
+裂傷を与えることを目的とした、鉄製のかぎづめ。拳と刃を一体化させたことにより、格闘と同じ感覚で斬撃を繰り出すことができる。=Iron cracks aimed at giving laceration. By integrating the fist and the blade, you can slash in the same way as fighting.
+
+祈願の鉄槍=Iron Spear Of Prayer
+軍隊で正式に採用されている槍。隊列を組み、盾と組み合わせて使うことで、陣形を崩すことなく敵軍を打ち破れる。=A spear officially adopted by the army. By forming a squad and using it in combination with a shield, the enemy troops are broken without breaking the formation.
+
+ソルジャーランス=Soldier Lance
+僧兵が自衛のために装備する鉄槍。単に武器としてだけではなく、神々に祈りを捧ぐ儀式などにも用いる。=An iron spear that a monk soldier is equipped for self-defense. It is used not only as a weapon, but also for rituals that pray to the gods.
+
+傭兵隊のハルバード=Mercenary Halberd
+主に傭兵たちが用いている槍斧。その形状ゆえに多様な戦法が取れるが、扱いにはそれなりの訓練が必要である。=A spear ax mainly used by mercenaries. Due to its shape, a variety of tactics can be taken, but treatment requires some training.
+
+ヘビーブレード=Heavy Blade
+扱いやすく、あらゆる場面に対応できる大剣。重さと切れ味が両立されており、鎧に有効であるため兵士から人気が高い。=A big sword that is easy to handle and can handle every scene. Both weight and sharpness are compatible, and are popular with soldiers because they are effective for armor.
+
+アイアンレイピア=Iron Rapier
+刺突に特化した鉄製の剣。兵士よりは貴族に好んで用いられ、決闘などで使われることが多い。=A iron sword specializing in piercing. It is more preferably used by aristocrats than soldiers and is often used in duel.
+
+パイレーツカットラス=Pirate Cutlass
+やや短く、湾曲した刀身を持つ剣。閉所でも存分に振るえることから、船上で戦う海賊たちがよく携えている。=A sword with a slightly short, curved blade. Pirates fighting on board are often carried out because they can fully shake even in closed places.
+
+スティールソード=Steel Sword
+広く普及している鉄製の剣。安価だがしっかりとした造りで、旅人の護身用の武器としても人気が高い。=A widespread iron sword. It is inexpensive but firm, and is also popular as a weapon for travelers.
+
+マジカルドレス=Magical Dress
+装備した者の魔力を高めることに重点を置いたドレス。あしらわれた宝石によって魔法が強化され、より強力な一撃を放つことができる。=A dress that focuses on enhancing the magic of the equipped person. The magic is enhanced by the gem that has been treated, and a more powerful blow can be released.
+
+パワーリング=Power Ring
+施された魔法によって、筋力を強化できる指輪。戦士のために作られた装備だが、力仕事に勤しむ市民からも需要がある。=A ring that can enhance muscle strength by applied magic. Although it is equipment made for warriors, there is also demand from citizens who work for hard work.
+
 ファングイヤリング=Fang Earrings
 獣の牙を模したイヤリング。大地の力を借り受けて、攻撃魔法の威力を高める効果があるとされている。=Earrings that imitate the beast's fangs. It is said to have the effect of borrowing the power of the earth and enhancing the power of attack magic.
 
@@ -213,6 +283,19 @@ Silver--------------------------------------------------------------------------
 軍隊で採用されている両刃の大剣。安価で大量に揃えることができ、素直な性能で使い手を選ばない。=A double -edged sword adopted by the army. It is inexpensive and can be prepared in large quantities, and does not choose the user with obedient performance.
 
 Bronze---------------------------------------------------------------------------------
+
+ウッドスタッフ=Wood Staff
+樫の木で作られた杖。どんなに偉大な魔法使いも、最初はこの杖で学ぶと言われるほど扱いやすい。=A cane made of oak tree. No matter how great the wizard is, it is easy to handle it at first to learn with this cane.
+
+ウッドシールド=Wood shield
+見習い騎士たちが訓練で使っている木盾。駆け出しの騎士は、この盾が壊れるまで訓練に励む。=A wooden shield used by apprentice knights in training. The Knight starts to train until the shield breaks.
+
+ストーンスピア=Stone spear
+尖った岩を先端にくくり付けた槍。信頼できる武器とは言い難いが、野生動物を狩る程度であれば十分な性能を持ち、作成も容易である。=A spear with sharp rocks on the tip. It is hard to say that it is a reliable weapon, but it has sufficient performance and easy to create a wild animal.
+
+ヒーラーローブ=Healer Robe
+祈祷師が下積みの間、身に着ける装束。魔力を高める効果があり、まだ未熟な祈祷師にとっては大切な装備となる。=A costume that a prayer master wears during the loading. It has the effect of enhancing magic and is an important equipment for an immature prayer.
+
 ウッドイヤリング=Wood Earring
 お土産物として親しまれているイヤリング。素朴ながらも温かみのあるデザインは、身に着ける人を選ばない。=Earrings that are popular as souvenirs. The simple but warm design does not choose anyone who wears it.
 
