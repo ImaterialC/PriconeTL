@@ -125,7 +125,7 @@ EX装備一覧=Ex Equipment list
 
 装備選択(クランバトル)=Equipment Selection (Clan Battle)
 入手可能な遠征クエストがありません。=No expedition quests available.
-
+この装備はこれ以上上限解放できません。=This equipment cannot be Limit Break anymore.
 
 以下のEX装備を装備します。=Equipped with the following Ex Equipment.
 おまかせEX装備確認=Auto Ex Equipment Confirmation

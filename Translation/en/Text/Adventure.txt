@@ -81,6 +81,7 @@ r:"^本日のジュエルでの時間短縮可能回数 ([0-9/]+)$"=Today's Jewe
 [FD8F00]帰還[-]=[FD8F00]Return[-]
 
 r:"^残り必要時間が(\d+)分未満のアドベンチャーに対して\nファストチケットで時間短縮が設定されます。\n※時間短縮は1時間単位で行われます。$"=Adventures with less than $1m will be set\nwith Fast Ticket to reduce time.\n※Reduce time is a multiple of 1 hour.
+r:"^残り必要時間が(\d+)分未満のアドベンチャーに対して\nファストチケットとジュエルで時間短縮が設定されます。\n※時間短縮は1時間単位で行われます。$"=Adventures with less than $1m will be set\nwith Fast Ticket and Jewels to reduce time.\n※Reduce time is a multiple of 1 hour.
 r:"^本日のチケットでの短縮残り回数　([0-9/]+)$"=Today's Fast Ticket usage: $1
 r:"^本日のチケットでの時間短縮可能回数 ([0-9/]+)$"=Today's Fast Ticket usage: $1
 ファストチケットを消費して\n時間短縮を行います。よろしいですか？=Consume Fast Tickets and reduce time.\nIs it OK?

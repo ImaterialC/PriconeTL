@@ -47,6 +47,7 @@ r:"^和平活動の道のり([0-9\-\(\)\w （）]*)$"=The Journey of Peace Activ
 トラ族の暮らし=The Life Of the Tiger Tribe
 
 ビジネスのお勉強=Business Study
+ウサギ族は癒し系？=Is the rabbit tribe a healing type?
 
 ハグをすること。=Hug.
 手をつなぐこと。=Hold hands.
