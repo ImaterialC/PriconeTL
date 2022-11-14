@@ -1,10 +1,3 @@
-﻿まとめて分解するEX装備を選択中です。=We are selecting EX equipment to disassemble together.
-以下のEX装備を分解します。=Disassemble the following EX equipment.
-分解する=Disassemble
-EX装備分解確認=EX equipment decomposition confirmation
-一度に分解出来る最大数に達しています。これ以上は選択出来ません。=It has reached the maximum number that can be disassembled at once. I can't choose any more.
-リサイクル結果=Recycling result
-おまかせ分解が設定されていません。\nおまかせ分解設定を行ってください。=No decomposition is set. Please set the decomposition setting.
-分解するEX装備が選択されていません。=The EX equipment to disassemble is not selected.
-おまかせ分解実行時の消費対象を設定します。=Set the consumption target at the time of decomposition execution.
-氷竜の印=Ice dragon mark
+﻿
+
+ライバル出現？=A rival appearance?

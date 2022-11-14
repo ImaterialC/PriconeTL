@@ -71,7 +71,7 @@ r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]への\n申請を取り消し
 クラン名を2文字以上入力してください。=Clan name must be at least 2 characters long.
 結成する=Create
 [FF7C4E,D62146]設定内容は結成後でも変更できます。[-]=[FF7C4E,D62146]Settings can be changed later[-].
-r:"^\[3C404E\]\[3C404E\]クラン\[FFBB00\,CE4F00\](.+)\[-\]を\n結成しました。\[-\]\[-\]$=[3C404E]Created the clan\n[FFBB00,CE4F00]$1[-].[-]
+r:"^\[3C404E\]\[3C404E\]クラン\[FFBB00\,CE4F00\](.+)\[-\]を\n結成しました。\[-\]\[-\]$"=[3C404E]Created the clan\n[FFBB00,CE4F00]$1[-].[-]
 クラン結成完了=Clan Created
 解散=Disband
 [3C404E][3C404E]クランを[-][FF7C4E,D62146]解散[-][3C404E]します。\nよろしいですか？[-][-]=[FF7C4E,D62146]Disband[-][3C404E] this clan?[-]

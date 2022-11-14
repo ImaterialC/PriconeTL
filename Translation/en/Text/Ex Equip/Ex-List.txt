@@ -139,6 +139,7 @@ sr:"^EX装備（(.+)）$"=Ex Equipment ($1)
 入手可能なアドベンチャークエストがありません。=There is no available Adventure quest.
 以下のアイテムの入手方法を確認できます。=You can check how to get the following items.
 
+EX装備の選択上限に達しています。=reached the selection limit for EX equipment.
 EX装備入れ替え確認=EX Equipment replacement confirmation
 EX装備を入れ替えます。\nよろしいですか？=Swap the EX equipment.\nIs it OK?
 
@@ -152,8 +153,6 @@ EX装備で、キャラのステータスをさらにパワーアップできま
 EX装備コインを使ってEX装備の交換ができるようです。\nEX装備コインは武器・防具・アクセサリーの種類があり、\n対応するEX装備を分解または強化で消費すると手に入りますよ。=It seems that EX equipment can be exchanged using EX equipment coins. There are types of EX equipment coins for weapons, armor, and accessories, and you can get them by disassembling or enhancing the corresponding EX equipment.
 
 【クラン】ホープオブアーチャー=[Clan] Hope of Archer
-【クラン】ホープオブセージ=[Clan] Hope of Sage
-【クラン】ホープオブウィザード=[Clan] Hope of Wizard
 
 
 カシコミノツルギ=Kashikominotsurugi
@@ -162,39 +161,24 @@ EX装備コインを使ってEX装備の交換ができるようです。\nEX装
 クルーエルナックル=Cruel Knuckle
 グリーンウッド=Green Wood
 スペリオールガントレット=Superior Gauntlets
-紅蓮の大盾=Crimson Great Shield
-ストームガード=Storm Guard
 レッドアイウィズダム=Red Eye Wisdom
-大神官の聖杖=High Priest's Scepter
-テンペストオーダー=Tempest Order
 トリックスター=Trickster
 救済者の聖典=Savior's Scripture
 ハープボウ=Harp Bow
 ナイトガード=Night Guard
-カーススタッフ=Curse Staff
-ハイワンド=High Wand
-アイアンシールド=Iron Shield
 特殊魔法大全=Special Magic Encyclopedia
 黒魔女の本=Black Witch Book
-ネクロマンサースタッフ=Necromancer Staff
 エルブンローブ=Elven Robe
 パラディンメイル=Paladin Mail
 ノーブルビースト=Noble Beast
 デモンズオーダー=Demon's Order
 グレイブウィッチ=Grave Witch
 巫女の法衣=Shrine Maiden's Robe
-パールドレス=Pearl Dress
-ゆらぎの星石=Fluctuation Star Stone
 フォーチュンペンダント=Fortune Pendant
-グローリーオブマーセナリー=Glory Of Mercenary
-灼熱の指輪=Burning Ring
 チャンピオンリング=Champion Ring
 クリティカルリング=Critical Ring
 パワーリング=Power Ring
 慈母の涙=Mother's Tears
 賢王の耳飾り=Wise King's Earrings
-ロッククリスタル=Rock Crystal
-ヒールイヤリング=Heel Earrings
-クリティカルリング=Critical Ring
 慈母の涙=Mother's Tears
 賢王の耳飾り=Wise King's Earrings

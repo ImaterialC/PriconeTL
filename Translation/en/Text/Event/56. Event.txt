@@ -25,7 +25,7 @@
 補佐=Assistance
 ピクニック気分で=With a picnic mood
 r:"^和平活動の道のり([0-9\-\(\)\w （）]*)$"=The Journey of Peace Activities $1
-オブシダンゴーレム=Obsidan Golem
+オブシダンゴーレム=Obsidian Golem
 
 任務完了！=Mission complete!
 開かれた重き門戸が\n解放可能になりました。=The open heavy door is now available.

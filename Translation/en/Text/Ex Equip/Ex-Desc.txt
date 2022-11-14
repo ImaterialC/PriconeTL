@@ -1,6 +1,5 @@
 Pink ----------------------------------------------------------
 ソードオブエレメント=Sword of Element
-ドラグーンファング=Dragoon Fang
 貴忠装リヴガルデット=Tadatada Live Gardette
 インドミタブルスカイ=Indian Mitables Sky
 ルミナスエンゲージメント=Luminous Engagement
@@ -11,13 +10,18 @@ Pink ----------------------------------------------------------
 ゲーズオブジャッジメント=Game of Judgment
 暗夜剣アルプトラオム=Dark Night Sword Alptraom
 アースオブジャイアント=Earth of Giant
-追憶輪ディバイングリフ=Remembrance Divine Glyph
 ホープフルブルー=Hopeful blue
 ブルーノヴァ=Brunova
 インファーナルオーブ=Infernal Orb
 雷鳴剣ユニコーンヴォルト=Thunder Sword Unicorn Vault
 ヘブンリーナックル=Heavenly Knuckle
 イモータルティアーズ=Immortal Tears
+
+追憶輪ディバイングリフ=Remembrance Divine Glyph
+太古の歴史が記録されている腕輪。問いかけに応じて文字が浮かび上がり、失われた英知を持ち主に授け、未来を拓く助けになるという。=A bracelet with ancient history. The letters emerge in response to the question, given the lost wisdom, and helps to open the future.
+
+ドラグーンファング=Dragon Fang
+獄炎をまとう竜の牙から作られた大槍。穂先で大地をなぞるだけで炎が吹き上がり、瞬く間に周囲を煉獄に変えてしまうという。=A large spear made from the fang of a hellfire dragon. It is said that just by tracing the ground with the tip, flames will shoot up, turning the surroundings into purgatory in the blink of an eye.
 
 Gold ----------------------------------------------------------
 【クラン】ブレイブオブガード=[Clan] Brave of Guard
@@ -40,6 +44,33 @@ Gold ----------------------------------------------------------
 
 【クラン】ブレイブオブホプライト=[Clan] Brave of Hoplite
 虹色に輝く鉱石を、一流の職人が心血を注いで加工した大剣。人々の絆の力を刀身にまとい、悪意ある者を一刀で斬り伏せる。=A large sword crafted from a rainbow ore by a best craftsman. With the power of people's ties in its blade, it cuts down those with malicious intent with a single sword.
+
+【クラン】ホープオブセージ=[Clan] Hope of Sage
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した魔導書。人々の絆に呼応し、使い手に英知を与え、あらゆる秘術の行使を可能にする。=A grimoire crafted from a rainbow ore by a best craftsman. Responds to people's bonds, grants wisdom to the user, and enables the use of all kinds of secret arts.
+
+【クラン】ホープオブウィザード=[Clan] Hope of Wizard
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した杖。絆の力を球体部に集中させることで、圧倒的な威力を誇る魔法を放つ。=A wand crafted from a rainbow ore by a best craftsman. By concentrating the power of bonds on the sphere, it releases magic that boasts overwhelming power.
+
+大神官の聖杖=High Priest's Scepter
+大神官が携えている聖杖。権威の証であるだけでなく、あらゆる邪悪を打ち払い、人々を信仰の光で照らしてくれるという。=The sacred wand that the great priest is carrying. Not only is it a proof of authority, but it takes all evil and illuminates people with the light of religion.
+
+テンペストオーダー=Tempest Order
+荒れ狂う風の力を宿した杖。魔力によって制御された暴風は、敵の軍勢だけを的確に薙ぎ払い、圧倒的な勝利を術者にもたらすという。=A wand with a rough wind. The storm controlled by magic is said to accurately destroy the enemy's army and bring overwhelming victory to the surgeon.
+
+ストームガード=Storm Guard
+風の力を宿す、特殊な魔石を用いた丸盾。攻撃しようとしても剣ははじき返され、矢はことごとく叩き落されるという。=A round shield using a special magic stone that emits the power of the wind. Even if he tries to attack, the sword is repelled, and all arrows are beaten down.
+
+紅蓮の大盾=Crimson Great Shield
+幾千もの戦場を駆け抜けていきた大盾。頑強な面の縁を紅く彩るのは屠ってきた数多の魔物の返り血だと云われている。=A great shield that ran through thousands of battlefields. It is said to be the blood of many monsters that have been slaughtered to color the stubborn edge.
+
+ゆらぎの星石=Fluctuation Star Stone
+不確かな未来を象徴するといわれる魔石。魔力を大きく強化する効果があるものの、非常に不安定であり、優秀な魔法使いにしか扱えない。=A magic stone that is said to symbolize the uncertain future. Although it has the effect of greatly enhancing magic, it is very unstable and can only be treated as an excellent wizard.
+
+グローリーオブマーセナリー=Glory Of Mercenary
+あらゆる戦に参加して財を成した、ある傭兵団長の腕輪。贅沢な造りが目を引くが、重ね掛けされた魔法によって圧倒的な防御力も備える。=A carrier leader who participated in all battles and made goods. The luxurious structure is eye -catching, but the overwhelming magic also has overwhelming defense.
+
+灼熱の指輪=Burning Ring
+燃え盛る炎の力を宿すと言われている指輪。身に着けると肉体に煮えたぎるような活力をが溢れ、どんな困難にも打ち勝つ強さを発揮できる。=A ring that is said to have the power of burning flame. When you wear it, you can overflow with the vitality of boiled in your body, and you can demonstrate the strength to overcome any difficulties.
 
 エンシェントオーブ=Ancient Orb
 古代の遺跡から発掘された宝珠。一流の魔法使いであっても扱いには危険を伴うが、得られる膨大な魔力は極上の魔法を実現させる。=A jewel excavated from an ancient ruin. Even a first-class magician is dangerous to use, but the enormous amount of magical power that can be obtained enables the realization of the finest magic.
@@ -165,6 +196,31 @@ Silver--------------------------------------------------------------------------
 【クラン】ウィッシュオブナイト=[Clan] Wish of Knight
 虹色に輝く鉱石を、職人が丁寧に鍛え上げた剣。強く他者を想うほど鉱石に力が宿り、刃が強靭になっていく性質を持つ。=A sword carefully trained by a craftsman with a rainbow -colored ore. The more powerful people think of others, the more power they are, and the blades become tough.
 
+ネクロマンサースタッフ=Necromancer Staff
+ネクロマンサーが亡霊を使役する際に用いる杖。霊木の枝から作られており、霊を操る精度を高める効果がある。=A cane used by Necromancer to use ghosts. It is made from the branches of a spirit tree and has the effect of improving the accuracy of manipulating the spirit.
+
+カーススタッフ=Curse Staff
+呪術師たちのために造られた杖。未熟な術者は自ら呪いを被ってしまうこともあるため、扱いには注意が必要である。=A wand built for the magicians. Inexperienced surgeon may be cursed by yourself, so care must be taken in handling.
+
+ハイワンド=High Wand
+占星術に基づいた中級魔法を扱うための杖。初学を修めた魔法使いが次に手にする定番の杖として、広く親しまれる。=A cane for intermediate magic based on astrology. It is widely popular as the next classic cane that the wizard who learned the first study was next.
+
+アイアンシールド=Iron Shield
+オーソドックスな性能の大盾。値段と使い勝手の良さから、幅広い冒険者の間で長く愛用されている。=A large shield with orthodox performance. Due to the price and ease of use, it has been used for a long time among a wide range of adventurers.
+
+クリティカルリング=Critical Ring
+施された魔法によって、正確な攻撃を可能にする指輪。その性質から弓兵たちに重宝されている。=A ring that enables accurate attacks by applied magic. Due to its nature, it is useful by archers.
+
+パールドレス=Pearl Dress
+高級感溢れる純白のドレス。貴族の女性が舞踏会などで身に着けることが多く、清純な印象を与えられるようデザインされている。=A pure white dress full of luxury. It is often designed by noble women at a ball and the like, giving a pure impression.
+
+
+ヒールイヤリング=Heal Earrings
+鮮やかな紫色の宝石を用いたイヤリング。癒しの力が宿っており回復魔法の使い手が好んで身に着けている。=Earrings using bright purple jewelry. The healing power is dwelling, and the recovery magic user prefers and wears it.
+
+ロッククリスタル=Rock Crystal
+破邪の力を宿すと言われる宝石。実際に魔法と相性がよく、魔法使いが魔法の触媒として採用することが多い。=A jewel that is said to have the power of evil. In fact, it goes well with magic, and the wizard is often adopted as a magical catalyst.
+
 マジシャンズオーブ=Magician's Orb
 特殊な鉱石を加工して製作された宝珠。十分な魔力を蓄えることができ、魔法使いが戦いの際に力を補給するために用いる。=A jewel made by processing a special ore. It can accumulate enough magic, and use it to replenish the power in the event of a wizard.
 
@@ -283,6 +339,12 @@ Silver--------------------------------------------------------------------------
 軍隊で採用されている両刃の大剣。安価で大量に揃えることができ、素直な性能で使い手を選ばない。=A double -edged sword adopted by the army. It is inexpensive and can be prepared in large quantities, and does not choose the user with obedient performance.
 
 Bronze---------------------------------------------------------------------------------
+
+ガラス玉のオーブ=Glass Ball Orb
+ガラス製の安価なオーブ。微量だが魔力が込められており、駆け出しの魔法使いにとっては扱いやすい補助具となっている。=Inexpensive orb made of glass. Although it is a small amount, it is an easy -to -handle auxiliary tool for the wizard that is a driving wizard.
+
+ウッドソード=Wood Sword
+見習い騎士たちが訓練で使う木剣。まずはこれを使って、騎士たちは戦いの基本を学ぶ。=A wooden sword used by apprentice knights in training. First of all, the knights learn the basics of the battle.
 
 ウッドスタッフ=Wood Staff
 樫の木で作られた杖。どんなに偉大な魔法使いも、最初はこの杖で学ぶと言われるほど扱いやすい。=A cane made of oak tree. No matter how great the wizard is, it is easy to handle it at first to learn with this cane.

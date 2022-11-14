@@ -126,6 +126,8 @@ sr:"^([べ-・ー＆]{2,11})(\（.+\）) が仲間になりました。$"=$1$2 h
 ミソラ=Misora
 ゼーン=Zane
 カリザ=Caliza
+ミネルバ=Minerva
+カイザーインサイト=Kaiser Insight
 
 シュテッヒパルム=Stechpalm
 草花さんたち=Flowers
@@ -140,3 +142,8 @@ sr:"^([べ-・ー＆]{2,11})(\（.+\）) が仲間になりました。$"=$1$2 h
 商人=Merchant
 女の子=Girl
 カガミ=Kagami
+
+
+魔法少女たち=Magical Girls
+イオ・ノワール=Io Noir
+クウカ・ノワール=Kuuka Noir
