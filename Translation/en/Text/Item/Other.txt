@@ -26,7 +26,8 @@
 様々な物質に宿る力の源で、キャラの成長には欠かせない。ショップで買い物もできる。=It is a source of power that resides in various substances and is indispensable for the growth of characters.\nYou can also shop at the shop.
 ダンジョンに挑戦した者のみが獲得できる特別な通貨。ダンジョンショップで買い物ができる。=A special currency that only those who challenged the dungeon acquire.\nYou can shop at the dungeon shop.
 
-銀枠（RANK3～8）のRANK装\n備作成時に必要な欠片・設計図の代\n用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment for silver frames (RANK 3-8).
+銅枠（RANK2～4）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment (RANK 2-4).
+銀枠（RANK3～8）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment for silver frames (RANK 3-8).
 金枠（RANK6～11）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment for gold frames (RANK 6-11).
 紫枠（RANK10～18）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment for purple frames (RANK10-18).
 赤枠（RANK17～21）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment for red frames (RANK17-21).

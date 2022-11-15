@@ -1,3 +1,5 @@
+キャラ選択=Character Select
+
 Aoi
 気合入れて募集=Doing Her Best
 キャンプマイスター=Camp Meister
@@ -30,6 +32,7 @@ Ayane
 
 Ayumi
 りめんばーみー！=Remember Me!
+ライバル出現？=A rival appearance?
 
 Chika
 集中しすぎて=Enchanting Melody

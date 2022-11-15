@@ -9,7 +9,7 @@
 おまかせ強化条件=Auto Enhancement Conditions
 キャラLv/スキルLv強化=Chara Lv/Skill Lv
 装備を装着=Equip
-原鉱を消費=Using Ore
+原鉱を消費=Use Ore
 装備Lv強化=Refine
 上限消費100,000,000まで=Max up to 100,000,000.
 

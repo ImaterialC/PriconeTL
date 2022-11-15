@@ -28,8 +28,8 @@ r:"^(|22\.)マティルド(|\n　　　　　)岩峯・南部(.*)$"=$1 Mathilde 
 r:"^(|23\.)マティルド(|\n　　　　　)岩峯・北部(.*)$"=$1 Mathilde Ridges (North) $3
 r:"^(|24\.)レディウス(|\n　　　　　)群峰・西麓(.*)$"=$1 Redius Rockies (West) $3
 r:"^(|25\.)レディウス(|\n　　　　　)群峰・東麓(.*)$"=$1 Redius Rockies (East) $3
-r:"^(|26\.)ペテロ大森林・西部(.*)$"=$1 Petro Large Forest (West) $2
-r:"^(|27\.)ペテロ大森林・東部(.*)$"=$1 Petro Large Forest (East) $2
+r:"^(|26\.)ペテロ大森林・西部(.*)$"=$1 Petro Forest (West) $2
+r:"^(|27\.)ペテロ大森林・東部(.*)$"=$1 Petro Forest (East) $2
 r:"^(|28\.)ディズタル(|\n　　　　　)河食岸・北部(.*)$"=$1 Diztal Rivershore (North) $3
 r:"^(|29\.)ディズタル(|\n　　　　　)河食岸・南部(.*)$"=$1 Diztal Rivershore (South) $3
 r:"^(|30\.)フテラ断崖・北部(.*)$"=$1 Futella Cliff (North) $2
@@ -63,5 +63,7 @@ r:"^(|57\.)オニュクス砂島(・|\n　　　　　)南部(.*)$"=$1 Onyx Sand
 r:"^(|58\.)クルース(|\n　　　　　)密林・東部(.*)$"=$1 Cruz Dense Forest (East) $3
 r:"^(|59\.)クルース(|\n　　　　　)密林・西部(.*)$"=$1 Cruz Dense Forest (West) $3
 r:"^(|60\.)カウダ(|\n　　　　　)砂浜・北部(.*)$"=$1 Kauda Beach (North) $3
+r:"^(|61\.)カウダ(|\n　　　　　)砂浜・南部(.*)$"=$1 Kauda Beach (South) $3
+
 ===*6 Quest
 sr:"^([べ-・ー＆]{2,11})(\（.{2,10}\）)?の解放クエスト$"=$1$2 Ascension Quest
