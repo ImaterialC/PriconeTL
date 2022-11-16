@@ -19,7 +19,7 @@ r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵のＴＰを100
 
 
 
-r:"^範囲内の敵が受ける物理ダメージを12％アップ\n範囲内の敵が受ける魔法ダメージを12％アップ\n範囲内の敵の物理防御力を(\d+)ダウン\n範囲内の敵の魔法防御力を(\d+)ダウン\n範囲内の敵の物理攻撃クリティカル時のダメージを15％ダウン\n範囲内の敵の魔法攻撃クリティカル時のダメージを15％ダウン$"=Increases P/M.DMG received of all enemies within range by 12% for 12s.\nLowers P/M.DEF of all enemies within range by $1 for 12s.\nLowers P/M.Crit dmg of all enemies within range by 15% for 12s.
+r:"^範囲内の敵が受ける物理ダメージを12％アップ\n範囲内の敵が受ける魔法ダメージを12％アップ\n範囲内の敵の物理防御力を(\d+)ダウン\n範囲内の敵の魔法防御力を(\d+)ダウン\n範囲内の敵の物理攻撃クリティカル時のダメージを15％ダウン\n範囲内の敵の魔法攻撃クリティカル時のダメージを15％ダウン$"=Cast Time: 1.7s\nIncreases P/M.DMG received of all enemies within range by 12% for 12s.\nLowers P/M.DEF of all enemies within range by $1 for 12s.\nLowers P/M.Crit dmg of all enemies within range by 15% for 12s.
 
 前方の敵すべての攻撃を受けた際の被ダメージを中アップさせ、物理/魔法防御力とクリティカル時のダメージを小ダウンさせる。=Moderately increases damage taken of all enemies in front, and slightly decreases physical/magic defense and critical damage.
 

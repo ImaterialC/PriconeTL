@@ -1,4 +1,4 @@
-【物理】中衛で巨大バルーンと跳ね回る夏色うさぎっこ。ＵＢやスキルで全てのマルチターゲットに追加ダメージを与え、自己強化と防御力ダウンで強敵のブレイクを狙う。=[Physics]A summer-bunny who bounces around with a huge balloon in MG. Inflict dmg to all multi-targets with UB and skills, and aim to break strong enemies with self-buff and def reduction.
+【物理】中衛で巨大バルーンと跳ね回る夏色うさぎっこ。ＵＢやスキルで全てのマルチターゲットに追加ダメージを与え、自己強化と防御力ダウンで強敵のブレイクを狙う。=[Physical]A summer-bunny who bounces around with a huge balloon in MG. Inflict dmg to all multi-targets with UB and skills, and aim to break strong enemies with self-buff and def reduction.
 
 うさぎさんサマーインパクト=Rabbit Summer Impact
 夏の海もうさぎさんパワー=Summer Sea More Power

@@ -2,7 +2,7 @@ Rino
 リ=Ri
 ノ=No
 ===Profile
-【物理】後衛から、矢の雨を降らせる妹系アーチャー。クリティカル率を高める重ね掛け可能なスキルを持ち、ダメージ回数の多いユニオンバーストをより強力にする。=[Physics] A imouto-type archer who rain on foes from the RG. has stackable skills that boost critical hit rate, enhancing UB that deal multiple hits.
+【物理】後衛から、矢の雨を降らせる妹系アーチャー。クリティカル率を高める重ね掛け可能なスキルを持ち、ダメージ回数の多いユニオンバーストをより強力にする。=[Physical] A imouto-type archer who rain on foes from the RG. has stackable skills that boost critical hit rate, enhancing UB that deal multiple hits.
  
 人懐っこくてマシンガントークな妹系少女=A little sister-type who's friendly and talkative
 お裁縫=Sewing

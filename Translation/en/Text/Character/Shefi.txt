@@ -1,22 +1,22 @@
 Profile
-ェフィ=hefi
+ェフィ=heffy
 記憶喪失のドラゴン娘=Dragon girl with amnesia
 読書、ストレッチ=Reading, Stretching
 
-シェフィの一人旅=Shefi's Solo Journey
+シェフィの一人旅=Sheffy's Solo Journey
 割れた氷=Broken ice
-シェフィの好きなもの=Shefi's Favorite
+シェフィの好きなもの=Sheffy's Favorite
 エンジョイタイム=Enjoy Time
-シェフィのギルド活動=Shefi's Guild Activity
+シェフィのギルド活動=Sheffy's Guild Activity
 薄氷=Thin Ice
-シェフィの決意=Shefi's Determination
+シェフィの決意=Sheffy's Determination
 戸惑う竜少女=Confused Dragonf Girl
-シェフィの記憶探し=Looking for Shefi's memory
+シェフィの記憶探し=Looking for Sheffy's memory
 
 
 
 Intro
-【物理】中衛で氷雪を操り敵を凍滅する、氷竜の少女。ユニオンバーストで獲得する【氷竜の印】を消費して、スキルの効果を増幅し、清廉な剣技で敵を切り伏せる。=[Physics] An ice dragon girl, who controls ice and freezes the enemy. She consumes the [Ice Dragon Mark] earned with the UB, amplifies her skills, and cuts the enemy with her innocence.
+【物理】中衛で氷雪を操り敵を凍滅する、氷竜の少女。ユニオンバーストで獲得する【氷竜の印】を消費して、スキルの効果を増幅し、清廉な剣技で敵を切り伏せる。=[Physical] An ice dragon girl, who controls ice and freezes the enemy. She consumes the [Ice Dragon Mark] earned with the UB, amplifies her skills, and cuts the enemy with her innocence.
 
 Skill Name
 舞斬・月下氷竜=Dance: Lunar ice dragon

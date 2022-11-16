@@ -15,7 +15,7 @@
 ===UB (6 star)
 
 ===UB 
-【物理】中衛で、どたばたと敵をかく乱する、純情少女。敵をスタンさせるスキルのほか、ユニオンバーストでは暗闇と混乱を付与することで敵を邪魔することができる。=[Physics] A pure girl who disturbs the enemy and the enemy in the MG. She can disturb her enemy by giving darkness and confusion in UB in addition to the skills to stun the enemy.
+【物理】中衛で、どたばたと敵をかく乱する、純情少女。敵をスタンさせるスキルのほか、ユニオンバーストでは暗闇と混乱を付与することで敵を邪魔することができる。=[Physical] A pure girl who disturbs the enemy and the enemy in the MG. She can disturb her enemy by giving darkness and confusion in UB in addition to the skills to stun the enemy.
 
 r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵を暗闇状態にする\n範囲内の敵を混乱させる$"=Deals  $1 P.DMG to all enemies within range to enemies within range 1200\nBlinds enemies in range for 6s.\nConfuses enemies in range for 4s.
 前方範囲内の敵すべてに物理中ダメージを与え、さらに暗闇・混乱状態にする。=Deals moderate P.DMG to all enemies in range and inflicts Blind and Confuse.

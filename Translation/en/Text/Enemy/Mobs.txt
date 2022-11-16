@@ -1,7 +1,7 @@
 【物理】近接攻撃\n厳しい鍛錬を重ね、強靭な肉体を\n手に入れたオークの上位種。=[Physical]Front\nA high-ranking orc that has acquired a tough body through repeated rigorous training.
 ハイオーク=High orc
 
-【物理】近接攻撃\n大人を真似て、楽器をたたく、\n悪戯好きなオークのこども。=[Physics]Front\nA miscellaneous orc child who imitates adult, taps instruments, and loves mischief.
+【物理】近接攻撃\n大人を真似て、楽器をたたく、\n悪戯好きなオークのこども。=[Physical]Front\nA miscellaneous orc child who imitates adult, taps instruments, and loves mischief.
 ウーピーオーク=Whoopi Orc
 
 【物理】遠距離攻撃\n脅威となる敵をいち早く察知し、\n的確に狙い穿つハチの魔物。=[Physical]Row\nA bee monster that quickly detects a threatening enemy and accurately targets it.
@@ -19,13 +19,13 @@
 【物理】中距離攻撃\n尾の花はひどい臭いを放つが、\n慣れると案外癖になるらしい。=[Physical]Middle\nThe tail flower gives off a terrible smell, but it seems that once you get used to it, you will unexpectedly get used to it.
 マッドフラワー=Mad flower
 
-【物理】中距離攻撃\n穴を掘って獲物をじっと待ち、\n毒牙で確実に仕留めるヘビの魔物。=[Physics]Middle\nA snake monster that digs a hole, waits patiently for its prey, and kills it with its poisonous fangs.
+【物理】中距離攻撃\n穴を掘って獲物をじっと待ち、\n毒牙で確実に仕留めるヘビの魔物。=[Physical]Middle\nA snake monster that digs a hole, waits patiently for its prey, and kills it with its poisonous fangs.
 ランドスネーク=Land Snake
 
 【魔法】遠距離攻撃\n地獄から呼び寄せた炎で\n魔法を飛ばす上級悪魔。=[Magic]Row\nA high-ranking demon that shoots magic\n with flames summoned from hell.
 ファイヤーメイジ=Fire Mage
 
-【物理】近接攻撃\nするどいキバで咬みつき\n致命的な傷を残す毒トカゲの魔物。=[Physics]A poisonous lizard demon that bites with its sharp fangs and leaves fatal wounds.
+【物理】近接攻撃\nするどいキバで咬みつき\n致命的な傷を残す毒トカゲの魔物。=[Physical]A poisonous lizard demon that bites with its sharp fangs and leaves fatal wounds.
 ポイドン=Pooidon
 
 【魔法】近接攻撃\n小さくても強力な炎を吐く、\nこどものオオトカゲ。=[Magic]A baby Monitor Lizard that breathes powerful flames despite its small size.
