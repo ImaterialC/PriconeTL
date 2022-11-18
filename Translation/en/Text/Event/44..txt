@@ -1,0 +1,6 @@
+アンチビースト・トリニティ=Anti-Beast: Trinity
+アンチビースト=Anti-beast
+シズル・ノワール=Shizuru Noir
+３人=3 Peoples
+
+r:"^ランドソル近郊([0-9\-\(\)\w （）]*)$"=Near Landsol $1
