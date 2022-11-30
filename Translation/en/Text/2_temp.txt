@@ -3,7 +3,7 @@
 {0}日目のログインボーナスとして以下のアイテムを獲得しました。={0} The following items were won as the login bonus on the day.
 聖学祭\\nプログラム=Saint Gaku Festival \\ N Program
 {0:D2}月{1:D2}日まで販売中={0: D2} Month {1: D2} Sale until the day
-
+ユイの永遠光聖域=ユイの永遠光聖域
 スターライトソナタ=Starlight Sonata
 ねこまたの島MkII=ねこまたの島MkII
 竜の再生=Dragon playback
@@ -386,3 +386,7 @@ Pate（ぱて）=Pate（ぱて）
 みっちー=みっちー
 ファイ=ファイ
 ネム=ネム
+にぎにぎ=にぎにぎ
+ひらひらくるりん=ひらひらくるりん
+「クラゲ」=「クラゲ」
+キリト=キリト

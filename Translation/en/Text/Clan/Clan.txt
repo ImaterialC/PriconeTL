@@ -63,7 +63,14 @@ r:"^終了まで (\d+)分$"=Ends in $1m
 寄付完了=Donation completion
 
 8時間経過したため、装備リクエストが終了しました。=You received the following equipment.\n8 hours have passed and the equipment request has ended.
+[FF7C4E,D62146]バトルを開始した時点で挑戦回数が消費され、\n編成キャラとそのEX装備に使用制限がかかります。[-]=[FF7C4E,D62146]At the start of the battle, the number of challenges will be used,\nand the use of charas and their EX equipment will be restricted.[-]
 
+[FF7C4E,D62146]サポート以外のキャラのEX装備に使用制限がかかります。[-]=[FF7C4E,D62146]rent char and their EX equipment will be restricted.[-]
+[FF7C4E,D62146]バトルを開始した時点で上記のキャラと、[-]=[FF7C4E,D62146]Attempt will be used and the use of charas except[-]
+
+At the start of the battle, usage restrictions apply to the above characters and EX equipment for characters other than support characters.
+
+残り挑戦回数が0回です。=The remaining attempt is 0.
 現在の装備リクエストの状況です。=Status of current equipment request.
 r:"^以下の装備をx(\d+)獲得しました。\n現在の装備リクエストの状況です。$"=You received the following equipment × $1.\nStatus of current equipment request.
 
@@ -131,7 +138,7 @@ r:"^\[FF7C4E,D62146\]本日の残り寄付数は(\d+)です。\[-\]$"=[FF7C4E,D6
 sr:"^\[25CFDE,0E6C98\](\d+月)全クランランキング\[-\]$"=[25CFDE,0E6C98]Global Ranking($1)[-]
 ===Clan Battle===
 CPと挑戦回数は毎日05:00にリセットされます。=CPs & attempts will be reset at 5:00(JST) daily.
-r:"^\[3C404E\]クランバトルの挑戦回数が\[-\]\[FFBB00,CE4F00\](\d)回\[-\]\[3C404E\]アップしました。\[-\]$"=[3C404E]Your CB's attempt has increased by [FFBB00,CE4F00]$1[-].[-]
+r:"^\[3C404E\]クランバトルの挑戦回数が\n?\[-\]\[FFBB00,CE4F00\](\d)回\[-\]\[3C404E\]アップしました。\[-\]$"=[3C404E]Your CB's attempt has increased by [FFBB00,CE4F00]$1[-].[-]
 r:"^\[3C404E\]CPを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]獲得して、\[-\]$"=[3C404E]Earned [FFBB00,CE4F00]$1 [-]CP,[-]
 [3C404E]マイログに保存しますか?[-]=[3C404E]Do you want to save it in My Log?[-]
 マイログ保存確認=My log Save Confirmation

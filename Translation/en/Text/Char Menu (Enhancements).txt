@@ -7,6 +7,8 @@ Lv強化=Level Up
 装備=Equip
 絆ストーリー=Story
 ★変更=★Change
+
+自分のキャラではないので★変更できません。=You can't change the ★ that isn't yours
 おまかせ強化=Optimize
 まとめて装備=Equip All
 装備する=Equip
@@ -251,7 +253,11 @@ RANKボーナス詳細のステータス=Status Details
 上限解放に必要なキャラLvを満たしていません。\n「まとめて強化」では{{A}}を使用して\n上限解放を行えます。=The character Lv required to unlock the Limit Break is not enough. You can use {{A}} to unlock the Limit Break in "Uncap+Lv".
 まとめて強化へ=Uncap+Lv
 
-専用装備をまだ装備していません。\n作成するにはRANK{{A}}にする必要があります。\n\nランクアップしますか？=Cannot equip Unique Equipment yet.\nMust be RANK {{A}} to craft.\n\nDo you want to rank up?
+
+消費する強化素材=Refine materials consumed
+以下のアイテムを消費して専用装備を強化します。\nよろしいですか？=Consumes the following items to refine the Unique Equipment.\nIs it OK?
+強化の素材が不足しています。=Insufficient refinement material.
+
 ランクアップへ=To Rank Up
 ★6才能開花=★6 Ascension
 原鉱=ore

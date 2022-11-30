@@ -1,6 +1,6 @@
 Ninon 
 ノン=non
-【物理】中衛で、強力な範囲攻撃を操る、忍術の使い手。範囲攻撃のスキルで敵を倒す事で、自分のＴＰを回復し、強力なユニオンバーストの発動頻度を上げる。=A ninja who uses powerful AOE attacks from MG. Recovers own TP by felling foes with her AOE attack skill, allowing her to spam her UB.
+【物理】中衛で、強力な範囲攻撃を操る、忍術の使い手。範囲攻撃のスキルで敵を倒す事で、自分のＴＰを回復し、強力なユニオンバーストの発動頻度を上げる。=[Physical] A ninja who uses powerful AOE attacks from MG. Recovers own TP by felling foes with her AOE attack skill, allowing her to spam her UB.
 
 
 忍法開発=developing ninja arts

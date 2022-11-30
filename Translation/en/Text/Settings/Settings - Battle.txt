@@ -51,6 +51,11 @@ Bアリーナ=B Arena
 
 バトルのAUTO・SMART・SPEED=AUTO, SMART and SPEED Battle Settings
 バトルのAUTOとSMARTとSPEEDの設定です。\n『引き継ぐ』に設定するとバトル中に変更したAUTO・SMART・SPEEDの設定を引き継ぎます。\n※AUTOとSMARTとSPEEDを個別に引き継ぎ設定はできません。=You can set the AUTO, SMART, and SPEED settings for battles.
+
+全般=General
+バトルのAUTOとSMARTとSPEEDの設定です。\n「引き継ぐ」に設定するとバトル中に変更したAUTO・SMART・SPEEDの設定を引き継ぎます。\n※AUTOとSMARTとSPEEDを個別に引き継ぎ設定はできません。=You can set the AUTO, SMART, and SPEED settings for battles.
+
+
 引き継がない=Do not\nSwitch
 引き継ぐ=Switch
 

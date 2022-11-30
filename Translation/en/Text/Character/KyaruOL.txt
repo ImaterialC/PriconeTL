@@ -6,7 +6,7 @@ r:"^敵全体に(\d+)の魔法ダメージ\n敵全体を恐慌状態にする\n�
 
 敵全体に魔法中ダメージを与え、さらに恐慌状態にする。このスキルによるダメージでは敵のＴＰは回復しない。発動時既に恐慌状態の敵がいた場合、その敵のＴＰを小ダウンさせる。=Inflicts moderate M.DMG to all enemies and inflicts Panic. Damage from this skill does not restore the enemy's TP. If there is an enemy already in a panic state at the time of activation, the TP of that enemy will be slightly decreased.
 
-r:"^範囲内の敵に(\d+)の魔法ダメージ\n範囲内の敵のＴＰを(\d+)失わせる$"=Deals 1 M.DMG to all enemies within range 300 Centered at the nearest enemy.\nReduce target's TP by $2.
+r:"^範囲内の敵に(\d+)の魔法ダメージ\n範囲内の敵のＴＰを(\d+)失わせる$"=Deals $1 M.DMG to all enemies within range 300 Centered at the nearest enemy.\nReduce target's TP by $2.
 目の前の敵１キャラを中心とした範囲内の敵すべてに魔法中ダメージを与え、さらにＴＰを小ダウンさせる。=Inflicts moderate magic damage to all enemies within range, centering on the first enemy character in front, and also slightly decreases TP.
 
 目の前の敵１キャラを中心とした範囲内の敵すべてに魔法小ダメージを与え、さらに麻痺状態にする。=Inflicts minor magic damage to all enemies within range centering on the first enemy character in front of you, and also stun them.

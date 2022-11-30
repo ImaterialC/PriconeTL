@@ -1,5 +1,11 @@
 イドストーリー=ide Story
 サイドストーリー=Side Story
+
+絆、つないで。こころ、結んで。=Bonds, connect. Tie your heart.
+新春グルメプリンセス！　一投にかけた乙女たち=New Year Gourmet Princess! "The maidens who took the plunge
+デビュタント・シャングリ・ラ　聖夜のラブゲーム=Debutante Shangri-La Sacred Night Love Game
+
+
 sr:"^\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]が解放されました。\[-\]$"=[3C404E]The [FFBB00,CE4F00]$1[-] has been released.[-]
 r:"^メインクエスト([0-9\-\(\)（）\w ]*)クリアで$"=Cleared Main Quest $1
 
@@ -181,3 +187,8 @@ r:"^(\d+)回完了$"=Done × $1
 r:"^カルミナサマーライブ会場([0-9\-\(\)\w （）]*)$"=Carmina Summer Live Venue $1
 クイーンウタクラゲ=Queen Singer Jellyfish
 ====
+r:"^港町・オーマ([0-9\-\(\)\w （）]*)$"=Port town Oma $1
+グレートトゥンヌス=Great Tunnus
+VERY HARDでカズマサさまが援護してくれるようです。強力なスタン効果のユニオンバーストで、サポートしてくださいますよ。ボスが身動きを取れなくなっている間に、一気に倒しましょう。=It seems that Kazumasa-sama will support you in VERY HARD. I will support you with a powerful stun effect UB. While the boss is stun, let's defeat it at once.
+
+ゲストキャラ確認=Guest Character Confirmation

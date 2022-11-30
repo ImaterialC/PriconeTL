@@ -1,0 +1,45 @@
+
+[3C404EFF]誰もが来るクリスマスに胸を躍らせる中、[3C404EFF]\n憂いた顔をしながら歩く少女の姿があった。=[3C404EFF] While the chest of Christmas that everyone came, there was a girl walking with a sad face.
+r:"^ランドソル 繁華街([0-9\-\(\)\w （）]*)$"=Landsol Downtown $1
+r:"^ランドソル　繁華街([0-9\-\(\)\w （）]*)$"=Landsol Downtown $1
+アンハッピートレント=Unhappy Trent
+ヨリ・アカリ=Yori&Akari
+ラフィ・エミィ=Rafi & Emi
+ラフィ=Rafi
+エミィ=Emi
+女性１=Women 1
+[3C404EFF]エンジェルさん！　=[3C404EFF] Angel!　
+[3C404EFF]エンジェルの勝利！=[3C404EFF] Angel victory!
+[3C404EFF]エンジェルの祝福を！\n（素直にな～れ）=[3C404EFF] Blessing of angel!\n(be honest)
+[3C404EFF]いい度胸じゃない。=[3c404eff] Not a good heart.
+[3C404EFF]ずっと一緒にいなさいよね……！=[3c404eff] Please stay together forever ...!
+[3C404EFF]あのツリー=[3c404eff] That tree
+[3C404EFF]復活早すぎだよ～=[3C404EFF] It's too early resurrection ~
+[3C404EFF]何回戦するつもり？=[3c404eff] How many times are you going to fight?
+[3C404EFF]もう動けない……=[3c404eff] I can't move anymore ...
+[3C404EFF]目指せ昇天！=[3C404EFF] Aim as expected!
+[3C404EFF]任務……？=[3c404eff] mission ...?
+[3C404EFF]それは……=[3c404eff] That's ...
+[3C404EFF]人々を幸せにすること……！=[3c404eff] Make people happy ...!
+[3C404EFF]──はいっ！=[3C404EFF] ──!
+[3C404EFF]二で割った……？=[3c404eff]divided it with two ...?
+[3C404EFF]勘違いしないでよね！=[3c404eff] Don't misunderstand!
+[3C404EFF]元に戻してやってくれないか。=[3C404EFF] Could you return it?
+[3C404EFF]頑張って挑戦してみてください！=[3C404EFF] Please do your best and try it!
+
+混ぜるな危険=Don't mix
+ターゲット=Target
+双子エンジェルの贈り物=Twin Angel Gifts
+聖なる日のお出迎え=Holy Day Greeting
+
+囚われたエンジェル=A captive angel
+エンジェル昇格試験=Angel exam
+不出来な姉とデキる妹=Clumsy Older Sister and Skilled Younger Sister
+お姉ちゃんたちVS妹たち=Older Sisters vs Younger Sisters
+お姉ちゃんたちの奮闘=Struggle of Older Sisters
+ウルトラハッピーは叶う=Ultra Happy will come true
+
+
+ンジェル昇格試験=ngel exam
+嗚呼美しきクリスマス=Ahh, a beautiful Christmas
+クリスマス商戦真っ最中のショーウィンドウに映った自分の姿\nに酔うユキに出会った一行。クリスマスを楽しみにしている皆\nの邪魔にならないように、エンジェルの力で出した鏡でユキを\n移動させるのであった。=In the midst of the Christmas sales season, the group meets Yuki who is intoxicated by her reflection in the shop window. In order not to get in the way of everyone looking forward to Christmas, she moved Yuki with a mirror that was brought out by Angel's power.

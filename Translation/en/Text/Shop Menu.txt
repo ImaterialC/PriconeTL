@@ -25,12 +25,12 @@ r:"^残り(\d+)回$"=$1 Times Left
 r:^"([0-9,]+)でまとめて購入する$"=Buy All with: $1
 まとめて購入する=Buy All
 ===Confirm===
-sr:"^\[3B3F4D\]([べ-・ー]{2,12})×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しますか\?\[-\]$"=[3B3F4D]Use $1 × [FFBB00,CE4F00]$2[-]\nto purchase the following items?[-]
+sr:"^\[3B3F4D\](.+)×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しますか\?\[-\]$"=[3B3F4D]Use $1 × [FFBB00,CE4F00]$2[-]\nto purchase the following items?[-]
 
 ===Bough List===
-sr:"^\[3B3F4D\]([べ-・ー]{2,12})×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しました。\[-\]$"=[3B3F4D]You used $1 × [FFBB00,CE4F00]$2[-]\n to buy the following items.[-]
+sr:"^\[3B3F4D\](.+)×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3B3F4D\]を消費して\n以下のアイテムを購入しました。\[-\]$"=[3B3F4D]You used $1 × [FFBB00,CE4F00]$2[-]\n to buy the following items.[-]
 
-sr:"^\[3C404E\]([べ-・ー]{2,12}|女神の秘石)×\[FFBB00,CE4F00\](\d+)\[-\]を消費して\n(.+)×\[FFBB00,CE4F00\](\d+)\[-\]を購入しました。\[-\]$"=[3C404E]You used $1 × [FFBB00,CE4F00]$2[-]\nto buy $3 × [FFBB00,CE4F00]$4[-].[-]
+sr:"^\[3C404E\](.+)×\[FFBB00,CE4F00\](\d+)\[-\]を消費して\n(.+)×\[FFBB00,CE4F00\](\d+)\[-\]を購入しました。\[-\]$"=[3C404E]You used $1 × [FFBB00,CE4F00]$2[-]\nto buy $3 × [FFBB00,CE4F00]$4[-].[-]
 
 ===sort order===
 ピュアメモリー\nピースのみ=Pure memory\nshard only
@@ -67,6 +67,7 @@ sr:"^\[3C404E\]([べ-・ー]{2,12}|女神の秘石)×\[FFBB00,CE4F00\](\d+)\[-\]
 限定ショップは開かれていません。=Bonus shop not open.
 今日の出現回数上限に達しました。\n回数上限は05:00にリセットされます。=The maximum number of appearances for today has been reached, and will be reset at 05:00.
 購入するアイテムを選択してください。=Please select the item to purchase.
+購入できるアイテムがありません。=There are no items that can be purchased.
 ===master shop===
 マスターコイン上限確認=Master Coin Limit
 マスターコインはプレイヤーLvと所持EXPが上限に達した状態でスタミナ消費した際に獲得できます。=Master Coins can be earned by consuming stamina when the player's Lv and EXP have reached the max.

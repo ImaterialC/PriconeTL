@@ -1,41 +1,41 @@
-===Bio
+Bio
 【魔法】中衛で、魔法パーティの強化を担う、双子の妹。敵の魔法防御力を大幅に下げるスキルや、魔法攻撃力を上昇させ、回復効果を付与するユニオンバーストを使う。=[Magic]A younger twin who strengthens magic-oriented parties from MG. Has skills that drastically reduce enemy M.DEF and a UB that boosts M.ATK and grants healing effect.
 
-===Profile
+Profile
 サックス=Playing the saxophone
 
-===Skills
+Skills
 スイートデビルエール=Little Devil's Cheer
 メルティデビルチャーム=Melty Devil Charm
 スウィートイグニッション=Sweet Ignition
 スウィートイグニッション+=Sweet Ignition+
 
-===UB (6 star)
+UB (6 star)
 味方全体の魔法攻撃力を特大アップさせ、魔法クリティカルを大アップさせ、次の攻撃のダメージ量に応じ\nて追加でＨＰを回復させる。さらに敵全体の魔法防御力を小ダウンさせる。=Moderate boost to all allies’ M.ATK and large boost to all allies’ M.Crit Rate. Heals all allies based on the damage of their next attack. Lowers M.DEF of all enemies by a small amount.
 
-r:"^味方全体の魔法攻撃力を(\d+)アップ\n味方全体の魔法クリティカルを(\d+)アップ\n敵全体の魔法防御力を(\d+)ダウン$"=Grants lifesteal to all allies' next attack.\nBoosts all allies’ M.ATK by $1 for 18s.\nBoosts all allies’ M.CRIT by $2 for 18s.\nLowers all enemy’s M.DEF by $3 for 18s.
-===UB (Need Non-6*)
+r:"^味方全体の魔法攻撃力を(\d+)アップ\n味方全体の魔法クリティカルを(\d+)アップ\n敵全体の魔法防御力を(\d+)ダウン$"=Grants lifesteal to all allies' next attack.\nBoosts all allies’ M.ATK by $1 for 18s.\nBoosts all allies’ M.Crit rate by $2 for 18s.\nLowers all enemy’s M.DEF by $3 for 18s.
+UB (Need Non-6*)
 味方全体の魔法攻撃力を小アップさせ、さらに次の攻撃のダメージ量に応じて追加でＨＰを回復させる。=Small boost to M.ATK of all allies and recovers their HP based on the damage dealt by their next attack.
 r:"^味方全体の魔法攻撃力を(\d+)アップ$"=Boosts all allies' M.ATK by $1.
 
-===Skill 1 (with UE)
+Skill 1 (with UE)
 目の前の敵１キャラに魔法大ダメージを与え、さらに魔法防御力を小ダウンさせる。=Deals moderate M.DMG to an enemy directly in front and lowers M.DEF by a small amount.
 r:"^敵単体に(\d+)の魔法ダメージ\n敵単体の魔法防御力を(\d+)ダウン$"=Deals $1 M.DMG to an enemy.\nLowers an enemy’s M.DEF by $2.
 
-===Skill 1 (no UE) (Need Non-UE)
+Skill 1 (no UE) (Need Non-UE)
 目の前の敵１キャラに魔法中ダメージを与える。=Deals moderate M.DMG to an enemy directly in front.
 r:"^敵単体に(\d+)の魔法ダメージ$"=Deals $1 M.DMG to an enemy.
 
-===Skill 2
+Skill 2
 目の前の敵１キャラの魔法防御力を大ダウンさせる。=Lowers M.DEF of an enemy directly in front by a moderate amount.
 r:"^敵単体の魔法防御力を(\d+)ダウン$"=Lowers an enemy’s M.DEF by $1.
-===Unique
+Unique
 デモンズトライデント=Demon's Trident
 
-===EX
+EX
 バトル開始時に自分の魔法攻撃力を中アップさせる。=Moderate boost to own M.ATK at start of battle.
 
-===Story
+Story
 カリ=kari
 甘え上手なみんなの人気者=The town darling who everyone want to dote on
 

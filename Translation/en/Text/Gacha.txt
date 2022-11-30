@@ -14,6 +14,8 @@ Sダッシュ=J:Start
 限定★3確定ガチャ=Guarantee ★3\nLim gacha
 4.5Year Anniversaryガチャ=4.5year Anniversary Gacha
 
+出現率UP=Boosted rates
+
 所持制限数を越えたアイテムは、プレゼントに送られます。=Items beyond the possession limit will be sent to the present.
 r:"^提供期間：([0-9/ :]+)まで$"=Provision Until: $1(JST)
 r:"^あと ([0-9:]{8})$"=$1 Left
