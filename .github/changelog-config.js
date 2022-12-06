@@ -10,6 +10,6 @@ module.exports = {
   },
 
   renderChangelog: function (release, changes) {
-    return `<@&852942064785555487> New release ${release} is dropped! Check it out!\n\n` + changes;
+    return `<@&967698392870436874> New release ${release} is dropped! Check it out!\n\n` + changes;
   },
 };
