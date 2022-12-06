@@ -1,0 +1,97 @@
+name: Create new release
+on: workflow_dispatch
+defaults:
+  run:
+    shell: pwsh
+
+jobs:
+  build:
+    name: Windows release
+    runs-on: windows-latest
+    concurrency: staging_environment
+    outputs:
+      changelog: ${{ steps.changelog.outputs.changelog }}
+    steps:
+    
+      - uses: actions/checkout@v3
+      
+      - name: Preparing
+        run: |
+          mkdir newrelease
+      
+      - name: Downloading core files
+        run: |
+          function Get-LatestRelease {
+            param (
+                [Parameter(Mandatory, Position=0)]
+                [string]
+                $Repo
+                ,
+                [Parameter(Mandatory,Position=1)]
+                [string]
+                $FileName
+                ,
+                [Parameter(Mandatory,Position=2)]
+                [string]
+                $OutFile
+            )
+              $AssetsURL = (Invoke-RestMethod -URI "$Env:GITHUB_API_URL/repos/$Repo/releases/latest").assets_url
+              $GetSpecificFile = (Invoke-RestMethod -URI $AssetsURL) | Where-Object {$_.name -match $FileName}
+              $R = Invoke-WebRequest -URI ($GetSpecificFile.browser_download_url) -OutFile "./newrelease/$OutFile"
+
+              Expand-Archive -Path "newrelease/$OutFile" -DestinationPath "newrelease"
+              Remove-Item -Path "newrelease/$OutFile"
+          }
+
+          Get-LatestRelease -Repo "BepInEx/BepInEx" -FileName "BepInEx_x86_.+\.zip" -OutFile "BepInEx.zip"
+          Get-LatestRelease -Repo "bbepis/XUnity.AutoTranslator" -FileName "XUnity.AutoTranslator-BepInEx-\d.+\.zip" -OutFile "AutoTrans.zip"
+      
+      - name: Getting patch files
+        run: |
+          Get-ChildItem
+          Copy-Item "PriconeTL_Updater.ps1" -Destination "newrelease/BepInEx"
+      
+      - name: Generating version files
+        run: |
+          $TodayDate = (Get-Date -Format "yyyy.MM.dd")
+          $TodayDate | Out-File -FilePath "newrelease/Version.txt" -Encoding utf8 -Append
+          echo "TODAY_DATE=$TodayDate" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
+          echo "RELEASE_VERSION=$(Get-Date -Format 'yyyyMMdd')" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
+      
+      - name: Generating changelog
+        id: changelog
+        uses: loopwerk/tag-changelog@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          config_file: .github\changelog-config.js
+      
+      - name: Generating artifact
+        run: |
+          Compress-Archive -Path "newrelease/*" -CompressionLevel Fastest -DestinationPath 'PriconneTL_${{ env.TODAY_DATE }}.zip'
+      
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: release
+          path: 'PriconneTL_${{ env.TODAY_DATE }}.zip'
+      
+      - name: Publish Release
+        uses: ncipollo/release-action@v1
+        with:
+          body: ${{ steps.changelog.outputs.changes }}
+          tag: ${{ env.RELEASE_VERSION }}
+          artifacts:
+            "./PriconneTL_${{ env.TODAY_DATE }}.zip"
+          
+  announce:
+    name: Discord Announcement
+    runs-on: ubuntu-latest
+    concurrency: staging_environment
+    needs: build
+    steps:
+      - name: Announcing new release
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        uses: Ilshidur/action-discord@0c4b27844ba47cb1c7bee539c8eead5284ce9fa9
+        with:
+          args: "${{ needs.build.outputs.changelog }}"
