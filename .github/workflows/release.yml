@@ -48,8 +48,8 @@ jobs:
       
       - name: Getting patch files
         run: |
-          Get-ChildItem
-          Copy-Item "PriconeTL_Updater.ps1" -Destination "newrelease/BepInEx"
+          Copy-Item "Translation"  -Destination "newrelease/BepInEx"
+          Copy-Item "config" -Destination "newrelease/BepInEx"
       
       - name: Generating version files
         run: |
