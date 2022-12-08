@@ -38,18 +38,16 @@ jobs:
               $AssetsURL = (Invoke-RestMethod -URI "$Env:GITHUB_API_URL/repos/$Repo/releases/latest").assets_url
               $GetSpecificFile = (Invoke-RestMethod -URI $AssetsURL) | Where-Object {$_.name -match $FileName}
               $R = Invoke-WebRequest -URI ($GetSpecificFile.browser_download_url) -OutFile "./newrelease/$OutFile"
-
               Expand-Archive -Path "newrelease/$OutFile" -DestinationPath "newrelease"
               Remove-Item -Path "newrelease/$OutFile"
           }
-
           Get-LatestRelease -Repo "BepInEx/BepInEx" -FileName "BepInEx_x86_.+\.zip" -OutFile "BepInEx.zip"
           Get-LatestRelease -Repo "bbepis/XUnity.AutoTranslator" -FileName "XUnity.AutoTranslator-BepInEx-\d.+\.zip" -OutFile "AutoTrans.zip"
       
       - name: Getting patch files
         run: |
-          Copy-Item "Translation"  -Destination "newrelease/BepInEx"
-          Copy-Item "config" -Destination "newrelease/BepInEx"
+          Copy-Item "Translation"  -Destination "newrelease/BepInEx" -Recurse
+          Copy-Item "config" -Destination "newrelease/BepInEx"  -Recurse
       
       - name: Generating version files
         run: |
@@ -62,6 +60,7 @@ jobs:
         id: changelog
         uses: loopwerk/tag-changelog@v1
         with:
+          exclude_types: repo
           token: ${{ secrets.GITHUB_TOKEN }}
           config_file: .github\changelog-config.js
       
