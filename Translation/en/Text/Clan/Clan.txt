@@ -30,7 +30,7 @@ sr:"^(\[.*\])(.{1,10})さんにいいねをして\nスタミナを10獲得しま
 
 r:"^\[3C404E\]\[3C404E\]クランメンバーに\[FFBB00,CE4F00\](\d+)\[-\]回いいねされて、\nマナ×\[FFBB00,CE4F00\](\d+)\[-\]を獲得しました。\[-\]\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Clan Member liked you,\nReceive Mana × [FFBB00,CE4F00]$2[-][-]
 
-
+月間=Month
 [FF7C4E,D62146]いいねされたクランメンバーにはマナがおくられます。[-]=[FF7C4E,D62146]Liked clan members will receive Mana.[-]
 いいね完了=Like Complete
 

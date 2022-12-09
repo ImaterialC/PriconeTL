@@ -1,6 +1,6 @@
 module.exports = {
   renderTypeSection: function (label, commits) {
-    let text = `\n##** Changelog **\n`;
+    let text = `\n## Changelog \n`;
 
     commits.forEach((commit) => {
       text += `- ${commit.subject}\n`;

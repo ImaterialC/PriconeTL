@@ -43,3 +43,15 @@ r:"^ランドソル　繁華街([0-9\-\(\)\w （）]*)$"=Landsol Downtown $1
 ンジェル昇格試験=ngel exam
 嗚呼美しきクリスマス=Ahh, a beautiful Christmas
 クリスマス商戦真っ最中のショーウィンドウに映った自分の姿\nに酔うユキに出会った一行。クリスマスを楽しみにしている皆\nの邪魔にならないように、エンジェルの力で出した鏡でユキを\n移動させるのであった。=In the midst of the Christmas sales season, the group meets Yuki who is intoxicated by her reflection in the shop window. In order not to get in the way of everyone looking forward to Christmas, she moved Yuki with a mirror that was brought out by Angel's power.
+
+聞きたいけど聞きたくない=I want to hear but I don't want to ask
+エンジェル昇格試験　エピソード解放=Angel Exam Episode Unlock
+聖夜の幽霊×吸血鬼=Holy Night Ghost x Vampire
+小さなサンタの贈り物=Little Santa Gifts
+輝け！　クリスマスライブ=Shine! Christmas Concert
+エンジェル占いにご用心=Beware of Angel Divination
+サンタともふもふトナカイ=Santa and Fluffy Reindeer
+お姉ちゃんの愛さえあれば=As Long As I have My Sister's Love
+清き心のクリスマス=Pure Heart Christmas
+狙え！　新事業！=Aim! New Business!
+素直になれないクリスマス=Christmas that Can't be Honest
