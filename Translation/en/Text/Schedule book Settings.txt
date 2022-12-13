@@ -3,7 +3,7 @@
 開催中のイベントのデイリーミッションが達成済みで、報酬を受け取っていないものがあるとき\n予定帳に表示するかどうかを設定できます。=You can set whether or not to display in the schedule book when there are daily missions of the ongoing event that have been completed but have not received rewards.
 
 イベントボス設定=Event Boss Setting
-イベントボス（VERY HARD）を討伐していないときに予定帳に表示するかどうかを設定できます。\n開催中のイベントが無い、イベントボス（VERY HARD）が未解放の場合は設定によらず表示されません。\n複数のイベントが平行して開催されている場合はイベントごとに表示されます。=To display in the schedule book when the event boss (VERY HARD) is not defeated.\nIf there is no event in progress and the event boss (VERY HARD) is not released, it will not be displayed regardless of the settings.\nIf multiple events are held in parallel, they will be displayed for each event.
+イベントボス（VERY HARD）を討伐していないときに予定帳に表示するかどうかを設定できます。\n開催中のイベントが無い、イベントボス（VERY HARD）が未解放の場合は設定によらず表示されません。\n複数のイベントが平行して開催されている場合はイベントごとに表示されます。=To display in the schedule book when the event boss (VERY HARD) is not defeated.\nIf there is no event in progress and the event boss (VERY HARD) is not unlocked, it will not be displayed regardless of the settings.\nIf multiple events are held in parallel, they will be displayed for each event.
 
 通常ショップ設定=Normal Shop Settings
 通常ショップで購入されていないアイテムがある場合、予定帳に表示するかどうかを設定できます。=You can set whether or not to display items that are not purchased in the normal shop in Schedule Book.

@@ -20,12 +20,14 @@ r:"^ボイスなし\n\(([.0-9]+) ([MG])B\)$"=Voice OFF\n($1 $2B)
 オートON=Auto-on
 停止=Stop
 このムービーをスキップしてもよろしいですか？=Are you sure you want to skip this movie?
-r:"^第?(\d+)章 第(\d+)話が\n解放可能になりました。$"=Ch $1 Ep $2\nStory has release.
-r:"^第?(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"=Arc $1 Ch $2 Ep $3\nStory has release.
-r:"^第?(\d+)部 第(\d+)章 幕間が\n解放可能になりました。$"=Arc $1 Ch $2 Epilogue\nStory has release.
+r:"^第?(\d+)章 第(\d+)話が\n解放可能になりました。$"=Ch $1 Ep $2\nStory has been unlock.
+r:"^第?(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"=Arc $1 Ch $2 Ep $3\nStory been unlock.
+r:"^第?(\d+)部 第(\d+)章 幕間が\n解放可能になりました。$"=Arc $1 Ch $2 Epilogue\nStory been unlock.
 r:"^第?(\d+)部 第(\d+)章$"=Arc $1 Ch $2
 r:"^第([0-9.]+)話$"=Episode $1
 sr:"(.+)が\n?解放可能になりました。$"=$1\nhas been unlocked.
+メインクエスト2-1\n（NORMAL）クリア\nまたは期間限定\nイベント参加で解放=Unlock by clearing Main Quest 2-1 (NORMAL) or participating in a limited time event
+
 ===Story Menu==
 
 メイン=Main

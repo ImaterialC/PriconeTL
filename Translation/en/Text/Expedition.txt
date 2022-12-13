@@ -12,7 +12,7 @@
 ナクエスト=na Quest
 専用装備に必要な\nハートの欠片を獲得=Earn a piece of heart needed for UE
 
-★6に必要な\n解放アイテムを獲得=Earn released items required for 6★
+★6に必要な\n解放アイテムを獲得=Earn items required for unlocking 6★
 
 
 残り挑戦回数回復=Restore Attempts

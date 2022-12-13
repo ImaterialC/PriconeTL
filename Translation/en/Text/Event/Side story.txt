@@ -6,7 +6,7 @@
 デビュタント・シャングリ・ラ　聖夜のラブゲーム=Debutante Shangri-La Sacred Night Love Game
 
 
-sr:"^\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]が解放されました。\[-\]$"=[3C404E]The [FFBB00,CE4F00]$1[-] has been released.[-]
+sr:"^\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]が解放されました。\[-\]$"=[3C404E]The [FFBB00,CE4F00]$1[-] has been unlocked.[-]
 r:"^メインクエスト([0-9\-\(\)（）\w ]*)クリアで$"=Cleared Main Quest $1
 
 コンテンツ解放=Content Release
@@ -169,7 +169,7 @@ r:"^とある無人島([0-9\-\(\)\w （）]*)$"=A Certain Uninhabited Island $1
 得意な宿題=Homework You are Good 
 ちょっと苦手な宿題=Homework You are Little Weak
 すごく苦手な宿題=Homework You are Very Weak
-ボスバトル（HARD）をクリアで解放されます。=Clear Boss Battle (Hard) to release.
+ボスバトル（HARD）をクリアで解放されます。=Clear Boss Battle (Hard) to unlock.
 r:"^\[FF7C4E,D62146\](\d+)回目挑戦！\[-\]$"=[FF7C4E,D62146]$1 × challenge! [-]
 r:"^(\d+)回完了$"=Done × $1
 残り宿題=Remaining homework

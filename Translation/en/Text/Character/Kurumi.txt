@@ -20,7 +20,6 @@ r:"^味方全体の物理防御力を(\d+)アップ\n味方全体の魔法防御
 前方範囲内の敵すべてに物理大ダメージを与え、長時間スタンさせる。さらに、味方全体の物理防御力と魔法防御力を大アップし、自分を中心とした範囲内の味方すべてに継続ＨＰ回復状態を付与する。=Damage all of the enemies within the front range and stun for a long time. In addition, the P.DEF and M.DEF of all allies are greatly improved, and the continuation HP recovery status is granted to all allies within the range centered on themselves.
 r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵を一定時間行動不能にする\n味方全体の物理防御力を(\d+)アップ\n味方全体の魔法防御力を(\d+)アップ\n毎秒ＨＰを(\d+)回復する$"=Deals $1 P.DMG to an enemy.\nRenders an enemy immobile.\nBoosts all allies' P.DEF by $2.\nBoosts all allies' M.DEF by $3.\nRecovers all allies' HP by $4/s.
 ===S1
-ブレイブリーベル+=Bravery Bell+
 味方全体の物理防御力と魔法防御力を中アップさせ、さらにＴＰを小回復させる。=Moderate boost to P.DEF and M.DEF of all allies, and recovers their TP by a small amount.
 r:"^味方全体の物理防御力を(\d+)アップ\n味方全体の魔法防御力を(\d+)アップ\n味方全体のＴＰを(\d+)回復$"=Boosts all allies' P.DEF by $1.\nBoosts all allies' M.DEF by $1.\nRecovers all allies' TP by $1.
 ===S2
