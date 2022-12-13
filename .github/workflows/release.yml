@@ -1,5 +1,17 @@
 name: Create new release
-on: workflow_dispatch
+on: 
+  workflow_dispatch:
+    inputs:
+      name:
+        description: "Custom release name"
+        default: ""
+        required: false
+        type: string
+      version:
+        description: "Custom tag name"
+        default: ""
+        required: false
+        type: string
 defaults:
   run:
     shell: pwsh
@@ -17,6 +29,20 @@ jobs:
       
       - name: Preparing
         run: |
+          $TodayDate = Get-Date -Format 'yyyyMMdd'
+          echo "TODAY_DATE=$TodayDate" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
+          if ( "${{ inputs.name }}" ) {
+            echo "RELEASE_NAME=${{ inputs.name }}" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
+          }
+          else {
+            echo "RELEASE_NAME=Pricone UI EN DMM v$(Get-Date -Format 'yyyy.MM.dd')" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
+          }
+          if ( "${{ inputs.version }}" ) {
+            echo "RELEASE_TAG=${{ inputs.version }}" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
+          }
+          else {
+            echo "RELEASE_TAG=$TodayDate" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
+          }
           mkdir newrelease
       
       - name: Downloading core files
@@ -51,10 +77,7 @@ jobs:
       
       - name: Generating version files
         run: |
-          $TodayDate = (Get-Date -Format "yyyy.MM.dd")
-          $TodayDate | Out-File -FilePath "newrelease/Version.txt" -Encoding utf8 -Append
-          echo "TODAY_DATE=$TodayDate" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
-          echo "RELEASE_VERSION=$(Get-Date -Format 'yyyyMMdd')" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
+          "${{ env.TODAY_DATE }}" | Out-File -FilePath "newrelease/Version.txt" -Encoding utf8
       
       - name: Generating changelog
         id: changelog
@@ -77,8 +100,9 @@ jobs:
       - name: Publish Release
         uses: ncipollo/release-action@v1
         with:
+          name: ${{ env.RELEASE_NAME }}
           body: ${{ steps.changelog.outputs.changes }}
-          tag: ${{ env.RELEASE_VERSION }}
+          tag: ${{ env.RELEASE_TAG }}
           artifacts:
             "./PriconneTL_${{ env.TODAY_DATE }}.zip"
           
