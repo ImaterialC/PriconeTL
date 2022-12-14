@@ -74,7 +74,7 @@ r:"^(\d+)階 クリアパーティ一覧$"=$1 Floor Clear Party List
 05:00までは他のサポートキャラを選択できません。=You can not select other\nrental characters until 05:00(JST).
 [FF7C4E,D62146]全回復できる回数は毎日5:00にリセットされます。[-]=[FF7C4E,D62146]Full Heal's time are reset at 5:00 every day.[-]
 [FF7C4E,D62146]　1度本戦でサポートキャラを使用すると、\n05:00まで他のサポートキャラは使用できません。[-]=[FF7C4E,D62146] Once a support character\nis selected, no other support character can be picked until 05:00(JST).[-]
-[3C404E]全てのキャラのHPを全回復しました。[-]=[3C404E]HP of all characters\nhas been fully recorvered.[-]
+[3C404E]全てのキャラのHPを全回復しました。[-]=[3C404E]HP of all characters\nhas been fully recovered.[-]
 [3C404E]全回復できる回数は毎日05:00にリセットされます。[-]=[3C404E]Full Heals resets daily at 05:00(JST).[-]
 ダメージをうけたキャラがいないため、利用できません。=Cannot be used because no characters have been damaged.
 すでに他のサポートキャラが設定されています。=Other rental characters are already set.
@@ -96,7 +96,7 @@ r:"^回廊探索 wave(\d)$"=Corridor Exploration Wave$1
 AUTO・SMARTで操作せずバトル終了した場合リプレイできます。=You can replay if the battle ends without using AUTO/SMART.
 ※「AUTO」にてバトルが行われます。\nまたスキップ時はUB即発動モードはOFFになります。\n※リプレイは最後まで操作方法を変えずにバトルを行った場合に再生できます。="※Battle will be held in "AUTO".\nAlso, when skipping, UB immediate activation mode will be OFF.\n※Replays can be replayed when the battle is played without changing the operation method until the end."
 ===Story card===
-閲覧したい章を選択してください。=Please select the chapter you whould like\nto view.
+閲覧したい章を選択してください。=Please select the chapter you would like\nto view.
 ルナの塔ストーリー一覧=Luna's Tower Story List
 レディの理想と大人の真実=Lady's Ideals And Adult Truth
 姉なる命題と博士の対偶=The Kinematic Pair Of The Proposition Of My Sister And The Doctor

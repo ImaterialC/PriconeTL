@@ -1,5 +1,5 @@
 武器=Weapon
-アクセサリ=Accessorie
+アクセサリ=Accessory
 アクセサリー=Accessories
 防具=Armor
 EX装備コイン=EX Equip Coin
@@ -96,7 +96,7 @@ EX装備強化Pt使用=EX Equip Refine Pt use
 
 獲得上限解放Pt=Max Limit Break Pt
 使用できる素材がありません。=No materials can be use.
-上限解放素材を選択してください。=Please select the Lmit Break material.
+上限解放素材を選択してください。=Please select the Limit Break material.
 選択数=Select
 EX装備上限解放=Ex Equipment Uncap
 EX装備は\nアドベンチャーで入手することができます。=Ex Equipment can be obtained by Adventure.
@@ -145,7 +145,7 @@ EX装備を入れ替えます。\nよろしいですか？=Swap the EX equipment
 
 r:"^(\d+)Pt使用$"=Use $1pt
 装備品・強化アイテムは\nクエストで入手することができます。=Equipment and Refinement items can be obtained from quests.
-以下のアイテムを消費して上限解放します。=Consum the following items to Uncap.
+以下のアイテムを消費して上限解放します。=Consume the following items to Uncap.
 EX装備上限解放確認=Confirm Uncap Ex Equipment
 
 EX装備で、キャラのステータスをさらにパワーアップできます。付け替えできるのでお気に入りの組み合わせを探してみましょう。EX装備はアドベンチャーで入手できますよ。=With EX equipment, you can further power up the character's status. You can change them, so find your favorite combination. EX equipment can be obtained in adventure.

@@ -32,7 +32,7 @@ ex
 Skills+
 UB
 ヒヨリバーニングラッシュ=Hiyo River Ningy Rush
-目の前の敵１キャラに物理特大ダメージを与え、さらに自分を中心とした範囲内の敵すべてに物理大ダメージを与える。=Deals masive P.DMG to an enemy directly in front and deals moderate P.DMG to all enemies in a radius around it.
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分を中心とした範囲内の敵すべてに物理大ダメージを与える。=Deals massive P.DMG to an enemy directly in front and deals moderate P.DMG to all enemies in a radius around it.
 S1
 目の前の敵１キャラに物理大ダメージを与え、さらに自分を中心とした範囲内の敵すべてに物理小ダメージを与える。=Deals large P.DMG to an enemy directly in front and deals small P.DMG to all enemies in a small radius around it.
 S2

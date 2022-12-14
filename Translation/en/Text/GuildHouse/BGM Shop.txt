@@ -32,7 +32,7 @@ r:"^(.{3,20})\nを購入しました。$"=Purchased\n$1
 
 ＢＧＭの変更や購入は、こちらから\nできますよ\n素敵な音楽を、たくさんご用意\nいたしました！=If you're looking to change the BGM or buy new tracks, you've come to the right place! We have a wide selection available!
 
-いらっしゃいませ！\nＢＧＭの購入はこちらです\n素敵な曲がたくさんあって、\n目移りしちゃいますね=Always a pleasure to see you! wlcome to music store. There are so many lovely tracks. it can be hard to chose can't it?
+いらっしゃいませ！\nＢＧＭの購入はこちらです\n素敵な曲がたくさんあって、\n目移りしちゃいますね=Always a pleasure to see you! welcome to music store. There are so many lovely tracks. it can be hard to chose can't it?
 
 こちらでは、ＢＧＭを購入\nすることができますよ\n試聴することもできるので、\nじっくり選んでくださいね=this is where you can purchase new music tracks to use! you can listen to a sample first so feel free to take your time.
 ====

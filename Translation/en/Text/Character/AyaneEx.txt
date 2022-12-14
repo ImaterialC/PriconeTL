@@ -11,6 +11,6 @@ r:"^範囲内の味方の物理攻撃力を(\d+)アップ\n範囲内の味方の
 ブレイブフルジャーニー=Brave Full Journey
 ブレイブフルジャーニー+=Brave Full Journey+
 
-ぷうきちチョッピング=Poukichi Chopping
-ぷうきちチョッピング+=Poukichi Chopping
-ぷうきちエンブレイス=Puukichi Embrace
+ぷうきちチョッピング=Pukichi Chopping
+ぷうきちチョッピング+=Pukichi Chopping
+ぷうきちエンブレイス=Pukichi Embrace

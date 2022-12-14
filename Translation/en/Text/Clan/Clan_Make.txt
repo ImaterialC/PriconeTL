@@ -12,7 +12,7 @@
 勧誘設定:受け付けない=Won't get an invite
 設定変更=Change Settings
 勧誘設定を変更しますか？=Change invitation setting?
-クランからの勧誘を受け付けるか選択できます。\nすでにクランに所属している場合は、新たに勧誘はされません。=Sellect whether or not to receive invitation from clans.\nYou will not receive invitations if you are already in a Clan.
+クランからの勧誘を受け付けるか選択できます。\nすでにクランに所属している場合は、新たに勧誘はされません。=Select whether or not to receive invitation from clans.\nYou will not receive invitations if you are already in a Clan.
 受け付けない=Don't accept
 受け付ける=Accept
 
@@ -57,7 +57,7 @@ r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]\nに加入申請を出しま
 r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]に申請中です。\n申請を取り消しますか？\[-\]\[-\]$"=[3C404E]Cancel application to join\n[FFBB00,CE4F00]$1[-]?[-]
 申請取り消し確認=Cancel Application
 
-r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]への\n申請を取り消しました。\[-\]\[-\]$"=[3C404E]You have canceled your applicantion to join\n[FFBB00,CE4F00]$1[-].[-]
+r:"^\[3C404E\]\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]への\n申請を取り消しました。\[-\]\[-\]$"=[3C404E]You have canceled your application to join\n[FFBB00,CE4F00]$1[-].[-]
 申請取り消し完了=Application Canceled
 
 [FF7C4E,D62146]検索結果に一致するクランが見つかりませんでした。[-]=[FF7C4E,D62146]Unable to find any clans that match your search.[-]
@@ -133,4 +133,4 @@ NPC
 
 クランに入れるらしいわよ\nせっかくだから入ってみたら？\nけっこう楽しいみたいよ♪=Looks like you can join a Clan.\nWhy not give it a try?\nCould be a lot of fun!♪
 こちらでクランに加入できます\n素敵なクランがたくさんあって、\n目移りしてしまいますね=You can join a Clan here.\nThere are so many wonderful Clans, it is difficult fo choose.
-クランに加入してみませんか？\nみんなといっしょに冒険した方が、\n楽しいですよ！=Want to join Clan?\n It's a lot more fun going on advantures as a team!
+クランに加入してみませんか？\nみんなといっしょに冒険した方が、\n楽しいですよ！=Want to join Clan?\n It's a lot more fun going on adventures as a team!

@@ -26,7 +26,7 @@
 ファイヤーメイジ=Fire Mage
 
 【物理】近接攻撃\nするどいキバで咬みつき\n致命的な傷を残す毒トカゲの魔物。=[Physical]A poisonous lizard demon that bites with its sharp fangs and leaves fatal wounds.
-ポイドン=Pooidon
+ポイドン=Poison
 
 【魔法】近接攻撃\n小さくても強力な炎を吐く、\nこどものオオトカゲ。=[Magic]A baby Monitor Lizard that breathes powerful flames despite its small size.
 コドモオオトカゲ=Monitor Lizard Child

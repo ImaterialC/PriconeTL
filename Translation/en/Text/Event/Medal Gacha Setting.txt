@@ -5,7 +5,7 @@
 交換設定=Draw Count
 全て引く=Draw All
 回交換=Exchange
-まとめて交換設定=Draw All-at-Once Seting
+まとめて交換設定=Draw All-at-Once Setting
 6回目以降のラインナップで、所持討伐証をまとめて交換する設定です。=It is a setting that will Draw All-at-Once after 6th Lineup.
 まとめて交換しない=Don't Draw All-at-Once
 まとめて交換する=Draw All-at-Once

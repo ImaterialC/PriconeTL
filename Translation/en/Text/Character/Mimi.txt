@@ -15,7 +15,7 @@ r:"^味方全体の物理攻撃力を(\d+)アップ$"=Boosts all allies' P.ATK b
 ===Skills+
 ===UB
 うさぎさんレボリューション=Bunny Revolution
-前方範囲内の敵すべてに物理大ダメージを与え、さらに自分から２番目に近い敵を中心とした範囲内の敵すべてに物理特大ダメージを与える。=Deals large P.DMG to all enemies in range and masive P.DMG to the all 2nd closest enemies in range.
+前方範囲内の敵すべてに物理大ダメージを与え、さらに自分から２番目に近い敵を中心とした範囲内の敵すべてに物理特大ダメージを与える。=Deals large P.DMG to all enemies in range and massive P.DMG to the all 2nd closest enemies in range.
 r:"^前方範囲内の敵に(\d+)の物理ダメージ\n２番目に近い敵を中心とした範囲内の敵に(\d+)の物理ダメージ$"=Deals $1 P.DMG to all enemies in range.\nDeals $2 P.DMG to 2nd closest target in range.
 ===S1
 前方範囲内の敵すべてに物理大ダメージを与える。=Deals large P.DMG to all enemies in range.

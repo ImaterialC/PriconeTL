@@ -13,14 +13,14 @@ Album NPC
 アンナの本名。どんな相手にもとりあえず名乗るのがアンナのポリシー。=Anna's real name. It's Anna's policy to introduce herself to anyone and everyone.
 
 あんパン=Sweet Bun
-リンの大好物。時には給料のほとんどをあんパンにつぎ込むこともある。こしあんとつぶあんがあり、各派閥の\n戦いは長年続いている。=Rin's favorite food. Rin is known to spend the majority of her salary on it at times. She likes both the pure paste and slighly beany version-the battle among these faction for her love has been going on for years.
+リンの大好物。時には給料のほとんどをあんパンにつぎ込むこともある。こしあんとつぶあんがあり、各派閥の\n戦いは長年続いている。=Rin's favorite food. Rin is known to spend the majority of her salary on it at times. She likes both the pure paste and slightly beany version-the battle among these faction for her love has been going on for years.
 
 アストライア大陸=Astraea Continent
 世界最大の大陸。大陸の中心には巨大都市・ランドソルがあり、その上空にはソルの塔が天高くそびえ立ってい\nる。=The world's largest continent. At the center of this contient is the giant city of Landosol, with the Tower of Sol rising high into the sky above it.
 
 モニカが祖国で所属している部隊の名前。ヴァイス＝白、フリューゲル＝翼という意味を持つ。この名前を広く\n知らしめるためにモニカは日々活動している。=The name of a unit that Monika is a member of in her homeland. Derived from Weiss (white) and flügel (wing). Monica is doing her best to make this name know to everyone.
 
-モニカをギルドマスターとして結成されたギルド。メンバーはモニカ、ニノン、ユキ、クウカ、アユミの５人。\n結成「された」というよりも、うっかり結成「されてしまった」と言うニュアンスの方が正しいかもしれない。\nメンバーはいつも間の抜けた行動でピンチを呼び込んでは、自分たちで華麗に解決している。そのため、このギ\nルドにはポンコツしかいないのか、潜在能力は高いのか、まだ判然としていない。=A guild formed by Monika, Ninon, Yuki, Kuka, and Ayumi-though it may be more accurate to say that it come about accident. The silly antics of the members contrast widly with their ability to resolve the perilous situations they create for themselves with ease, leaving onlookers confused as to whether they're a group of dolt or hidden geniuses.
+モニカをギルドマスターとして結成されたギルド。メンバーはモニカ、ニノン、ユキ、クウカ、アユミの５人。\n結成「された」というよりも、うっかり結成「されてしまった」と言うニュアンスの方が正しいかもしれない。\nメンバーはいつも間の抜けた行動でピンチを呼び込んでは、自分たちで華麗に解決している。そのため、このギ\nルドにはポンコツしかいないのか、潜在能力は高いのか、まだ判然としていない。=A guild formed by Monika, Ninon, Yuki, Kuuka, and Ayumi-though it may be more accurate to say that it come about accident. The silly antics of the members contrast wildly with their ability to resolve the perilous situations they create for themselves with ease, leaving onlookers confused as to whether they're a group of dolt or hidden geniuses.
 
 魔瞳（イーヴィル・アイ）=Evil Eye
 この私、疾風の冥姫は左目に大量の魔力を溜め込むことが出来るぞ！　極めて強力な魔法を使う際に、我が瞳は\nこの世ならざる輝きを放つのだ！=I, the one and only Hecate of the Gale, can store impossible amounts of magic in my left eye! whenever I use powerful magic, this eye of mine shines brilliantly, like nothing else in this world!
@@ -32,7 +32,7 @@ Album NPC
 悪人「アクドーイ」を会長とする、悪徳商会。高利貸し、人さらい、違法な武器の密輸入、悪いことはなんでも\nやる。アクドーイは丁寧な口調だが極悪人である。本当の悪人とはしばしばそういうものなのである。=An evil guild led by villain "Krook'd" and involved in loan sharking, kidnapping, illegal weapon smuggling, and kind of evil deeds. Krook'd's speech is polite, but he's as evil as they come. True villains can be deceptive this way.
 
 ウィスタリア家=Wistarian family
-アストライア大陸全土に名をはせる、ランドソル一の商家と言われている名家。中でも、数々のパワフルな逸話\nによりお嬢様「アキノ・ウィスタリア」の名前は特にランドソルに広く知れ渡っている。いい意味でも、悪い意\n味でも。=Landosol's most renowed merchant family. Though the family itself is known throughout all of Astraea, no name rings louder than that of Akino Wisteria's, largely due to the many, many curious stories sorrounding her deeds.
+アストライア大陸全土に名をはせる、ランドソル一の商家と言われている名家。中でも、数々のパワフルな逸話\nによりお嬢様「アキノ・ウィスタリア」の名前は特にランドソルに広く知れ渡っている。いい意味でも、悪い意\n味でも。=Landosol's most renowned merchant family. Though the family itself is known throughout all of Astraea, no name rings louder than that of Akino Wisteria's, largely due to the many, many curious stories surrounding her deeds.
 
 エステレラ街道=Esterella Road
-アストライア大陸に存在する緑の多い街道。気候のよい土地柄のため、生息する植物、動物、昆虫の種類も多\nい。歩いているとさまざまな生き物と出会うことができる。=The Lush, green roads of Astraea. Its comfortableclimate makes it an Ideal location to find all sorts of plants, animals, and insects.
+アストライア大陸に存在する緑の多い街道。気候のよい土地柄のため、生息する植物、動物、昆虫の種類も多\nい。歩いているとさまざまな生き物と出会うことができる。=The Lush, green roads of Astraea. Its comfortable climate makes it an Ideal location to find all sorts of plants, animals, and insects.

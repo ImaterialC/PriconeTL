@@ -21,7 +21,7 @@ Anna
 Anne
 きょうみしんしん=I'm Curious!
 
-ames
+Ameth
 ぷにぷにプニプニ=Punipuni Punipuni
 
 Arisa
@@ -209,7 +209,7 @@ Creditta
 Saren
 ヒットのアイデア=Special Offer
 
-Shefy
+shefi
 じゃなくて=Not Like That
 
 Shinobu
@@ -223,7 +223,7 @@ Shiori
 Shizuru
 心配性=A Sisterly Suggestion
 
-Shuzume
+Suzume
 皿割り記録=NEW RECORD!
 
 Suzuna
@@ -248,7 +248,7 @@ Yori
 まだはやい=Protesting Too Much
 恥ずかしい…！=Embarrassing ...!
 
-Labirista
+Labyrista
 腕前=Skill
 
 Ranpha

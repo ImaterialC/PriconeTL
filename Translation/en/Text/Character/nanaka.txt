@@ -2,7 +2,7 @@
 ナカ=naka
 Bio
 
-【魔法】後衛から多彩な魔法を放つ、オタク魔法少女。体力が一番多い相手を狙うユニオンバーストやスキルは、敵のＨＰ状況により攻撃対象が変わる高威力の魔法攻撃。=[Magic] An otaku-mahou-shoujo who unleashes a variety of spells from RG. Her UB and skills feature Hi-M.ATK that strategically target the enemy with greatest remaind HP.
+【魔法】後衛から多彩な魔法を放つ、オタク魔法少女。体力が一番多い相手を狙うユニオンバーストやスキルは、敵のＨＰ状況により攻撃対象が変わる高威力の魔法攻撃。=[Magic] An otaku-mahou-shoujo who unleashes a variety of spells from RG. Her UB and skills feature Hi-M.ATK that strategically target the enemy with greatest remain HP.
 読書、魔法=Reading, magic
 オタク全開な魔法少女=An extrovert otaku mahoushoujo
 UE

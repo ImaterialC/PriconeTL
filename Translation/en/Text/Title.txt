@@ -8,7 +8,7 @@
 変更完了=Change completed
 選択した称号に変更が完了しました。=The selected title has been changed.
 主さまと過ごす夏=Summer with the Lord
-魔法狩人ピュアリー★シオリ=Magic Hunter Purely★Siori
+魔法狩人ピュアリー★シオリ=Magic Hunter Purely★Shiori
 サマー☆チアリーダー=Summer Cheerleader
 r:"^([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)の絆$"=Bond with $1$2
 

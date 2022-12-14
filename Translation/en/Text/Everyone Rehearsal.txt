@@ -33,7 +33,7 @@
 sr:"^(\d+)年(\d+月) クランバトル（([0-9 :/]+)まで）$"=Clan Battle $2 $1 (until $3)
 
 
-前月のクランバトル登場ボスとバトルできます。=Challange the last month's Clan Battle's boss.
+前月のクランバトル登場ボスとバトルできます。=Challenge the last month's Clan Battle's boss.
 ※限界突破によるキャラの強化内容は反映されません。=※Character's Limit Break Level not applied.
 
 

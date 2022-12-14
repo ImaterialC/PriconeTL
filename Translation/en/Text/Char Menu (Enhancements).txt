@@ -34,7 +34,7 @@ Lv強化=Level Up
 マイパーティ=My Parties
 エクストラキャラ=Extra Character
 [FF7C4E,D62146]必要素材が不足しています。[-]=[FF7C4E,D62146]You do not have the required materials.[-]
-表示切替=Apperance
+表示切替=Appearance
 おまかせ強化確認=Enhance Character
 消費マナ=Cost
 消費アイテム=Item Cost
@@ -69,12 +69,12 @@ r:"^\[3C404E\]アイテムを消費して、強化Lv上限を\[-\]\[FFBB00,CE4F0
 現在、このアイテムは\nメインクエスト等では入手できません。=This item cannot be obtained in the Main Quest.
 以下のアイテムの入手場所を確認できます。=View locations where the follow items can be obtained
 
-キャラのRANKが7以上で装備できます。=Equippable at RANK 7.
-[FF7C4E,D62146]キャラのRANKが7以上で装備できます。[-]=[FF7C4E,D62146]Equippable at RANK 7.[-]
+キャラのRANKが7以上で装備できます。=Equipable at RANK 7.
+[FF7C4E,D62146]キャラのRANKが7以上で装備できます。[-]=[FF7C4E,D62146]Equipable at RANK 7.[-]
 
 このキャラの★6は今後登場予定です。=This character's 6★ ascension \nwill be introduced at a later date.
 パーティ情報がありません。=There is no party information.
-[FF7C4E,D62146]専用装備グロウスフィアを使用できます。[-]=[FF7C4E,D62146]UE Growsphear can be used.[-]
+[FF7C4E,D62146]専用装備グロウスフィアを使用できます。[-]=[FF7C4E,D62146]UE Growsphere can be used.[-]
 
 アイテム入手方法=How To Get Items
 ★6解放クエストに必要なアイテムの一部をセットします。よろしいですか？=Fuse some of the items required for unlock ★6 quest. Is it OK? 
@@ -183,7 +183,7 @@ EXスキルスロット=EX skill slot
 すでにセットしています。=It's already placed
 必要なメモリーピースの上限に達しています。=Required the number of Memory Shards reached.
 
-===Recomended Enhancement
+===Recommended Enhancement
 おすすめ強化メニュー=Recommended Enhancements
 装備強化=Refine
 装備強化でステータスアップ！=Refine items to boost their stats!
@@ -215,7 +215,7 @@ r:"^(\d+)文字以上(\d+)文字以下で入力してください。$"=Please en
 おまかせ強化します。よろしいですか？=Use the following items to enhance\ncharacter as recommended?
 RANKボーナス詳細=RANK Bonus Details
 RANKボーナス詳細のステータス=Status Details
-下のアイテムを装備してランクアップしますか？=Raise rank by equipping thge\nfollowing items?
+下のアイテムを装備してランクアップしますか？=Raise rank by equipping the\nfollowing items?
 
 消費なし=free
 
@@ -289,6 +289,6 @@ RANKボーナス詳細のステータス=Status Details
 
 キャラは、最大★６まで才能開花できます。★５まで才能開花すると、ＥＸスキルがＥＸスキル＋となり、さらにパワーアップしますよ。=Characters can be ascended up to ★6.\nReaching ★5 will transform the character's EX skill to an EX skill+, making them even more powerful.
 
-専用装備を装備したら、★6才能開花に必要なアイテムを集めましょう。「ピュアメモリーピース」はメインクエストのVERY HARD、「プリンセスオーブ」は神殿調査から入手できますよ。=After equiping their UE, gather the necessary items to upgrade a character to ★6. Pure Memory Shards can be obtained from VH stage, and Princess Orbs from Tample Trek.
+専用装備を装備したら、★6才能開花に必要なアイテムを集めましょう。「ピュアメモリーピース」はメインクエストのVERY HARD、「プリンセスオーブ」は神殿調査から入手できますよ。=After equipping their UE, gather the necessary items to upgrade a character to ★6. Pure Memory Shards can be obtained from VH stage, and Princess Orbs from Temple Trek.
 
-最後に、解放クエストをクリアすると才能開花ができます。ステータスに加え、ユニオンバーストもパワーアップしますよ。みなさまの真の力の解放を目指して頑張りましょう。=Finally, must complete the character's Ascension Quest. If you succed, both their stats and their UB will be upgraded. Please do your best to unlock our friend's true power.
+最後に、解放クエストをクリアすると才能開花ができます。ステータスに加え、ユニオンバーストもパワーアップしますよ。みなさまの真の力の解放を目指して頑張りましょう。=Finally, must complete the character's Ascension Quest. If you succeed, both their stats and their UB will be upgraded. Please do your best to unlock our friend's true power.

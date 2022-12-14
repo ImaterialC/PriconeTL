@@ -10,7 +10,7 @@
 Please use at your own risk!!!  We are not responsible for any actions taken towards your account if you use this translation tool.
 ## WARNING!!!
 
-## INSTALING ON DESKTOP
+## INSTALLING ON DESKTOP
 1. has installed Pricone:ReDive on [DMM](http://www.dmm.com/netgame/top/guide/playerguide_html/=/ch_navi=/)
 2. get the newest file at patch-update channel
 3. go to the installed folder of pricone.

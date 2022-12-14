@@ -24,7 +24,7 @@ sr:"^編成(\d+)$"=Preset $1
 
 クリア確認=Delete Party
 下記のパーティ情報をクリアしますか？=Delete the following party?
-[FF7C4E,D62146]一度クリアするとパーティ情報はもとに戻りません。[-]=[FF7C4E,D62146]Party info is gone forver once deleted.[-]
+[FF7C4E,D62146]一度クリアするとパーティ情報はもとに戻りません。[-]=[FF7C4E,D62146]Party info is gone forever once deleted.[-]
 クリアする=Clear
 
 変更反映=Changes Saved

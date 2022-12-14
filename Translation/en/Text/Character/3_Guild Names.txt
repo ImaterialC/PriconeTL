@@ -16,8 +16,8 @@
 カォン=Caon
 メルクリウス財団=Mercurius Foundation
 トワイライトキャラバン=Twilight Caravan
-ヴァイスフリューゲル　ランドソル支部=Weissflügel Landsol Branch
-ヴァイスフリューゲル ランドソル支部=Weissflügel Landsol Branch
+ヴァイスフリューゲル　ランドソル支部=Weissflügel Landosol Branch
+ヴァイスフリューゲル ランドソル支部=Weissflügel Landosol Branch
 ルーセント学院=Lucent Academy
 聖テレサ女学院（なかよし部）=Friendship Club
 ニュージェネレーションズ=New Generations
@@ -25,6 +25,6 @@
 自警団ーカォンー=Self-Council
 牧場ーエリザベスパークー=Elizabeth Park
 エリザベスパーク=Elizabeth Park
-ヴァイスフリューゲル\nランドソル支部=Weissflügel\n(Landsol Branch)
+ヴァイスフリューゲル\nランドソル支部=Weissflügel\n(Landosol Branch)
 ヴァイスフリューゲル=Weissflügel
 レイジ・レギオン=Rage Legion

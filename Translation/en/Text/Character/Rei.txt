@@ -12,7 +12,7 @@
 ===Skills+
 ===UB
 スラッシュテンペスト=Slash tempest
-目の前の敵１キャラに物理特大ダメージを与え、さらに風の刃を纏う。纏っている間、スキルの効果値が２倍になる。=Deals masive P.DMG to an enemy directly in front, and applies a Wind Blade. While wearing it, the effect value of the skill is doubled.
+目の前の敵１キャラに物理特大ダメージを与え、さらに風の刃を纏う。纏っている間、スキルの効果値が２倍になる。=Deals massive P.DMG to an enemy directly in front, and applies a Wind Blade. While wearing it, the effect value of the skill is doubled.
 r:"^敵単体に(\d+)の物理ダメージ\n一定時間風の刃を纏う$"=Deals $1 P.DMG to an enemy.\nApplies a Wind Blade for 18s.
 ===S1
 目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。=Deals moderate P.DMG to an enemy directly in front and lowers its P.DEF by a small amount.
