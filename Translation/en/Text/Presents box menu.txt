@@ -11,7 +11,7 @@
 [FF7C4E,D62146]受け取れるアイテムがありません。[-]=[FF7C4E,D62146]There are no items.[-]
 [FF7C4E,D62146]受け取ったアイテムはありません。[-]=[FF7C4E,D62146]There are no items.[-]
 
-以下のプレゼントをまとめて受け取りますか？=Whould you like to accept all of the following presents?
+以下のプレゼントをまとめて受け取りますか？=Would you like to accept all of the following presents?
 プレゼント受け取り=Receive Present
 報酬はプレゼントに送られました。=Reward have been sent to the Present Box.
 所持上限を超えたアイテムはプレゼントに送られました。=Items that exceed the possession limit have been sent as gifts.

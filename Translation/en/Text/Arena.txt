@@ -73,10 +73,10 @@ r:"^\[3C404E\](\d)勝(\d)敗\[-\]$"="[3C404E]win:$1 lose:$2[-]"
 r:"^\[3B3F4D\]ランキングが\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3B3F4D\]位アップし、\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3B3F4D\]位になりました。\[-\]$"=[3B3F4D]Climb [FFBB00,CE4F00]$1[-] rank, Current Rank: [FFBB00,CE4F00]$2[-].[-]
 プリンセスアリーナではオートのみになります。=Princess Arena only can auto.
 
-[FF7C4E,D62146]ランキング変動なし、スキップ不可のバトルです。[-]=[FF7C4E,D62146]This is a non-skipable battle, no change in ranking.[-]
+[FF7C4E,D62146]ランキング変動なし、スキップ不可のバトルです。[-]=[FF7C4E,D62146]This is a non-skippable battle, no change in ranking.[-]
 3パーティの総戦力=3Party Total Power
 
-[FF7C4E,D62146]相手または自分が50位以内のためスキップ不可です。[-]=[FF7C4E,D62146]Only chalange rank under 50 can skip.
+[FF7C4E,D62146]相手または自分が50位以内のためスキップ不可です。[-]=[FF7C4E,D62146]Only challenge rank under 50 can skip.
 [3C404E]クールタイム中です。\n解除しますか？[-]=[3C404E]During Cooldown.\nDo you want to reset cooldown?[-]
 [FF7C4E,D62146]メッセージは必須ではありません。[-]=[FF7C4E,D62146]Message is not mandatory.[-]
 ※80文字以下=※80 characters or less
@@ -109,6 +109,6 @@ r:"^\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]回の防衛に成功！報酬はプレ
 sr:"^対戦相手のランキングが(\d+位)に変更されました。\n勝利してもランキングは変わりません。\n対戦しますか？$"=The opponent's ranking has been changed to $1 place. The ranking does not change even if you win.\nDo you want to play?
 
 ===NPC Help===
-対戦相手に勝利すると、対戦相手と順位が入れ替わります。\n対戦相手は、自分と同等の強さか、格上の相手が登場します。\nランキングを上げてアリーナコインやジュエルを獲得しましょう。=Defeat an opponent and you will take their place in the rankings. You will face opponents of similiar or higher rank than your own. Work your way up the ranking, and win Arena Coins and Jewels!
+対戦相手に勝利すると、対戦相手と順位が入れ替わります。\n対戦相手は、自分と同等の強さか、格上の相手が登場します。\nランキングを上げてアリーナコインやジュエルを獲得しましょう。=Defeat an opponent and you will take their place in the rankings. You will face opponents of similar or higher rank than your own. Work your way up the ranking, and win Arena Coins and Jewels!
 
 最大15キャラ対15キャラのバトルです。\nバトルを勝ち抜いて、ランキングの頂点を目指しましょう。\n上位ランクインするほど、Pアリーナコインが多く手に入ります。=Princess Arena Battles are fought between teams of up to 15 characters each. Keep winning battles to climb to the top of the rankings. At higher 

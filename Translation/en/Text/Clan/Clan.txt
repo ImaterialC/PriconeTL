@@ -2,7 +2,7 @@
 サポートキャラを設定\\nできます=Set up Rent-Chara
 対象クエスト一覧=Available Quest List:
 対象のクエストは以下のものとなります。=The Available Quests that can\nuse Rent-Chara are as follows.
-メインクエスト(NORMAL)\nメインクエスト(HARD)\nメインクエスト(VERYHARD)\n探索経験値クエスト\n探索マナクエスト\n聖跡調査\n神殿調査\nイベントクエスト(NORMAL)\nイベントクエスト(HARD)\nサイドストーリークエスト(NORMAL)\nサイドストーリークエスト(HARD)=Main Quest (NORMAL)\nMain Quest (HARD)\nMain Quest (VERYHARD)\nGroto EXP\nGroto Mana\nSanctum Survey\nTemple Trek\nEvent Quest (NORMAL)\nEvent Quest (HARD)\nSide Story Quest (NORMAL)\nSide Story Quest (HARD)\n
+メインクエスト(NORMAL)\nメインクエスト(HARD)\nメインクエスト(VERYHARD)\n探索経験値クエスト\n探索マナクエスト\n聖跡調査\n神殿調査\nイベントクエスト(NORMAL)\nイベントクエスト(HARD)\nサイドストーリークエスト(NORMAL)\nサイドストーリークエスト(HARD)=Main Quest (NORMAL)\nMain Quest (HARD)\nMain Quest (VERYHARD)\nGrotto EXP\nGrotto Mana\nSanctum Survey\nTemple Trek\nEvent Quest (NORMAL)\nEvent Quest (HARD)\nSide Story Quest (NORMAL)\nSide Story Quest (HARD)\n
 
 r:"^\-(\d+)日-(\d+)時間-(\d+)分$"=-$1d-$2h-$3m
 r:"^トレーニングログ保存件数 ([0-9/]+)$"=Saved training logs: 6/30
@@ -25,7 +25,7 @@ r:"^\[FFBB00\,CE4F00\](\d+)日前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1d ago[-
 r:"^\[FFBB00\,CE4F00\](\d+)時間前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1h ago[-]
 r:"^\[FFBB00\,CE4F00\](\d+)分前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1m ago[-]
 
-===Liked for stamnina
+===Liked for stamina
 sr:"^(\[.*\])(.{1,10})さんにいいねをして\nスタミナを10獲得しました。\[-\]$"=$1You Liked $2-san\nand you got 10 stamina.[-]
 
 r:"^\[3C404E\]\[3C404E\]クランメンバーに\[FFBB00,CE4F00\](\d+)\[-\]回いいねされて、\nマナ×\[FFBB00,CE4F00\](\d+)\[-\]を獲得しました。\[-\]\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Clan Member liked you,\nReceive Mana × [FFBB00,CE4F00]$2[-][-]
@@ -156,7 +156,7 @@ r:"^\[3C404E\]オーバーキルが発生したため\nモンスターの実際�
 ===Windows popup
 sr:"^(\d+月)クランバトル開始！！$"=CB-$1 has Started!
 r:"^期間 ([0-9/ :]+)～([0-9/ :]+)$"=Start $1\nEnd $2
-クランメンバーと協力して\n強力なモンスターを討伐しよう！=Become a sleve of metas or kicked from clan!\nAll your gacha results was paid-off at here.\nGo fort Whales! Go fort Carriers! Aim to the top and flexing your precision finger at SNS!\nThe real fun has just begun
+クランメンバーと協力して\n強力なモンスターを討伐しよう！=Become a slave of metas or kicked from clan!\nAll your gacha results was paid-off at here.\nGo fort Whales! Go fort Carriers! Aim to the top and flexing your precision finger at SNS!\nThe real fun has just begun
 
 [FFBB00,CE4F00]解放期間:[-]=[FFBB00,CE4F00]Period:[-]
 sr:"^\[FF7C4E,D62146\]ボスの強さは、(\d+月)クランバトル（クランモード）と同じです。\[-\]$"=[FF7C4E,D62146]The boss's strength was same as the CB ($1).[-]
@@ -236,7 +236,7 @@ sr:"^(\d+月)(\d+)日(\d{2})時(\d{2})分$"=$1 $2, $3:$4
 Lv制限=Lv Limit
 [FF7C4E,D62146]バトルログがありません。[-]=[FF7C4E,D62146]There is no battle log.[-]
 このままバトルを開始しますか？=Do you want to start the battle as it is?
-模擬戦の結果はスコアランキングに影響しません。=Taining battle does not affect the score ranking
+模擬戦の結果はスコアランキングに影響しません。=Training battle does not affect the score ranking
 編成メンバーが5キャラ未満です。=Less than 5 characters in Party.
 
 本日のCP獲得上限に達しています。=You have reached the CP acquisition limit for today.
@@ -320,7 +320,7 @@ r:"^(\d)戦目\n本戦参加済$"=Used at\nParty $1
 パーティ情報がまだありません。しばらくして再度ご確認ください。=There are no party information, please check back later.
 [FF7C4E,D62146]表示されている編成は、すべてAUTO・SMART設定で挑戦した編成です。[-]=[FF7C4E,D62146]All of the parties shown were played with AUTO and SMART settings.[-]
 
-===recomended party
+===recommended party
 上級=Advanced
 中級=Intermediate
 初級=Beginner
@@ -413,9 +413,9 @@ sr:"^\[25CFDE,0E6C98\](\d+月)クランバトル\[-\]$"=[25CFDE,0E6C98]$1 Clan B
 『クランモード』はクランメンバーとボスに挑戦し他クランとランキング\nを競います。『シングルモード』は個々にボスと戦い討伐数に応じた報酬\nを獲得できます。クランリーダー、サブリーダーがモード選択できます。=In Clan Mode, all clan members cooperate to defeat bosses and compete with other clans. In Solo Mode, each member fights separately and earns their own rewards. Clan leaders and sub leaders can change this setting.
 
 
-『クランモード』はクランメンバーとボスに挑みランキングを競います。『シングルモード』は個々に挑み、討伐数に応じた報酬を獲得できます。\nクエストや調査で勝利し、CPを貯めることでボスに挑戦できますよ。=In Clan Mode, all clan members defeat bosses together and compete in clan rangkings. In Solo Mode, each member defeats bosses individually. You can earn Clan Battle attempts by completing quest and earning CP
+『クランモード』はクランメンバーとボスに挑みランキングを競います。『シングルモード』は個々に挑み、討伐数に応じた報酬を獲得できます。\nクエストや調査で勝利し、CPを貯めることでボスに挑戦できますよ。=In Clan Mode, all clan members defeat bosses together and compete in clan rankings. In Solo Mode, each member defeats bosses individually. You can earn Clan Battle attempts by completing quest and earning CP
 『クランモード』の主な報酬は、メンバー全員に贈られます。『シングルモード』では、個人の達成度に応じて個人ごとに贈られます。パーティ編成を試行錯誤しながら、強敵とのバトルに挑みましょう。=In, Clan Mode, the primary rewards are sent equally to all clan members. In Solo Mode, each member's rewards depend on their own progress. Do your best to assemble strong parties to defeat these powerful foes.
-装備をクランのメンバー同士で贈りあいましょう。\n一部の装備は、装備リクエストできないのでご注意ください。=Be sure to gift equipment to yourfellow clan members.\n Please note that some equipment cannot be requested.
+装備をクランのメンバー同士で贈りあいましょう。\n一部の装備は、装備リクエストできないのでご注意ください。=Be sure to gift equipment to your fellow clan members.\n Please note that some equipment cannot be requested.
 次回クランバトル開催までお待ちください。=Please wait until the next Clan Battle begin.
  こちらではクランバトルに\n 参加された仲間のみなさんの\n 活躍を振り返ることができます=Here you can look back at the activities of friends who participated in the clan battle.
 主さま、今回のクランバトルでの\nご活躍が記録されています\nバトルの参考にいたしましょう=My lord, your activities in this Clan Battle have been recorded you can now review them for future battles.

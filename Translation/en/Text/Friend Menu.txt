@@ -63,7 +63,7 @@ r:"^プレイヤーLv:([0-9～ ]+)$"=Player Lv: $1
 [3C404E]サポートを終了して、報酬を受け取りますか？[-]=[3C404E]Do you want end your rental and receive rewards?[-]
 サポート回数報酬=Rental number of used
 サポート時間報酬=Rental time-up reward
-サポートキャラ=Rantaling Character
+サポートキャラ=Rental Character
 自分とバトル=Battle Yourself
 バトル編成=Battle Formation
 設定後30分間はサポートを終了できません。=After set a rental. You cannot terminate for 30 minutes.
@@ -107,12 +107,12 @@ r:"^\[3C404E\](.{1,10})への\nフレンド申請を取り消しました。\[-\
 フレンド申請取り消し完了=Friend Application Cancellation Completed
 ===NPC===
 こちらがフレンドの\n皆さんです\n素敵な関係を\n築いてくださいね！=This is your friends list, let's build a wonderful relationship!
-主さま、フレンドを作りましょう。フレンドからはクエストにてサポートキャラをレンタルすることができますよ。=My lord, the time is ripe for making friends.\nOnce you register a friend, you will be able to call on their characters for suppport in various quests.
+主さま、フレンドを作りましょう。フレンドからはクエストにてサポートキャラをレンタルすることができますよ。=My lord, the time is ripe for making friends.\nOnce you register a friend, you will be able to call on their characters for support in various quests.
 サポートキャラを設定してフレンドの方々をお助けいたしましょう。また、サポートを設定すると主さまもマナを獲得できますよ。=You can set support characters to aid your friend in battle.\nYou will also earn Mana for providing this service.
 主さま、こちらでサポートキャラの設定ができますよ。\n設定してクランのメンバーやフレンドの方々をお助けいたしましょう。\nまた、サポートを設定すると主さまもマナを獲得できます。=Let's set a support character and help your friends.\nAlso, if you set support, you can also get mana.
 ギルド管理協会です\nフレンドに関しては\nこちらでご確認ください=This is the Guild Management Association. Check here for friends.
 こちらの一覧で\nフレンドのプロフィールを\n確認できますよ=You can see your friend's profile in this list.
 気になるパーティと\nバトルをしてみましょう！\nどちらが勝利するのか、\n私も楽しみにしていますね=Let's battle with the\nFriend's party! I'm looking forward\nto seeing which one will win.
-フレンドやクランメンバーと手合わせをいたしましょう。また、自分で編成したパーティと対戦することも可能です。主さまの鍛錬の成果、楽しみにしております。=Let us spar with our friends and clan members in battle, my lord.\nIlook forward to witnessing your strategic powess.
+フレンドやクランメンバーと手合わせをいたしましょう。また、自分で編成したパーティと対戦することも可能です。主さまの鍛錬の成果、楽しみにしております。=Let us spar with our friends and clan members in battle, my lord.\nI am looking forward to witnessing your strategic prowess.
 クランのチャットへフレンドバトルのパーティを投稿できるようです。主さまのご自慢のパーティをお披露目してくださいませ。=It seems you can post your Friend Battle parties to your clan chat.\nPlease take this opportunity to show off your most remarkable teams.
 フレンド管理は\nこちらになります\n新しいフレンドとの出会いを\n楽しんでくださいね！=Friend management will be here.\nEnjoy meeting new friends!

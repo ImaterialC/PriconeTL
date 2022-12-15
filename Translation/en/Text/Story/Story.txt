@@ -2,7 +2,7 @@
 ス=S
 インストーリー=ain Stories
 追加ストーリー情報=Sub Story Information
-[3C404E]未読の[FFBB00,CE4F00]メインストーリー[-]があります。\nストーリーを読んで報酬を獲得しましょう。[-]=[3C404E]Unreaded [FFBB00,CE4F00]Main Story[-].\nRead the story and earn a reward.[-]
+[3C404E]未読の[FFBB00,CE4F00]メインストーリー[-]があります。\nストーリーを読んで報酬を獲得しましょう。[-]=[3C404E]Unread [FFBB00,CE4F00]Main Story[-].\nRead the story and earn a reward.[-]
 未読ストーリー=Unread Story
 再生する場合、ボイスデータをダウンロードします。=if you want character voices, then voice data will be downloaded.
 ボイスデータは、アプリ起動時に削除されます。=Voice data is deleted when the app is launched.
@@ -44,7 +44,7 @@ sr:"(.+)が\n?解放可能になりました。$"=$1\nhas been unlocked.
 ャラクターストーリー=Character Story
 絆ランクUPで\n新しい物語が\n追加されます=Increasing Bond Level will add new stories.
 
-現在公開されているストーリーはここまでです。=No further story is currenly available
+現在公開されているストーリーはここまでです。=No further story is currently available
 
 閲覧するストーリーを選択してください。=Select the story to view.
 リーナ=Arena
@@ -57,9 +57,9 @@ sr:"(.+)が\n?解放可能になりました。$"=$1\nhas been unlocked.
 ストーリー紹介=Story Introduction
 ストーリー一覧=Story List
 ===NPC===
-解放したコンテンツにまつわるストーリーを見られます。\n冒険の途中で出会った、ちょっと特別な物語を振り返ってみましょう。=Watch stories about content you have unlocked\n and gain slightly different perspective of events from your advantures.
+解放したコンテンツにまつわるストーリーを見られます。\n冒険の途中で出会った、ちょっと特別な物語を振り返ってみましょう。=Watch stories about content you have unlocked\n and gain slightly different perspective of events from your adventures.
 各ギルドのストーリーを見られます。\nギルドストーリーは、ギルドに所属するキャラを１人以上仲間にし、\nギルドメンバーの絆ランク合計を、一定以上にすると解放されます。=Experience the stories of each guild.\nNew episodes unlock as you recruit characters belonging to that guild and reach a certain bond level total with its members.
-各キャラの専用ストーリーを見られます。絆ランクアップで、新しいストーリーが解放されます。ストーリーの中には、見ることでステータスアップするものもあります。=Watch stories unique to each character.\nNew episodes will be unlocked as bond level rises.\nViewingsome episodes will give stat boost bonuses.
+各キャラの専用ストーリーを見られます。絆ランクアップで、新しいストーリーが解放されます。ストーリーの中には、見ることでステータスアップするものもあります。=Watch stories unique to each character.\nNew episodes will be unlocked as bond level rises.\nViewing some episodes will give stat boost bonuses.
 メインクエストの名場面を、振り返ることができます。それぞれのストーリー初回閲覧で、ジュエルがもらえます。=View various scenes from the Main Quest.\nJewels will be awarded the first time you view each episode.
 キャラ専用装備はみなさまの秘められた力を解放して、さらにスキルもパワーアップするようです。主さま、さっそく必要なアイテムを探しに行きましょう。=Unique Equipment unlocks each of our hidden potentials, making our skills even more powerful.\nLet us go search for necessary items at once, my lord.
 ===Character===
@@ -81,6 +81,6 @@ r:"^第(\d+)話ステータスアップボーナス$"=Episode $1 Stats Boost Bon
 
 sr:"^([^ ]+) 第(\d+)話$"=$1 Episode $2
 連続で閲覧できるストーリーがあります。=There is next story that can be viewed.
-連続ストーリー閲覧確認=Confirmation of Maraton Story Viewing
+連続ストーリー閲覧確認=Confirmation of Marathon Story Viewing
 
 ロード画面で表示された１コマ漫画を確認できます。=You can check the one-panel manga displayed on the Load Screen.

@@ -18,4 +18,4 @@ r:"^自分の物理攻撃力を(\d+)アップ\n自分の行動速度アップ$"=
 ===ex
 ホーリーナイトスラッガー+=Holy Night Slugger+
 ===UE
-クリスマス王ぷうきち=Christmas King Poukichi
+クリスマス王ぷうきち=Christmas King Pukichi

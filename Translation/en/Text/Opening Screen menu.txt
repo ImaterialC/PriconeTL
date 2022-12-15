@@ -22,7 +22,7 @@
 連携パスワード=Link Password
 
 ===Data Repair===
-[3C404E]データ修復を行うと動作が軽くなることがあります。\nプレイ中のゲームデータは削除されません。\n\nデータ修復を行う際\nタイトルに戻り、再度データをダウンロードします。\nタイトルに戻るまでに時間がかかる場合がございます。\nアプリを強制終了させないように、ご注意ください。\nまた、通信状況により、データダウンロードに\n時間がかかる場合があります。\n\nデータ修復を行いますか？[-]=[3C404E]Data repair may make the operation lighter.\nThe game data being played will not be deleted.\nWhen repairing data, Game will return to title and download data again.\nPlease be careful not to kill the app.\nIt may take some time to return to the title.\nIn addition, it may take some time to download the data depending on conection status.\n\nDo you want to repair the data?[-]
+[3C404E]データ修復を行うと動作が軽くなることがあります。\nプレイ中のゲームデータは削除されません。\n\nデータ修復を行う際\nタイトルに戻り、再度データをダウンロードします。\nタイトルに戻るまでに時間がかかる場合がございます。\nアプリを強制終了させないように、ご注意ください。\nまた、通信状況により、データダウンロードに\n時間がかかる場合があります。\n\nデータ修復を行いますか？[-]=[3C404E]Data repair may make the operation lighter.\nThe game data being played will not be deleted.\nWhen repairing data, Game will return to title and download data again.\nPlease be careful not to kill the app.\nIt may take some time to return to the title.\nIn addition, it may take some time to download the data depending on connection status.\n\nDo you want to repair the data?[-]
 ===inquiry form===
 お問い合わせフォームを開きます。よろしいですか？=Open the inquiry form. Is this OK?
 問い合わせる=Inquire

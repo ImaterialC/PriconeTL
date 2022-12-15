@@ -8,13 +8,13 @@
 屋内でできる遊び=Indoor Activities
 
 ===Skills
-ぷうきちサイクロンアーチ=Puukichi Cyclone Arch 
-ぷうきちフルスイング=Puukichi Full Swing
+ぷうきちサイクロンアーチ=Pukichi Cyclone Arch 
+ぷうきちフルスイング=Pukichi Full Swing
 プリティスラッガー=Pretty Slugger
 プリティスラッガー+=Pretty Slugger+
 
 ===UB (6 star)
-前方範囲内の敵すべてに物理特大ダメージを与え、さらに大きく吹き飛ばしてスタンさせる。=Deals Masive P.DMG to all the enemies within the front range, inflicts Stun, and knocks it back a large distance.
+前方範囲内の敵すべてに物理特大ダメージを与え、さらに大きく吹き飛ばしてスタンさせる。=Deals Massive P.DMG to all the enemies within the front range, inflicts Stun, and knocks it back a large distance.
 
 ===UB 
 目の前の敵１キャラに物理大ダメージを与え、さらに大きく吹き飛ばしてスタンさせる。=Deals large P.DMG to an enemy directly in front, inflicts Stun, and knocks it back a large distance.
@@ -39,15 +39,15 @@ r:"^自分の物理攻撃力を(\d+)アップ\n自分の魔法防御力を(\d+)�
 
 ===Story
 
-アヤネとぷうきち=Ayane and Puukichi
+アヤネとぷうきち=Ayane and Pukichi
 家族のためなら怖くない=I'm Not Scared If It’s For Family
 いつか守れるように=So I Can Protect Them Someday
-ぷうきちフルスイング誕生=Birth of the Puukichi Full Swing
+ぷうきちフルスイング誕生=Birth of the Pukichi Full Swing
 小さなわがまま=A Little Selfish
 ずっとほしかったもの=What I Always Wanted
 『つくりもの』の家族=Fake Family
-ぷうきち一家大集合=Puukichi’s Family Reunion
-ぷうきちミッシング=Poukichi Missing
+ぷうきち一家大集合=Pukichi’s Family Reunion
+ぷうきちミッシング=Pukichi Missing
 『ほんとう』の家族="Real" family
 あふれる想いは突然に=The overflowing feeling suddenly
 私だけの本当の気持ち=My true feelings

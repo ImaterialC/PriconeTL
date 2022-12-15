@@ -6,4 +6,4 @@
 
 ドMうっとりヒートアップ=Do M Enchanted Heat Up
 
-r:"^ランドソル近郊([0-9\-\(\)\w （）]*)$"=Near Landsol $1
+r:"^ランドソル近郊([0-9\-\(\)\w （）]*)$"=Near Landosol $1

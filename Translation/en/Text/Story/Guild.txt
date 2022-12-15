@@ -5,4 +5,4 @@
 ギルド紹介=Guild info
 ギルドメンバー確認=Guild Member List
 
-===Bisokuden
+===Bishokuden
