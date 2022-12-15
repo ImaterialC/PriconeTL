@@ -1,6 +1,6 @@
 スフィア=Sphere
 注意事項=Details
-所持グロウスフィア一覧=Growsphere in Possesion
+所持グロウスフィア一覧=Growsphere in Possession
 選択中のグロウスフィアの効果=Selected Growsphere Effect
 各Lv=Into LV
 現在の無料分=Current free minutes

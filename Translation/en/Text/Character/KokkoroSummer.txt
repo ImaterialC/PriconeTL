@@ -11,7 +11,7 @@
 ===UB
 オーシャンサンクチュアリ=Ocean Sanctuary
 
-最もＨＰが低い味方１キャラのＨＰを特大回復させる。さらに味方全体のＨＰを中回復し、物理攻撃力を特大アップ、ＴＰ上昇を小アップさせ、物理攻撃クリティカル時のダメージを中アップさせる。さらに敵全体の物理防御力を小ダウンさせる。=Recovers the lowest HP's ally by a large amount and recovers all allies HP by a moderate amount and boost allies P.ATK by a masive amount, boost allies P.Crit DMG by a moderate amount and raise allies TP boost by small amount. Also reduce all enemies P.DEF by small amount.
+最もＨＰが低い味方１キャラのＨＰを特大回復させる。さらに味方全体のＨＰを中回復し、物理攻撃力を特大アップ、ＴＰ上昇を小アップさせ、物理攻撃クリティカル時のダメージを中アップさせる。さらに敵全体の物理防御力を小ダウンさせる。=Recovers the lowest HP's ally by a large amount and recovers all allies HP by a moderate amount and boost allies P.ATK by a massive amount, boost allies P.Crit DMG by a moderate amount and raise allies TP boost by small amount. Also reduce all enemies P.DEF by small amount.
 r:"^味方単体のＨＰを(\d+)回復\n味方全体のＨＰを(\d+)回復\n味方全体の物理攻撃力を(\d+)アップ\n味方全体のＴＰ上昇を10アップ\n味方全体の物理攻撃クリティカル時のダメージを20％アップ\n敵全体の物理防御力を(\d+)ダウン$"=Recovers an ally's HP by $1.\nRecovers all allies HP by $2.\nBoosts all allies' P.ATK by $3.\nRaise all allies' TP boost by 10.\nBoosts all allies' P.Crit DMG by 20%.\nLowers all enemies' P.DEF by $4.
 ===S1
 目の前の敵１キャラに物理小ダメージを与え、さらに物理防御力を大ダウンさせる。=Deals small P.DMG to an enemy directly in front and lowers their P.DEF by a large amount.

@@ -2,7 +2,7 @@
 世界征服=World Domination
 かつては夜を支配した最強の吸血鬼=A legendary vampire who once ruled over the night
 
-【魔法】中衛で命を削り攻撃する「夜を統べる者」。自身のＨＰと引き換えに放つスキルは高い殲滅力を誇り範囲攻撃における威力では他の追随を許さない。=[Magic] The Ruler of the Night who siphons enemies' life from the midguard. She possesses skills that trade her own HP for massively destructive area attacks that deal peerles damage.
+【魔法】中衛で命を削り攻撃する「夜を統べる者」。自身のＨＰと引き換えに放つスキルは高い殲滅力を誇り範囲攻撃における威力では他の追随を許さない。=[Magic] The Ruler of the Night who siphons enemies' life from the midguard. She possesses skills that trade her own HP for massively destructive area attacks that deal peerless damage.
 
 ===Story
 夜を統べる者の最期？=An Inglorious End?
@@ -17,7 +17,7 @@
 ===UB
 ヴァーミリオンバイト=Vermilion Bite
 
-r:"^範囲内の敵に(\d+)の魔法ダメージ\n自分のＨＰを(\d+)回復$"=Shift to the nearest enemy target and return to original postion after skill ends.\nDeals $1 M.DMG to enemies in Frontline (Range 250).\nRecovers own HP by $2.
+r:"^範囲内の敵に(\d+)の魔法ダメージ\n自分のＨＰを(\d+)回復$"=Shift to the nearest enemy target and return to original position after skill ends.\nDeals $1 M.DMG to enemies in Frontline (Range 250).\nRecovers own HP by $2.
 最も近くの敵１キャラを中心とした範囲内の敵すべてに魔法大ダメージ\nを与え、さらに自分のＨＰを中回復させる。=Deals large M.DMG to all enemies in range and recovers own HP by moderate amount.
 
 ヴァーミリオンエンプレス=Vermilion Empress

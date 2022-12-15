@@ -7,7 +7,7 @@
 イラスト一覧=Illustration list
 ギルドハウス遷移時に演出を再生するか\nメニューから設定を変更できます。=You can replay the scene at the guild house\nor change the setting from the menu.
 カレンダーストーリーをスキップしますか？=Do you skip calendar stories?
-『みんなのカレンダー』では、毎日少しずつランドソルを囲む壁に\n壁画が描き足されていく様子を楽しむことができます。\n主さま、ご一緒にみなさまの活動を見届けましょう。="Everyone's calendar" can enjoy the way the mural will be drawn by the wall that surrounds the Landsol every day. Main, let's watch everyone's activities together.
+『みんなのカレンダー』では、毎日少しずつランドソルを囲む壁に\n壁画が描き足されていく様子を楽しむことができます。\n主さま、ご一緒にみなさまの活動を見届けましょう。="Everyone's calendar" can enjoy the way the mural will be drawn by the wall that surrounds the Landosol every day. Main, let's watch everyone's activities together.
 カレンダーから日付を選択して、過去の出来事を\n見返すこともできますよ。活動を振り返りたくなったときや、\n見逃してしまったときは、カレンダーを開いてくださいまし。=You can also select a date from the calendar and revert the past events. When you want to look back on the activities, or miss it, please open the calendar.
 カレンダーストーリー確認=Calendar Story Confirmation
 もう一度カレンダーストーリーを再生しますか？=Do you want to play the calendar story again?
@@ -213,7 +213,7 @@ r:"^(\d+)時間$"=$1h
 ===NPC===
 ギルドハウスの\n使い心地は\nどうですか？=How is the\nguild house\ncomfortable isn't it?
 ご用があれば\nなんでも言って\nくださいね～♪=Please tell me\nif you need\nsomething~♪
-ふぁ～…あっ\n見られちゃい\nましたか？=Ah...\nChould be\nyou see it?
+ふぁ～…あっ\n見られちゃい\nましたか？=Ah...\nCould be\nyou see it?
 
-好きな家具をレイアウトしてギルドハウスを充実させましょう。家具の中には、冒険に役立つアイテムを獲得できるものもありますよ。=Fill your Guildhouse with arrangements of your favorite furnishings.\nSome furniture may give you items that come handy on your advantures.
+好きな家具をレイアウトしてギルドハウスを充実させましょう。家具の中には、冒険に役立つアイテムを獲得できるものもありますよ。=Fill your Guildhouse with arrangements of your favorite furnishings.\nSome furniture may give you items that come handy on your adventures.
 ギルドハウスにいる女の子に、お菓子をプレゼントしてみましょう。たくさんプレゼントすると、絆ランクが上がりますよ。=Try giving sweets to girls in your Guildhouse.\n offer them lots to raise their bond level.

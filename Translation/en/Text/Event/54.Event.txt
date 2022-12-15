@@ -35,7 +35,7 @@ r:"^世界の果ての森([0-9\-\(\)\w （）]*)$"=Forest at the End of the Worl
 [3C404EFF]\nすっごく寂しくなってたら……=[3c404eff] If i am alone...
 [3C404EFF]お兄ちゃんは来てくれる？=[3c404eff] Will onii-chan come?
 
-ぷうきちと一緒に駆けつける。=Rush with Puukichi.
+ぷうきちと一緒に駆けつける。=Rush with Pukichi.
 離れていても気持ちはずっと一緒だよ。=Even if we are apart, our feelings are always together.
 必ず行くよ。=I will definitely go.
 

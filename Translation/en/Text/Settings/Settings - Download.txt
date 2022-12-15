@@ -9,4 +9,4 @@ r:"^標準版（約(\d+)MB）$"=Standard (±$1MB)
 フルボイスによるストーリーをお楽しみいただけます。※ON/OFF設定はゲーム開始後、再設定可能です。=Enjoy a full voice story. ※Can be turned ON/OFF later.
 r:"^ON（約(\d+)MB）$"=ON（±$1MB）
 r:"^約(\d+)MBのデータダウンロードを開始します。$"=Approximately $1MB of data will be downloaded.
-[FF7C4E,D62146]データサイズが大きいため通信環境の良いところでダウンロードを行ってください。[-]=[FF7C4E,D62146]Download size is subtantial, so downloading over Wi-Fi is recomended.[-]
+[FF7C4E,D62146]データサイズが大きいため通信環境の良いところでダウンロードを行ってください。[-]=[FF7C4E,D62146]Download size is substantial, so downloading over Wi-Fi is recommended.[-]

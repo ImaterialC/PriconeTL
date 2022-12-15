@@ -30,7 +30,7 @@
 （ワイルド）= (Wild)
 クリスティーナ=Christina
 ラビリスタ=Labyrista
-ペコリーヌ=Pekorine
+ペコリーヌ=Pecorine
 ぺコリーヌ=Pecorine
 クレジッタ=Creditta
 ヴァンピィ=Vampy

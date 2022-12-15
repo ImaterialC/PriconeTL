@@ -16,10 +16,10 @@ sr:"^オート進行で(メイン|イベント)クエスト(.+)まで進めた�
 イベントストーリー解放時にオート進行を停止するか設定します。=Set whether to stop the Auto Advance when the event story is released.
 イベントストーリー解放時のオート進行停止設定=Auto Advance Suspension Setting When the Event Story is Released
 
-オート進行を停止しますか？\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Do you want to stop the Auto Advance?\nTotal Stamina Consumtion during Auto Adv.\n※Stamina consumption at the time of retirement and lose is not included.
+オート進行を停止しますか？\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Do you want to stop the Auto Advance?\nTotal Stamina Consumption during Auto Adv.\n※Stamina consumption at the time of retirement and lose is not included.
 クエストクリア数=Cleared Quest
 オート進行停止=Auto Advance Suspension
-最終クエストのためオート進行を終了しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=The Auto Advance has ended for the final quest.\nTotal Stamina Consumtion during Auto Adv.\n※Stamina consumption at the time of retirement and lose is not included.
+最終クエストのためオート進行を終了しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=The Auto Advance has ended for the final quest.\nTotal Stamina Consumption during Auto Adv.\n※Stamina consumption at the time of retirement and lose is not included.
 オート進行終了=End of Auto Advance
 オート進行報酬一覧=List of Auto Advance Rewards
 [FF7C4E,D62146]所持上限を超えたアイテムはプレゼントに送られました。[-]=[FF7C4E,D62146]Items that exceed the upper limit of the possession\nhave been sent to the present. [-]

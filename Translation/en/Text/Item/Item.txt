@@ -31,7 +31,7 @@ EXPギガポーション=Giga EXP Potion
 
 r:"^EXPを (\d+) 獲得できる$"=Gain $1 EXP.
 r:"^キャラのLv強化に使用すると、キャラEXPが(\d+)加算される。$"=Used to upgrade a character's level. Adds $1 character EXP.
-r:"^ギルドハウス内で使用すると、キャラの絆Ptが(\d+)加算される。$"=Used in the Guildhouse. Adds $1 characterbond points.
+r:"^ギルドハウス内で使用すると、キャラの絆Ptが(\d+)加算される。$"=Used in the Guildhouse. Adds $1 character's bond points.
 r:"^キャラの装備強化に使用すると、装備強化Ptが(\d+)加算される。$"=Used to refine a character's equipment. Adds $1 equipment refinement points.
 
 クリアランク★3を獲得したクエス\nトの、プレイ時間をスキップするチケット。=A ticket that can skip quests that have a 3★ clear rank.

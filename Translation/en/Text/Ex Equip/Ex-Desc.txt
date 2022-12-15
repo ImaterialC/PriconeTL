@@ -34,7 +34,7 @@ Gold ----------------------------------------------------------
 虹色に輝く鉱石を、一流の職人が心血を注いで鍛え上げた剣。人々の絆を鋭さに変え、それを脅かそうとする全てを斬り払う力を持つ。=A sword crafted from a rainbow-ore by a best craftsman. It has the power to sharpen people's bonds and slash away anything that threatens them.
 
 【クラン】ブレイブオブグラップラー=[Clan] Brave of Grappler
-虹色に輝く鉱石を、一流の職人が心血を注いで加工した手甲。人々の絆の力によって強化された拳打は音よりも速く飛び、敵対者を打ち砕く。=A gauntlet crafted from a rainbow-ore by a best craftsman. Strengthened by the power of people's bonds, punche can faster than sound and crush opponents.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した手甲。人々の絆の力によって強化された拳打は音よりも速く飛び、敵対者を打ち砕く。=A gauntlet crafted from a rainbow-ore by a best craftsman. Strengthened by the power of people's bonds, punch can faster than sound and crush opponents.
 
 【クラン】ブレイブオブウォーリアー=[Clan] Brave of Warrior
 虹色に輝く鉱石を、一流の職人が心血を注いで加工した大斧。人々の絆の力によって苛烈な攻撃が可能となり、悪意ある者を粉砕する。=A large ax crafted from a rainbow ore by a best craftsman. The power of people's ties enables a fierce attack, crushing those with bad intentions.

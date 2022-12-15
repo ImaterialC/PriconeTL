@@ -46,7 +46,7 @@ r:"^現在、スキップチケットの消費枚数が\n(\d+)枚に設定され
 報酬=Reward
 モンスター=Monsters
 獲得アイテム=Items Earned
-フレンド以外のサポートキャラは、\nステータスが補正されている場合があります。=Rantal characters other than friends\nmay have their status corrected.
+フレンド以外のサポートキャラは、\nステータスが補正されている場合があります。=Rental characters other than friends\nmay have their status corrected.
 設定できるサポートキャラがいません。=No rental character can be set.
 消費したスタミナはマスターコインに変換されました。=The consumed stamina was converted to Master Coin.
 Lv上限に達した状態で消費したスタミナは\nマスターコインに変換されます。=The consumed stamina was converted to Master Coin.

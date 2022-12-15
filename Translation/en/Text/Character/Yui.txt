@@ -3,7 +3,7 @@ Yui
 
 戦闘のサポートが得意な、心優しい少女=A kind girl who excels at combat support
 料理、人間観察=Cooking, People watching
-【魔法】最後衛から、味方の回復と補助を行う魔法士。打たれ弱いが高い魔法攻撃力を持ち、ランクを上げると攻撃も補助もバランスよくこなせるようになる。=[Magic] A mahe who heals and supports her allies from the RG. Though lacking in DEF, she boasts hi-ATK. Allowing her to provide both support and firepower at higher ranks.
+【魔法】最後衛から、味方の回復と補助を行う魔法士。打たれ弱いが高い魔法攻撃力を持ち、ランクを上げると攻撃も補助もバランスよくこなせるようになる。=[Magic] A maho which heals and supports her allies from the RG. Though lacking in DEF, she boasts hi-ATK. Allowing her to provide both support and firepower at higher ranks.
 
 いつか目覚めた思い=Someday I Woke Up
 守りたい人に捧げる力=Power to Give to Those You Want to Protect

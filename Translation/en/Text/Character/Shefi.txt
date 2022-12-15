@@ -10,7 +10,7 @@ Profile
 シェフィのギルド活動=Sheffy's Guild Activity
 薄氷=Thin Ice
 シェフィの決意=Sheffy's Determination
-戸惑う竜少女=Confused Dragonf Girl
+戸惑う竜少女=Confused Dragon Girl
 シェフィの記憶探し=Looking for Sheffy's memory
 
 

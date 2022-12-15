@@ -13,7 +13,7 @@ r:"^敵単体に(\d+)の物理ダメージ\n味方全体の物理攻撃力を(\d
 ===Skills+
 ===UB
 ===S1
-ハイドロスティング+=Hydrosting+
+ハイドロスティング+=Hydro Swing+
 目の前の敵１キャラに物理中ダメージを与え、さらにその周囲の敵すべてに物理大ダメージを与える。=
 Deals moderate P.DMG to an enemy directly in front, and additional small P.DMG to enemies nearby the target.
 It deals P.DMG to one enemy in front of you, and also does physics -based damage to all the surrounding enemies.
