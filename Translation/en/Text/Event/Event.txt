@@ -28,6 +28,7 @@ r:"^推奨プレイヤーLv : (\d+)$"=Suggested Lv: $1
 r:"^([0-9/: ]{11})に$"=$1
 イベント開催期間が終了します=The event period will end.
 イベント開催予定！=Upcoming event!
+イベント開催決定！=Upcoming event!
 イベント開催終了！=The event is over!
 ボスバトルは終了しました。=The boss battle has ended.
 イベントクエストは終了しました。=Event quest has ended.

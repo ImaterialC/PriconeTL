@@ -28,6 +28,10 @@ r:"^第([0-9.]+)話$"=Episode $1
 sr:"(.+)が\n?解放可能になりました。$"=$1\nhas been unlocked.
 メインクエスト2-1\n（NORMAL）クリア\nまたは期間限定\nイベント参加で解放=Unlock by clearing Main Quest 2-1 (NORMAL) or participating in a limited time event
 
+エリア最終クエストのためオート進行を終了しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=The auto progress has ended due to the final quest in the area. The following stamina consumption has been executed by the progress of this auto. * Retire, stamina consumption in defeat is not included.
+r:"^メインストーリーが\n(\d+)つ解放されました。$"=$1 Main Story\nhas been unlocked.
+メインストーリー解放=unlock the Main Story
+
 ===Story Menu==
 
 メイン=Main

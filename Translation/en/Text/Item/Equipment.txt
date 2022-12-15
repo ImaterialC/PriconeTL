@@ -481,3 +481,6 @@ sr:"^「(.+)」([の設計図欠片\n]+)。$"="A$2 of $1."
 ベルアルクロゼ=Bell Alcroze
 ローズクラッシャーアクス=Rose Crusher Ax
 クルーエルローズブレード=Cruel Rose Blade
+ローズルージュペンダント=Rose Rouge Pendant
+ローズベルテペンダント=Rose Berte Pendant
+ラピスローズペンダント=Lapis Rose Pendant
