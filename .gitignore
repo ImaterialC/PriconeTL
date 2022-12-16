@@ -19,3 +19,4 @@ core/
 plugins/
 config/
 config/AutoTranslatorConfig.ini
+*.ini
