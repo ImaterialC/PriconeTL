@@ -1,0 +1,10 @@
+1回バトルしよう=Let's battle once
+フェーズ3=Phase 3
+フェーズ2=Phase 2
+フェーズ1=Phase 1
+
+sr:"(.+)に累積(\d+)万ダメージ与えよう$"=Cumulative $200000 damage to $1
+sr:"(.+)に1度のバトルで(\d+)万ダメージ与えよう$"=Deal $200000 damage to $1 in one battle
+
+フェーズ1クリアで解放=Clear Phase 1 to unlock
+フェーズ2クリアで解放=Clear Phase 2 to unlock

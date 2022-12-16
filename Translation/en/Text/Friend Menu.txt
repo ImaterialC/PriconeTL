@@ -54,7 +54,7 @@ r:"^プレイヤーLv:([0-9～ ]+)$"=Player Lv: $1
 
 フレンドが設定しているパーティはありません。=There are no parties set up by friends.
 フレンド解除=Unfriend
-サポートキャラを設定\nできます=You can set a support character
+サポートキャラを設定\nできます=You can set a\nsupport character
 サポート完了=Support Complete
 
 サポート設定確認=Check Support Settings
