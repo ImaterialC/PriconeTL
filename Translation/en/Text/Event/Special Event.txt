@@ -4,6 +4,24 @@ sr:"^[3C404EFF](.+)nと仲間たちは、[3C404EFF]\n『終炎の巨神』を止
 ミロク= Miroc
 テンタパス=Tentapus
 ファントムバロン=Phantom Baron
+黒の王=Black king
+魔物の姫=Demon princess
+アリス=Alice
+下忍たち=Ninjas
+ハンゾウ=Hanzo
+ネズミたち=Rats
+チュウザ=Chewzu
+チュウジ=Chuji
+助っ人？=A helper?
+みんな僕たちを助けにきてくれたんだ。=Everyone came to help us.
+入れ替わってる～！？=It's been replaced! ?
+アカリの姿をしたヨリ=Yori in the form of Akari
+ヨリの姿をしたアカリ=Akari in the form of Yori
+ドクロ親父？=Dokuro father?
+イリヤ？=Ilya?
+シノブ？=Shinobu?
+ミヤコ？=Miyako?
+弓矢=Bow and arrow
 
 残り挑戦回数：=Attempts:
 r:"^回数回復まであと([0-9:]+)$"=Until Recovery $1
@@ -39,7 +57,16 @@ sr:"(.+)アップ(\d+)秒$"=$1 up: $2s
 発生中のバーストエンド=Burst end
 ダウン=lowered
 アップ=up
-sr:"バトル開始から(\d+)秒間、敵の(.+)がダウン$"=For $1s from the start of the battle, the enemy's $2 is lowered.
+敵=enemy
+味方=ally
+アドバンス=Advantages
+
+発動中のバーストはありません。=No burst being activated.
+毎秒回復=Recovery every second
+毎秒ＨＰ回復90秒=HP recovery 90 seconds per second
+永続=Permanence
+
+sr:"バトル開始から(\d+)秒間、(.+)の(.+)が(.+)$"=For $1s from the start of the battle, the $2's $3 is $4.
 sr:"(.+)のバースト効果確認$"=Burst Effect of $1
 残り有効時間=Duration
 バーストエンド=Burst end
@@ -50,6 +77,18 @@ sr:"(.+)のバースト効果確認$"=Burst Effect of $1
 レンタル回数報酬はありません。=There is no rental reward. (LOL)
 イベントで使用されるサポートキャラを設定できます。=You can set the support characters used in the event.
 特別サポート設定=Special Support Settings
+
+リタイアしても、挑戦回数は消費されません。\n　※バトルの途中経過は保存されません。\n\nリタイアしますか？=Even if you retire, the number of challenges is not consumed.\n※The progress of the battle is not saved.\n\nDo you want to retire?
+
+イベント参加時点では、\n6回挑戦できる状態でスタートします。=At the time of the event, there will start with six challenges.
+挑戦回数はイベント開始から\n1時間ごとに1回分付与されます。=The number of challenges is given one every hour from the start of the event.
+挑戦回数の回復時間について=About Recorvery Attempt
+
+表示できるミッションがありません。=There is no mission that can be displayed.
+以下の報酬を受け取りました=Received the following rewards
+
+
+絶望を吸収して、強くなってる！=Absorbing despair and getting stronger!
 
 終炎の巨神がランドソルに向かって侵攻しております。\n皆様と力を合わせて全てのボスを完全討伐し、\n全フェーズの攻略を目指しましょう。=The giant of the last flame is invading Land Sol. Let's all defeat all bosses with all of you and aim to capture all phases.
 皆様で協力して『Total HP』を0にすると完全討伐となります。\nこの戦いに参加した皆様全員が報酬を獲得できるようです。\n受け取りは期間中のみのようなので、注意してくださいませ。=If you cooperate with everyone and set "TOTAL HP" to 0, it will be completely defeated. It seems that everyone who participated in this battle can get rewards. Please note that the receipt is only during the period.
