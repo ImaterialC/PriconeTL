@@ -17,6 +17,16 @@ Pink ----------------------------------------------------------
 ヘブンリーナックル=Heavenly Knuckle
 イモータルティアーズ=Immortal Tears
 
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した弓。絆の力を弦に宿すことで、あらゆる鎧を貫く必殺の一矢を放つことができる。=A bow crafted from a rainbow ore by best craftsman. It is possible to fire a deadly arrow that can pierce through any type of armor.
+伝承において、大地の巨人が鋳造したとされる大斧。地面をたたき割るほどの一撃は、巨人の怒りにも例えられる。=A great ax said to have been forged by a giant of the earth according to legend. A blow that splits the ground can be likened to the wrath of a giant.
+恒星の生命力を宿す杖。そのひと振りは新星の誕生を思わせる爆発を引き起こし、敵対者を極光で焼き尽くすという。=A staff that holds the life force of a star. It is said that one swing will cause an explosion reminiscent of the birth of a new star, burning up the opponent with aurora.
+
+かつて格闘王が身に着け、その魂が乗り移ったとされる指輪。指にはめるだけで岩をも砕く怪力が得られ、無双の強さを発揮できる。=A ring that once worn by the fighting king and the soul has been transferred. You can get the power to crush the rock just by putting it on your finger, and you can demonstrate the strength of the warriors.
+悪魔が宿るとされるローブ。まとうと邪悪なささやきが聞こえてくようになるが、それに従えば高度な魔法も難なく扱えるようになる。=Robe is said to be a devil. You can hear the evil whispering when you put it on, but if you follow it, you will be able to handle advanced magic without difficulty.
+死霊を操る魔女がまとうドレス。その製法には黒い噂が囁かれ、強大な魔力を得られるが、死者の念に呪われるとも言われている。=A dress in a witch who manipulates dead spirits. Black rumors have been whispered in the manufacturing method, and she is said to be cursed by the dead, although she gains powerful magic.
+森で暮らすエルフたちが、その豊富な知識を用いて制作したローブ。自然の魔力を吸収し、着用者に還元することができる。=Robe created by elves living in the forest using their abundant knowledge. It can absorb natural magic and return to the wearer.
+
+
 追憶輪ディバイングリフ=Remembrance Divine Glyph
 太古の歴史が記録されている腕輪。問いかけに応じて文字が浮かび上がり、失われた英知を持ち主に授け、未来を拓く助けになるという。=A bracelet with ancient history. The letters emerge in response to the question, given the lost wisdom, and helps to open the future.
 

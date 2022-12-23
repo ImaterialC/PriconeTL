@@ -5,6 +5,10 @@ EXアクセサリーコイン=EX Acc coin
 r:"(\d+)個のアイテムを選択中$"=$1 item(s) selected
 1個のアイテムを選択中=1 item selected
 
+所持上限=Possession limit
+所持上限を超えたアイテムをプレゼントに送りました。=Sent an item that exceeds the possession limit to the gift.
+
+
 一度に分解出来る最大数に達しています。これ以上は選択出来ません。=Reached the maximum number that can be dismantled at one time.
 まとめて分解するEX装備を選択中です。=Selecting EX equipment to be dismantled all at once
 おまかせ分解が設定されていません。\nおまかせ分解設定を行ってください。=No Auto Dismantle is set.\nPlease set the Auto Dismantle.

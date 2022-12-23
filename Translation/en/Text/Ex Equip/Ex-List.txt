@@ -30,7 +30,7 @@ EX装備分解=Dismantle EX Equipment
 ネックレス=Necklace
 宝珠=Jewel
 イヤリング=Earring
-
+おまかせ強化対象の素材がありません。=There is no material to be enhanced.
 必要コイン=Required Coin
 アイテム一覧へ移動しますか?=Do you want to go to the Item List?
 購入に必要なEX武器コインが不足しています。=There is a shortage of EX Equip Coins required for purchase.
