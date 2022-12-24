@@ -61,7 +61,7 @@ ignore$
 (?:^|/)config/
 ^\Qconfig_auto_off.rar\E$
 ^\Qconfig.zip\E$
-^\Q.github/workflows/release.yml\E$
+^\.github/workflows/
 ^\QTranslation/en/Text/Item/Equipment.txt\E$
 ^\QTranslation/en/Text/Character/1_Names.txt\E$
 ^\QTranslation/en/Text/Character/2_Voice Actress.txt\E$
