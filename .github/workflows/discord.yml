@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Preparing
         run: |
-					echo "HTML_URL=$(Invoke-RestMethod "https://api.github.com/repos/ImaterialC/PriconeTL/releases/latest" | Select-Object -ExpandProperty html_url)" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
+	 echo "HTML_URL=$(Invoke-RestMethod 'https://api.github.com/repos/ImaterialC/PriconeTL/releases/latest' | Select-Object -ExpandProperty html_url)" | Out-File -FilePath $Env:GITHUB_ENV -Encoding utf8 -Append
 
       - name: Announcing new release
         env:
