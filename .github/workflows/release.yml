@@ -67,7 +67,6 @@ jobs:
           Get-LatestRelease -Repo "BepInEx/BepInEx" -FileName "BepInEx_x86_.+\.zip" -OutFile "BepInEx.zip"
           Get-LatestRelease -Repo "bbepis/XUnity.AutoTranslator" -FileName "XUnity.AutoTranslator-BepInEx-\d.+\.zip" -OutFile "AutoTrans.zip"
 	  Get-LatestRelease -Repo "BepInEx/BepInEx.Utility" -FileName "BepInEx.EnableFullScreenToggle.v1.0.zip" -OutFile "FullScreen.zip"
-      
       - name: Getting patch files
         run: |
           $Redundant = @(
@@ -118,5 +117,8 @@ jobs:
           body: ${{ steps.changelog.outputs.changes }}
           tag: ${{ env.RELEASE_TAG }}
           artifacts:
+<<<<<<< HEAD
+            "./PriconneTL_${{ env.TODAY_DATE }}.zip"
+=======
             "./PriconneTL_${{ env.TODAY_DATE }}.zip"
 >>>>>>> f5e54ee94fc5cdead48bc8a0db841e8a21eb628c
