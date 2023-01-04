@@ -66,7 +66,8 @@ jobs:
           }
           Get-LatestRelease -Repo "BepInEx/BepInEx" -FileName "BepInEx_x86_.+\.zip" -OutFile "BepInEx.zip"
           Get-LatestRelease -Repo "bbepis/XUnity.AutoTranslator" -FileName "XUnity.AutoTranslator-BepInEx-\d.+\.zip" -OutFile "AutoTrans.zip"
-	  Get-LatestRelease -Repo "BepInEx/BepInEx.Utility" -FileName "BepInEx.EnableFullScreenToggle.v1.0.zip" -OutFile "FullScreen.zip"
+          Get-LatestRelease -Repo "BepInEx/BepInEx.Utility" -FileName "BepInEx.EnableFullScreenToggle.v1.0.zip" -OutFile "FullScreen.zip"
+
       - name: Getting patch files
         run: |
           $Redundant = @(
