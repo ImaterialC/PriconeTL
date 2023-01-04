@@ -86,7 +86,7 @@ sr:"^(\d+日)目の日替わり湯$"="$1 day of Daily Hot Spring"
 お花にはね、その一つ一つに\n意味があるの。\n誰かに贈るときには\n相手へのメッセージにもなるのよ～=Each flower has its own meaning.\nWhen you give it to someone,\nit will also be a message\nto the other person~
 
 ちなみに今日のお花の意味は……\n『愛するあなたのために』\nうふふ、素敵でしょう♪=By the way,\nthe meaning of today's flower is...\n"For you, who I love"\nUfufu, isn't it wonderful♪
-あ、愛する……！\nちょ、それまじ……？\nそんなの、ストレートで……\nなんか…………ズルじゃん。=Ah, Confesion of love...!\nHey, is that true...?\nThat's straight...\nsomehow...\nthat's kool.
+あ、愛する……！\nちょ、それまじ……？\nそんなの、ストレートで……\nなんか…………ズルじゃん。=Ah, Confession of love...!\nHey, is that true...?\nThat's straight...\nsomehow...\nthat's kool.
 
 えっと……\nバズり計画、ナシで。\n……あー、あつぅ。=Um ...\nNo plan to get viral.\n ...... Ah, hot.
 うふふ♪\nのぼせないように気をつけてね。=Ufufu ♪\nBe careful not to get rid of it.
