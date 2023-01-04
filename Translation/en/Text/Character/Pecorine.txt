@@ -37,9 +37,9 @@ r:"^敵単体に(\d+)の物理ダメージ\n自分の物理防御力を(\d+)ア�
 r:"^敵単体に(\d+)の物理ダメージ\n自分の物理防御力を(\d+)アップ\n自分の魔法防御力を(\d+)アップ$"=Deals $1 P.DMG to an enemy.\nBoosts own physical defense by $2.\nBoosts own M.DEF by $3.
 ===Skill 1+
 r:"^自分の魔法防御力を(\d+)アップ\n自分のＨＰを(\d+)回復\n(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=Boosts own M.DEF by $1 for 12s.\nRecovers own HP by $2.\nDeploy Barrier that absorbs $3 P.DMG and M.DMG for 8s.
-自分の魔法防御力を中アップさせ、さらにＨＰを大回復し、自分に物理/魔法吸収バリアを展開する。=Increases own M.DEF by a small amount. Deploy a barrier around oneself that absorbs P.DMG and M.DMG.
+自分の魔法防御力を中アップさせ、さらにＨＰを大回復し、自分に物理/魔法吸収バリアを展開する。=Boost own M.DEF by a small amount. Deploy a barrier around oneself that absorbs P.DMG and M.DMG.
 
-自分の魔法防御力を中アップさせ、さらにＨＰを中回復する。=Increases own M.DEF by a small amount and recovers own HP by a small amount.
+自分の魔法防御力を中アップさせ、さらにＨＰを中回復する。=Boost own M.DEF by a small amount and recovers own HP by a small amount.
 r:"^自分の魔法防御力を(\d+)アップ\n自分のＨＰを(\d+)回復$"=Boosts own M.DEF by $1.\nRecovers own HP by $2.
 ===Skill 2
 ===Skill EX

@@ -4,7 +4,7 @@
 
 【魔法】後衛で、新たな姿で騎士の冒険を支える妖精。ダメージカットや防御力アップ、無効バリアで味方を護りバリアを起点とする攻撃力とＴＰの支援で攻勢に転ずる。=[Magic] A RG fairy who supports the adventures. Protect allies with damage cuts, increased defense power, and nullity barriers, and turn offensive with offensive power and TP support starting from the barrier.
 
-味方全体の物理防御力と魔法防御力を大アップさせ、継続ＨＰ回復状態を付与し、物理/魔法無効バリアを展開する。=Greatly increases the P.DEF & M.DEF of all allies, grants continuous HP recovery, and deploys a physical/magic nullification barrier.
+味方全体の物理防御力と魔法防御力を大アップさせ、継続ＨＰ回復状態を付与し、物理/魔法無効バリアを展開する。=Large boost the P.DEF & M.DEF of all allies, grants continuous HP recovery, and deploys a physical/magic nullification barrier.
 
 フィオレ・フェリチータ=Fiore Felicita
 r:"^味方全体の物理防御力を(\d+)アップ\n味方全体の魔法防御力を(\d+)アップ\n毎秒ＨＰを(\d+)回復する\n(\d+)ダメージ分の物理魔法無効バリアを展開する$"=Boosts all allies' P.DEF by $1 for 18s.\nBoosts all allies' M.DEF by $2 for 18s.\nRecovers HP of all allies by $3/s for 10.5s.\nDeploy a barrier that Nullifies P/M. DMG $4 to All Allies for 90s.
@@ -13,7 +13,7 @@ r:"^味方全体の物理防御力を(\d+)アップ\n味方全体の魔法防御
 最もＨＰが低い味方１キャラのＨＰを中回復し、さらに物理ダメージカット効果と魔法ダメージカット効果を付与する。=Moderately restores the HP of the 1 ally character with the lowest HP, and also grants P.DMG cut and M.DMG cut effects.
 r:"^味方単体のＨＰを(\d+)回復\n味方単体が受ける物理ダメージを15％カット\n味方単体が受ける魔法ダメージを15％カット$"=Recovers an ally's HP by $1.\nApplies P.DMG cut by 15％ for 12s.\nApplies M.DMG cut by 15％ for 12s.
 
-バリアが展開されている味方全ての物理攻撃力と魔法攻撃力を極大アップさせ、ＴＰを中回復させる。自分の魔法攻撃力が高い程、物理攻撃力と魔法攻撃力の上昇量が最大５倍までアップする。=Massively increases the P.ATK & M.ATK of all allies with barriers deployed, and restores a moderate amount of TP. The higher your M.ATK, the higher P&M ATK buff up to 5 times.
+バリアが展開されている味方全ての物理攻撃力と魔法攻撃力を極大アップさせ、ＴＰを中回復させる。自分の魔法攻撃力が高い程、物理攻撃力と魔法攻撃力の上昇量が最大５倍までアップする。=Massively boost the P.ATK & M.ATK of all allies with barriers deployed, and restores a moderate amount of TP. The higher your M.ATK, the higher P&M ATK buff up to 5 times.
 
 r:"^バリアが展開されている味方の物理攻撃力を(\d+)アップ\nバリアが展開されている味方の魔法攻撃力を(\d+)アップ\nバリアが展開されている味方のＴＰを200回復$"=Boosts P.ATK of all allies with barrier by $1 for 18s.\nBoosts M.ATK of all allies with barrier by $2 for 18s.\nRecovers TP of allies with barrier by 200.
 リファーレピウマ=Refare Piuma

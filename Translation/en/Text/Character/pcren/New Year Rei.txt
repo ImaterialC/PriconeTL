@@ -16,7 +16,7 @@ r:"^(\d+)ダメージ分の魔法無効バリアを展開する\n自分の魔法
 
 r:"^$"=
 ===S1
-【挑発】敵全体を挑発し、自分の魔法防御力を特大アップ。挑発後のモーション中に攻撃された場合、前方範囲内の敵に物理中ダメージを与え、物理防御力を小ダウンさせスタンさせる。=[Provocation] Provocation of all enemies and increases their M.DEF. If you are attacked during the motion after the provocation, you will do P.DMG to the enemy in the forward range, and the P.DEF will be reduced and stunned.
+【挑発】敵全体を挑発し、自分の魔法防御力を特大アップ。挑発後のモーション中に攻撃された場合、前方範囲内の敵に物理中ダメージを与え、物理防御力を小ダウンさせスタンさせる。=[Provocation] Provocation of all enemies and boost their M.DEF. If you are attacked during the motion after the provocation, you will do P.DMG to the enemy in the forward range, and the P.DEF will be reduced and stunned.
 r:"^敵全体を挑発する範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵の物理防御力を(\d+)ダウン\n自分の魔法防御力を(\d+)アップ\n範囲内の敵を一定時間行動不能にする$"=Provocation of all enemiesP.DMG of $1 to enemies in the range\nThe P.DEF power of the enemy in the range $1 down\nUp $1 up your M.DEF power\nMake enemies in the range unable to act for a certain period of time
 ===S2
 

@@ -17,7 +17,7 @@ r:"^味方全体の魔法攻撃力を(\d+)アップ\nネフライトワイバー
 
 r:"^敵全体の魔法防御力を(\d+)ダウン\n敵全体のクリティカルを受けた際のダメージを2％アップ$"=Lowers all enemies` M.DEF by $1 for 12s.\nInflict M. Crit DMG Debuff to all enemies by 2% for 180s.
 
-敵全体の魔法防御力を小ダウンさせ、さらにクリティカルを受けた際のダメージを小アップさせる。=Lowers M.DEF of all enemies by a small amount, also slightly increases the damage taken when receiving a critical hit.
+敵全体の魔法防御力を小ダウンさせ、さらにクリティカルを受けた際のダメージを小アップさせる。=Lowers M.DEF of all enemies by a small amount, also slightly boost the damage taken when receiving a critical hit.
 
 スケルトンブレス=Skeleton Breath
 ウィスパーボイス+=Whisper Voice+

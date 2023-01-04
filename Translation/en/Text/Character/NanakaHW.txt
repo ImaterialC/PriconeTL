@@ -2,7 +2,7 @@
 
 ナナカ・マニアックフレイム=Nanaka Maniac Flame
 
-残りＨＰが最も高い敵を中心とした範囲内の敵すべてに魔法大ダメージを与え、火傷状態にする。火傷のダメージは範囲内の敵の数に応じて増加する。=Deals large amounts of M.DMG to all enemies within range, centering on the enemy with the highest remaining HP, and inflicts Burns. Burn damage increases with the number of enemies in range.
+残りＨＰが最も高い敵を中心とした範囲内の敵すべてに魔法大ダメージを与え、火傷状態にする。火傷のダメージは範囲内の敵の数に応じて増加する。=Deals large amounts of M.DMG to all enemies within range, centering on the enemy with the highest remaining HP, and inflicts Burns. Burn damage boost with the number of enemies in range.
 r:"^範囲内の敵に(\d+)の魔法ダメージ\n(\d+)ダメージを与える火傷状態にする$"=Targeting to the highest %HP enemy.\nDeals $1 M.DMG to enemy targets within 300 range.\nInflict burn on targets by $2/s for 7s.
 
 

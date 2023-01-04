@@ -28,9 +28,9 @@ sr:"^[3C404EFF](.+)nと仲間たちは、[3C404EFF]\n『終炎の巨神』を止
 シノブ？=Shinobu?
 ミヤコ？=Miyako?
 弓矢=Bow and arrow
-サレンちゃん！　アキノさん！=Salen! Akino!
+サレンちゃん！　アキノさん！=Saren! Akino!
 ローズメン=Rosemen
-サレン？=Saeen?
+サレン？=Saren?
 アキノ？=Akino?
 おばあさん？=Grandmother?
 余計ぐちゃぐちゃになっちゃったね。=It's more messed up.
@@ -38,7 +38,7 @@ sr:"^[3C404EFF](.+)nと仲間たちは、[3C404EFF]\n『終炎の巨神』を止
 ヨリ？=Yori?
 アカリ？=Akari?
 おばあさん=Grandma
-妖精=fairy
+妖精=Fairy
 アメきち=Candy
 ハレきち=Halle
 ダイチ=Daichi
@@ -142,7 +142,7 @@ sr:"(.+)のバースト効果確認$"=Burst Effect of $1
 
 イベント参加時点では、\n6回挑戦できる状態でスタートします。=At the time of the event, there will start with six challenges.
 挑戦回数はイベント開始から\n1時間ごとに1回分付与されます。=The number of challenges is given one every hour from the start of the event.
-挑戦回数の回復時間について=About Recorvery Attempt
+挑戦回数の回復時間について=About Recovery Attempt
 
 表示できるミッションがありません。=There is no mission that can be displayed.
 以下の報酬を受け取りました=Received the following rewards
@@ -194,12 +194,12 @@ sr:"(.+)のバースト効果確認$"=Burst Effect of $1
 　無効化しても付与される。=　It is granted even if it is disabled.
 　このスキルの効果や状態異常はダメージを=　Damage the effects and condition of this skill
 　痺させる。=　Make paralysis.
-　ＨＰに応じた物理割合ダメージを与える。=　Dains physical ratio damage according to HP.
+　ＨＰに応じた物理割合ダメージを与える。=　Drains physical ratio damage according to HP.
 ・敵全体にキャラの最大ＨＰに応じた物理割合ダ=・ Physical ratio da according to the maximum character's HP to all enemies
 ・目の前の敵１キャラにキャラの最大ＨＰに応じ=・ According to the maximum character's HP to 1 character in front of you
 　に攻撃が激しく凶暴になる。=　The attack becomes violently ferocious.
 ・テンタパス自身のＨＰが40％を切ると、さら=・ If the Tenta Pass's own HP is less than 40 %,
-　た物理割合ダメージを与える。=　Dainage physical ratio damage.
+　た物理割合ダメージを与える。=　Drainage physical ratio damage
 ・ユニオンバーストは、敵全体に魔法大ダメージ=・ Union burst is magical damage to all enemies
 ジェルと化し、歪な呪いで生を侵蝕される。=It turns into a gel and is eroded by a distorted curse.
 ラフィの聖弓。その矢に貫かれると非力なエン=Raffian sacred bow. A powerful En when it is pierced by the arrow

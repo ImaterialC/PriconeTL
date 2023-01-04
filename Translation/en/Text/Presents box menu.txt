@@ -52,13 +52,19 @@ sr:"^([0-9]{1,2}月)クランバトルランキング(\d+位)の報酬です。$
 所持上限を超えて獲得したスタミナです。=It is a stamina acquired beyond the upper limit.
 スタミナ受取対象外にチェックしているため受け取れません。=You cannot receive it, you exclude it. check your check Box.
 ===Login Bonus===
-r:"^「ログインボーナス」(\d+)日目で獲得したアイテムです。$"="Item obtained on day $1 "Login Bonus"."
-r:"^「イベントログインボーナス」(\d+)日目で獲得したアイテムです。$"="Item obtained on day $1 "Event Login Bonus"."
-r:"^「復刻イベントログインボーナス」(\d+)日目で獲得したアイテムです。$"="Item obtained on day $1 "Revival Event Login Bonus"."
 
-r:"^「スタートダッシュログインキャンペーン」(\d+)日目で獲得したアイテムです。$"="Item obtained on day $1 "Start Dash Log In Campaign"."
-r:"^「事前登録キャンペーン」の(\d+)万人達成報酬です。$"="Item obtained on day $1 "Pre-registration Campaign"."
-r:"^「([0-9.]+) Year Anniversary スペシャルログインボーナス」(\d+)日目で獲得したアイテムです。$"="This item was obtained on the day $2 of the $1 Year Anniversary Special Login Bonus."
+クリスマス=Christmas
+謹賀新年 お正月=Happy New Year
+元日特別=New Year's Day Special
+復刻イベント=Revival Event
+スタートダッシュログイン=Jump Start Log In 
+事前登録=Pre-registration
+
+r:"^([0-9.]+) Year Anniversary スペシャル$"=$1 Year Anniversary Special
+sr:"^「(.+)ログインボーナス」(\d+日)目で獲得したアイテムです。$"="Item obtained on $2 day of "$1 Login Bonus"."
+sr:"^「ログインボーナス」(\d+日)目で獲得したアイテムです。$"="Item obtained on $1 day of "Login Bonus"."
+sr:"^「(.+)キャンペーン」(\d+日)目で獲得したアイテムです。$"="Item obtained on $2 day of "$1 Campaign"."
 
 メンテナンスにご協力いただいたお礼です。=Thank you for your cooperation in maintenance.
 運営からのプレゼントです。=Gift from the management.
+

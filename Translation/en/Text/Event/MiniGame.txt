@@ -111,7 +111,7 @@ Kaori
 長時間、能力ダウンを防ぐバリアを展開する（ＴＰ上昇率：特大）=Develop a barrier to prevent the ability to reduce the ability for a long time(TP Boost: Massive)
 無し=None
 粋な夏を愉しむ、若夏の姉御。　　流麗な身体捌きで、始・継・終と、UBを重ねるごとに、加速する。=A young summer sister who enjoys a stylish summer. With a beautiful body handling, it accelerates as you overlap the UB with the beginning, succession, and end.
-累積で、スピードを小アップ　　　（ＴＰ上昇率：特大）=Cumulative speed increases speed(TP Boost: Massive)
+累積で、スピードを小アップ　　　（ＴＰ上昇率：特大）=Cumulative speed boost speed(TP Boost: Massive)
 夏のトキメキに触れた、オタク魔法少女。多彩な魔法を操り、少しずつ他の走者の速度を落とし続ける。=A nerd magical girl who touched the summer tokimeki. She manipulates a variety of magic and keeps the speed of other runners little by little.
 累積で、対戦相手のスピードを　　小ダウン（ＴＰ上昇率：特大）=Cumulating, small down the opponent's speed(TP Boost: Massive)
 海獄に降臨せし、真夏の冥姫。　　レース後半に魔力を全解放し、　　蒼き疾風と成りて浜を駆け抜ける。=A midsummer midsummer, who is descended to the sea hell. She releases her magic in the second half of the race and runs through the beach as a blue gale.

@@ -11,7 +11,7 @@
 ラストレッスン=One Final lesson
 仕組まれた再会=An Engineered Reunion
 ミラーミラー=Mirror Mirror
-r:"^分身を生成する\n魔法攻撃力を(\d+)アップさせるフィールドを展開する\nＴＰ上昇を15アップさせるフィールドを展開する$"=Create a clone of oneself.\nDevelop a field (Radius 400) around herself for 18s\nBoosts all allies' M.ATK within the field by $1.\nBoosts all allies' TP Boost within the field by 15.
+r:"^分身を生成する\n魔法攻撃力を(\d+)アップさせるフィールドを展開する\nＴＰ上昇を15アップさせるフィールドを展開する$"=Create a clone of oneself.\nDevelop a field (Radius 400) around herself for 18s\nBoosts all allies' M.ATK within the field by $1.\nBoosts all allies' TP boost within the field by 15.
 
 【召喚】ユニオンバーストを使用しない、自分の分身を生成する。さらに自分の周囲に魔法攻撃力を特大アップさせ、ＴＰ上昇を小アップさせるフィールドを展開する。=[Summon]Create a duplicate of herself that cannot use UB. Deploys a field around self that grants a massive boost to M.ATK and small boost to TP Boost.
 

@@ -1,5 +1,5 @@
 ト=To
-【物理】前衛で、素早い斬撃を仕掛け敵を屠る剣術少女。ユニオンバーストで自分の攻撃力と行動速度を上昇させ、ほか攻撃スキルの殲滅能力を極限まで高め敵を圧倒する。=[Physical] A swordsmanship girl who slaughters enemies with quick slashes in the VG. Her UB increases her own P.ATK and her SPD, maximizing the annihilation ability of her and her attack skills to overwhelm her enemies.
+【物理】前衛で、素早い斬撃を仕掛け敵を屠る剣術少女。ユニオンバーストで自分の攻撃力と行動速度を上昇させ、ほか攻撃スキルの殲滅能力を極限まで高め敵を圧倒する。=[Physical] A swordsmanship girl who slaughters enemies with quick slashes in the VG. Her UB boost her own P.ATK and her SPD, maximizing the annihilation ability of her and her attack skills to overwhelm her enemies.
 義理堅くてからかい好きな剣術少女=A swordfighter with a strong sense of duty who loves to tease
 
 剣術、年長者をからかう=Swordsmanship, teasing elders.
@@ -22,7 +22,7 @@ r:"^敵単体に(\d+)の物理ダメージ\n自分の物理攻撃力を(\d+)ア�
 
 ミクマ流奥義・烈風迅光=Mikuma Hidden Art: Gekifu Xunko
 r:"^敵２体に(\d+)の物理ダメージ\n範囲内の味方の物理攻撃力を(\d+)アップ\n範囲内の味方の行動速度アップ$"=Deals $1 P.DMG to 2 enemy.\nBoosts an ally's P.ATK within 150 range by $2 for 24s.\nBoosts an ally's action speed to 160% for 24s.
-目の前の敵２キャラに物理特大ダメージを与え、さらに自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせ、行動速度を大アップさせる。=Inflicts massive P.DMG to the 2 enemies in front, and greatly increases the physical attack power and action speed of all allies within range.
+目の前の敵２キャラに物理特大ダメージを与え、さらに自分を中心とした範囲内の味方すべての物理攻撃力を特大アップさせ、行動速度を大アップさせる。=Inflicts massive P.DMG to the 2 enemies in front, and Large boost the physical attack power and action speed of all allies within range.
 
 
 前方範囲内の敵すべてに物理小ダメージを与える。=Deals moderate P.DMG to all enemies in range.
@@ -30,7 +30,7 @@ r:"^敵２体に(\d+)の物理ダメージ\n範囲内の味方の物理攻撃力
 目の前の敵１キャラに物理中ダメージを与え、さらに自分のＴＰを小回復させる。=Deals moderate P.DMG to an enemy directly in front and recovers own TP by a small amount.
 r:"^敵単体に(\d+)の物理ダメージ\n自分のＴＰを(\d+)回復$"=Deals $1 P.DMG to an enemy.\nRecovers own TP by $2.
 
-前方範囲内の敵すべてに物理中ダメージを与える。前方範囲内の敵の数に応じて、ダメージが増加する。=Deals moderate P.DMG to all enemies in range. Damage increases based on the number of targets.
+前方範囲内の敵すべてに物理中ダメージを与える。前方範囲内の敵の数に応じて、ダメージが増加する。=Deals moderate P.DMG to all enemies in range. Damage boost based on the number of targets.
 
 気脈呼応・波動の型=Vital Resonance: Sheer Focus
 気脈呼応・波動の型+=Vital Resonance: Sheer Focus+

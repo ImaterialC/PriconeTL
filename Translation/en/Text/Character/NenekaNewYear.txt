@@ -1,14 +1,14 @@
 ニューイヤープリズム=New Year Prism
-魔法攻撃を行う味方全員の魔法攻撃力を大アップさせ、魔法クリティカルを小アップさせる。自分の魔法攻撃力が高い程、それぞれの効果量がアップする。さらに、魔法攻撃クリティカル時のダメージを小アップさせ、ＴＰ上昇を小アップさせる。=Greatly increases the M.ATK power of all allies that use M.ATK, and slightly increases the M.crit rate. The higher your M.ATK is, the more effective each effect will be. In addition, slightly increases M.crit dmg, and slightly increases TP Boost.
+魔法攻撃を行う味方全員の魔法攻撃力を大アップさせ、魔法クリティカルを小アップさせる。自分の魔法攻撃力が高い程、それぞれの効果量がアップする。さらに、魔法攻撃クリティカル時のダメージを小アップさせ、ＴＰ上昇を小アップさせる。=Large boost the M.ATK power of all allies that use M.ATK, and slightly boost the M.crit rate. The higher your M.ATK is, the more effective each effect will be. In addition, slightly boost M.crit dmg, and slightly boost TP Boost.
 
-r:"^対象の味方の魔法攻撃力を(\d+)アップ\n対象の味方の魔法クリティカルを(\d+)アップ\n対象の味方の魔法攻撃クリティカル時のダメージを10％アップ\n対象の味方のＴＰ上昇を5アップ$"=Boosts all allies' M.ATK by $1 for 18s.\nBoosts all allies' M.Crit Rate by $2 for 18s.\nBoosts all allies' M.Crit DMG by 10% for 18s.\nBoosts all allies' TP Boost by 5 for 18s.
+r:"^対象の味方の魔法攻撃力を(\d+)アップ\n対象の味方の魔法クリティカルを(\d+)アップ\n対象の味方の魔法攻撃クリティカル時のダメージを10％アップ\n対象の味方のＴＰ上昇を5アップ$"=Boosts all allies' M.ATK by $1 for 18s.\nBoosts all allies' M.Crit Rate by $2 for 18s.\nBoosts all allies' M.Crit DMG by 10% for 18s.\nBoosts all allies' TP boost by 5 for 18s.
 
 
-最も魔法攻撃力が高い味方１キャラの魔法攻撃力を大アップ、魔法クリティカルを大アップさせ、魔法攻撃クリティカル時のダメージを小アップさせる。自分の魔法攻撃力に応じて、魔法攻撃力アップと魔法クリティカルアップの効果量が最大４倍、魔法攻撃クリティカル時のダメージアップの効果量が最大２倍までアップする。さらに、最も魔法攻撃力が高い味方１キャラのＴＰを小回復させる。=Greatly increases the M.ATK, and slightly M.crit dmg. M.ATK  and M.crit rate buff Depending on your M.ATK up to 4 times, and the effect amount of M.crit dmg will be increased up to 2 times. In addition, restores a small amount of TP to the 1 ally character with the highest M.ATK.
+最も魔法攻撃力が高い味方１キャラの魔法攻撃力を大アップ、魔法クリティカルを大アップさせ、魔法攻撃クリティカル時のダメージを小アップさせる。自分の魔法攻撃力に応じて、魔法攻撃力アップと魔法クリティカルアップの効果量が最大４倍、魔法攻撃クリティカル時のダメージアップの効果量が最大２倍までアップする。さらに、最も魔法攻撃力が高い味方１キャラのＴＰを小回復させる。=Large boost the M.ATK, and slightly M.crit dmg. M.ATK  and M.crit rate buff Depending on your M.ATK up to 4 times, and the effect amount of M.crit dmg will be increased up to 2 times. In addition, restores a small amount of TP to the 1 ally character with the highest M.ATK.
 
 r:"味方単体の魔法攻撃力を(\d+)アップ\n味方単体の魔法クリティカルを(\d+)アップ\n味方単体の魔法攻撃クリティカル時のダメージを5％アップ\n味方単体のＴＰを(\d+)回復$"=Toward highest M.ATK:\nBoost M.ATK by $1 for 12s.\nBoost M.Crit Rate by $2 for 12s.\nBoost M.Crit DMG by 5% for 12s.\nRestore target's TP by $3.
 
 r:"味方単体のＨＰを(\d+)回復\n味方単体の魔法攻撃力を(\d+)アップ$"=Recovers an ally's HP by $1.\nBoosts target allies’ M.ATK by $2 for 12s.
-最もＨＰが低い味方１キャラのＨＰを小回復させ、さらに魔法攻撃力を中アップさせる。=Restores a small amount of HP to the character with the lowest HP, and also moderately increases magic attack power.
+最もＨＰが低い味方１キャラのＨＰを小回復させ、さらに魔法攻撃力を中アップさせる。=Restores a small amount of HP to the character with the lowest HP, and also moderately boost magic attack power.
 ブランニューイリュージョン+=Brand New Illusion+
 ブランニューイリュージョン=Brand New Illusion

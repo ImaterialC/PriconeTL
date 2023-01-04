@@ -9,7 +9,7 @@
 
 
 r:"自分の物理攻撃力を(\d+)アップ\n一定時間全ての物理攻撃を回避する$"=Cast Time: 0.46s\nBoosts own P.ATK by $1 for 180s.\nDodges all P.ATKs for 6s.
-自分を一定時間全ての物理攻撃を回避する状態にする。さらに物理攻撃力を大アップさせる。=Allows you to evade all physical attacks for a set period of time. Also increases physical attack power.
+自分を一定時間全ての物理攻撃を回避する状態にする。さらに物理攻撃力を大アップさせる。=Allows you to evade all physical attacks for a set period of time. Also boost physical attack power.
 
 
 狂乱の街角インタビュー=Crazy Street Corner Interview

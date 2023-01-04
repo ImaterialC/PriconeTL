@@ -17,7 +17,7 @@ r:"^範囲内の敵にそれぞれ(\d+)の魔法ダメージ$"=Deals $1 M.DMG pe
 ===Skills+
 ===UB
 ヴィーナス・ドゥームアイ=Venus Doom Eye
-敵全体に魔法中ダメージを与え、呪詛状態にする。呪詛状態だった場合は代わりに呪い状態にする。呪いか呪詛状態だった場合、ダメージ量が増加し誘惑状態にする。呪詛による継続ダメージは毎秒ごとに増加する。=Deals moderate M.DMG to all enemies and curse them. If it is in a curse or hexed state, the amount of damage will increase and it will be in a charmed state. The continuous damage caused by the hexed increases every second.
+敵全体に魔法中ダメージを与え、呪詛状態にする。呪詛状態だった場合は代わりに呪い状態にする。呪いか呪詛状態だった場合、ダメージ量が増加し誘惑状態にする。呪詛による継続ダメージは毎秒ごとに増加する。=Deals moderate M.DMG to all enemies and curse them. If it is in a curse or hexed state, the amount of damage will increase and it will be in a charmed state. The continuous damage caused by the hexed boost every second.
 
 r:"^呪いまたは呪詛状態ではない敵に(\d+)の魔法ダメージ\n呪いまたは呪詛状態の敵に(\d+)の魔法ダメージ\n敵が呪いまたは呪詛状態の場合、誘惑する\n毎秒ダメージが初期値(\d+)の30％ずつアップするダメージを与える呪詛状態にする\n(\d+)ダメージを与える呪い状態にする$"=Deals $1 M.DMG to enemies.\nDeals $2 M.DMG instead if enemies in a cursed/hexed state.\nInflict curse $3 M.DMG/s.\nIf the Enemy is cursed/hexed, Inflict charm for 5s.\nIf the enemy is cursed/hexed, inflict hex $4+30% M.DMG/s.
 ===S1

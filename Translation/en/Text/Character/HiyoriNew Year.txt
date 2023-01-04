@@ -1,8 +1,8 @@
 ===Skillsヒヨリ（ニューイヤー）
 ===UB
 ヒヨリハッピースタンプ=Hiyori Happy Stamp
-目の前の敵１キャラに物理特大ダメージを与え、さらに物理防御力とＴＰ上昇を小ダウンさせる。=Deals massive P.DMG to an enemy directly in front and lowers their P.DEF and TP Boost by a small amount.
-r:"^敵単体に(\d+)の物理ダメージ\n敵単体の物理防御力を(\d+)ダウン\n敵単体のＴＰ上昇を(\d+)ダウン$"=Deals $1 P.DMG to an enemy.\nLowers an enemy's P.DEF by $2.\nLowers an enemy's TP Boost by $3.
+目の前の敵１キャラに物理特大ダメージを与え、さらに物理防御力とＴＰ上昇を小ダウンさせる。=Deals massive P.DMG to an enemy directly in front and lowers their P.DEF and TP boost by a small amount.
+r:"^敵単体に(\d+)の物理ダメージ\n敵単体の物理防御力を(\d+)ダウン\n敵単体のＴＰ上昇を(\d+)ダウン$"=Deals $1 P.DMG to an enemy.\nLowers an enemy's P.DEF by $2.\nLowers an enemy's TP boost by $3.
 ===S1
 自分の物理攻撃力を中アップさせ、さらに物理攻撃を行うすべての味方キャラの物理攻撃力を中アップさせる。=Large boost to own P.ATK, and moderate boost to the P.ATK of all allies that use P.ATKs.
 r:"^自分の物理攻撃力を(\d+)アップ\n対象の味方の物理攻撃力を(\d+)アップ$"=Boosts own P.ATK by $1.\nBoosts target allies' P.ATK by $2.

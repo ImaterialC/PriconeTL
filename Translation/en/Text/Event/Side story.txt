@@ -9,10 +9,12 @@
 sr:"^\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]が解放されました。\[-\]$"=[3C404E]The [FFBB00,CE4F00]$1[-] has been unlocked.[-]
 r:"^メインクエスト([0-9\-\(\)（）\w ]*)クリアで$"=Cleared Main Quest $1
 
-コンテンツ解放=Content Release
+sr:"^(.+) エンディングを閲覧$"=Unlock by View ending of $1
+
+コンテンツ解放=Unlock Content
 
 エンディング=Ending
-イベントストーリー=event story
+イベントストーリー=Event Story
 イベントストーリー一覧=Event Story List
 入手できるメモリーピースで絞り込み=Filter by Memory Shards
 クエストが解放されていません。=The quest has not been unlocked.

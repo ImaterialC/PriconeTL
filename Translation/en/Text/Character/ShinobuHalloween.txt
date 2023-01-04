@@ -15,7 +15,7 @@ r:"^敵単体に(\d+)の物理ダメージ\n敵全体に(\d+)の物理ダメー�
 ===UB
 ===S1
 レイスウェポン+=Ray Sword+
-自分の物理攻撃力を特大アップさせ、さらに物理クリティカルを大アップさせる。=Massive Boost to own P.ATK and Large boost to own P.Crit Rate.
+自分の物理攻撃力を特大アップさせ、さらに物理クリティカルを大アップさせる。=Massive boost to own P.ATK and Large boost to own P.Crit Rate.
 ===S2
 ===ex
 冥界の夜想歌+=Netherworld Nocturne+

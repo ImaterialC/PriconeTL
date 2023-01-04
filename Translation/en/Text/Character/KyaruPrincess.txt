@@ -9,11 +9,11 @@
 
 目の前の敵１キャラに魔法極大ダメージを与える。=Deals massive M.DMG to one enemy character in front.
 r:"^敵単体に(\d+)の魔法ダメージ\n味方単体のＨＰを(\d+)回復$"=Cast Time: 0.66s\nDeals $1 M.DMG to an enemy.\nRecovers an ally's HP by $2.
-目の前の敵１キャラに魔法中ダメージを与え、さらに最もＨＰが低い味方１キャラのＨＰを小回復させる。このスキルで与えたダメージ量に応じて、ＨＰの回復量が増加する。=Deals moderate M.DMG to the first enemy character in front, and slightly recovers the HP of the ally with the lowest HP. The amount of HP recovered increases according to the amount of damage dealt with this skill.
+目の前の敵１キャラに魔法中ダメージを与え、さらに最もＨＰが低い味方１キャラのＨＰを小回復させる。このスキルで与えたダメージ量に応じて、ＨＰの回復量が増加する。=Deals moderate M.DMG to the first enemy character in front, and slightly recovers the HP of the ally with the lowest HP. The amount of HP recovered boost according to the amount of damage dealt with this skill.
 
 r:"^敵単体に(\d+)の魔法ダメー\n?ジ\n敵単体の魔法防御力を(\d+)ダウ\n?ン\n敵単体のクリティカルを受けた\n?際のダメージを10％アップ\n自分のＴＰを350回復\n自分の魔法攻撃力を(\d+)アッ\n?プ$"=Cast Time: 0.66s\nDeals $1 M.DMG to an enemy.\nLowers an enemy’s M.DEF by $2 for 12s.\nReduce 10% M.Crit dmg resistance to an enemy for 12s.\nRecovers own TP by 350.\nBoosts own M.ATK by $3 for 18s.
 
-目の前の敵１キャラに魔法中ダ\nメージを与え、魔法防御力を大ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。さらに、自分の魔法攻撃力を小アップさせ、ＴＰを大回復する。このスキルで与えたダ\nメージ量に応じて、攻撃力の上昇量がアップする。=Deals M.DMG (XL) to the enemy in front and lowers M.DEF (L), and increases damage when receiving a critical hit (S). Increase own M.ATK (S) and recover own TP (M). M.ATK increases by the amount of damage of this skill.
+目の前の敵１キャラに魔法中ダ\nメージを与え、魔法防御力を大ダウンさせ、クリティカルを受けた際のダメージを小アップさせる。さらに、自分の魔法攻撃力を小アップさせ、ＴＰを大回復する。このスキルで与えたダ\nメージ量に応じて、攻撃力の上昇量がアップする。=Deals M.DMG (XL) to the enemy in front and lowers M.DEF (L), and boost damage when receiving a critical hit (S). Increase own M.ATK (S) and recover own TP (M). M.ATK boost by the amount of damage of this skill.
 
 ダークフルムーン+=Dark Full Moon+
 ダークフルムーン=Dark Full Moon

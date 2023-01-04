@@ -5,7 +5,7 @@
 ===Skills
 ===UB
 オメメチャンアタック！=Mr. Gawker Attack!
-目の前の敵１キャラを中心とした範囲内の敵すべてに、オメメちゃんがいない場合魔法小ダメージを与える。オメメチャンがいる場合、オメメちゃんの数に応じて、ダメージが増加する魔法中ダメージを与える。=Deals moderate M.DMG to all enemies in range. Damage increases for each active Mr. Gawker.
+目の前の敵１キャラを中心とした範囲内の敵すべてに、オメメちゃんがいない場合魔法小ダメージを与える。オメメチャンがいる場合、オメメちゃんの数に応じて、ダメージが増加する魔法中ダメージを与える。=Deals moderate M.DMG to all enemies in range. Damage boost for each active Mr. Gawker.
 r:"^範囲内の敵に(\d+)の魔法ダメージを5回与える$"=Deals $1 M.DMG to enemies in range 5 times.
 ===S1
 オメメちゃんを１体呼び出す。オメメちゃんはルゥがダメージを受けるたびに１体逃げてしまうが、そのとき敵にダメージを与える。=Summons a Mr. Gawker. Each time Lou takes damage, one Mr. Gawker runs away, dealing damage to an enemy.

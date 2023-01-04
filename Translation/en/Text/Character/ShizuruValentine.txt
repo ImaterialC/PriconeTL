@@ -2,7 +2,7 @@
 ===UB
 スウィートサンクチュアリ=Sweet Sanctuary
 自分の周囲に、物理攻撃力を中アップ、物理クリティカルを大アップ、ＴＰ上昇を小アップさせるフィールドを展開する。=Deploys a field around oneself that boosts P.ATK, P.Crit Rate rate, and TP Boost.
-r:"^物理攻撃力を(\d+)アップさせるフィールドを展開する\n物理クリティカルを(\d+)アップさせるフィールドを展開する\nＴＰ上昇を(\d+)アップさせるフィールドを展開する$"=Deploys a field that boosts P.ATK by $1.\nDeploys a field that boosts P.Crit Rate rate by $2.\nDeploys a field that boosts TP Boost by $3.
+r:"^物理攻撃力を(\d+)アップさせるフィールドを展開する\n物理クリティカルを(\d+)アップさせるフィールドを展開する\nＴＰ上昇を(\d+)アップさせるフィールドを展開する$"=Deploys a field that boosts P.ATK by $1.\nDeploys a field that boosts P.Crit Rate rate by $2.\nDeploys a field that boosts TP boost by $3.
 ===S1
 自分の周りの味方のうち、最もＨＰが低い味方１キャラのＨＰを中回復、ＴＰを小回復する。【フィールド展開中】味方全体のＨＰを中回復、ＴＰを小回復する。=Recovers the HP and TP of the nearby ally with the lowest HP by a small amount. [With Active Field] Recovers all allies' HP and TP by a small amount.
 r:"^対象のＨＰを(\d+)回復\n対象のＴＰを(\d+)回復$"=Recovers targets' HP by $1.\nRecovers targets' TP by $2.

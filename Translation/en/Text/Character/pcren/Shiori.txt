@@ -21,7 +21,7 @@ r:"^敵単体に(\d+)の物理ダメージ\n自分のＴＰを(\d+)回復$"=Deal
 
 r:"^$"=
 ===S1
-目の前の最大３キャラまでの敵に物理小ダメージを与える。このダメージは、遠い敵ほどダメージが増加する。さらに自分のＴＰを小回復させる。=Deals moderate P.DMG to all enemies in range. Damage increases based on the number of targets.
+目の前の最大３キャラまでの敵に物理小ダメージを与える。このダメージは、遠い敵ほどダメージが増加する。さらに自分のＴＰを小回復させる。=Deals moderate P.DMG to all enemies in range. Damage boost based on the number of targets.
 r:"^１番目に近い敵単体に(\d+)の物理ダメージ\n２番目に近い敵単体に(\d+)の物理ダメージ\n３番目に近い敵単体に(\d+)の物理ダメージ\n自分のＴＰを(\d+)回復$"=Deals $1 P.DMG to closest target.\nDeals $1 P.DMG to 2nd closest target.\nDeals $1 P.DMG to 3rd closest target.\nRecovers own TP by $1.
 ===S2
 

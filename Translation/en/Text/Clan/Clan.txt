@@ -41,11 +41,10 @@ r:"^(.{1,10})がクランを結成しました。$"=$1 created a clan.
 r:"^(.{1,10})がクランから脱退しました。$"=$1 has left the clan.
 r:"^(.{1,10})をクランから除名しました。$"=$1 has kicked from the clan.
 
-r:"^(\d+)日(\d+)時間(\d+)分$"=$1d $2h $3m
-r:"^(\d+)日(\d+)時間$"=$1d $2h
-r:"^(\d+)時間(\d+)分$"=$1h $2m
-r:"^(\d+)日(\d+)分$"=$1d $2m
-
+r:"^([\-0-9]+)日 ?([\-0-9]+)時間 ?([\-0-9]+)分$"=$1d $2h $3m
+r:"^([\-0-9]+)日 ?([\-0-9]+)時間$"=$1d $2h
+r:"^([\-0-9]+)時間 ?([\-0-9]+)分$"=$1h $2m
+r:"^([\-0-9]+)日 ?([\-0-9]+)分$"=$1d $2m
 変更期限：=Change deadline:
 r:"^終了まで (\d+)時間(\d+)分$"=Ends in $1h$2m
 r:"^終了まで (\d+)分$"=Ends in $1m
@@ -384,7 +383,7 @@ r:"^(\d)体目$"=B-$1
 全段階合計=All Tier Score Total
 バトルTL=Battle TL
 お気に入り=Favorite
-バトルTLをコピーしました。=Copy Battle TL.
+バトルTLをコピーしました。=Copied the Battle Time Lines.
 ===lap===
 r:"^現在(\d+)周目$"=Lap $1
 r:"^(\d+)周目$"=Lap $1
@@ -427,3 +426,11 @@ sr:"^\[25CFDE,0E6C98\](\d+月)クランバトル\[-\]$"=[25CFDE,0E6C98]$1 Clan B
 sr:"^([べ-・ー＆]{2,11})に$"=hit $1 for
 r:"^\[FFBB00\,CE4F00\](\d+)\[-\]\[3C404E\]ダメージ\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Damage[-]
 r:"^\[FFBB00\,CE4F00\](\d+)\[-\]\[3C404E\]ダメージ\[-\]\[3C404E\]で撃破\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Damage[-][3C404E](kill)[-]
+
+削除=Delete
+トレーニングマイログ削除確認=My Log Training Deletion Confirmation
+[FF7C4E,D62146]一度削除するとログ情報は元に戻りません。[-]=[FF7C4E,D62146] Once Deleted, the log information will gone.[-]
+このログを削除してもよろしいですか?=Is it okay to delete this log?
+
+クランに加入=Join a Clan
+クランに所属すると、\nクランバトルに挑戦することができます。=If you join to a Clan,\nyou can challenge Clan Battles.

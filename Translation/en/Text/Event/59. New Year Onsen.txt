@@ -1,0 +1,161 @@
+春日替わり湯=Year Daily Hot Spring
+春日替湯録=Year's Daily Bath Record
+新=New 
+
+[3C404EFF]穏やかな日々の流れゆく、とある年の瀬。[3C404EFF]\nオーエド町に、人の賑わう温泉旅館があった。=[3C404EFF]A certain end of the year when calm days flow by. [3C404EFF] In the town of Oedo, there was a hot spring inn that was bustling with people.
+[3C404EFF]よく来たわね。=[3C404EFF]Nice to meet you.
+[3C404EFF]君も好きだねぇ～♪=[3c404eff] You also like it ~ ♪
+[3C404EFF]『湯けむり忘年奇譚初日の出に盃を』=[3c404eff] "Yukemuri Bōnen Kitan A sake cup at the first sunrise"
+[3C404EFF]こんなにお肌もきれいですし……♪=[3c404eff] Your skin is so beautiful...♪
+[3C404EFF]\nしっかりお客さんにアピールしないとね♪=[3c404eff]I have to appeal to customers firmly ♪
+[3C404EFF]『陽卵の宿』=[3C404EFF] "Yangtze Egg Inn"
+[3C404EFF]お待ち申し上げております♪=[3c404eff] We look forward to it ♪
+
+
+sr:"^(\d+日)目の日替わり湯$"="$1 day of Daily Hot Spring"
+日替わり湯解放=Unlock Daily Hot Spring
+穢れし湯ノ神・陽卵=Defiled Hot Spring God / Yotamago
+湯けむり忘年奇譚　 初日の出に盃を=Yukemuri Bōnen Kitan A sake cup at the first sunrise
+湯けむり忘年奇譚　初日の出に盃を=Yukemuri Bōnen Kitan A sake cup at the first sunrise
+
+ホマレさま、ミツキさま、ミサトさまが湯番として、毎日さまざまな\n日替わり湯を用意されるようでございます。浴客として訪れた皆さまへの\n個性豊かなおもてなしの一幕を楽しみましょう。=Homare, Mitsuki, and Misato seem to have various daily hot spring every day. Let's enjoy the unique hospitality for those who have visited as a bath.
+
+日替わり湯は全部で９日間分用意され、毎日０時に新たな日替わり湯が\nお披露目されるようですよ。どのような湯になるのかは当日まで分かり\nませんので、ぜひ楽しみにお待ちくださいまし。=The daily hot spring is prepared for 9 days in all, and it seems that a new daily hot spring will be unveiled at midnight every day. I don't know what kind of hot spring will be until the day, so please look forward to it.
+
+旅館で実験するほどヤボじゃないわ。でも……実験されたいのなら、喜んで♪=I'm not bad enough to experiment at an inn. But...\nif you want to volunteer, I'll be happy♪
+どの温泉も自信作よ。たっぷり確かめたもの……自分の体でね。もうふやけちゃうかと思ったわ=Every hot spring is a masterpiece.\nI've confirmed a lot... with my own body. I thought I was going to drown
+湯治も立派な医療法のひとつよ。Dr.ミツキの診察室、湯けむり編……といったところね=Hot spring cure is also one of the splendid medical methods.\n Dr. Mitsuki's examination room, Yukemuri edition...
+はぁい、お風呂の時間ですよ～♪　しっかり浸かって、体の芯まで温まりましょうね～=Okay, it's bath time~♪\nLet's soak in it and warm ourselves to the core~
+私も温泉のように、みんなを優しく包んであげられる素敵な先生になりたいわ～=I want to be a wonderful teacher\nwho can gently wrap everyone up like a hot spring.
+お風呂上がりの牛乳は、急いで飲んだらいけませんよ～？　腰に手を当てて味わって飲みましょうね=You shouldn't drink milk in a hurry after taking a bath, right?\nLet's put our hands on our hips and enjoy the drink.
+よ～し、今日もいっぱいおもてなししちゃうぞ～☆　美人若女将にお任せあれ♪=Okay, I'll give you a lot of hospitality today~☆\nLeave it to a beautiful young landlady ♪
+私も一緒に入っちゃおうかな～。温泉回を描くときの資料も欲しいし？　体当たり取材～☆=May I join you too? Do you want the materials\nfor drawing the hot spring times? 　Body interview~☆
+
+
+イベント公開期間中、日替わりで解放されます。=During the event release period,\nit will be released on a daily basis.
+
+
+::::::::::::::DAY 1
+
+あ、あづいです～っ！！\nここのお湯の温度はおかしいですよ……\nどうなってるですか、ボス！？=Ouch,So hoot!!\nThe temperature of the hot water here is strange...\nHow about you, Boss!?
+今はボスじゃなくて\n若女将って呼んでほしいな～？=Can you not call me Boss?\nI want you to call me a young landlady.
+けっ。\nな～にが若女将ですか……\n根性のねじ曲がったババ女将のくせに。=Ketsu. What is the young landlady...\nDespite the twisted nature of Old hag's landlady.
+イノリちゃん……\n今なんか言った？=Inori-chan ...\nDid you say something?
+いいい、いや何も言ってないですよ～？\nそんなことより温泉です！\nこの熱さはただごとじゃないです……\n絶対ヤバいものが入ってるですよ！=Nnnn, no I didn't say anything at all.\nMore than that, it's a hot spring!\nThis heat isn't just for nothing...\nThere is definitely something dangerous in there!
+人聞きが悪いな～\n危険なものなんて入ってないよ～\n……むしろイノリちゃんだって\nよく知ってるものだし？=I'm not good at hearing people.\nThere's nothing dangerous in here~\n……Or rather, Inori-chan\nIs it something you know well?
+
+言われてみれば……クンクン。\nこのお湯の匂い\nどっかで嗅いだような気がするです。=Come to think of it... sniffing.\nThe smell of this hot water\nI think I smelled it somewhere.
+そうでしょ～？\n正解は～……\nドラゴンもどきちゃんからもらった\n食べると火が吹ける木の実でした～☆=Right~?\nThe correct answer is...\nReceived from Dragon Modoki\nIt was a nut that could blow fire when eaten~☆
+ああっ！？\nあの火の実ですか！\nだったらこの熱さも納得ですよ！\nあいつ、元気だったですか？=Oh!?\nThat fire fruit!\nThen this heat is also convincing!\nhow was he?
+うん☆\n私のこと覚えててくれたみたいでね？\nすぐに実を分けてくれたんだ～♪\nこころよ～く、ね？=Yeah☆\nIt seems like you remembered him?\nHe shared the fruit\nwith me right away~♪\nIt's nice of it, isn't it?
+
+それにしても……\nふぅ。\n実の量を多くしすぎたかな～？\nちょっと火照ってきちゃった～=Even so...\nPhew.\nDid I add too much fruit?\nI got a little hot~
+
+（こ、これは……チャンスですよ！\nあたしよりも先にボスがのぼせたら\nその時点でボスはあたしよりへっぽこ！\nつまりあたしの勝ち！　ザ・下克上！）=(Hey, this is... a chance!\nIf the boss gets hotter than me,\nat that point\nthe boss will be weaker than me!\nIn other words,\nI win! The Gekokujo!)
+
+くっくっく……\nこの勝負、もらったですよー！\nあーっはっはっはっは！=Kukkuku……\nI got this win!\nAhahahahahahahaha!
+うーん♪\nようやくあったまってきた～\nね、イノリちゃん？=hmm ♪\nIt's finally warmed up~\nHey, Inori-chan?
+ぴ……\nぴぃいいい……\nゆでドラゴン族になっちまうです～っ！=Pi……\nPiiiiiiie......\nI'm going to become a boiled dragon!
+
+エルピス島のドラゴンもどきから分けて\nもらった火の実をふんだんにつかった\n情熱的な温泉。ひとたび浸かれば汗が\n滝のように噴き出してくる。その熱さは\n己の限界を極めようとする漢・漢女たちの\n勝負心をがっちりと掴んで離さない。=A passionate hot spring that uses plenty\nof fire nuts given by a dragon-like\ncreature on Elpis Island. Once immersed,\nsweat erupts like a waterfall. The passion\nfirmly grasps the fighting spirit of the\nHan and Han women who are trying to reach\ntheir limits and does not let go.
+冷え性改善、代謝促進、保温効果\n※長時間の入浴にはご注意ください=Improves sensitivity to cold, raise metabolism.\n※Please be careful when bathing\nfor a long time.
+エルピス島原産　火の実、オオトウガラシ=Originating in Elpis Island:\nFire nut, bell pepper
+
+我慢くらべはほどほどに　火の実の湯=Comparing endurance in moderation\nhot water of fire
+
+::::::::::::::DAY 2
+にぎにぎ=Nig nigi
+やっばー！　おフロ、ひっろ～い☆\n温泉きちゃった感まじパない！\nそれにミサトっちにも会えるとか\nちょーウケるし！　アガる～♪=OMG~! Ofuro so wide☆\nIt is not like usual hot spring!\nAnd also can meet Misatochi!\nLMAO~♪
+久しぶりね～、スズナちゃん♪\n今日の温泉はね\nお花のアロマ風呂にしてみたの。\n香りはいいし、お肌にもいいのよ～=It's been a long time~,Suzuna-chan♪\ntoday's hot spring\nI tried the flower aroma bath.\nIt smells good and it's good for your skin
+
+
+やばば、温泉天才じゃん！\nビヨーにもいいとかビビる！\nここ教えてくれた\nちゃんイオに感謝じゃん♪=Damn, you're a hot spring genius!\nI'm scared that it's good for Billy!\nThanks to Chan-Io\nto tell me about this place♪
+よーし！\nじゃあいーっぱい入ってー\nお肌ツヤッツヤにしてー\nヒデサイびっくりさせちゃおーっと☆=All right!\nThen come in full\nMake your skin glossy\nLet's surprise Hidesai☆
+あ、そーだ！\nびっくりっていったらさー？\nここももっとすごそー感\n出しちゃってもいんじゃない？=Oh yeah!\nWhat if you were surprised?\nIsn't it okay to feel\neven more amazing here?
+すごそー感？=It is that great?
+そそ！\nみんな一発でやばば！\nってわかるようにすんの！=ikr! Everyone is yababa with a single shot! Do you want to know!
+フンイキ変わるとバズるかもだし！\nめっちゃかわいいおフロだったら\nお客さんもジャンジャンだよ！=If you change your mood,\nit might go viral!\n If it's a super cute bath,\nthe customer will be Jean Jean!
+かわいいお風呂……\n気になるわね～♪\nどんな感じになるのかしら？=Cute bath...\nI'm curious~♪\nI wonder what it's going to look like?
+
+んっとねー\nやっぱお花はもっと浮かせるっしょ！\nもちろんいろんなやつね！\nカラフルだったらビビビッとくるし♪=Hmm\nAfter all, the flowers will float more!\nAll kinds of things, of course!\nIf it's colorful, it'll make you freak out♪
+
+まるで温泉のお花畑ね～♪\n色とりどりのお花に囲まれて\nお風呂に入れるなんて……うふふ♪\n想像するだけで気持ちが華やぐわ～=It's like a field of flowers\nin a hot spring~♪\nTaking a bath surrounded\nby colorful flowers...\nUfufu♪ Just imagining it\nmakes me feel gorgeous~
+
+そうね、それだったら……\nお花の香りの相性もこだわりたいわね。\nあとは花言葉の意味も。=Well, if that's the case...\nI'd like to be particular\nabout the compatibility of the scent of flowers.\nAlso the meaning of the language of flowers.
+へ？\nハナコトバ？=Hee?\nFlower language?
+お花にはね、その一つ一つに\n意味があるの。\n誰かに贈るときには\n相手へのメッセージにもなるのよ～=Each flower has its own meaning.\nWhen you give it to someone,\nit will also be a message\nto the other person~
+
+ちなみに今日のお花の意味は……\n『愛するあなたのために』\nうふふ、素敵でしょう♪=By the way,\nthe meaning of today's flower is...\n"For you, who I love"\nUfufu, isn't it wonderful♪
+あ、愛する……！\nちょ、それまじ……？\nそんなの、ストレートで……\nなんか…………ズルじゃん。=Ah, Confesion of love...!\nHey, is that true...?\nThat's straight...\nsomehow...\nthat's kool.
+
+えっと……\nバズり計画、ナシで。\n……あー、あつぅ。=Um ...\nNo plan to get viral.\n ...... Ah, hot.
+うふふ♪\nのぼせないように気をつけてね。=Ufufu ♪\nBe careful not to get rid of it.
+
+香り高い花とその花のアロマエッセンスを\n使用した目にも鮮やかな温泉。時間を\n忘れるほどのリラクゼーション効果は\n忙しい都会人のニーズにピッタリ。高い\n美容効果もあいまって、若い女性たちの\n間で大注目のスポットになりつつある。=A hot spring with fragrant flowers and\nthe aroma essence of the flowers.\nThe relaxation effect that makes you\nforget the time is perfect for the needs\nof busy urbanites. Combined with the high\nbeauty effect, it is becoming a hot spot\namong young women.
+美肌効果、リラックス効果、保香効果\n※甘酸っぱい気持ちになることがあります=Beautiful skin effect, relaxation effect,\nincense effect ※Sweet and sour may feel.
+エルフの森産　かぐわし花のエッセンス=Elves Forest Kagwashi Flower Essence
+心華やぐリラクゼーション　アロマの湯=Relaxation that brightens the soul:\nAroma no Yu
+::::::::::::DAY 3
+たまには命のやり取りじゃなくて、命の洗濯をしないとね～。お背中……流しましょうか？=Sometimes I have to wash my life instead of exchanging lives.\nYour back... do you want me to wash it away?
+
+わわっ……\nすごい、シュワシュワしてる……！\n本当にメロンソーダのお風呂に\n入っているみたい……♪=Wow...\nWow, I'm fizzing...!\nIt really feels like you're\nin a melon soda bath...♪
+ふふふ、素敵でしょう？\n子どもたちが喜んでくれるような\n温泉にしたいと思って作ったの。=Fufufu, isn't it nice?\nI made it because I wanted to\nmake a hot spring that\nLolies would be happy with.
+そうだったんですか……=Is that so……
+んだかあやしい人かと思ったけど\n本当はいい人なのかな……）=(I thought he was kind of suspicious,\nbut I wonder if he's really a good person...)
+たしかに子どもは喜びますね。\n……わ、私も思わず\n童心に帰ってしまいましたから。=Children will surely love it.\n……Wow, I unintentionally\nreturned to my childish.
+童心……？\nああ、なるほど。\nそれはよかったわ♪=Childish...? \n Ah, I see. \n That's great♪
+……何か引っかかることでも？=……Is there anything\nthat catches you?
+いいえ、何も♪=No, nothing ♪
+ところで……\n童心に帰ると大きなお風呂で\n泳ぎたくなったりするわよね？\nキョウカちゃんはどう？=By the way...\nWhen you return to your childhood,\nyou want to swim in a big bath,\ndon't you?\nHow's Kyouka?
+泳ぐなんて……！\nしませんよ、そんなことっ！\nはしたないですし……=To swim ...!\nI won't do that!\nIt's shameful...
+はしたないなんて……\n今は私たち二人きりなのよ。\nメロンソーダの中で泳いだら\nきっと楽しいと思うけど……？=What a shame...\nwe're alone now.\nI think it would be fun\nto swim in melon soda...?
+そ、それは……\n楽しそうですけど……\n私も少し泳げるようになりましたし……\nでも、マナー的に……う～ん……=Well, that...\nsounds like fun,\nbut...\nI've learned to swim a little too...\nbut in terms of manners...\numm...
+……ふふふ。\nじゃあ、私は泳いじゃおっかな～？=……Fufufu.\nThen, should I swim?
+ええっ！？\nそんな、ズルいですっ。\nだったら……わ、私もっ！=eee!?\n That's cheating.\nThen... I, me too!
+
+優しい微炭酸と甘いメロンの香りに満ちた\n遊び心をくすぐる温泉。子どもたちが喜ぶ\nような温泉を、というミツキの想いが形に\nなったもの。いつもは大人びている優等生\nさんも、この湯舟に浸かればつい年相応に\nはしゃいでしまうのだとか。=A playful hot spring filled with mild\ncarbonation and sweet melon scent.\nMitsuki's desire to create a hot spring\nthat will please children has taken shape.\nIt is said that even the normally grown-up\nhonor students will be in high spirits\nfor their age if they soak in this bath.
+血行促進、ピーリング効果\n童心に帰る効果=Peeling effect to promote blood\ncirculation Effect to return to childhood
+仲居特製の炭酸泉、メロンエッセンス=Nakai's special carbonated \nspring melon essence
+童心くすぐる微炭酸　メロンソーダの湯=Slightly carbonated melon soda\nhot water that tickles your child's mind
+
+::::::::::::::Day4
+（あの子……\nなんだかずっと静かね～\n電撃が強すぎちゃったかな？）=(That girl...\nshe's been quiet for some reason~\nDid the electric shock get too strong?)
+お客さま～？\nお湯加減と電撃加減はいかがですか～=Customer~? How about hot water\nand electric shock?
+……い=……I
+い？=I?
+イイですぅ～～！！=That's good! !
+
+この甘くビリっとくる感じが\nもうたまりません～♪\nあひんっ！　くうん！　はうぅうっ！=I can't get enough\nof this sweet\nand crispy feeling~♪\nAhin! Kuun! "Uuuuu!"
+ああ、しっかり味わってくれてたんだ～\nなんだか温泉を楽しんでるのとは\n違うような感じがするけど……\n喜んでくれてるなら、いっか☆=Oh, it tasted well~\n It feels different\nfrom enjoying the hot spring... \nbut if you're happy,
+若女将！\nもっと……もっとクウカに刺激を！\n激しくシビれさせてください～！！=Young landlady!\nMore...\ngive more stimulation to Kuuka!\nPlease let me get numb!!
+かしこまりました～♪\nえ～い☆=Understood♪\nEit☆
+あっ。\nちょ～っとサービスしすぎちゃった……\nかな？=Ah.\nI've done too much service...\nmaybe
+……ぐふ。\nぐふふふふ……\n温泉に……目覚めちゃいますぅ……\nじゅるり。=...... Gufu.\nGufufufufufu ...\nI wake up in a hot spring\n...glub
+よかった～なんともないみたい。\nそれにしても……\n今の威力で喜んじゃうなんてね～\n……ウワサ以上だよ、クウカちゃん♪=I'm glad it doesn't seem like anything.\nEven so...\nI can't believe you're happy\n with the power you have now~...\nIt's more than just a rumor,\nKuuka-chan♪
+
+当旅館自慢の源泉に若女将の電撃を加えた\n刺激的な温泉。体中のがんこなコリに効果\nてき面と大好評。今日もデスクワーカー\nから老人たちまで、コリをほぐしに足を\n運んでいる。ちょっぴり痛みを感じるのも\nクセになる理由の一つなのだとか。=A stimulating hot spring with the electric\nshock of the young proprietress added to\nthe source that is the pride of our ryokan.\nIt is very popular as it is effective for\nstubborn stiffness all over the body.\nEven today, people from desk workers to\nthe elderly come here to relieve their\nstiffness. It's one of the reasons why\nit's addictive to feel a little pain.
+
+腰痛・肩こりの解消、血行促進\nビリビリエクスタシートリップ（？）=Relieves back pain and stiff shoulders,\npromotes blood circulation\nBilibili Ecstasy Trip(?)
+若女将の魔法（電撃）=Young landlady's magic (lightning)
+ときめき電撃かけながし☆　ビリビリの湯=Tokimeki Electric Shock ☆ Biribiri no Yu
+
+::::::::::::::Day5
+
+ふう……\nさすがはエルフの森の薬草ね。\n体の疲れが一気になくなっていくわ。=Phew...\nAs expected of an elf forest medicinal herb.\n The tiredness in my body disappears at once.
+喜んでもらえてよかったわ～♪\n実はね、その薬草には\n癒しの魔法もかけてあるの。=I'm glad you were happy~♪\nActually, that medicinal herb\n also has a healing spell cast on it.
+なるほど……\nそれでこの疲労回復効果なのね。\n優れた効能を更に強化……\nうんうん、効率的だわ！=I see... \nThat's why this fatigue recovery effect. \nIncrease its excellent efficacy...\nYeah, it's efficient!
+おかげでバリバリ働けそうよ！\nもうすぐにでも！\nさっそくお風呂からあがって\n臨時のバイトを探さないと！=Thanks to you,\nI can work hard! Soon!\nI have to get out of the bath immediately\nand find a part-time job!
+もう十分、疲れはとれたわ。\nあんまり長湯しちゃうと\nかえって時間がもったいないもの。\n時は金なりよ！=Enough, my tired was gone. \nIf you spend too long in the bath\nit's a waste of time. \n Time is money!
+時は金なり……\nそうね\nそういう考え方もあるわね～=Time is money... \nThere is such a way of thinking~
+でも……\nたまには時間をぜいたくに使うのも\nいいんじゃないかしら？=But...\nIsn't it nice to spend your time lavishly\nonce in a while?
+え？=ee?
+疲れがたまるのは体だけじゃないわ。\nあんまり気を張りすぎたら\n心だって疲れちゃうもの。=It's not just your body that gets tired. \nIf you try too hard,\nyour heart will get tired.
+そういう目に見えないところを癒すのも\n大切なことだって……\n私は思うの♪=I think it's \nimportant to heal those things\nthat you can't see...♪
+た、たしかに……\nそういう考え方もあるわね。\nはるばるオーエドまで足を運んだんだし\nこの機会を生かした方がいいのかも……=Well, that's true... \nThere's a way to think about it. \nI've traveled all the way to Oed\nSo maybe I should make the most of this opportunity...
+……分かったわ。\nしっかりたっぷり時間を使って\n徹底的にリラックスしてみせる！\nこれも必要経費ってやつよ！=……I got it. \nMake sure you have plenty of time\nto relax! \nThis is also a necessary expense!
+うふふ、それがいいわ～\n温泉はの～んびりするところだもの。\nどうぞ、ごゆるりと♪=Ufufu, that's good~\nHot springs are a relaxing place. \nPlease take it easy♪
+
+あらゆる疲労を回復すると名高い温泉。\nエルフの森自慢の薬草類を調合し、その\n効果を高めた薬湯は、疲れ切った人々の\nいこいの場。世の働き者たちは、この湯\nに浸かっては働き、また浸かっては働く\nのを繰り返して精を出すのだとか。=A hot spring famous for relieving fatigue.\nA medicinal bath that enhances the effects\nof medicinal herbs that are the pride of Elf\nForest is a place of relaxation for people\nwho are exhausted. It is said that the hard\nworkers of the world work hard by soaking in\nthis hot water and working, then soaking and\nworking again.
+超・肉体疲労回復、超・神経疲労回復\n超・精神疲労回復=Super Physical Fatigue Recovery,\nSuper Neural Fatigue Recovery\nSuper Mental Fatigue Recovery
+エルフの森産　ヒールリーフの根っこ=Elves Forest's Heal-Leaf Rots
+明日への活力をあなたに　疲労回復の湯=Give you vitality for tomorrow\nHot water to recover from fatigue

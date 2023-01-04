@@ -23,9 +23,9 @@ ex
 Skills+
 UB
 プリンセスマリンインパクト=Princess Marine Impact
-前方範囲内の敵すべてに物理特大ダメージを与え、さらに自分の物理攻撃力を中アップさせる。このスキルで与えたダメージ量に応じて、物理攻撃力の上昇量が最大10倍までアップする。=Deals massive P.DMG to all enemies in the front range, and further increases your physical attack power. Depending on the amount of damage done by this skill, P.ATK will increase up to 10 times.
+前方範囲内の敵すべてに物理特大ダメージを与え、さらに自分の物理攻撃力を中アップさせる。このスキルで与えたダメージ量に応じて、物理攻撃力の上昇量が最大10倍までアップする。=Deals massive P.DMG to all enemies in the front range, and further boost your physical attack power. Depending on the amount of damage done by this skill, P.ATK will increase up to 10 times.
 
-r:"^範囲内の敵に(\d+)の物理ダメージ\n自分の物理攻撃力を(\d+)アップ$"=Deals $1 P.DMG to enemies in the range\nBoosts own P.ATK by $2 for 18s.
+r:"^範囲内の敵に(\d+)の物理ダメージ\n自分の物理攻撃力を(\d+)アップ$"=Deals $1 P.DMG to enemies in the range\nBoosts own P.ATK by $2.
 S1
 自分の物理攻撃力を特大アップさせ、物理クリティカルを大アップさせるが、魔法防御力を中ダウンさせる。=Massive boost to own P.ATK and Large boost to own P.Crit Rate, but lowers own M.DEF by a moderate amount.
 r:"^自分の物理攻撃力を(\d+)アップ\n自分の物理クリティカルを100アップ\n自分の魔法防御力を初期値の20%ダウン$"=Boosts own P.ATK by $1 for 12s.\nBoosts own P.Crit Rate by 100 for 12s.\nLowers own M.DEF by 20% for 12s.

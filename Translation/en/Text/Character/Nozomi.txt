@@ -3,7 +3,7 @@ Nozomi
 歌って踊れる大人気アイドル=A popular idol known for her singing and dancing
 
 舞台鑑賞、ダンス=Watching stage performances, dancing
-【物理】前衛で、皆の壁になって戦うアイドルのぞみん。彼女がステージに立てば、味方の物理攻撃力が大きくアップし、さらに敵の注意を一手に惹き付ける。=[Physical] An idol who fights from the VG, protecting others. Once on stage, she greatly boosts the attack power of allies while drawing all enemy attacks to herself.
+【物理】前衛で、皆の壁になって戦うアイドルのぞみん。彼女がステージに立てば、味方の物理攻撃力が大きくアップし、さらに敵の注意を一手に惹き付ける。=[Physical] An idol who fights from the VG, protecting others. Once on stage, she Large boosts the attack power of allies while drawing all enemy attacks to herself.
 
 高みへ続く道へ=To the road leading to high levels
 輝きの原点=The origin of shine
@@ -34,7 +34,7 @@ ex
 Skills+
 UB
 ライブ・オンスペシャルステージ=Live on Special Stage
-【挑発】味方全体の物理攻撃力を大アップさせ、物理/魔法無効バリアを展開し、自分の物理防御力と魔法防御力を特大アップさせる。さらに敵全体を挑発してスタンさせる。=[Taunt] Greatly increases the P.ATK of all allies, deploys a P/M nullification barrier, and greatly increases own M/P.DEF. Also provokes and stuns all enemies.
+【挑発】味方全体の物理攻撃力を大アップさせ、物理/魔法無効バリアを展開し、自分の物理防御力と魔法防御力を特大アップさせる。さらに敵全体を挑発してスタンさせる。=[Taunt] Large boost the P.ATK of all allies, deploys a P/M nullification barrier, and Large boost own M/P.DEF. Also provokes and stuns all enemies.
 
 r:"^味方全体の物理攻撃力を(\d+)アップ\n(\d+)ダメージ分の物理魔法無効バリアを展開する\n自分の物理防御力を(\d+)アップ\n自分の魔法防御力を(\d+)アップ\n敵全体を挑発する\n敵全体を一定時間行動不能にする$"=Boosts all allies' P.ATK by $1 for 18s.\nDeploy a barrier that Nullifies P/M. DMG $2 to All Allies for 20s.\nBoosts own P.DEF by $3 for 18s.\nBoosts own M.DEF by $4 for 18s.\nProvokes all enemies for 11s.\nInflicts Stun to all enemies for 1.5s.
 S1

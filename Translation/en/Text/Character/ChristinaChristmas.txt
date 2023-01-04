@@ -20,9 +20,9 @@ r:"^コインを持っていない場合、対象の味方の物理攻撃力を(
 コインを持っていない場合、物理攻撃を行うすべての味方キャラの物理攻撃力を特大アップさせる。コインを持っている場合、物理攻撃を行うすべての味方キャラの物理攻撃力を中アップさせる。さらに、自分の物理攻撃力を特大アップさせ。=If Christina doesn't have a Coin, boosts the P.ATK of all P.type's allies (L). If Christina does have a Coin, boosts the P.ATK of all P.type's allies (M) and her own P.ATK (XL).
 
 
-r:"^コインを持っていない場合、敵単体に(\d+)の物理ダメージ\nコインを持っている場合、敵単体に(\d+)の物理ダメージ\nコインを持っている場合、味方全体のＴＰ上昇を10アップ$"=Cast Time: 0.58s\nIf Christina doesn't have a Coin:\nDeals 17511 P.DMG to an enemy.\n\nIf Christina has a Coin:\nDeals 15565 P.DMG to an enemy.\nBoosts all allies' TP Boost by 10 for 12s.
+r:"^コインを持っていない場合、敵単体に(\d+)の物理ダメージ\nコインを持っている場合、敵単体に(\d+)の物理ダメージ\nコインを持っている場合、味方全体のＴＰ上昇を10アップ$"=Cast Time: 0.58s\nIf Christina doesn't have a Coin:\nDeals 17511 P.DMG to an enemy.\n\nIf Christina has a Coin:\nDeals 15565 P.DMG to an enemy.\nBoosts all allies' TP boost by 10 for 12s.
 
-コインを持っていない場合、目の前の敵１キャラに物理中ダメージを与える。コインを持っている場合、目の前の敵１キャラに物理中ダメージを与え、さらに味方全体のＴＰ上昇を小アップする。=If Christina doesn't have a Coin, deals moderate P.DMG to an enemy directly in front. If Christina does have a Coin, deals moderate P.DMG to an enemy directly in front and boosts the TP Boost of all allies by a small amount.
+コインを持っていない場合、目の前の敵１キャラに物理中ダメージを与える。コインを持っている場合、目の前の敵１キャラに物理中ダメージを与え、さらに味方全体のＴＰ上昇を小アップする。=If Christina doesn't have a Coin, deals moderate P.DMG to an enemy directly in front. If Christina does have a Coin, deals moderate P.DMG to an enemy directly in front and boosts the TP boost of all allies by a small amount.
 
 バーンスクリプト+=Burn Script+
 バーンスクリプト=Burn Script

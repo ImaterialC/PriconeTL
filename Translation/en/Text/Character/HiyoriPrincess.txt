@@ -9,13 +9,13 @@
 
 r:"^自分の物理攻撃力を(\d+)アップ\n自分の物理クリティカルを25アップ\n自分の物理攻撃クリティカル時のダメージを5％アップ$"=Cast Time: 0.6s\nBoosts own P.ATK by $1 for 180s.\nBoosts own P.Crit by 25 for 180s.\nBoosts own P.Crit dmg by 5% for 180s.
 
-自分の物理攻撃力を中アップさせ、さらに物理クリティカルと物理攻撃クリティカル時のダメージを小アップさせる。=Moderately increases own P.ATK, and also slightly increases P.Crit rate and P.Crit dmg.
+自分の物理攻撃力を中アップさせ、さらに物理クリティカルと物理攻撃クリティカル時のダメージを小アップさせる。=Moderately boost own P.ATK, and also slightly boost P.Crit rate and P.Crit dmg.
 
-自分の物理攻撃力を小アップさせ、さらに目の前の敵１キャラに物理中ダメージを与える。=Increases own P.ATK by a small amount, and inflicts medium P.DMG to 1 enemy character in front.
+自分の物理攻撃力を小アップさせ、さらに目の前の敵１キャラに物理中ダメージを与える。=Boost own P.ATK by a small amount, and inflicts medium P.DMG to 1 enemy character in front.
 
 
 r:"^自分の物理攻撃力を(\d+)アップ\n自分の物理クリティカルを40アップ\n自分の物理攻撃クリティカル時のダメージを10％アップ\n自分のＴＰを100回復$"=Cast Time: 0.6s\nBoosts own P.ATK by $1 for 180s.\nBoosts own P.Crit by 40 for 180s.\nBoosts own P.Crit dmg by 10% for 180s.\nRecovers own TP by 100.
-自分の物理攻撃力と物理クリティカルを中アップさせ、さらに物理攻撃クリティカル時のダメージを小アップし、ＴＰを小回復させる。=Moderately increases own P.ATK, and also slightly increases P.Crit rate and P.Crit dmg and restores a small amount of TP..
+自分の物理攻撃力と物理クリティカルを中アップさせ、さらに物理攻撃クリティカル時のダメージを小アップし、ＴＰを小回復させる。=Moderately boost own P.ATK, and also slightly boost P.Crit rate and P.Crit dmg and restores a small amount of TP..
 
 
 ヒヨリブレイジングインパクト=Hiyori Brazing Impact

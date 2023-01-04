@@ -21,7 +21,7 @@
 
 r:"敵単体に(\d+)の物理ダメージ\n毎秒(\d+)の物理ダメージを与えるフィールドを展開する$"=Deals $1 P.DMG to an enemy.\nCreates a Field (Radius 300) around the target for 15.5s.\nDeals $2 P.DMG/s to All Enemies within the Field.
 
-味方全体の物理攻撃力を特大アップさせ、物理クリティカルと物理攻撃クリティカル時のダメージを小アップさせる。=Massively increases the physical attack power of all allies, and slightly increases physical critical damage and physical attack critical damage.
+味方全体の物理攻撃力を特大アップさせ、物理クリティカルと物理攻撃クリティカル時のダメージを小アップさせる。=Massively boost the physical attack power of all allies, and slightly boost physical critical damage and physical attack critical damage.
 
 r:"味方全体の物理攻撃力を(\d+)アップ\n味方全体の物理クリティカルを(\d+)アップ\n味方全体の物理攻撃クリティカル時のダメージを10％アップ$"=Boosts all allies' P.ATK by $1 for 12s.\nBoosts all allies' P.Crit Rate by $2 for 12s.\nBoosts all allies' P.Crit Dmg by 10% for 12s.
 

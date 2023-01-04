@@ -25,17 +25,17 @@ Skill Name
 アクセルロンド+=Accel Rondo+
 Skills
 UB
-目の前の敵１キャラに物理特大ダメージを与え、さらに自分に【氷竜の印】を５つ追加する。このバトル中にユニオンバーストを使用する度に、追加する印の数が１つ増える。【氷竜の印】は最大10まで追加される。=Deals small P.DMG to the nearest enemy and applies 5 [Ice Dragon Mark] stacks to herself. The amount of [Ice Dragon Mark] stacks applied increases by 1. [Ice Dragon Mark] stacks up to 10.
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分に【氷竜の印】を５つ追加する。このバトル中にユニオンバーストを使用する度に、追加する印の数が１つ増える。【氷竜の印】は最大10まで追加される。=Deals small P.DMG to the nearest enemy and applies 5 [Ice Dragon Mark] stacks to herself. The amount of [Ice Dragon Mark] stacks applied boost by 1. [Ice Dragon Mark] stacks up to 10.
 S1
-目の前の敵１キャラに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。このスキルのダメージは、【氷竜の印】の数に応じて増加する。【氷竜の印】を１つ消費する。=Deals small P.DMG to the nearest enemy and lowers the target's P.DEF. This Skill's damage increases according to the number of [Ice Dragon Mark] stacks. Uses up 1 [Ice Dragon Mark].								
+目の前の敵１キャラに物理小ダメージを与え、さらに物理防御力を小ダウンさせる。このスキルのダメージは、【氷竜の印】の数に応じて増加する。【氷竜の印】を１つ消費する。=Deals small P.DMG to the nearest enemy and lowers the target's P.DEF. This Skill's damage boost according to the number of [Ice Dragon Mark] stacks. Uses up 1 [Ice Dragon Mark].								
 S2
 r:"^物理攻撃力を(\d+)アップさせるフィールドを展開する$"=Deploy a field of radius 400 that Boosts P.ATK of all allies by $1 for 12s.
-自分の周囲に、物理攻撃力を小アップさせるフィールドを展開する。物理攻撃力の上昇量は、【氷竜の印】の数に応じて増加する。【氷竜の印】を１つ消費する。=Cast Time: 0.465sDeploy a field around you that slightly increases P.ATK. The increase in P.ATK increases according to the number of Ice Dragon Marks. Consume 1 [Ice Dragon Mark]
+自分の周囲に、物理攻撃力を小アップさせるフィールドを展開する。物理攻撃力の上昇量は、【氷竜の印】の数に応じて増加する。【氷竜の印】を１つ消費する。=Cast Time: 0.465sDeploy a field around you that slightly boost P.ATK. The increase in P.ATK boost according to the number of Ice Dragon Marks. Consume 1 [Ice Dragon Mark]
 ex
 Skills+
 UB
 フロストファング=Frost Fang
-目の前の敵１キャラに物理特大ダメージを与え、さらに自分に【氷竜の印】を７つ追加する。このバトル中にユニオンバーストを使用する度に、追加する印の数が１つ増える。【氷竜の印】は最大20まで追加される。【凍る湖】のフィールド展開中、自分に継続ＴＰ回復状態を付与する。このスキルのＴＰの回復量は【氷竜の印】の数に応じて増加する。=Deals massive P.DMG to the nearest enemy and applies 7 [Ice Dragon Mark] stacks to herself. After every Union Burst, applies 1 [Ice Dragon Mark] (Caps at 20 Stack) to Self. Grants continuous TP recovery to self while deploying [Frozen Lake] on the field. The amount of TP recovered increases according to the number of [Ice Dragon Mark].
+目の前の敵１キャラに物理特大ダメージを与え、さらに自分に【氷竜の印】を７つ追加する。このバトル中にユニオンバーストを使用する度に、追加する印の数が１つ増える。【氷竜の印】は最大20まで追加される。【凍る湖】のフィールド展開中、自分に継続ＴＰ回復状態を付与する。このスキルのＴＰの回復量は【氷竜の印】の数に応じて増加する。=Deals massive P.DMG to the nearest enemy and applies 7 [Ice Dragon Mark] stacks to herself. After every Union Burst, applies 1 [Ice Dragon Mark] (Caps at 20 Stack) to Self. Grants continuous TP recovery to self while deploying [Frozen Lake] on the field. The amount of TP recovered boost according to the number of [Ice Dragon Mark].
 r:"^敵単体に(\d+)の物理ダメージ\nフィールド展開中、毎秒ＴＰを10回復する$"=Deals $1 P.DMG to an enemy.\nDeploy a field that recovers own's TP by 10/s for 10.5s.
 
 S1

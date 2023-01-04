@@ -106,7 +106,7 @@ r:"^HP吸収＋(\d+)$"="HP Drain +$1"
 r:"^HP自動回復＋(\d+)$"="HP Regen +$1"
 r:"^回復量上昇＋(\d+)$"="Heal Bonus +$1"
 
-r:"^TP上昇＋(\d+)$"="TP Boost +$1"
+r:"^TP上昇＋(\d+)$"="TP boost +$1"
 r:"^TP自動回復＋(\d+)$"="TP Regen +$1"
 r:"^TP消費軽減＋(\d+)$"="TP Retain +$1"
 

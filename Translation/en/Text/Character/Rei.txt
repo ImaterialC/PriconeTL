@@ -6,7 +6,7 @@
 スラッシュストーム=Hurricane Slash
 ===S1
 ===S2
-目の前の敵１キャラに物理中ダメージを与える。攻撃前の構え中にレイが受けたダメージに応じて、与えるダメージがアップする。=Deals moderate P.DMG to an enemy directly in front. Boost to damage dealt based on the damage taken while in pre-attack stance.
+目の前の敵１キャラに物理中ダメージを与える。攻撃前の構え中にレイが受けたダメージに応じて、与えるダメージがアップする。=Deals moderate P.DMG to an enemy directly in front. boost to damage dealt based on the damage taken while in pre-attack stance.
 ===ex
 ラピッドフェンサー=Rapid Riposte
 ===Skills+

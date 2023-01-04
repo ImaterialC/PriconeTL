@@ -15,7 +15,6 @@ r:"^スキップチケットとボスチケットを消費して\n(\d+)体ボス
 [FFBB00,CE4F00]30[-][3C404E]枚で挑戦[-]=[FFBB00,CE4F00]30[-][3C404E]Tixs[-]
 [FFBB00,CE4F00]20[-][3C404E]枚で挑戦[-]=[FFBB00,CE4F00]20[-][3C404E]Tixs[-]
 ===Event===
-イ= 
 登録中=Registered
 ドロップ報酬=Drop reward
 ボス詳細=Boss Details
@@ -32,9 +31,12 @@ r:"^([0-9/: ]{11})に$"=$1
 イベント開催終了！=The event is over!
 ボスバトルは終了しました。=The boss battle has ended.
 イベントクエストは終了しました。=Event quest has ended.
-r:"^開催日時:([0-9/: ]{11})～([0-9/: ]{11})$"=Period: $1 to $2
+r:"^開催日時:([0-9/: ]+)～([0-9/: ]+)$"=Period: $1 to $2
+
+
 イベント=Event
-ベント=Event
+イ=I
+ベント=n Event
 討伐証=Medals
 討伐証交換=Medal Gacha
 ボスチケット=Boss Tickets
@@ -100,7 +102,7 @@ r:"^([1-9])回目の報酬をリセット$"=Reward Reset $1
 あとボスを3回1バトルで撃破することで解放されます。=Can Skip by defeating the boss 3 times in one battle.
 あとボスを2回1バトルで撃破することで解放されます。=Can Skip by defeating the boss twice in one battle.
 あとボスを1回1バトルで撃破することで解放されます。=Can Skip by defeating the boss once in one battle.
-
+魔法提督ラブリー★モニカ レッツゴー！マジカルカルテット！=Magical Admiral Lovely★Monica Let's Go! Magical Quartet!
 ===Login===
 イベントログインボーナス獲得=Event Login Bonus Received
 r:"^(\d+)日目のログインボーナスとして以下のアイテムを獲得しました。$"=You received the following items as a bonus for logging on the day $1.

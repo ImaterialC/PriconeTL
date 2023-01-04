@@ -8,6 +8,7 @@ Lv強化=Level Up
 絆ストーリー=Story
 ★変更=★Change
 
+強化できる箇所がありません。=There are no areas to strengthen.
 自分のキャラではないので★変更できません。=You can't change the ★ that isn't yours
 おまかせ強化=Optimize
 まとめて装備=Equip All
@@ -115,6 +116,8 @@ sr:"^ (\[[0-9a-fA-F,]{6,14}\])RANK(\d+)\[-\] \[3C404E\]の装備一覧\[-\]$"=" 
 EXスキルスロット=EX skill slot
 ランク ブロンズで開放=Open at Rank Bronze
 セット=set
+
+★6解放クエストに必要なアイテムをセットします。よろしいですか？=Set the items required for the Unlocking ★6 quest. Is it OK?
 
 素材を購入=Buy material
 
