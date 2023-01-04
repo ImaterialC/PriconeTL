@@ -117,4 +117,6 @@ jobs:
           name: ${{ env.RELEASE_NAME }}
           body: ${{ steps.changelog.outputs.changes }}
           tag: ${{ env.RELEASE_TAG }}
-          artifacts: "./PriconneTL_${{ env.TODAY_DATE }}.zip"
+          artifacts:
+            "./PriconneTL_${{ env.TODAY_DATE }}.zip"
+>>>>>>> f5e54ee94fc5cdead48bc8a0db841e8a21eb628c
