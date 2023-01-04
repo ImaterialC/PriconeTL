@@ -1,5 +1,7 @@
 name: Push Discord notification
-on: release
+on:
+  release:
+    types: [released]
 defaults:
   run: 
     shell: pwsh
