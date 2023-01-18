@@ -69,10 +69,10 @@ r:"^あと([\d])時間有効$"=$1 Hours Left
 ===Age registration
 入力する=input
 年齢確認=Age Confirmation
-16歳未満=under 16y.
+16歳未満=under 16yo
 1か月=per month
-16歳～19歳=16-19y.o.
-20歳以上={{A}}y. or older
+16歳～19歳=16-19yo
+20歳以上=20yo or older
 制限なし=No limit
 5,000ptまで=Up to 5,000PT
 10,000ptまで=Up to 10,000PT

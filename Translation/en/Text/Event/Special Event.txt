@@ -5,7 +5,6 @@ sr:"^[3C404EFF](.+)nと仲間たちは、[3C404EFF]\n『終炎の巨神』を止
 テンタパス=Tentapus
 ファントムバロン=Phantom Baron
 黒の王=Black king
-魔物の姫=Demon princess
 アリス=Alice
 下忍たち=Ninjas
 ハンゾウ=Hanzo

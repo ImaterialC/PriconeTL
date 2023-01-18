@@ -1,16 +1,20 @@
-﻿よ～し、今日もいっぱいおもてなししちゃうぞ～☆　美人若女将にお任せあれ♪=Okay, I'll give you a lot of hospitality today ~ ☆ Leave it to a beautiful young landlady ♪
-ふう……\nさすがはエルフの森の薬草ね。\n体の疲れが一気になくなっていくわ。=Huh ... it's a herb in the elves forest. I'm tired of my body at once.
-喜んでもらえてよかったわ～♪\n実はね、その薬草には\n癒しの魔法もかけてあるの。=I'm glad I was pleased ♪ Actually, the herb also has a healing magic.
-なるほど……\nそれでこの疲労回復効果なのね。\n優れた効能を更に強化……\nうんうん、効率的だわ！=I see ... that's this fatigue recovery effect. Strengthen excellent effects ... Yeah, it's efficient!
-おかげでバリバリ働けそうよ！\nもうすぐにでも！\nさっそくお風呂からあがって\n臨時のバイトを探さないと！=Thanks to you, you can work hard! Soon soon! I have to get up from the bath and find a temporary part -time job!
-あらあら、もう上がっちゃうの？\nせっかくの温泉なんだから\nもうちょっとゆっくりしていって？=Oh, are you going up? It's a hot spring, so let's relax a little more?
-もう十分、疲れはとれたわ。\nあんまり長湯しちゃうと\nかえって時間がもったいないもの。\n時は金なりよ！=I'm tired enough. It's a waste of time if you take a long bath too much. Time is money!
-時は金なり……\nそうね\nそういう考え方もあるわね～=Time is money ... There is such a way of thinking ~
-でも……\nたまには時間をぜいたくに使うのも\nいいんじゃないかしら？=But ... I wonder if it is good to spend time in time occasionally?
-え？=picture?
-疲れがたまるのは体だけじゃないわ。\nあんまり気を張りすぎたら\n心だって疲れちゃうもの。=It's not just the body that gets tired. If you are too careful, you will get tired of your heart.
-そういう目に見えないところを癒すのも\n大切なことだって……\n私は思うの♪=It is important to heal such invisible places ... I think ♪
-た、たしかに……\nそういう考え方もあるわね。\nはるばるオーエドまで足を運んだんだし\nこの機会を生かした方がいいのかも……=Certainly, there is such a way of thinking. I went all the way to Oraed, so maybe it would be better to take advantage of this opportunity ...
-
-{0}のステータスアップボーナス={0} status up bonus
-
+﻿キャラLvと\\nスキルLvのみ強化=Enhancement of character Lv and \\ n skill Lv only
+フラグメントを\\n消費する=Competition of fragments \\ n
+ニューイヤーズスマイル+=New Year's Smile+
+・新春・真心三段重ね\n・ハッピーニューテイスト\n・ニューイヤーアフェクション\n・ニューイヤーズスマイル+=・ New Year / Shinshin 3 steps ・ Happy New Test ・ New Year Affection New Years Smile+
+春沓+=Spring shoe+
+強化Lv上限まで\\nLvアップする=Enhanced Lv Up to the upper limit \\ nlv up
+マヒル（クリスマ\nス）のメモリーピ…=Mahill (Christmas\nMemory Pi ...
+ミソギ＆ミミ＆キョ\nウカのメモリーピ…=Misogi & Mimi & Kyyo\nUka's Memory Pi ...
+ミヤコ（クリスマ\nス）のメモリーピ…=Miyako (Christmas\nMemory Pi ...
+ドラモフレイム=Dramo frame
+ドラゴニックショット+=Dragonic shot+
+ドラゴンズタクト=Dragons tact
+下剋上ですよ！=It's a rebellion!
+イワノヅチ=Iwanozuchi
+水瑚麟=Mizuko Rin
+おこぷんダーツ+=Okopon Darts+
+カリスマオーラ♪=Charismatic aura ♪
+新春美食メモリーズ　 シェフィのおつかい大作戦！=New Year's Gourmet Memories Sheffi's Useful Strategy!
+もてなしの心で=With a hospitality heart
+[3C404EFF]イリヤやシェフィにも楽しんでもらいたいじゃないか。=[3C404EFF] I want Ilya and Sheffi to enjoy it.

@@ -1,0 +1,32 @@
+目を閉じて行けるかな…？=Can you close your eyes ...?
+r:"^ガストロス山([0-9\-\(\)\w （）]*)$"=Mount Gastros Venue $1
+邪牛神モーモン=Evil God Ox
+
+[3C404EFF]返してもらうわ！=[3c404eff] I'll get it back!
+[3C404EFF]覚悟してもらうよ！=[3C404EFF] I'll be prepared!
+[3C404EFF]\nあやつ、逃げおったぞ！=[3C404EFF] Aya, I ran away!
+[3C404EFF]絶対に取り返してみせるんだから……！=[3c404eff] I will definitely get it back ...!
+[3C404EFF]準備万端で待ち構えてるよ。=[3C404EFF] I'm waiting for you.
+[3C404EFF]ゆくぞ！=[3c404eff]
+[3C404EFF]追いついたぞ！=[3C404EFF] I've caught up!
+[3C404EFF]ちょこまかと逃げ回りおって……=[3c404eff] Running around a little ...
+[3C404EFF]いくよ！=[3C404EFF] Go!
+[3C404EFF]準備はしっかりしておかないとね。=[3C404EFF] I have to be ready.
+[3C404EFF]手間をかけさせおって。=[3C404EFF] Let me spend time.
+[3C404EFF]笑顔のお正月そのものなの。=[3c404eff] It's a smiley New Year itself.
+[3C404EFF]\nいいこと言うじゃないか。=[3c404eff] Isn't it good?
+[3C404EFF]\n覚悟はできておろうな！=[3C404EFF] Let's be prepared!
+[3C404EFF]私たちのお正月、=[3c404eff] Our New Year,
+勝利のおせち=Victory New Year
+[3C404EFF]\n終わった……？=[3c404eff]\nfinished……?
+[3C404EFF]荷物は無事なようだね。=[3C404EFF] Luggage seems to be safe.
+[3C404EFF]よかったじゃないか、シェフィ。=[3C404EFF] I guess it was good, Chefi.
+[3C404EFF]よかった……=[3c404eff] I'm glad ...
+[3C404EFF]本当にありがとう。=[3C404EFF] Thank you very much.
+[3C404EFF]よかったら二人にもごちそうしたいのだけど……=[3c404eff] I would like to feast for them if you like ...
+[3C404EFF]それじゃあ楽しみにしてるよ。=[3C404EFF] I'm looking forward to it.
+[3C404EFF]美味しいものを作るわね！=[3c404eff] I'll make delicious food!
+[3C404EFF]\nさっそくショップに行ってみましょう。=[3c404eff] Let's go to the shop immediately.
+[3C404EFF]\n装備と交換できます。=[3C404EFF] can be exchanged for equipment.
+
+んなでおせちパーティー=veryone's New Year Party

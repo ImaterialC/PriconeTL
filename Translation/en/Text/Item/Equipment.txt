@@ -4,7 +4,7 @@
 sr:"^(.+)（欠片）$"=$1 (Piece)
 sr:"^(.+)の設計図$"=$1 Blueprint
 
-sr:"^必要Lv(\d+)\n「(.+)」([\s\S]+)。$"=Required Lv$1\nA$3 of $2.
+sr:"^必要Lv(\d+)\n「(.+)」(.+)。$"=Required Lv$1\nA$3 of $2.
 sr:"^「(.+)」([の設計図欠片\n]+)。$"="A$2 of $1."
 
 アイアンブレード=Iron Blade
@@ -484,3 +484,10 @@ sr:"^「(.+)」([の設計図欠片\n]+)。$"="A$2 of $1."
 ローズルージュペンダント=Rose Rouge Pendant
 ローズベルテペンダント=Rose Berte Pendant
 ラピスローズペンダント=Lapis Rose Pendant
+
+バリアントデモンズホーン=Variant Demon's Horn
+ディアブロスカルぺ=Diablos Carpe
+エンヴィデモンズホーン=Envidemon's Horn
+カースドデモンズローブ=Cursed Demon's Robe
+デモンズペインメイル=Demon's Pain Mail
+デモンズバインドアーマー=Demon's Bind Armor
