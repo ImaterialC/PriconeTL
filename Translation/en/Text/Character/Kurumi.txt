@@ -26,6 +26,6 @@ r:"^味方全体の物理防御力を(\d+)アップ\n味方全体の魔法防御
 ===ex
 ブリリアントアクト+=Brilliant Resolve+
 バトル開始時に自分の最大ＨＰを大アップさせ、さらに自分の魔法防御力を小アップさせる。=Large boost to own max HP and small boost to M.DEF at start of battle.
-r:"^自分の最大ＨＰを(\d+)アップさせる\n自分の魔法防御力を(\d+)アップ$"=Boosts own max HP by $1.\nBoosts own M.DEF by $1.
+r:"^自分の最大ＨＰを(\d+)アップさせる\n自分の魔法防御力を(\d+)アップ$"=Boosts own max HP by $1.\nBoosts own M.DEF by $2.
 ===UE
 ピュアアクトベル=Pure Actress Bell

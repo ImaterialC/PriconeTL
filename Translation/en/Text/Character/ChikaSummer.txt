@@ -11,7 +11,7 @@ r:"^味方全体の物理防御力を(\d+)アップ\n味方全体の魔法防御
 r:"^範囲内の味方の魔法防御力を(\d+)アップ\n自分のＴＰを(\d+)回復\n(\d+)ダメージ分の魔法無効バリアを展開する$"=Boosts all allies' M.DEF by $1 within range 255 for 12s.\nRecovers own TP by $2.\nDeploys Barrier within range 255 that negates $3 M.DMG.
 
 r:"^味方単体のＨＰを(\d+)回復\n毎秒ＨＰを(\d+)回復する$"=Recovers an ally's HP by $1.\nRecovers an ally's HP by $2/s.
-最もＨＰが低い味方１キャラのＨＰを小回復させ、継続ＨＰ回復状態を付与する。=Slightly restores the HP of the ally character with the lowest HP, and gives continuous HP recovery.
+最もＨＰが低い味方１キャラのＨＰを小回復させ、継続ＨＰ回復状態を付与する。=Slightly restores the HP of the ally character with the lowest HP, and gives HP regen.
 
 サマーディーヴァ=Summer Diva
 サマーディーヴァ+=Summer Diva+

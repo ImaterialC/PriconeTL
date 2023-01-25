@@ -20,20 +20,11 @@ r:"^世界の果ての森([0-9\-\(\)\w （）]*)$"=Forest at the End of the Worl
 すごい強いアヤネちゃん。=A very strong Ayane-chan.
 石頭のアヤネちゃん。=together with Ayane-chan.
 いつも通りのアヤネちゃん。=Ayane-chan as usual.
-[3C404EFF]どんな私だと思う？=[3c404eff] What kind of me do you think?
-[3C404EFF]そうしたら私が守ってあげるね♪=[3c404eff] Then I will protect you♪
 
 モフモフ勝負とは=What is Flufy game?
-[3C404EFF]リマさんの言ってたモフモフ勝負って=[3C404EFF] Mofumofu game that Lima said
 リマちゃんも、もこもこ大きくなったりするのかな。=I wonder if Lima will get bigger.
 アヤネちゃんが審判になるのは？=Ayane-chan will be the referee?
 アヤネちゃんも参戦してみよう。=Ayane-chan, let's join the battle.
-[3C404EFF]\n何だったんだろう？=[3c404eff]\nWhat was I would?
-[3C404EFF]今度やってもらおうよー！=[3c404eff] Let's do it next time!
-
-[3C404EFF]私がどこかで一人ぼっちで、=[3c404eff] I'm alone somewhere,
-[3C404EFF]\nすっごく寂しくなってたら……=[3c404eff] If i am alone...
-[3C404EFF]お兄ちゃんは来てくれる？=[3c404eff] Will onii-chan come?
 
 ぷうきちと一緒に駆けつける。=Rush with Pukichi.
 離れていても気持ちはずっと一緒だよ。=Even if we are apart, our feelings are always together.
@@ -46,6 +37,5 @@ r:"^世界の果ての森([0-9\-\(\)\w （）]*)$"=Forest at the End of the Worl
 フリルやレースを足してみよう。=Let's add frills and laces.
 僕もお揃いが欲しい。=I want a match too.
 マホ姫の新境地だね。=It's a New frontier for Princess Maho.
-[3C404EFF]似合うてますやろか？=[3c404eff]Does it look good on me?
 
 sr:"イベント「([\s\S]+)」のスペシャルエピソードが解放されました。"="A special episode of the event\n"$1"\nhas been unlock."

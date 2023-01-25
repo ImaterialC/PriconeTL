@@ -52,24 +52,15 @@ r:"^和平活動の道のり([0-9\-\(\)\w （）]*)$"=The Journey of Peace Activ
 ハグをすること。=Hug.
 手をつなぐこと。=Hold hands.
 話をちゃんと聞くこと。=Listen to the story properly.
-[3C404EFF]自分たちは何をしたらいいんスかね？=[3c404eff] What should we do?
 
-[3C404EFF]えへへ♪=[3c404eff] Ehehe ♪
-[3C404EFF]獣人族との和平活動……=[3c404eff] Public activities with the beasts ...
-[3C404EFF]\nジュンさんが自分を信じて託してくれた任務ッス！=[3C404EFF] Jun -san believed and entrusted himself!
-[3C404EFF]絶対やり遂げてみせるッスよ！=[3c404eff] I'll definitely do it!
 獣人族ってどんな人？=What kind of person is a beast person?
 みんなの期待に応えよう。=Let's meet everyone's expectations.
 クリスティーナさんも一緒だね。=Christina is the same.
 
 
-[3C404EFF]頑張るしかないッスよね！=[3C404EFF] You have to do your best!
-[3C404EFF]あんたはどう思うッスか？=[3c404eff] What do you think of you?
 ……すごいよね。=......She is amazing.
 強いよね。=She is strong.
 かっこいいよね。=She is cool.
-[3C404EFF]正義を成し遂げるには強くないといけないって、=[3c404eff] I have to be strong to accomplish justice
-[3C404EFF]正義って難しいッス～=[3C404EFF] Difficult to justice ~
 
 いいトレーニングになるかも。=It may be a good training.
 商人が来るんじゃないかな。=I guess the merchant will come.
@@ -88,50 +79,27 @@ r:"^和平活動の道のり([0-9\-\(\)\w （）]*)$"=The Journey of Peace Activ
 楽しかったね。=It was fun, was not it.
 
 
-[3C404EFF]ワタシの言いたいことが分かるか？=[3c404eff] Do you know what I want to say?
 誰が一番強いんだろう？=Who is the strongest?
 マツリちゃんもトラ族だよね。=Matsuri is also a tiger.
 武術大会とか好きそう。=I like martial arts competitions.
-[3C404EFF]トラ族の中でなら恐らく族長になるだろうが、=[3c404eff] If you are in the tiger tribe, you will probably be the chief
-[3C404EFF]予想外の手練れも隠れているかもしれん。=[3C404EFF] It may be hidden by unexpected skill.
-[3C404EFF]──答えは聞くまでもないだろう？=[3C404EFF] ──Do you hear the answer?
 
-[3C404EFF]このワタシに=[3c404eff] For this time
-[3C404EFF]何を考えているんだか分からんな。=[3c404eff] I don't know what I'm thinking.
 毒は毒をもって制す……？=Poison controls with poison ...?
 約束は守る人だから。=The promise is the person who keeps it.
 頼れるクリスティーナさんだから。=Because I can rely on Christina.
 
-[3C404EFF]誤解をされては困る。=[3c404eff] I don't want to be misunderstood.
-[3C404EFF]ウサギ族から贈ってもらったこの鎧で=[3c404eff] In this armor given by rabbits
-[3C404EFF]意外と悪くないな。=[3c404eff] Not surprisingly bad.
 いつものクリスティーナさんだ。=It's the usual Christina.
 かわいいと思う。=I think it's cute.
 とっても強そう。=It looks very strong.
-[3C404EFF]別にオマエの好みに合わせてやったわけじゃあないが……=[3c404eff] I didn't do it according to the taste of you, but ...
-[3C404EFF]精々とくと拝んでいくがいいよ。=[3C404EFF] You should worship it hard.
-[3C404EFF]\n全部ワタシの気分次第だ、=[3c404eff] All depends on the mood of me,
-[3C404EFF]次はいつ見られるか分からんからな？=[3C404EFF] I don't know when to see next?
 
-[3C404EFF]他人を疑うことをまったく知らん。=[3c404eff] I don't know that I doubt others.
 クリスティーナ先生。=Christina-Sensei.
 きっと優しいんだね。=She is surely kind.
 大変そうだね。=look like hard.
 
-[3C404EFF]まさか自覚してないのか？=[3c404eff] Are you not aware of it?
-[3C404EFF]それはワタシにも言えることかもしれんが。=[3c404eff] That may be something I can say.
 トモちゃんは？=Tomo-chan?
 ジュンさんも元気にしてるよ。=Jun is also doing well.
 マツリちゃんとか？=Matsuri-chan?
-[3C404EFF]本人は獣人族だとバレてないつもりのようだが……=[3c404eff] It seems that he is not going to be a beast person ...
-[3C404EFF]アレで上手くやっているのかもな。=[3C404EFF] Maybe it's doing well with that.
 
 
-[3C404EFF]アレで上手くやっているのかもな。=[3C404EFF] Maybe it's doing well with that.
-[3C404EFF]ふむ……=[3c404eff] Hmm ...
 拳で語り合う……？=Talk with your fist ...?
 ランドソルの文化を紹介する。=Introducing Landosol's culture.
 一緒にご飯を食べる。=Eat rice together.
-[3C404EFF]坊やからその提案が出てくるとは驚きだな。=[3c404eff] It's surprising that the proposal will come out of the boy.
-[3C404EFF]幾百幾千の言葉よりも雄弁に語ることもある。=[3c404eff] Sometimes speaking eloquently rather than hundreds of words.
-[3C404EFF]逃がさんぞ？=[3C404EFF] Is it escaping?

@@ -183,10 +183,3 @@ sr:"^(.+)のアドベンチャーから撤退しました。$"=Retreat from the 
 
 【美食殿】を訪れたカリンは、アストライア大陸の各地で見つ\nかった新たな冒険先の調査をぺコリーヌたちに依頼する。ぺコ\nリーヌたちは新たな冒険に心を躍らせて依頼を快諾し、お宝を\n求めて旅立つのだった。=Karin, who visited the [Gourmet Hall], asks Pecorine and others to investigate new adventure destinations found in various parts of the Astraea continent. Pecorine and the others were excited about the new adventure, readily accepted the request, and departed in search of the treasure.
 アストライア大陸の未踏地=Unexplored Lands of Astraea
-[3C404EFF]まったく手つかずの状態です！=[3C404EFF] It is untouched at all!
-[3C404EFF]各ギルドへの報酬としてお持ち帰りいただけますよ♪=[3c404eff] You can take it home as a reward for each guild ♪
-[3C404EFF]まともな高級店でフルコースを頼んでやるんだから！！=[3C404EFF] I'll ask for a full course at a decent luxury store! !
-[3C404EFF]ぜひ前向きに検討してください♪=[3c404eff] Please consider it positively ♪
-[3C404EFF]引き受けちゃいますよー！=[3C404EFF] I will accept it!
-[3C404EFF]実りある冒険にいたしましょう。=[3C404EFF] Let's make a fruitful adventure.
-[3C404EFF]出発です！=[3C404EFF] departure!

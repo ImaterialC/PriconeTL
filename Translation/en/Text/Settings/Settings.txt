@@ -21,3 +21,6 @@ SDカード保存設定=Transfer data to SD
 一定期間内に無効なシリアルコードを{{B}}回連続で\n入力すると{{A}}間入力できなくなります。=If you enter an invalid serial code 3 in row in a certain\nperiod of time, you will not be able to enter for 1 hour.
 半角英数字のみ入力できます。=Only half-width alphanumeric characters\ncan be entered.
 シリアルコードを入力してください。=Please enter a serial code.
+データ=data
+サポート、フレンド=Support, friend
+絆ランク演出=Kizuna rank production

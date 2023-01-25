@@ -1,20 +1,5 @@
-﻿キャラLvと\\nスキルLvのみ強化=Enhancement of character Lv and \\ n skill Lv only
-フラグメントを\\n消費する=Competition of fragments \\ n
-ニューイヤーズスマイル+=New Year's Smile+
-・新春・真心三段重ね\n・ハッピーニューテイスト\n・ニューイヤーアフェクション\n・ニューイヤーズスマイル+=・ New Year / Shinshin 3 steps ・ Happy New Test ・ New Year Affection New Years Smile+
-春沓+=Spring shoe+
-強化Lv上限まで\\nLvアップする=Enhanced Lv Up to the upper limit \\ nlv up
-マヒル（クリスマ\nス）のメモリーピ…=Mahill (Christmas\nMemory Pi ...
-ミソギ＆ミミ＆キョ\nウカのメモリーピ…=Misogi & Mimi & Kyyo\nUka's Memory Pi ...
-ミヤコ（クリスマ\nス）のメモリーピ…=Miyako (Christmas\nMemory Pi ...
-ドラモフレイム=Dramo frame
-ドラゴニックショット+=Dragonic shot+
-ドラゴンズタクト=Dragons tact
-下剋上ですよ！=It's a rebellion!
-イワノヅチ=Iwanozuchi
-水瑚麟=Mizuko Rin
-おこぷんダーツ+=Okopon Darts+
-カリスマオーラ♪=Charismatic aura ♪
-新春美食メモリーズ　 シェフィのおつかい大作戦！=New Year's Gourmet Memories Sheffi's Useful Strategy!
-もてなしの心で=With a hospitality heart
-[3C404EFF]イリヤやシェフィにも楽しんでもらいたいじゃないか。=[3C404EFF] I want Ilya and Sheffi to enjoy it.
+﻿
+
+サポートキャラ★変更後の確認ダイアログ=Support character ★ Confirmation dialog after change
+クランバトルおよびみんなの稽古場でサポートキャラの★変更を行った後、\n確認ダイアログを表示するか設定します。=After changing the support character in the clan battle and everyone's rehearsal room, set the confirmation dialog.
+キャラ強化=Character reinforcement

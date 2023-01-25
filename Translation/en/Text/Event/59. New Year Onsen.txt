@@ -2,46 +2,6 @@
 春日替湯録=Year's Daily Bath Record
 新=New 
 
-[3C404EFF]穏やかな日々の流れゆく、とある年の瀬。[3C404EFF]\nオーエド町に、人の賑わう温泉旅館があった。=[3C404EFF]A certain end of the year when calm days flow by. [3C404EFF] In the town of Oedo, there was a Onsen inn that was bustling with people.
-[3C404EFF]よく来たわね。=[3C404EFF]Nice to meet you.
-[3C404EFF]君も好きだねぇ～♪=[3c404eff] You also like it ~ ♪
-[3C404EFF]『湯けむり忘年奇譚初日の出に盃を』=[3c404eff] "Yukemuri Bōnen Kitan A sake cup at the first sunrise"
-[3C404EFF]こんなにお肌もきれいですし……♪=[3c404eff] Your skin is so beautiful...♪
-[3C404EFF]\nしっかりお客さんにアピールしないとね♪=[3c404eff]I have to appeal to customers firmly ♪
-[3C404EFF]『陽卵の宿』=[3C404EFF] "Yangtze Egg Inn"
-[3C404EFF]お待ち申し上げております♪=[3c404eff] We look forward to it ♪
-[3C404EFF]このお仕事も終わりなのね。=[3c404eff] This job is over.
-[3C404EFF]少し寂しいわ……=[3c404eff] I'm a little lonely ...
-[3C404EFF]……悪くない仕事だったわ。=[3c404eff] ... It was a bad job.
-[3C404EFF]まだ営業中なんだから。=[3c404eff] Because it is still open.
-[3C404EFF]若女将。=[3C404EFF] A young landlady.
-[3C404EFF]こうやってもてなしてもらえるように。=[3C404EFF] So that you can do this.
-[3C404EFF]ね。=[3C404EFF].
-[3C404EFF]お客さまです！=[3C404EFF] Customer!
-[3C404EFF]お願いできるかしら！=[3c404eff] Can you ask!
-[3C404EFF]陽卵の宿へようこそ～♪=[3C404EFF] Welcome to the pdeen inn ~ ♪
-[3C404EFF]ちょっとまずいかも～=[3c404eff] It may be a little bad ~
-[3C404EFF]沸騰してるみたい。=[3c404eff] It looks like it's boiling.
-[3C404EFF]\nきっと体にも負担があるんじゃないかしら……=[3c404eff] I guess the body will surely be a burden ...
-[3C404EFF]\nこっちにも付け入る隙はあるってことだよ。=[3C404EFF] There is a chance to put it here as well.
-[3C404EFF]自分で払ってもらおうってわけ。=[3C404EFF] You have to pay yourself.
-[3C404EFF]だったら少しばかり、=If it was [3c404eff], a little,
-[3C404EFF]痛い目を見てもらいましょうか。=[3c404eff] Shall we see the painful eyes?
-[3C404EFF]先生が癒してあげる。=[3c404eff] The teacher will heal.
-[3C404EFF]\nしっかりとお客さまを見守るよ～♪=[3C404EFF] I will watch the customer firmly ~ ♪
-[3C404EFF]お風呂に浸かって一休み、=[3c404eff] Immerse yourself in the bath and take a break
-[3C404EFF]私も早く温泉に浸かりたいわ。=[3C404EFF] I also want to immerse yourself in the Onsen as soon as possible.
-[3C404EFF]\n今のうちに温泉の神さまの罪や穢れをゴシゴシ削っちゃお～！=[3C404EFF] Now, the sins and filth of the god of the Onsen will be cut off!
-[3C404EFF]おもてなしですからね……？=[3C404EFF] Because it's hospitality ...?
-[3C404EFF]遠くからおもてなしよね？　=[3C404EFF] Hospitality from afar, right?　
-[3C404EFF]ねっ？=[3C404EFF]
-[3C404EFF]\n宴もたけなわといったところかしら。=[3C404EFF] I wonder if the banquet is a feast.
-[3C404EFF]楽しそう。=[3C404EFF] It looks fun.
-[3C404EFF]ただそのために全力を尽くす。=[3c404eff] I do my best for that.
-[3C404EFF]ご堪能あれ！=[3C404EFF] Enjoy!
-
-
-
 sr:"^(\d+日)目の日替わり湯$"="$1 day of Daily Onsen"
 日替わり湯解放=Unlock Daily Onsen
 穢れし湯ノ神・陽卵=Defiled Onsen God / Yotamago
@@ -260,7 +220,7 @@ A unique Onsen that combines a\npotion that restores magical power\nwith gelatin
 
 清涼効果、のど・鼻の保湿効果\n※鼻歌が旅館内に届く可能性があります=Refreshing effect, Moisturizing\neffect for throat and nose\n※Humming may reach the inn
 エルフの森産　スースー草のシードオイル=Seed oil of Susu grass from Elf Forest
-心と体に爽やかな癒しを♪　スースーの湯=Refresh your mind and body♪\nSusu Onsen
+心と体に爽やかな癒しを♪　スースーの湯=Refresh mind and body♪: Susu's Onsen
 
 :::Day 9
 ああ……\nなんてことだ……！\nボクの……ボクの肌が……！=Oh...\nOh my god...! \n My... my skin...!
@@ -279,7 +239,7 @@ A unique Onsen that combines a\npotion that restores magical power\nwith gelatin
 けち～！=Stingy!
 
 
-ああバラ色の人生　美肌の湯=Rosy life, beautiful skin Onsen
+ああバラ色の人生　美肌の湯=Rosy life, beauty skin Onsen
 仲居特製の超美肌薬、大輪のバラ=Super beautiful skin medicine\nmade by Nakai, large roses
 美肌効果、保湿効果、保温効果\nバラの香りによるリラックス効果=Beautiful skin effect, moisturizing\neffect,heat retention effect\nRelaxing effect with rose scent
 とにもかくにも肌を美しくする効果を追求した珠玉の温泉。お湯を軽く浴びただけで違いが分かるとウワサになり、このお湯を利用した化粧水の発売も模索されているとか。ちなみにバラはあくまで香りづけのものであり、美肌効果はないとのこと。=A gem of a Onsen that pursues the effect \nof beautifying the skin.It is rumored\nthat you can see the difference just\nby taking a light bath in Onsen, and \nthat the release of a lotion that uses\nthis Onsen is also being explored.\nBy the way, roses are only for scenting\nand do not have a skin beautifying effect.

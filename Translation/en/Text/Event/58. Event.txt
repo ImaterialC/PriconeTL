@@ -1,5 +1,4 @@
-
-[3C404EFF]誰もが来るクリスマスに胸を躍らせる中、[3C404EFF]\n憂いた顔をしながら歩く少女の姿があった。=[3C404EFF] While the chest of Christmas that everyone came, there was a girl walking with a sad face.
+everyone came, there was a girl walking with a sad face.
 r:"^ランドソル 繁華街([0-9\-\(\)\w （）]*)$"=Landosol Downtown $1
 r:"^ランドソル　繁華街([0-9\-\(\)\w （）]*)$"=Landosol Downtown $1
 アンハッピートレント=Unhappy Trent
@@ -8,24 +7,7 @@ r:"^ランドソル　繁華街([0-9\-\(\)\w （）]*)$"=Landosol Downtown $1
 ラフィ=Rafi
 エミィ=Emi
 女性１=Women 1
-[3C404EFF]エンジェルさん！　=[3C404EFF] Angel!　
-[3C404EFF]エンジェルの勝利！=[3C404EFF] Angel victory!
-[3C404EFF]エンジェルの祝福を！\n（素直にな～れ）=[3C404EFF] Blessing of angel!\n(be honest)
-[3C404EFF]いい度胸じゃない。=[3c404eff] Not a good heart.
-[3C404EFF]ずっと一緒にいなさいよね……！=[3c404eff] Please stay together forever ...!
-[3C404EFF]あのツリー=[3c404eff] That tree
-[3C404EFF]復活早すぎだよ～=[3C404EFF] It's too early resurrection ~
-[3C404EFF]何回戦するつもり？=[3c404eff] How many times are you going to fight?
-[3C404EFF]もう動けない……=[3c404eff] I can't move anymore ...
-[3C404EFF]目指せ昇天！=[3C404EFF] Aim as expected!
-[3C404EFF]任務……？=[3c404eff] mission ...?
-[3C404EFF]それは……=[3c404eff] That's ...
-[3C404EFF]人々を幸せにすること……！=[3c404eff] Make people happy ...!
-[3C404EFF]──はいっ！=[3C404EFF] ──!
-[3C404EFF]二で割った……？=[3c404eff]divided it with two ...?
-[3C404EFF]勘違いしないでよね！=[3c404eff] Don't misunderstand!
-[3C404EFF]元に戻してやってくれないか。=[3C404EFF] Could you return it?
-[3C404EFF]頑張って挑戦してみてください！=[3C404EFF] Please do your best and try it!
+女性１=Women 1
 
 混ぜるな危険=Don't mix
 ターゲット=Target

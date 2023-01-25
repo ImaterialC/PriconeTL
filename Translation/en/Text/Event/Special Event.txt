@@ -1,6 +1,5 @@
 
 ナレーション=Narration
-sr:"^[3C404EFF](.+)nと仲間たちは、[3C404EFF]\n『終炎の巨神』を止めるためその体内へと侵入していた。$"=[3c404eff]$1 and friends were invading the body to stop [3c404eff] to stop the Giant Giant Fire.
 ミロク= Miroc
 テンタパス=Tentapus
 ファントムバロン=Phantom Baron

@@ -98,3 +98,5 @@ r:"^\[3C404E\]\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\
 現在、このアイテムは\nメインクエスト等では入手できません=Currently, this item is not available in Main Quest.
 検索対象外のクエストが含まれています。=Includes Quests that are not listed in the search.
 か所=Place
+
+クエストTOPへ=To the Quest top
