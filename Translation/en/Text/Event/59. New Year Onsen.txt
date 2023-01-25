@@ -163,7 +163,7 @@ sr:"^(\d+日)目の日替わり湯$"="$1 day of Daily Onsen"
 あらあらあら手厳しいですわね\nおそろしいですわね。\n冷や汗をかいてしまいますわ～\nそれはもうダクダクと……んん？=Oh my god, that's so harsh\n it's scary. \nI'm going to break out in a cold sweat~\nThat's already... um?
 この汗の量……\nおかしくありませんこと？\nいくら発汗作用が優れているからと\nいっても、これは……=This amount of sweat...\nIsn't that strange? \nNo matter how good the perspiration is\n, this is...
 それに……\n気のせいかしら？\nなんだか肌がヒリついてきたような……=And...\nIs it just my imagination? \nIt feels like my skin is getting irritated...
-……ねえ、クレジッタ。\nあなた、秘書さんに出張だってウソを\nついてここに来たのよね？=……Hey, Credita. \nYou lied to your secretary that you were on a business trip,\nyou came here, didn't you?
+……ねえ、クレジッタ。\nあなた、秘書さんに出張だってウソを\nついてここに来たのよね？=……Hey, Creditta. \nYou lied to your secretary that you were on a business trip,\nyou came here, didn't you?
 ギギギギクッ？\nどうしてそれを！？=Gigi Gigiku?\nWhy do it! ?
 秘書さんからの依頼でね？\n……虚偽の申請をしたお仕置きを\nしてほしいって言われちゃったの。\nだから……=At the request of your secretary? \n...I was asked to punish\n for making a false application. \nSo...
 この温泉……\nちょっと刺激的にしておいたわ。\nトウガラシをた～っぷり入れて、ね。=This Onsen...\nI made it a little exciting. \nPut in a lot of hot peppers.
@@ -196,7 +196,7 @@ sr:"^(\d+日)目の日替わり湯$"="$1 day of Daily Onsen"
 魔力を回復するポーションとゼラチナを\nかけ合わせた異色の温泉。ゼラチナたちは\n若女将がスカウトしてきたアルバイトとの\nこと。その不思議な湯ざわりと確かな魔力\n回復効果は、新しもの好きの魔法使いや\n魔族たちの間で話題になっているとか。=
 A unique Onsen that combines a\npotion that restores magical power\nwith gelatin. Gelatina and others are\npart-time workers scouted by the\nyoung landlady. Its mysterious hot\nspring texture and reliable magical\npower recovery effect have become a\nhot topic among wizards and demons\nwho like new things.
 
-魔力回復、美肌効果、保湿効果\n※お湯に甘噛みされることがあります=Magical recovery, beautifuly skin,\nand moisturizing effect\n※You may be bitten by the Onsen
+魔力回復、美肌効果、保湿効果\n※お湯に甘噛みされることがあります=Magical recovery, beautifully skin,\nand moisturizing effect\n※You may be bitten by the Onsen
 若女将特製のポーション、元気なゼラチナ=Potion specially made by the young\nlandlady, cheerful gelatinum
 高粘度の新感覚温泉　ゼラチナの湯=High viscosity: Gelatina's Onsen
 

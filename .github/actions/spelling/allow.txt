@@ -712,6 +712,8 @@ Ofuro
 OMG
 omikuji
 Onsen
+Onsens
+Ohhhh
 Oraed
 Piiiiiiie
 Saikawa
@@ -729,3 +731,31 @@ Deventant
 Sorahana
 Gufufu
 Gaku
+Shinshun
+Gasho
+patreon
+Sugoroku
+Osechi
+Sasetsu
+Fuyutei
+Nta
+Gigiku
+Kuuu
+Haa
+tsukkomi
+Gelatina
+gelatinum
+Fuaa
+Oneesan
+Kizuna
+Propina
+
+Sasetsu
+Fuyutei
+Sasetsu
+
+Sasetsu` is not a recognized word. (unrecognized-spelling)
+493
+Translation/en/Text/Character/RukaNY.txt:38:415 ... 422, Error - `Fuyutei` is not a recognized word. (unrecognized-spelling)
+494
+Translation/en/Text/Character/RukaNY.txt:38:423 ... 430, Error - `Sasetsu` is not a recognized word. (unrecognized-spelling)

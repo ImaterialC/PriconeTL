@@ -42,4 +42,4 @@ sr:"^「(.*)ログインボーナス」(\d+日)目「(.+)」で獲得したア�
 できたべや～！\nしかし、きれいには描けてるけんど、\nなんか物足りねぇ気がするべな～？=You can do it! However, I can draw it neatly, but I don't think it's enough.
 変わらないもの=Those that do not change
 大悪党の新春晴れ着=Great villain's New Year's sunny arrival
-さむらい=Sacrus
+さむらい=Samurai
