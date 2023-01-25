@@ -1,5 +1,5 @@
 r:"^デビュタント・シャングリ・ラ会場([0-9\-\(\)\w （）]*)$"=Deventant Shangri-La Venue $1
-ドミネイテッドスノーマン=Dominated Snoman
+ドミネイテッドスノーマン=Dominated Snowman
 
 空花、ぐふふなお部屋訪問=Sorahana, Gufufu Room Visit
 サレン・ユカリ=Saren & Yukari

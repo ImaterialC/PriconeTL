@@ -7,7 +7,7 @@
 お忍びバイトと民の声=A Secret Bite and the Voice of the People
 憩いの時間をあなたと=Rest and Relaxation with You
 
-目の前の敵１キャラに物理特大ダメージを与える。ぺコリーヌのＨＰが高い程ダメージがアップ。残りＨＰが50%未満で自分に騎士の加護を付与する。騎士の加護付与時にＨＰが0になると、倒れずに加護を消費してＨＰを回復する。=Deals masive P.DMG to one enemy in front. Damage increases the more HP Pecorine has. Grants Knight's Blessing to herself when her remaining HP is less than 50%. Knight's blessing will revive her when she receives damage less than the remaining HP.
+目の前の敵１キャラに物理特大ダメージを与える。ぺコリーヌのＨＰが高い程ダメージがアップ。残りＨＰが50%未満で自分に騎士の加護を付与する。騎士の加護付与時にＨＰが0になると、倒れずに加護を消費してＨＰを回復する。=Deals massive P.DMG to one enemy in front. Damage increases the more HP Pecorine has. Grants Knight's Blessing to herself when her remaining HP is less than 50%. Knight's blessing will revive her when she receives damage less than the remaining HP.
 
 r:"^敵単体に(\d+)の物理ダメージ\n騎士の加護付与中にＨＰが0になった場合、戦闘不能になる前に加護を消費してＨＰを(\d+)回復する$"=Deals $1 (+270%HP) P.DMG to an enemy.\n\nIf HP of self < 50%, grant Knight's Blessing that revives self and heals by $2 when receiving damage less than remaining HP.
 
@@ -15,7 +15,7 @@ r:"^自分の物理攻撃力を(\d+)アップ\n(\d+)ダメージ分の物理魔�
 
 r:"^自分の物理攻撃力を(\d+)アップ\n(\d+)ダメージ分の物理魔法吸収バリアを展開する$"=Cast time:0.46s\nBoosts own P.ATK by $1 (+20%HP) for 12s.\n\nIf HP of self < 50%:\nDeploys Barrier that absorbs $2 P/M.DMG for 12s.
 
-自分の物理攻撃力を特大アップし、継続ＨＰ回復状態を付与する。ぺコリーヌのＨＰが高い程攻撃力の上昇量がアップする。残りＨＰが50%未満で自分に物理/魔法吸収バリアを展開する。=Increases own P.ATK by a masive amount and grants a HP regen state. The higher Pecorine's HP, the greater the increase in P.ATK. Deploys a P/M absorption barrier on herself when her remaining HP is less than 50%.
+自分の物理攻撃力を特大アップし、継続ＨＰ回復状態を付与する。ぺコリーヌのＨＰが高い程攻撃力の上昇量がアップする。残りＨＰが50%未満で自分に物理/魔法吸収バリアを展開する。=Increases own P.ATK by a massive amount and grants a HP regen state. The higher Pecorine's HP, the greater the increase in P.ATK. Deploys a P/M absorption barrier on herself when her remaining HP is less than 50%.
 
 r:"^範囲内の敵に(\d+)の物理ダメージ\n自分の物理攻撃力を(\d+)アップ\n自分のＨＰを(\d+)回復$"=Cast time:0.62s\nDeals $1 P.DMG to enemies within 300 range.\nIf HP of self > 50%:\nBoosts own P.ATK by $2 for 12s.\n\nIf HP of self < 50%:\nRecovers own HP by $3.
 
