@@ -1,21 +1,22 @@
 ===Task Quest===
+ボス=Boss
 ミッションレベルが対象外になった場合、達成することはできません。=If the mission level is not covered, it can not be achieved.
 
-[3C404E]スペシャルバトルのボスを討伐しよう[-]=[3C404E]Clear Special Boss Battle[-]
-[3C404E]スペシャルかエキシビションのバトルでボスを5回以内に討伐しよう[-]=[3C404E]Defeat the boss within 5 attempts in Special or Exhibition Battles[-]
 [3C404E]MODE2のお供のモンスターを全て倒そう[-]=[3C404E]Defeat all monsters on MODE2[-]
-[FFFFFF]スペシャルバトルのボスを討伐しよう[-]=[FFFFFF]Clear Special Boss Battle[-]
-[FFFFFF]スペシャルかエキシビションのバトルでボスを5回以内に討伐しよう[-]=[FFFFFF]Defeat the boss within 5 attempts in Special or Exhibition Battles[-]
+sr:"^(\[[0-9A-F]{6}\])?スペシャルかエキシビションのバトルで(.+)を(\d)回以内に討伐しよう(\[-\])?$"=$1Defeat the $2 within $3 attempts in SP or Exhibition Battles$4
 
-r:"^(\[[0-9A-F]{6}\])?討伐証交換の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1Reset the reward lineup of subjugation exchange $1 Time[-]
-r:"^(\[[0-9A-F]{6}\])?スペシャルバトルのMODE(\d)をクリアしよう(\[-\])?$"="$1Clear Special Boss battle MODE $2[-]"
-r:"^(\[[0-9A-F]{6}\])?MODE(\d)のお供のモンスターを全て倒そう(\[-\])?$"=$1Defeat all companion monsters on MODE $2[-]
-r:"^(\[[0-9A-F]{6}\])?スペシャルバトルのボスのHPを(\d+)まで減らそう(\[-\])?$"="$1Damage Special Boss's $2 HP[-]"
-sr:"^(\[[0-9A-F]{6}\])?(.+)に1回挑戦しよう（全難易度共通） (\[-\])?$"="$1Battle $2 1 time (Any Difficulty)[-]"
+
+sr:"^(\[[0-9A-F]{6}\])?スペシャルバトルの(.+)を討伐しよう(\[-\])?$"=$1Clear SP $2 Battle$3
+sr:"^(\[[0-9A-F]{6}\])?スペシャルバトルの(.+)のHPを(\d+)まで減らそう(\[-\])?$"="$1Damage SP $2's $3 HP$4"
+r:"^(\[[0-9A-F]{6}\])?討伐証交換の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1Reset the reward lineup of subjugation exchange $2 Time$3
+r:"^(\[[0-9A-F]{6}\])?スペシャルバトルのMODE(\d)をクリアしよう(\[-\])?$"="$1Clear Special Boss battle MODE $2$3"
+r:"^(\[[0-9A-F]{6}\])?MODE(\d)のお供のモンスターを全て倒そう(\[-\])?$"=$1Defeat all companion monsters on MODE $2$3
+r:"^(\[[0-9A-F]{6}\])?スペシャルバトルのボスのHPを(\d+)まで減らそう(\[-\])?$"="$1Damage Special Boss's $2 HP$3"
+sr:"^(\[[0-9A-F]{6}\])?(.+)に1回挑戦しよう（全難易度共通） (\[-\])?$"="$1Battle $2 1 time (Any Difficulty)$3"
 sr:"^(\[[0-9A-F]{6}\])?(.+)を(\d+)体倒そう（全難易度共通）(\[-\])?$"="$1Defeat $2 $3 times (Any Difficulty)$4"
 sr:"^(\[[0-9A-F]{6}\])?(.+)を(\d+)体倒そう \(全難易度共通\)(\[-\])?$"="$1Defeat $2 $3 times (Any Difficulty)$4"
-sr:"^(\[[0-9A-F]{6}\])?(.+)を1体倒そう ?\((.+)?限定\)(\[-\])?$"="$1Clear $2 ($3 Limited) 1 time[-]"
-sr:"^(\[[0-9A-F]{6}\])?(.+)を1体倒そう ?（(.+)?限定）(\[-\])?$"="$1Clear $2 ($3 Limited) 1 time[-]"
+sr:"^(\[[0-9A-F]{6}\])?(.+)を1体倒そう ?\((.+)?限定\)(\[-\])?$"="$1Clear $2 ($3 Limited) 1 time$4"
+sr:"^(\[[0-9A-F]{6}\])?(.+)を1体倒そう ?（(.+)?限定）(\[-\])?$"="$1Clear $2 ($3 Limited) 1 time$4"
 sr:"^(\[[0-9A-F]{6}\])?(.+)を(\d+)体倒そう(\[-\])?$"="$1Defeat $3 $2$4"
 
 sr:"^(\[[0-9A-F]{6}\])?(.+)のシャドウを倒そう(\[-\])?$"=$1Defeat the shadow of the $2$3

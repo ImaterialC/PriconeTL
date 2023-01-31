@@ -97,14 +97,22 @@ r:"^(.{1,10})と\nフレンドになりました。$"=You became friends with\n$
 r:"^(.{1,10})へ\nフレンド申請しますか？$"=Do you want to apply for a friend to\n$1?
 フレンド申請確認=Friend Request
 
-r:"^(.{1,10})へ\nフレンド申請しました。$"=You applied for a friend to\n$1.
+r:"^(.{1,10})へ\nフレンド申請しました。$"=Applied for a friend to\n$1.
 フレンド申請完了=Friend Application Completed
 
 r:"^(.{1,10})への\nフレンド申請を取り消しますか？$"=Would you like to cancel your friend request\nto $1?
 フレンド申請取り消し確認=Friend Application Cancellation Confirmation
 
-r:"^\[3C404E\](.{1,10})への\nフレンド申請を取り消しました。\[-\]$"=[3C404E]You canceled friend request to\n$1.[-]
+r:"^\[3C404E\](.{1,10})への\nフレンド申請を取り消しました。\[-\]$"=[3C404E]Canceled friend request to\n$1.[-]
 フレンド申請取り消し完了=Friend Application Cancellation Completed
+
+r:"^(.{1,10})からの\nフレンド申請を拒否しますか？$"=Do you want to reject a friend request from\n$1?
+フレンド拒否確認=Friend Rejection Confirmation
+
+r:"^(.{1,10})からの\nフレンド申請を拒否しました。$"=Rejected friend request from\n$1.
+フレンド拒否完了=Friend Rejection Completion
+
+
 ===NPC===
 こちらがフレンドの\n皆さんです\n素敵な関係を\n築いてくださいね！=This is your friends list, let's build a wonderful relationship!
 主さま、フレンドを作りましょう。フレンドからはクエストにてサポートキャラをレンタルすることができますよ。=My lord, the time is ripe for making friends.\nOnce you register a friend, you will be able to call on their characters for support in various quests.

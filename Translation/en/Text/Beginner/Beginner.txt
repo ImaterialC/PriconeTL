@@ -19,7 +19,6 @@ sr:"^メインクエスト\n([0-9\-\(\)（）\w ]*)クリアで解放$"=Clear Ma
 あなたの誕生日を入力してください。\n誕生日から7日間、キャラたちのお祝い\nメッセージを聞くことができます。=Please enter your birthday.\nYou can listen to the characters' celebration\nmessages for seven days from your birthday.
 あなたの誕生日を下記で登録します。=Registering your birthday as below.\n Is this OK?
 
-sr:"^(\d+月)(\d+)日$"=$1 $2
 誕生日を登録しました。=birthday has registered at:
 sr:"^(.{1,10}) さん$"=$1-san
 

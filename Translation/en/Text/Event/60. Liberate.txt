@@ -1,0 +1,58 @@
+カヤ・ノゾミ=Kaya Nozomi
+r:"^追想のデフラグが\n(\d+)個解放されました。$"=$1 Reminiscent defrag\nhas been unlocked.
+追想のデフラグ エピソード解放=Reminiscence Defrag Episode has been Unlocked.
+楽園の守護者=Paradise Guardian
+討伐証（前編専用）=Victory Medal (Part A)
+討伐証（後編専用）=Victory Medal (Part B)
+
+r:"^(\[[0-9A-F]{6}\])?【前編】イベントクエストを(\d+)回クリアしよう（前後編共通）(\[-\])?$"=$1【Part 1】 Clear the event quest $2 times (Any Part) $3
+r:"^(\[[0-9A-F]{6}\])?【前編】ボスに1回挑戦しよう（前後編の全難易度共通）(\[-\])?$"=$1【Part 1】 Battle Boss 1 time (Any Part Any Dificult) $3
+後編
+r:"^(\[[0-9A-F]{6}\])?討伐証交換前編の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1Reset the reward lineup (Part A) of subjugation exchange $2 Time$3
+r:"^(\[[0-9A-F]{6}\])?討伐証交換後編の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1Reset the reward lineup (Part B) of subjugation exchange $2 Time$3
+
+束の間の勝利=Bundle victory
+r:"^(\[[0-9A-F]{6}\])?チカとツムギのシャドウとお供モンスターを倒そう(\[-\])?$"=$1Defeat Chika and Tsumugi's shadow and companion monsters!$2
+
+後編
+
+想のデフラグ=eminiscence Defrag
+追=R
+懐かしき過去の結晶=Nostalgic Crystals of the Past
+懐かしいような不思議な感覚に襲われ、倒れるムイミ。不思議\nな空間で目覚めたムイミは、そこに浮かんでいた不思議な結晶\nに触れる。眩い輝きと共に目の前に広がるのは、記憶の中にあ\nる懐かしい光景であった。=Muimi collapses after being attacked by a strange, nostalgic feeling. She wakes up in a mysterious space, and she touches a mysterious crystal floating there. Along with her dazzling brilliance, what spread out before her eyes was a nostalgic scene in her memory.
+イベントクエストを進めると、ムイミさまの大切な思い出のエピソードを楽しむことができますよ。\nエピソードを見ると、ピースに情景が描かれていくようでございます。=As you progress through the event quests, you can enjoy episodes of Ms. Muimi's precious memories. Looking at the episode, it seems that the scene is being drawn on the piece.
+描かれたピースを組み合わせて、パズルの完成を目指しましょう。\nどんな光景が浮かび上がるのか、わたくしも楽しみでございます。=Combine the drawn pieces and aim to complete the puzzle. I am also looking forward to what kind of scenery will emerge.
+リーダーはどっちだ！閲覧で操作可能=Which one is the leader! Can be operated by viewing
+勝ちたい理由閲覧で操作可能=Can be operated by browsing why you want to win
+聞き上手な誓約女君閲覧で操作可能=Can be operated by viewing the oath woman who is a good listener
+秘めたる本当の実力……？閲覧で操作可能=Hidden true power...? Can be operated by viewing
+友と書いてライバルと読む閲覧で操作可能=Write with friends and read with rivals Can be operated by browsing
+悪と正義の高笑い閲覧で操作可能=Can be operated by laughter viewing of evil and justice
+プリンセスナイトとは閲覧で操作可能=Princess Night can be operated by viewing
+まだ見ぬ日々に想い馳せて閲覧で操作可能=Can be operated by browsing while thinking about days that have not yet been seen
+後編公開までお待ちください=Please wait until the second part is released
+オクトーの追想　その1=Memories of Octo Part 1
+オクトーの追想　その2=Memories of Octo Part 2
+オクトーの追想　その3=Memories of Octo Part 3
+リーダーはどっちだ！=Which one is the leader!
+表示できるストーリーがありません。=There are no stories to display.
+勝ちたい理由=why i want to win
+クリスティーナの追想　その1=Reminiscence of Christina Part 1
+クリスティーナの追想　その2=Reminiscence of Christina Part 2
+クリスティーナの追想　その3=Reminiscence of Christina Part 3
+聞き上手な誓約女君=good listener sworn woman
+秘めたる本当の実力……？=Hidden true power...?
+ダイゴの追想　その1=Daigo's Memories Part 1
+ダイゴの追想　その2=Daigo's Memories Part 2
+ダイゴの追想　その3=Daigo's Memories Part 3
+友と書いてライバルと読む=Write as a friend and read as a rival
+ラビリスタの追想　その1=Labyrinth's Reminiscence Part 1
+ラビリスタの追想　その2=Labyrinth's Reminiscence Part 2
+ラビリスタの追想　その3=Labyrinth's Reminiscence Part 3
+悪と正義の高笑い=laughter of evil and justice
+マサキの追想=Memories of Masaki
+プリンセスナイトとは=What is Princess Night
+ラジラジの追想　その1=Reminiscence of Rajiraji Part 1
+ラジラジの追想　その2=Reminiscence of Rajiraji Part 2
+ラジラジの追想　その3=Reminiscence of Rajiraji Part 3
+まだ見ぬ日々に想い馳せて=Reminisce about the days we haven't seen yet

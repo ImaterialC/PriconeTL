@@ -24,6 +24,12 @@ sr:"^オート進行で(メイン|イベント)クエスト(.+)まで進めた�
 オート進行報酬一覧=List of Auto Advance Rewards
 [FF7C4E,D62146]所持上限を超えたアイテムはプレゼントに送られました。[-]=[FF7C4E,D62146]Items that exceed the upper limit of the possession\nhave been sent to the present. [-]
 r:"^イベントストーリーが\n(\d+)つ解放されました。$"=$1 event stories\nhas been unlocked.
+r:"^イベントストーリーが\n(\d+)個解放されました。$"=$1 event stories\nhas been unlocked.
+r:"^メインストーリーが\n(\d+)つ解放されました。$"=$1 main stories\nhas been unlocked.
+r:"^メインストーリーが\n(\d+)個解放されました。$"=$1 main stories\nhas been unlocked.
+r:"^サイドストーリーが\n(\d+)つ解放されました。$"=$1 side stories\nhas been unlocked.
+r:"^サイドストーリーが\n(\d+)個解放されました。$"=$1 side stories\nhas been unlocked.
+
 イベントストーリー解放=Event Story Unlock
 限定ショップにアイテムが\n追加されました。=An item has been added to the limited shop.
 オート進行解放コンテンツ一覧=List of Auto Advance Unlock Content

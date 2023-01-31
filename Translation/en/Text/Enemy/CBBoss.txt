@@ -38,4 +38,6 @@
 マダムエレクトラ=Madam Electra
 メガラパーン=Mega Laphan
 メデューサ=Medusa
-ゴブリンライダー=Goblin rider
+ゴブリンライダー=Goblin Rider
+アクアリオス=Aquarios
+フラワーシュバリエ=Flower Chevalier

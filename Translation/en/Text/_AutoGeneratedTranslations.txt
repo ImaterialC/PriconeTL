@@ -1,5 +1,1 @@
 ﻿
-
-サポートキャラ★変更後の確認ダイアログ=Support character ★ Confirmation dialog after change
-クランバトルおよびみんなの稽古場でサポートキャラの★変更を行った後、\n確認ダイアログを表示するか設定します。=After changing the support character in the clan battle and everyone's rehearsal room, set the confirmation dialog.
-キャラ強化=Character reinforcement

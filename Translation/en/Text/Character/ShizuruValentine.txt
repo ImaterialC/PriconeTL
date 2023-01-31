@@ -15,7 +15,7 @@ r:"^敵単体に(\d+)の物理ダメージ\nフィールド展開中、敵単体
 ===UB
 ===S1
 自分の周りの味方のうち、最もＨＰが低い味方１キャラのＨＰを中回復、ＴＰを小回復する。【フィールド展開中】味方全体のＨＰ中回復、ＴＰ小回復、物理攻撃力を大アップする。=Recovers the HP and TP of the nearby ally with the lowest HP by a small amount. [With Active Field] Recovers all allies' HP and TP by a small amount and boosts P.ATK by large amount.
-r:"^対象のＨＰを(\d+)回復\n対象のＴＰを(\d+)回復\n対象の味方の物理攻撃力を(\d+)アップ$"=Recovers targets' HP by $1.\nRecovers targets' TP by $2.\nBoosts target allies’ P.ATK by $3.
+r:"^対象のＨＰを(\d+)回復\n対象のＴＰを(\d+)回復\n対象の味方の物理攻撃力を(\d+)アップ$"=Recovers targets' HP by $1.\nRecovers targets' TP by $2.\nBoosts P-type allies’ P.ATK by $3.
 ===S2
 ===ex
 お姉ちゃんピュアハート+=Purehearted Big Sis+

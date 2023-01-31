@@ -31,6 +31,7 @@ sr:"(.+)が\n?解放可能になりました。$"=$1\nhas been unlocked.
 エリア最終クエストのためオート進行を終了しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=The auto progress has ended due to the final quest in the area. The following stamina consumption has been executed by the progress of this auto. * Retire, stamina consumption in defeat is not included.
 r:"^メインストーリーが\n(\d+)つ解放されました。$"=$1 Main Story\nhas been unlocked.
 メインストーリー解放=unlock the Main Story
+エクストラストーリーから閲覧できます。=You can browse from the Extra Story.
 
 ===Story Menu==
 

@@ -111,6 +111,7 @@ r:"^キャンピングフィールド([0-9\-\(\)\w （）]*)$"=Camping Field $1
 最高の一杯を\n求めし女=The best cup\nDesired woman
 ========
 r:"^王都ランドソル([0-9\-\(\)\w （）]*)$"=Landosol City $1
+r:"^王都ランドソル 女神の祭典([0-9\-\(\)\w （）]*)$"=Landosol City: Goddess Festival $1
 r:"^おもちゃ工場([0-9\-\(\)\w （）]*)$"=Toy Factory $1
 究極玩具王 メガトイキング=Ultimate Mega Toy King
 作業服の\n着心地は？=Workwear\nWhat is your comfort?

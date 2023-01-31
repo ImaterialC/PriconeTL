@@ -167,7 +167,7 @@ sr:"^(.+)のアドベンチャーから撤退しました。$"=Retreat from the 
 迷える悪魔の狂詩曲=Rhapsody of the Lost Devil
 『急がば舞い上がれ』ですね！=It's "Hurry Up and Soar!"
 エルフたちのためのニギヤカ大冒険=Lively Adventure for Elves
-
+ワイルドライフ・アドベンチャー！=Wildlife Adventure!
 
 1.ユピテル樹海=1. Jupiter Tree Sea
 スィオネ\n樹林=Sion\nForest

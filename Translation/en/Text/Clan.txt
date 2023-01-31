@@ -222,10 +222,10 @@ sr:"^(.+) (\d)段階目$"=Tier $2 $1
 =======討伐情報=Clear info
 伐情報=onsters Clear info
 ピリオド=period
-sr:"^(\d+月)(\d+)日(\d{2})時(\d)分$"=$1 $2, $3:0$4
-sr:"^(\d+月)(\d+)日(\d)時(\d{2})分$"=$1 $2, 0$3:$4
-sr:"^(\d+月)(\d+)日(\d)時(\d)分$"=$1 $2, 0$3:0$4
-sr:"^(\d+月)(\d+)日(\d{2})時(\d{2})分$"=$1 $2, $3:$4
+sr:"^(\d+月)(\d+)日(\d{2})時(\d)分$"=$2 $1, $3:0$4
+sr:"^(\d+月)(\d+)日(\d)時(\d{2})分$"=$2 $1, 0$3:$4
+sr:"^(\d+月)(\d+)日(\d)時(\d)分$"=$2 $1, 0$3:0$4
+sr:"^(\d+月)(\d+)日(\d{2})時(\d{2})分$"=$2 $1, $3:$4
 
 ====
 日時=Date
@@ -399,12 +399,38 @@ sr:"^(\d+月)全クランランキング$"=Global Ranking($1)
 表示ログの種類=Type of display log
 同一編成の表示=Display of the same formation
 ===Ranking Result
-sr:"^(\d+月)クランバトルの順位が確定しました！$"=$1 Clan Battle
+=====sr:"^(\d+月)クランバトルの順位が確定しました！$"=$1 Clan Battle
+1月クランバトルの順位が確定しました！=Januray Clan Battle
+2月クランバトルの順位が確定しました！=Febuary Clan Battle
+3月クランバトルの順位が確定しました！=March Clan Battle
+4月クランバトルの順位が確定しました！=April Clan Battle
+5月クランバトルの順位が確定しました！=May Clan Battle
+6月クランバトルの順位が確定しました！=June Clan Battle
+7月クランバトルの順位が確定しました！=July Clan Battle
+8月クランバトルの順位が確定しました！=August Clan Battle
+9月クランバトルの順位が確定しました！=September Clan Battle
+10月クランバトルの順位が確定しました！=October Clan Battle
+11月クランバトルの順位が確定しました！=November Clan Battle
+12月クランバトルの順位が確定しました！=December Clan Battle
+
 バトル設定：クランモード=Battle settings: Clan Mode
 バトル設定：シングルモード=Battle settings: Solo Mode
 sr:"^\(クラン内ランキング　(\d+位)\)$"=(in-clan Rank $1)
 
-sr:"^\[25CFDE,0E6C98\](\d+月)クランバトル\[-\]$"=[25CFDE,0E6C98]$1 Clan Battle[-]
+======sr:"^\[25CFDE,0E6C98\](\d+月)クランバトル\[-\]$"=[25CFDE,0E6C98]$1 Clan Battle[-]
+[25CFDE,0E6C98]1月クランバトル[-]=[25CFDE,0E6C98]Januray Clan Battle[-]
+[25CFDE,0E6C98]2月クランバトル[-]=[25CFDE,0E6C98]Febuary Clan Battle[-]
+[25CFDE,0E6C98]3月クランバトル[-]=[25CFDE,0E6C98]March Clan Battle[-]
+[25CFDE,0E6C98]4月クランバトル[-]=[25CFDE,0E6C98]April Clan Battle[-]
+[25CFDE,0E6C98]5月クランバトル[-]=[25CFDE,0E6C98]May Clan Battle[-]
+[25CFDE,0E6C98]6月クランバトル[-]=[25CFDE,0E6C98]June Clan Battle[-]
+[25CFDE,0E6C98]7月クランバトル[-]=[25CFDE,0E6C98]July Clan Battle[-]
+[25CFDE,0E6C98]8月クランバトル[-]=[25CFDE,0E6C98]August Clan Battle[-]
+[25CFDE,0E6C98]9月クランバトル[-]=[25CFDE,0E6C98]September Clan Battle[-]
+[25CFDE,0E6C98]10月クランバトル[-]=[25CFDE,0E6C98]October Clan Battle[-]
+[25CFDE,0E6C98]11月クランバトル[-]=[25CFDE,0E6C98]November Clan Battle[-]
+[25CFDE,0E6C98]12月クランバトル[-]=[25CFDE,0E6C98]December Clan Battle[-]
+
 ランキング報酬=Rank Rewards
 ランキング発表！=Ranking Announcement!
 ※報酬はプレゼントに順次、送られます。=※Rewards will be sent to Present Box.
@@ -422,7 +448,9 @@ sr:"^\[25CFDE,0E6C98\](\d+月)クランバトル\[-\]$"=[25CFDE,0E6C98]$1 Clan B
 模擬戦の戦績もアンタが\n気に入ったものがあれば\n記録しておけるのね=Look like you can save Battle Records of your favorite practice runs.
 ===Damage Log===
 ===(?!.*My)^.*$
+
 まだ誰も挑戦していません=No attempts made yet.
+
 sr:"^([べ-・ー＆]{2,11})に$"=hit $1 for
 r:"^\[FFBB00\,CE4F00\](\d+)\[-\]\[3C404E\]ダメージ\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Damage[-]
 r:"^\[FFBB00\,CE4F00\](\d+)\[-\]\[3C404E\]ダメージ\[-\]\[3C404E\]で撃破\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Damage[-][3C404E](kill)[-]
