@@ -764,6 +764,7 @@ Nyatt
 Windsweopt
 Rebelite
 Dragonfolk
+Masaki
 Sasetsu` is not a recognized word. (unrecognized-spelling)
 493
 Translation/en/Text/Character/RukaNY.txt:38:415 ... 422, Error - `Fuyutei` is not a recognized word. (unrecognized-spelling)
