@@ -6,7 +6,7 @@ r:"^追想のデフラグが\n(\d+)個解放されました。$"=$1 Reminiscent 
 討伐証（後編専用）=Victory Medal (Part B)
 
 r:"^(\[[0-9A-F]{6}\])?【前編】イベントクエストを(\d+)回クリアしよう（前後編共通）(\[-\])?$"=$1【Part 1】 Clear the event quest $2 times (Any Part) $3
-r:"^(\[[0-9A-F]{6}\])?【前編】ボスに1回挑戦しよう（前後編の全難易度共通）(\[-\])?$"=$1【Part 1】 Battle Boss 1 time (Any Part Any Dificult) $3
+r:"^(\[[0-9A-F]{6}\])?【前編】ボスに1回挑戦しよう（前後編の全難易度共通）(\[-\])?$"=$1【Part 1】 Battle Boss 1 time (Any Part Any Difficult) $3
 後編
 r:"^(\[[0-9A-F]{6}\])?討伐証交換前編の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1Reset the reward lineup (Part A) of subjugation exchange $2 Time$3
 r:"^(\[[0-9A-F]{6}\])?討伐証交換後編の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1Reset the reward lineup (Part B) of subjugation exchange $2 Time$3
