@@ -24,6 +24,13 @@ EXPギガポーション=Giga EXP Potion
 ミックスベリーケーキ=Mixed berry cake
 アップルパイ=Apple Pie
 ハートチュロ=Churro Heart 
+
+
+ボスチケット=Boss Tickets
+（前編専用）= (Part 1)
+（後編専用）= (Part 2)
+5th Anniversary カウントダウン=5th Anniversary countdown
+正月のひと時=New Year's time
 =============
 ランダムな装備が獲得できる。=Random equipment can be obtained.
 大天使の泪=Archangel's Tears

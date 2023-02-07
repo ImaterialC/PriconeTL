@@ -1,4 +1,3 @@
-目を閉じて行けるかな…？=Can you close your eyes ...?
 r:"^ガストロス山([0-9\-\(\)\w （）]*)$"=Mount Gastros Venue $1
 邪牛神モーモン=Evil God Ox
 

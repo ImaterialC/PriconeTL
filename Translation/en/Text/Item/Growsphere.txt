@@ -49,12 +49,12 @@ sr:"^([べ-・ー＆]{2,11})(\（.{2,10}\）)?専用スフィア / Lv(\d+)\nを�
 一括強化=Batch Strengthening
 無料でレベルアップ！=Level up for free!
 ランクアップします。よろしいですか？=Do you want to Rank Up?
-r:"^無料で強化できるのは\nLv(\d+)までです。$"=Can be enhanced for free up to Lv215 .
+r:"^無料で強化できるのは\nLv(\d+)までです。$"=Can be enhanced for free up to Lv$1 .
 レベルは現在のプレイヤーLv以下まで上げられます。=The level can be raised to the current player Lv.
 無料対象のためアイテムや装備は消費しません。=No items and equipment are consumed.
 スキル①=Skill ①
 スキル②=Skill ②
-r:"^\[3C404E\]無料で強化できるのは\[-\]\[FF7C4E,D62146\]Lv(\d+)\[-\]\[3C404E\]までです。\[-\]$"=[3C404E]LvUp for Free Up to[FF7C4E,D62146] Lv215[-].[-]
+r:"^\[3C404E\]無料で強化できるのは\[-\]\[FF7C4E,D62146\]Lv(\d+)\[-\]\[3C404E\]までです。\[-\]$"=[3C404E]LvUp for Free Up to[FF7C4E,D62146] Lv$1[-].[-]
 [3C404E]無料で強化できるのは[-][FF7C4E,D62146]
 ・ランクアップ\n・装備装着\n・装備強化=·rank up\n・Equipped an equipment\n・Equipment enhancement
 ・専用装備作成\n・専用装備上限解放\n・専用装備レベルアップ=・ Craft Unique Equipment\n・ Unlock Level Cap of Unique Equipment\n・ Unique Equipment Level Up

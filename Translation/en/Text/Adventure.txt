@@ -34,6 +34,7 @@ r:"^\[FF7C4E\,D62146\]残り ([0-9/]+)回\[-\]$"=[FF7C4E,D62146]$1 Left[-]
 ファストチケットを所持していません。=You do not have a fast ticket.
 これ以上短縮できません。=Can't shorten it anymore.
 帰還したパーティはありません。=There is no party that has returned.
+冒険中のパーティはありません。=There is no party during the adventure.
 
 時間短縮詳細=Time Reduction Details
 繰り返し出発5回目=5th departure
@@ -168,6 +169,9 @@ sr:"^(.+)のアドベンチャーから撤退しました。$"=Retreat from the 
 『急がば舞い上がれ』ですね！=It's "Hurry Up and Soar!"
 エルフたちのためのニギヤカ大冒険=Lively Adventure for Elves
 ワイルドライフ・アドベンチャー！=Wildlife Adventure!
+アオハル登⼭♪徒歩で来た☆=Youth Climbing♪ Came on foot☆
+迷い猫との思い出=Memories of a lost cat
+
 
 1.ユピテル樹海=1. Jupiter Tree Sea
 スィオネ\n樹林=Sion\nForest

@@ -40,9 +40,9 @@ r:"^あと(\d+)時間(\d+)分は挑戦できません。$"=Can't challenge for $
 上の浮城=eaven's Fortress
 天上の浮城=Heaven's Fortress
 
-緑=D
-竜の骸嶺=ragoncorpse Peak
-緑竜の骸嶺=Dragoncorpse\nPeak
+緑=J
+竜の骸嶺=adewyrm's Roost
+緑竜の骸嶺=Jadewyrm's Roost
 
 毒=D
 瘴の闇稜=arkblight Crag
@@ -82,7 +82,7 @@ sr:"^\[2874AE,12304D\](.+)\[-\]$"="[2874AE,12304D]$1[-]"
 断崖絶壁で発見された遺跡=Ruins discovered on a\ntreacherous cliff.
 大海原にそびえる謎の巨塔=A tall and lonely tower\nsurrounded by ocean.
 瘴気渦巻く常闇の孤峰=A region of eternal night,\ntainted by dark energies.
-厳峰に佇む竜の寝床=A dragon's resting place\nthat lies on the peak.
+厳峰に佇む竜の寝床=The perilous peak where a\ndragon makes its nest.
 天空の番人が静かに眠る聖城=The divine fortress where\nthe guardians sleep.
 砂の大瀑布が落ちゆく果ての都=The Capital on the\nEnd of the Great Sandfall
 

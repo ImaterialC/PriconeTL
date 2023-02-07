@@ -2,6 +2,7 @@
 美食殿=Gourmet Guild
 カルミナ=Carmina
 ラビリンス=Labyrinth
+ラビリンスギルド拠点=Labyrinth Guild base
 リトルリリカル=Little Lyrical
 フォレスティエ=Forestier
 悪魔偽王国軍（ディアボロス）=Diabolos
@@ -15,6 +16,7 @@
 自警団（カォン）=Caon
 カォン=Caon
 メルクリウス財団=Mercurius Foundation
+メルクリウス財団 拠点=Mercurius Foundation base
 トワイライトキャラバン=Twilight Caravan
 ヴァイスフリューゲル　ランドソル支部=Weissflügel Landosol Branch
 ヴァイスフリューゲル ランドソル支部=Weissflügel Landosol Branch

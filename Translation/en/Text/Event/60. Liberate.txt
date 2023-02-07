@@ -1,18 +1,49 @@
+リベレイト・ジ・エデン　 いつか、また会う未来で=Liberate the Eden: Someday in the future we will meet again
 カヤ・ノゾミ=Kaya Nozomi
 r:"^追想のデフラグが\n(\d+)個解放されました。$"=$1 Reminiscent defrag\nhas been unlocked.
 追想のデフラグ エピソード解放=Reminiscence Defrag Episode has been Unlocked.
 楽園の守護者=Paradise Guardian
-討伐証（前編専用）=Victory Medal (Part A)
-討伐証（後編専用）=Victory Medal (Part B)
+討伐証（前編専用）=Victory Medal (Part 1)
+討伐証（後編専用）=Victory Medal (Part 2)
+
+r:"^追想の楽園([0-9\-\(\)\w （）]*)$"=Reminiscence Paradise $1
+久遠の園を象る者=The One who Sculpts the Garden of Eternity
+アスラ=Asla
+オクトー=Okto
 
 r:"^(\[[0-9A-F]{6}\])?【前編】イベントクエストを(\d+)回クリアしよう（前後編共通）(\[-\])?$"=$1【Part 1】 Clear the event quest $2 times (Any Part) $3
-r:"^(\[[0-9A-F]{6}\])?【前編】ボスに1回挑戦しよう（前後編の全難易度共通）(\[-\])?$"=$1【Part 1】 Battle Boss 1 time (Any Part Any Difficult) $3
+r:"^(\[[0-9A-F]{6}\])?【後編】イベントクエストを(\d+)回クリアしよう（前後編共通）(\[-\])?$"=$1【Part 2】 Clear the event quest $2 times (Any Part) $3
+r:"^(\[[0-9A-F]{6}\])?【前編】ボスに1回挑戦しよう（前後編の全難易度共通）(\[-\])?$"=$1【Part 1】 Battle Boss 1 time (Any Part Any Difficult) $2
+r:"^(\[[0-9A-F]{6}\])?【後編】ボスに1回挑戦しよう（前後編の全難易度共通）(\[-\])?$"=$1【Part 2】 Battle Boss 1 time (Any Part Any Difficult) $2
 後編
-r:"^(\[[0-9A-F]{6}\])?討伐証交換前編の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1Reset the reward lineup (Part A) of subjugation exchange $2 Time$3
-r:"^(\[[0-9A-F]{6}\])?討伐証交換後編の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1Reset the reward lineup (Part B) of subjugation exchange $2 Time$3
+r:"^(\[[0-9A-F]{6}\])?討伐証交換前編の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1Reset the reward lineup (Part 1) of subjugation exchange $2 Time$3
+r:"^(\[[0-9A-F]{6}\])?討伐証交換後編の報酬ラインナップを(\d)回リセットしよう(\[-\])?$"=$1Reset the reward lineup (Part 2) of subjugation exchange $2 Time$3
 
 束の間の勝利=Bundle victory
 r:"^(\[[0-9A-F]{6}\])?チカとツムギのシャドウとお供モンスターを倒そう(\[-\])?$"=$1Defeat Chika and Tsumugi's shadow and companion monsters!$2
+
+
+不穏なる兆し=Signs of disturbing
+奪われた絆の証=Proof of the robbed bond
+祭りを楽しんでいたムイミだったが、突然謎の少女に襲撃され\nてブローチを奪われてしまう。その少女を捜している最中、次\n第に様子がおかしくなっていく街の人たちに追われ始めるも、\nカヤの助けで難を逃れる。=Muimi enjoyed the festival, but suddenly was attacked by a mysterious girl and was deprived of a brooch. While searching for the girl, she begins to be chased by the people in the city, who gradually become crazy, but escapes the difficulties with Kaya.
+生き残りたちの夜会=Survival night party
+ムイミとOnii－chanは、同様にカヤに助けられたペコリー\nヌ、ノゾミと合流する。街の異変について情報交換するも有効\nな手立てが見つからず、ムイミのブローチを奪った少女を捜し\nに行くこととなる。=Muiimi and Onii -Chan join Pecolin and Nozomi, who were also helped by Kaya. Despite exchanging information about the abnormalities of the city, there is no effective way to find it, so he will go to search for a girl who has taken Muii's brooch.
+真夜中の決死行=Midnight death
+ムイミは、カヤたちに古くからの仲間の面影を重ねながら少女\nの捜索をしていた。再び様子のおかしいチカとツムギと戦闘に\nなったところ、原因不明の不調に陥る。そこへ捜していた少女\nミラまでもが現れる。=Muimi was searching for a girl with Kaya and her old friends. When she fought again with the strange chika and a Tsumugi, she fell into an unknown cause. Even the girl Mira who was searching for it appears.
+楽園に抗う金色の解放者=Gold -colored liberator against paradise
+ムイミたちは、ミラの人々を思い出の中に閉じ込め「楽園の住\n人」にする能力に抵抗する。その時ムイミたちに人々を「楽\n園」から解放する力が発現し、チカやツムギたちを異変から救\nうことに成功する。=The Muimi and his colleagues resist the Mira people in their memories and become the "paradise residents". At that time, Muimi and others have the power to release people from "paradise", and succeed in saving Chika and Tsumugi from abnormalities.
+楽園創造=Creating paradise
+ムイミたちが人々を楽園からの解放を進めていると、突如とし\nて繁華街が異様な光景へと変わる。驚くムイミたちの前に、ミ\nラとその相棒アスラが現れる。アスラは、ムイミを楽園へ迎え\nるためにある人物を呼ぶ。=As the Muimi is liberating from the paradise, the downtown suddenly turns into a strange sight. In front of the surprising Muimi, Mira and her partner Asura appear. Asura calls a person to greet Muimi to paradise.
+解放者の責任=Responsibility of the Liberation
+ムイミは、目の前に現れたオクトーの前から動けずにいた。一\n方、カヤは楽園の住人になったイノリ、ノゾミもファンたちと\nそれぞれ対峙し、自分たちの進むべき未来に気付き戦う覚悟を\n決めるのだった。=Muimi was unable to move in front of Okto, who appeared in front of him. On the other hand, Kaya, who became a resident of paradise, also confronted the fans and decided to be aware of the future they should go.
+揺らぐ導き手=Swinging leaders
+アスラの仕掛けた思い出の誘惑を振り切るムイミ。ミラは、そ\nの決断を理解できずにいた。ムイミは、そんなミラとしばし行\n動を共にする中で彼女の考えに理解を示しながらも、最後まで\n自身の意志を貫き通す。=Muimi shakes off the temptation of Asura's memories. Mira did not understand her decision. Muimi shows her understanding of her thoughts while working with Mira for a while, but penetrates her will to the end.
+思い出は虚無へ還る=Memories return to imaginary
+ミラたちの拠点に辿り着いたムイミは、再びアスラと対峙す\nる。アスラは、ムイミの思い出に対する考え方により、ミラの\n心に迷いが生じていると知る。アスラは、ムイミの説得を諦\nめ、全ての思い出を奪い去る。=Muimi arrives at the Mira's base and confronts Asura again. Asura knows that Mira's heart is hesitant due to Muimi's way of thinking. Asura gives up Muimi's persuasion and seizes all memories.
+大悪党の復活=The resurrection of the villain
+思い出を奪われたムイミだったが、カヤとノゾミの思い、そし\nてオクトーによって復活する。アスラは、ムイミの復活や自身\nの秘密に動揺して暴走する。ムイミたちは、強大な力を前にし\nても諦めず撃破する。=Muimi was deprived of memories, but revived by Kaya and Nozomi and Okto. Asura runs away due to the resurrection of Muimi and her secrets. The Muimi and others defeat without giving up even before the powerful power.
+アスラの消滅に伴い、「楽園」にまつわる異変は全て元に戻\nる。そしてランドソルでは何事もなかったかのように建国祭が\n再開され、事件に関わったムイミたちもそれぞれの未来を胸\nに、前へ進んでいくのだった。=With the extinction of Asura, all the abnormalities related to the paradise return to the beginning. The founding festival was resumed as if nothing had happened in Land Sol, and the Muimi and the Muimi, who were involved in the incident, moved forward with their future.
+白紙の未来を金色で染めて=Dyeing a Blank Future with Gold
 
 後編
 
@@ -34,6 +65,8 @@ r:"^(\[[0-9A-F]{6}\])?チカとツムギのシャドウとお供モンスター�
 オクトーの追想　その1=Memories of Octo Part 1
 オクトーの追想　その2=Memories of Octo Part 2
 オクトーの追想　その3=Memories of Octo Part 3
+オクトーの追想　その4=Memories of Octo Part 3
+オクトーの追想　その5=Memories of Octo Part 3
 リーダーはどっちだ！=Which one is the leader!
 表示できるストーリーがありません。=There are no stories to display.
 勝ちたい理由=why i want to win
@@ -55,4 +88,14 @@ r:"^(\[[0-9A-F]{6}\])?チカとツムギのシャドウとお供モンスター�
 ラジラジの追想　その1=Reminiscence of Rajiraji Part 1
 ラジラジの追想　その2=Reminiscence of Rajiraji Part 2
 ラジラジの追想　その3=Reminiscence of Rajiraji Part 3
+ネネカの追想=Reminiscence of Neneka
+
 まだ見ぬ日々に想い馳せて=Reminisce about the days we haven't seen yet
+
+跳躍王のお仕置き=Punishment of the Leaping King
+虎の尾を踏む=Step on the Tiger's Tail
+二人なら絶対だって=If it's Just the Two of Us, then Definitely
+一番怪しい七冠は誰だ=Who is the Most Suspicious of th Seven Crowns
+簡単すぎる問題=Too Easy Problem
+魔物使いは語る=The Magician Speaks
+悪党たちの目指す未来=The Future that Villains Aim For

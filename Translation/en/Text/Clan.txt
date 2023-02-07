@@ -400,8 +400,8 @@ sr:"^(\d+月)全クランランキング$"=Global Ranking($1)
 同一編成の表示=Display of the same formation
 ===Ranking Result
 =====sr:"^(\d+月)クランバトルの順位が確定しました！$"=$1 Clan Battle
-1月クランバトルの順位が確定しました！=Januray Clan Battle
-2月クランバトルの順位が確定しました！=Febuary Clan Battle
+1月クランバトルの順位が確定しました！=January Clan Battle
+2月クランバトルの順位が確定しました！=February Clan Battle
 3月クランバトルの順位が確定しました！=March Clan Battle
 4月クランバトルの順位が確定しました！=April Clan Battle
 5月クランバトルの順位が確定しました！=May Clan Battle
@@ -418,8 +418,8 @@ sr:"^(\d+月)全クランランキング$"=Global Ranking($1)
 sr:"^\(クラン内ランキング　(\d+位)\)$"=(in-clan Rank $1)
 
 ======sr:"^\[25CFDE,0E6C98\](\d+月)クランバトル\[-\]$"=[25CFDE,0E6C98]$1 Clan Battle[-]
-[25CFDE,0E6C98]1月クランバトル[-]=[25CFDE,0E6C98]Januray Clan Battle[-]
-[25CFDE,0E6C98]2月クランバトル[-]=[25CFDE,0E6C98]Febuary Clan Battle[-]
+[25CFDE,0E6C98]1月クランバトル[-]=[25CFDE,0E6C98]January Clan Battle[-]
+[25CFDE,0E6C98]2月クランバトル[-]=[25CFDE,0E6C98]February Clan Battle[-]
 [25CFDE,0E6C98]3月クランバトル[-]=[25CFDE,0E6C98]March Clan Battle[-]
 [25CFDE,0E6C98]4月クランバトル[-]=[25CFDE,0E6C98]April Clan Battle[-]
 [25CFDE,0E6C98]5月クランバトル[-]=[25CFDE,0E6C98]May Clan Battle[-]
