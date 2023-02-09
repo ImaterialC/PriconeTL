@@ -7,8 +7,18 @@ r:"^対象の残りＨＰが50％以上の場合、味方全体のＴＰ上昇�
 
 自分に継続ＨＰ回復状態を付与する。残りＨＰが最も高い敵の残りＨＰが最大ＨＰの50％以上だった場合、味方全体の物理攻撃力を大アップ、物理クリティカルを中アップさせ、対象の残りＨＰが50％未満の場合、味方全体の物理攻撃力を特大アップさせる。=Grant regenerate HP. If the highest remaining enemy's HP > 50%, Large boost the P.ATK of all allies and boost the P.crit rate by a medium amount, other than that boost the P.ATK of all allies.
 
-r:"^毎秒ＨＰを(\d+)回復する\n対象の残りＨＰが50％以上の場合、味方全体の物理攻撃力を(\d+)アップ\n対象の残りＨＰが50％以上の場合、味方全体の物理クリティカルを50アップ\n対象の残りＨＰが50％未満の場合、味方全体の物理攻撃力を(\d+)アップ$"=Recovers own HP by $1/s.\nIf the remaining HP of the target is more than 50%:\nBoosts all allies' P.ATK by $2.\nBoosts all allies' P.crit rate by 50.\nIf the remaining HP of the target is less than 50%:\nBoosts all allies' P.ATK by $3 for 12s.
+r:"^毎秒ＨＰを(\d+)回復する\n対象の残りＨＰが50％以上の場合、味方全体の物理攻撃力を(\d+)アップ\n対象の残りＨＰが50％以上の場合、味方全体の物理クリティカルを50アップ\n対象の残りＨＰが50％未満の場合、味方全体の物理攻撃力を(\d+)アップ$"=Recovers own HP by $1/s for 6s.\nIf enemy's HP > 50%:\nBoosts all allies' P.ATK by $2.\nBoosts all allies' P.crit rate by 50.\n\nIf enemy's HP < 50%:\nBoosts all allies' P.ATK by $3 for 12s.
+
+
+自分に継続ＨＰ回復状態を付与し、ＴＰを小回復する。残りＨＰが最も高い敵の残りＨＰが最大ＨＰの50％以上だった場合、味方全体の物理攻撃力を特大アップ、物理クリティカルを中アップさせ、対象の残りＨＰが50％未満の場合、味方全体の物理攻撃力を特大アップさせる。=Grant regenerate HP and small TP recovery. If the highest remaining enemy's HP > 50%, Large boost the P.ATK of all allies and boost the P.crit rate by a medium amount, other than that boost the P.ATK of all allies.
+
+r:"^毎秒ＨＰを(\d+)回復する\n自分のＴＰを100回復\n対象の残りＨＰが50％以上の場合、味方全体の物理攻撃力を(\d+)アップ\n対象の残りＨＰが50％以上の場合、味方全体の物理クリティカルを70アップ\n対象の残りＨＰが50％未満の場合、味方全体の物理攻撃力を(\d+)アップ$"=Recovers own HP by $1/s for 12s.\nRecovers own TP by 100.\nIf enemy's HP > 50%:\nBoosts all allies' P.ATK by $2.\nBoosts all allies' P.crit rate by 70.\n\nIf enemy's HP < 50%:\nBoosts all allies' P.ATK by $3 for 24s.
+
 
 目の前の敵１キャラに物理中ダメージを与え、物理防御力を小ダウンさせる。対象の残りＨＰが最大ＨＰの50％以上だった場合、自分の物理攻撃力を大アップさせ、対象の残りＨＰが50％未満の場合、自分のＴＰを大回復させる。=Inflicts moderate P.DMG to enemy in front and slightly decreases P.DEF. If the target's remaining HP is 50% or more, Large boost own P.ATK, other than that, recovers a large amount of own TP.
 
 r:"^敵単体に(\d+)の物理ダメージ\n敵単体の物理防御力を(\d+)ダウン\n対象の残りＨＰが50％以上の場合、自分の物理攻撃力を(\d+)アップ\n対象の残りＨＰが50％未満の場合、自分のＴＰを(\d+)回復$"=Deals $1 P.DMG to an enemy.\nLowers an enemy's P.DEF by $2 for 12s.\nIf the remaining HP of the target is more than 50%:\nBoosts own P.ATK by $3.\nIf the remaining HP of the target is less than 50%:\nRecovers own TP by $4.
+
+インビジブルエナジー+=Invisible Energy+
+インビジブルエナジー=Invisible Energy
+超越叛逆のプリンセスソード=Transcendence Rebellion Princess Sword

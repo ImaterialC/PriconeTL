@@ -3,6 +3,8 @@
 レア=rea 
 ピアノ=Piano
 半人半竜=Half-human half-dragon
+
+人を超越した力を有す心優しい竜姫=A kind-hearted dragon princess with powers that transcend human beings.
 ===Skills
 ===UB
 マッドネスクリーヴ=Cleaving Madness

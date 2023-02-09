@@ -10,6 +10,6 @@
 主さまと過ごす夏=Summer with the Lord
 魔法狩人ピュアリー★シオリ=Magic Hunter Purely★Shiori
 サマー☆チアリーダー=Summer Cheerleader
-r:"^([べ-・ー＆]{2,11})(\（.{3,10}\）)?(\s|)の絆$"=Bond with $1$2
+r:"^([べ-・ー＆]+)(\（.{3,10}\）)?(\s|)の絆$"=Bond with $1$2
 
 sr:"^([^NVHS]+?)(NORMAL|VERY HARD|SPECIAL|HARD)討伐！$"=Defeat $1 ($2)

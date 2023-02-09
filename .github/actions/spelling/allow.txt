@@ -765,8 +765,33 @@ Windsweopt
 Rebelite
 dragonfolk
 Masaki
-Sasetsu` is not a recognized word. (unrecognized-spelling)
-493
-Translation/en/Text/Character/RukaNY.txt:38:415 ... 422, Error - `Fuyutei` is not a recognized word. (unrecognized-spelling)
-494
-Translation/en/Text/Character/RukaNY.txt:38:423 ... 430, Error - `Sasetsu` is not a recognized word. (unrecognized-spelling)
+adewyrm
+anythin
+Asla
+desune
+didja
+Eheh
+Eheheh
+feelsh
+Fufufufu
+geas
+goin
+Grrrrr
+Hahahah
+Hawawawa
+Jadewyrm
+kinda
+livin
+Mahorin
+Mmm
+mornin
+Noemu
+Okto
+oughtta
+outta
+Taihendesu
+Urgh
+Wahhh
+walkin
+Weheheh
+What'cha

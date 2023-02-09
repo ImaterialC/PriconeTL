@@ -31,3 +31,5 @@ r:"^毎秒ＴＰを5回復する\n(\d+)ダメージ分の魔法無効バリア�
 碩学の教え+=Scholarly Teaching+
 碩学の教え=Scholarly Teaching
 ペンシルアックス・レプリカ=Pencil Axe Replica
+
+高機動万能靴・レプリカ=High Mobility All-Purpose Shoes Replica

@@ -34,8 +34,8 @@ r:"^サイドストーリーが\n(\d+)個解放されました。$"=$1 side stor
 限定ショップにアイテムが\n追加されました。=An item has been added to the limited shop.
 オート進行解放コンテンツ一覧=List of Auto Advance Unlock Content
 キャラクターストーリー解放=Character Story Unlock
-sr:"^([べ-・ー＆]{2,11})の\n絆ランクが(\d+)になりました。$"=$1\nThe bond rank is $2.
-sr:"^([べ-・ー＆]{2,11})の\n絆ランクが(\d+)になりました。$"=$1\nThe bond rank is $2
+sr:"^([べ-・ー＆]+)の\n絆ランクが(\d+)になりました。$"=$1\nThe bond rank is $2.
+sr:"^([べ-・ー＆]+)の\n絆ランクが(\d+)になりました。$"=$1\nThe bond rank is $2
 
 特別なコンテンツの解放のため、オート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Auto progress has been stopped to unlock special content. The following stamina consumption is performed by this auto progression. * Stamina consumption at retirement and defeat is not included.
 
