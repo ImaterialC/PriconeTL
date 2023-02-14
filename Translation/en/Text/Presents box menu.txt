@@ -2,7 +2,6 @@
 すべて受け取る=Receive All
 受け取り履歴=History
 [FF7C4E,D62146]期限が切れたプレゼントは自動的に削除されます。一度に受け取れるプレゼントは100件までです。[-]=[FF7C4E,D62146]Presents will be automatically deleted once their time limit expires.\nUp to 100 presents can be received at once.[-]
-あなたがつないだ絆を\n全力全開でつなぎとめて\n今日までの思い出と\n明日からの希望を守ります！=We will connect the bonds we connect with all our best to protect our memories and hope from tomorrow!
 スタミナ以外=Other than stamina
 新しい順=Newest
 古い順=Oldest
@@ -43,7 +42,7 @@ sr:"^(.{3,18})×(\d+)$"=$1 × $2
 sr:"^「(.+)」で獲得したアイテムです。$"="This is an item obtained in "$1"."
 sr:"^バトルアリーナ(\d+位)のランキング報酬です。$"="Battle Arena $1 ranking reward."
 sr:"^プリンセスアリーナ(\d+位)のランキング報酬です。$"="Princess Arena $1 ranking reward."
-sr:"^([0-9]{1,2}月)クランバトルランキング(\d+位)の報酬です。$"="Clan Battle ($1) $2 ranking reward."
+sr:"^(\d+月)クランバトルランキング(\d+位)の報酬です。$"="Clan Battle ($1) $2 ranking reward."
 みんなのカレンダー内で獲得したアイテムです。=This item was acquired in everyone's calendar.
 
 

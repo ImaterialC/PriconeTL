@@ -32,3 +32,7 @@
 コドモオオトカゲ=Monitor Lizard Child
 
 ウキキー=Ukiki
+
+ゴーレム=Golem
+ブルーゴーレム=Blue Golem
+シャドウ=Shadow

@@ -10,7 +10,7 @@
 ディアボロス=Diabolos
 王宮騎士団（NIGHTMARE）=Nightmare
 王宮騎士団ーNIGHTMAREー=Nightmare\nDefenders of the Throne
-サレンディア救護院=Sarendia
+サレンディア救護院=Sarendia Orphanage
 牧場（エリザベスパーク）=Elizabeth Park
 自警団ーカォンー=Caon
 自警団（カォン）=Caon
@@ -24,7 +24,6 @@
 聖テレサ女学院（なかよし部）=Friendship Club
 ニュージェネレーションズ=New Generations
 ドラゴンズネスト=Dragons Nest
-自警団ーカォンー=Self-Council
 牧場ーエリザベスパークー=Elizabeth Park
 エリザベスパーク=Elizabeth Park
 ヴァイスフリューゲル\nランドソル支部=Weissflügel\n(Landosol Branch)

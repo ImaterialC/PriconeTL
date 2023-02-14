@@ -21,7 +21,7 @@ r:"^範囲内の敵に(\d+)の物理ダメージ\n自分の物理攻撃力を(\d
 
 前方範囲内の敵すべてに物理中ダメージを与える。ぺコリーヌのＨＰが高い程ダメージがアップ。残りＨＰが50%以上でダメージの合計に応じて自分の物理攻撃力をアップさせ、50%未満でダメージの合計に応じて自分のＨＰを回復させる。=Deals medium P.DMG to all enemies within a forward range. The higher Pecorine's HP, the more damage it does. Increases own P.ATK based on remaining HP (>50%HP), and heals own HP based on damage total (<50%HP).
 
-超全力全開☆プリンセスストライク=Super Full Throttle ☆ Princess Strike
+超全力全開☆プリンセスストライク=Ultimate☆Princess Strike
 ロイヤルスピリット+=Royal Spirit+
 ロイヤルスピリット+=Royal Spirit
 ロイヤルプリンセスドレス=Royal Princess Dress

@@ -31,7 +31,7 @@ r:"^世界の果ての森([0-9\-\(\)\w （）]*)$"=Forest at the End of the Worl
 必ず行くよ。=I will definitely go.
 
 冒険しよう！=Let's adventure!
-ランドソルを10周！=10 laps of Land Sol!
+ランドソルを10周！=10 laps of Landosol!
 いっぱい食べよう。=Let's eat a lot.
 
 フリルやレースを足してみよう。=Let's add frills and laces.

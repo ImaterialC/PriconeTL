@@ -147,7 +147,7 @@ sr:"(.+)のバースト効果確認$"=Burst Effect of $1
 
 絶望を吸収して、強くなってる！=Absorbing despair and getting stronger!
 
-終炎の巨神がランドソルに向かって侵攻しております。\n皆様と力を合わせて全てのボスを完全討伐し、\n全フェーズの攻略を目指しましょう。=The giant of the last flame is invading Land Sol. Let's all defeat all bosses with all of you and aim to capture all phases.
+終炎の巨神がランドソルに向かって侵攻しております。\n皆様と力を合わせて全てのボスを完全討伐し、\n全フェーズの攻略を目指しましょう。=The giant of the last flame is invading Landosol. Let's all defeat all bosses with all of you and aim to capture all phases.
 皆様で協力して『Total HP』を0にすると完全討伐となります。\nこの戦いに参加した皆様全員が報酬を獲得できるようです。\n受け取りは期間中のみのようなので、注意してくださいませ。=If you cooperate with everyone and set "TOTAL HP" to 0, it will be completely defeated. It seems that everyone who participated in this battle can get rewards. Please note that the receipt is only during the period.
 特定のお仲間は、バトルでより力を発揮しやすいようです。\nもし育成ができていないお仲間がいる場合は、今回はマナを使わずに\nサポートキャラを編成できますので試してみましょう。=A specific companion seems to be easier to demonstrate in the battle. If you have a friend who has not been able to train, this time you can organize a support character without using mana.
 皆様で力を合わせて『Total HP』を減らすと、バーストダウンが発生\nするようです。一定時間、バトルが有利になる効果が発動するように\nなります。時間経過で特別なバーストダウンも発生するようです。=If you work together to reduce "TOTAL HP", it seems that burst down will occur. The effect of the battle will be activated for a certain period of time. It seems that special burst down occurs over time.
