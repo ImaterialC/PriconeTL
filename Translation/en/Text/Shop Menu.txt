@@ -8,7 +8,7 @@ r:"^所持数：(\d+)$"=Held: $1
 sr:"^(\d+月)(\d+)日まで販売中$"=Sale Until $2 $1
 残り0回=Sold out
 r:"^残り(\d+)回$"=$1 Times Left
-
+ダンジョンショップ=Dungeon Shop
 残り購入回数=Remain
 すべて選択=Select All
 全て解除=Clear
