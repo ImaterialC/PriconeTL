@@ -1,1 +1,8 @@
-﻿
+﻿デモンヴィクティムソード=Demon Victim Sword
+引き出すマナは1以上で入力してください。=Please enter the mana to pull out with 1 or more.
+３rdアニバーサリーフォトブック=3rd anniversary photo book
+フォト\nブック=photo\nbook
+一定期間内に無効なシリアルコードを3回連続で\n入力すると1時間入力できなくなります。=If you enter an invalid serial code 3x in a row within a certain period of time, you will not be able to enter the code for 1 hour.
+無効なシリアルコードです。\n再度入力してください。=It is an invalid serial code.\nPlease try again.
+[3C404E]無効なシリアルコードです。\n連続で無効なシリアルコードが入力されたため一時的に[-][FF7C4E,D62146]機能を制限[-][3C404E]しました。[-]=[3C404E] Incidental serial code.\nSince the invalid serial code was entered continuously, [-] [FF7C4E, D62146] function was restricted [-] [3c404e].\n[-]
+[3C404E]連続で無効なシリアルコードが入力されたため\n一時的に[-][FF7C4E,D62146]機能を制限[-][3C404E]しています。\n制限が解除されるまでしばらくお待ちください。[-]=[3c404e] Since the invalid serial code was entered continuously, [-] [FF7C4E, D62146] function is limited [-] [3c404e].\nPlease wait for a while until the restriction is canceled.\n[-]
