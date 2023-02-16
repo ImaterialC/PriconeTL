@@ -14,7 +14,7 @@ r:"^(\[[0-9A-F,]{6,13}\])階\[-\]$"=$1F[-]
 
 キャラ全回復=Full Heal
 r:"^\[3B3F4D\]あと\[-\]\[64C9FD,0060BA\](\d+)時間\[-\]\[3B3F4D\]で利用できます。\[-\]$"=[3B3F4D]Can be used in [FFBB00,CE4F00]$1h[-].[-]
-1日1回キャラを全回復できます。=You can fully recover your characters once a day.
+1日1回キャラを全回復できます。=Can Heals All once a day.
 sr:"^あと(\d+)?時?間(\d+分)で利用できます。$"=$1h$2 remaining to use it.
 
 全てのキャラのHPを全回復します。=Recovers HP of all characters.

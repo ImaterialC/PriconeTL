@@ -1,8 +1,7 @@
-﻿デモンヴィクティムソード=Demon Victim Sword
-引き出すマナは1以上で入力してください。=Please enter the mana to pull out with 1 or more.
-３rdアニバーサリーフォトブック=3rd anniversary photo book
-フォト\nブック=photo\nbook
-一定期間内に無効なシリアルコードを3回連続で\n入力すると1時間入力できなくなります。=If you enter an invalid serial code 3x in a row within a certain period of time, you will not be able to enter the code for 1 hour.
-無効なシリアルコードです。\n再度入力してください。=It is an invalid serial code.\nPlease try again.
-[3C404E]無効なシリアルコードです。\n連続で無効なシリアルコードが入力されたため一時的に[-][FF7C4E,D62146]機能を制限[-][3C404E]しました。[-]=[3C404E] Incidental serial code.\nSince the invalid serial code was entered continuously, [-] [FF7C4E, D62146] function was restricted [-] [3c404e].\n[-]
-[3C404E]連続で無効なシリアルコードが入力されたため\n一時的に[-][FF7C4E,D62146]機能を制限[-][3C404E]しています。\n制限が解除されるまでしばらくお待ちください。[-]=[3c404e] Since the invalid serial code was entered continuously, [-] [FF7C4E, D62146] function is limited [-] [3c404e].\nPlease wait for a while until the restriction is canceled.\n[-]
+﻿天楼閃薙斬=Tenno Sennagi Zan
+天楼廻刃斬+=Tensho turn blade slashing+
+ビビらせてやる！+=I'll let you go!\n+
+冒険、思い出話=Adventure, memories
+【物理】前衛で、伝説の剣「天楼覇断剣」を振るう少女。\n小技を駆使する通常の戦闘スタイルから一転、ユニオン\nバースト後は「天楼覇断剣」を携え、敵を薙ぎ払う。=[Physics] A girl who shakes the legendary sword "Tensho Haiku Sword" in the avant -garde.\nShe turns from her normal battle style, who makes full use of her tricks, and after the Union Burst, carries her enemy with her "Tenro Haiku Sword".
+こっちだこっち！=Here!
+装備中=In the equipment

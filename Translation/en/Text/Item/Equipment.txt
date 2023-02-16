@@ -491,3 +491,13 @@ sr:"^「(.+)」([の設計図欠片\n]+)。$"="A$2 of $1."
 カースドデモンズローブ=Cursed Demon's Robe
 デモンズペインメイル=Demon's Pain Mail
 デモンズバインドアーマー=Demon's Bind Armor
+
+デビルドミニオンランス=Devil's Dominion Lance
+豪魔ノ爪刃=Demon Claw Blade
+デモンヴィクティムソード=Demon Victim Sword
+デモンパニッシュフィスト=Demon Panic Fist
+ロッドオブデモンズハート=Rod of Demon's Heart
+ディアブロマッシェーラ=Diablo Maschera
+デモンズコアワンド=Demon's Core Wand
+デモンズデストラクション=Demons Destruction
+デモンズスカーブレード=Demon's Scarblade

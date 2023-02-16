@@ -12,6 +12,9 @@ sr:"^\[3C404E\]\[3C404E\]\[FFBB00,CE4F00\](\d+時間|)(\d+分|)\[-\]で(.+)×\[F
 1Fに設置中のため売却できません。=cannot be sold because it is installed on 1F.
 2Fに設置中のため売却できません。=cannot be sold because it is installed on 2F.
 3Fに設置中のため売却できません。=cannot be sold because it is installed on 3F.
+
+プリぐるみスペシャル（アメス）=Purigurumi Special (Ameth)
+新しい家具を入手しました。\n収納BOX、またはプレゼントリストをご確認ください。=New furniture has been obtained. \Please check the Storage Boxes or the Gift List.
 ===furniture effect===
 マナ生成機=Mana Creation Device
 r:"^マナ生成機Lv.(\d+)$"=Mana Creation Device Lv.$1

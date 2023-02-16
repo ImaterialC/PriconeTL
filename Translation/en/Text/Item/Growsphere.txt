@@ -28,7 +28,7 @@
 デイリーミッションについて=About Daily Mission
 キャラの大いなる力を呼び醒ますア\nイテム。=An item that invokes the great power of the character.
 r:"^グロウスフィア / Lv(\d+)$"=Growsphere / Lv$1
-r:"^専用装備グロウスフィア / Lv(\d+)$"=Unique Equipment Growsphere / Lv$1
+r:"^専用装備グロウスフィア\n? / Lv(\d+)$"=Unique Equipment Growsphere / Lv$1
 
 強化できるLvまでLvアップする=Level up to the Lv cap.
 

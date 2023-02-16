@@ -4,7 +4,7 @@
 Sダッシュ=J:Start
 プリフェス=PriFES
 プリフェスガチャ=PriFES Gacha
-★3確定=Guaranteed ★3
+★3確定=Guarantee ★3
 プラチナ=Premium
 ピックアップ=Focus
 プラチナガチャ=Premium Gacha
@@ -16,6 +16,9 @@ r:"^([0-9.]+)Year Anniversaryガチャ$"=$1 Year Anniversary Gacha
 r:"^([0-9.]+)th Anniversaryガチャ$"=$1th Anniversary Gacha
 限定スタートダッシュガチャ=Limited Start Dash Gacha
 r:"^★3確定 プリコネフェス(\d*)記念ガチャチケット$"=Guarantee ★3 PriCone-FES $1 Memorial gacha ticket
+★3確定 ガチャチケットについて=Guarantee ★3 Gacha Ticket
+Anniv. スペシャル交換チケットについて=Anniv. Sp Exchange Ticket
+r:"^★3確定 ([0-9.]+)周年記念ガチャチケット$"=Guarantee ★3 $1th Anniversary Gacha Ticket
 
 出現率UP=Boosted rates
 
@@ -74,7 +77,7 @@ r:"^(\[[0-9A-F,]{6,13}\])([0-9/ :]{16})～([0-9/ :]{11,16})まで\[-\]$"="$1$2 t
 r:"^(\[[0-9A-F,]{6,13}\])有効期間:([0-9/ :]{16}) ～ ([0-9/ :]{11,16})\[-\]$"="$1 Period: $2 to $3 (JST)[-]"
 ==Banner Description==
 ======「ハツネ（サマー）のメモリーピース」\nに変更しますか？=Do you change to "Hatsune (Summer) Memory Piece"?
-sr:"^(\[[0-9A-F,]{6,13}\])★3キャラ出現率2倍\n限定キャラ「([べ-・ー＆]+)(（.+）)?」登場！期間中出現率UP！\[-\]$"="$1$1Boosted rates for the Limited ★3\n"$2$3"![-]"
+sr:"^(\[[0-9A-F,]{6,13}\])★3キャラ出現率2倍\n限定キャラ「([べ-・ー＆]+)(（.+）)?」登場！期間中出現率UP！\[-\]$"="$1$1Boosted rates for the Limited ★3\n$2$3![-]"
 
 r:"^(\[[0-9A-F,]{6,13}\])『10回引く』は(\[[0-9A-F,]{6,13}\])★2以上\[-\]1キャラ確定！\n対象キャラを仲間にする度に(\[[0-9A-F,]{6,13}\])対象メモピ(\d+)個\[-\]GET！\[-\]$"="$1A $2★2 or higher[-] character is guaranteed with each "10x draw"!\nEach pull a target Character, $3Gets a Bonus of $4 Memory Shards[-][-]"
 
@@ -87,10 +90,10 @@ sr:"^「([べ-・ー＆]+)(（.+）)?のメモリーピース」\nに変更し�
 sr:"^(\[[0-9A-F,]{6,13}\])★3キャラ出現率2倍\n新キャラ「([べ-・ー＆]+)(（.+）)?」登場！期間中出現率UP！\[-\]$"="$1Double rates for the New character\n$2$3![-]"
 sr:"^(\[[0-9A-F,]{6,13}\])新キャラ「([べ-・ー＆]+)(（.+）)?」登場！\n期間中出現率UP！\[-\]$"="$1Boosted rates for the New character\n$2$3![-]"
 
-sr:"^(\[[0-9A-F,]{6,13}\])★3キャラ出現率2倍！限定「([べ-・ー＆]+)(（.+）)?」(登場|出現率UP)！\n対象キャラを仲間にする度に対象メモピ(\d+)個GET！\[-\]$"="$1Boosted rates for the Limited ★3 "$2$3"!\nEach pull a target Chara will Gets $4 Memory Shards![-]"
+sr:"^(\[[0-9A-F,]{6,13}\])★3キャラ出現率2倍！限定「([べ-・ー＆]+)(（.+）)?」(登場|出現率UP)！\n対象キャラを仲間にする度に対象メモピ(\d+)個GET！\[-\]$"="$1Boosted rates for the Limited ★3 $2$3!\nEach pull a target Chara will Gets $4 Memory Shards![-]"
 sr:"^(\[[0-9A-F,]{6,13}\])限定「([べ-・ー＆]+)(（.+）)?」登場！\n期間中出現率UP！\[-\]$"=$1Boosted rates for the Limited ★3\n$2$3![-]
 
-sr:"^(\[[0-9A-F,]{6,13}\])★3キャラ出現率2倍！限定「([べ-・ー＆]+)(（.+）)?」「([べ-・ー＆]+)(（.+）)?」(登場|出現率UP)！\n対象キャラを仲間にする度に対象メモピ(\d+)個GET！\[-\]$"="$1Boosted rates for the Limited ★3 "$2$3"&"$4$5"!\nEach pull a target Chara will Gets $6 Memory Shards![-]"
+sr:"^(\[[0-9A-F,]{6,13}\])★3キャラ出現率2倍！限定「([べ-・ー＆]+)(（.+）)?」「([べ-・ー＆]+)(（.+）)?」(登場|出現率UP)！\n対象キャラを仲間にする度に対象メモピ(\d+)個GET！\[-\]$"="$1Boosted rates for the Limited ★3 $2$3 & $4$5!\nEach pull a target Chara will Gets $6 Memory Shards![-]"
 
 
 
@@ -160,7 +163,7 @@ r:"^残り([2-9])人選択してください。？$"=Please select $1 characters
 下記リストの中から\nピックアップキャラを選択してください。\n※選択したキャラはいつでも変更可能です。=Please select a Focus Character from the list below. \n※Selected characters can be changed at any time.
 必要人数選択済みです。=Character has been selected.
 選択中のキャラの選択状態を解除してください。=Please cancel the selection status of the selected character.
-解放済みのキャラがピックアップ対象に選択されています。=            The unlocked character has been\n                 selected as a pickup target.
+解放済みのキャラがピックアップ対象に選択されています。=         The unlocked character has been\n              selected as a pickup target.
 sr:"^「([べ-・ー＆]+)(\（.+\）)?」\n\nにピックアップ対象を変更しますか？$"=Do you want to change the pickup target to\n\n$1$2?
 ===Free Gacha===
 無料=free
@@ -189,11 +192,13 @@ sr:"^「([べ-・ー＆]+)(\（.+\）)?」\n\nにピックアップ対象を変�
 メモリーピース交換チケットについて=About Memory Shards Exchange Ticket
 ===A-memory shard,B-200/100,C-1
 ・交換対象のキャラのメモリーピース交換チケット1枚につき1キャラのメモリーピース×100と交換できるチケットです。\n・獲得したメモリーピースは直接付与されます。メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットのメモリーピース交換ダイアログ内をご確認ください。=•Each character's Memory Shard exchange ticket can be exchanged for {{C}} character's Memory Shard × {{B}}.\n・ Acquired Memory Shard will be given directly. If you have reached the maximum number of Memory Shards, you will be given to the present box.\n※ For the characters to be exchanged, please check the memory piece exchange dialog for each ticket.
-4th Anniv. スペシャル交換チケットについて=About 4th Anniv. special exchange tickets
+・★3確定 ガチャチケット1枚につき特定の★3キャラが1キャラ獲得できるチケットです。\n・出現するキャラにつきましては各チケットの［提供割合］ボタンよりご確認ください。\n・★3確定 ガチャチケットではキャラ交換Ptを獲得できません。\n・すでに仲間になったキャラが出現した場合、「女神の秘石」に変換されます。\n・変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。\n・女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。\n・ガチャは1回ごとに提供割合にもとづいて抽選を行います。そのため、提供割合が1％のキャラが、100回中1回必ず出現するわけではありません。=・Each Gacha Ticket is a ticket to acquire a specific 3★ character.\n・Refer to the [Percentage] button on each ticket for the character that will appear.\n・You will not be able to exchange Pts for a character with a Guarantee 3★ Gacha Ticket.\n・When a character who is already a member appears, it will be converted into the "Divine Amulets".\n・The converted Divine Amulets will not be sent to your gift box, but will be directly added to your possession count.\n・ If the maximum number of Divine Amulets in your possession has been reached, they will be sent to your Gift Box.\n・The lottery will be drawn based on the offered percentage for each gacha. Therefore, a character with a donation ratio of 1% is not guaranteed to appear once out of every 100 times.
+
+r:"^([0-9.]+)th Anniv. スペシャル交換チケットについて$"=About $1th Anniv. special exchange tickets
 ★3確定 アニメガチャチケットについて=Guarantee ★3 Anime Gacha Ticket
-★3確定 プリコネフェス記念ガチャチケット=Guarantee ★3 Pricone-FES Memorial gacha ticket
-チケットガチャではキャラ交換Ptは獲得できません。=Character exchange Pt cannot be earned\nwith this Ticket Gacha.
-★3確定 プリコネフェス2022記念ガチャチケット\nを消費してガチャを1回引きます。よろしいですか?=Use Guarantee ★3 Pricone-FES 2022 gacha ticket to draw Gacha.\nIs this OK?
+★3確定 プリコネフェス記念ガチャチケット=Guarantee ★3 Pricone-FES Memorial Gacha Ticket
+チケットガチャではキャラ交換Ptは獲得できません。=Character exchange Pt cannot be earned\nwith this Gacha Ticket .
+sr:"^(.+)\nを消費してガチャを1回引きます。よろしいですか\?$"=Use $1 to draw Gacha.\nIs this OK?
 ===Guarantee 3===
 [3C404E]キャラ交換Ptが共通のガチャ[-]=[3C404E]Exchange Pt Character Common Gacha[-]
 ピックアップキャラなし=No pickup character
