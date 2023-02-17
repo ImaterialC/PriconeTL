@@ -8,7 +8,7 @@ sr:"^目を覚ましたペコリーヌたちが目にしたのはカリザを弄
 追鬼の遊戯　～二回戦～=Ogre's Game ~Second Round~
 シノブたちはモニカたちの助力を得て第二回戦の鬼ごっこ勝負を開始する。洗脳したネネカの力を使って街に分身を放つミソラ。翻弄される一同だったが、アユミがひっそりとミソラを捕らえ、見事勝利を収めた。=With the help of Monica and the others, Shinobu and the others begin the second round of the game of tag.Misora, using Neneka's brainwashed power, unleashes her alter ego on the town.They are all at each other's mercy, but Ayumi quietly catches Misora and wins the game.
 虚空の遊戯　～三回戦～=The Game of the Void - Third Round
-sr:"^ヨリと(.{2,10})は第三回戦のレトロゲーム勝負に挑む。ヨリは最終戦の責任を感じて狼狽えるも、引き分けに持ち込んだ。ミソラは延長戦を提案するが、ミヤコがプリンを求めて彼女に襲いかかる。$"=Yoli and $1 challenge the third round of retro games.Yoli was dismayed to feel responsible for the final game, but managed to pull it out to a draw.Misora suggests an extra round, but Miyako attacks her for pudding.
+sr:"^ヨリと(.{2,10})は第三回戦のレトロゲーム勝負に挑む。ヨリは最終戦の責任を感じて狼狽えるも、引き分けに持ち込んだ。ミソラは延長戦を提案するが、ミヤコがプリンを求めて彼女に襲いかかる。$"=Yori and $1 challenge the third round of retro games. Yori was dismayed to feel responsible for the final game, but managed to pull it out to a draw. Misora suggests an extra round, but Miyako attacks her for pudding.
 虚空と魔性の遊戯=Emptiness and Demonic Games
 獣人族の国・セントールス=Centaurus, Land of the Beastmen
 大決闘！【レイジ・レギオン】=The Great Duel![Rage Legion

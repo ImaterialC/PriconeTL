@@ -27,7 +27,13 @@ sr:"^([べ-・ー＆]+)(（.+）)?と([べ-・ー＆]+)(（.+）)?\n?の\n?シ\n
 sr:"^([べ-・ー＆]+)(（.+）)?、([べ-・ー＆]+)(（.+）)?、([べ-・ー＆]+)(（.+）)?\n?の\n?シ\n?ャ\n?ド\n?ウ\n?が\n?追\n?加\n?さ\n?れ\n?る。$"=Added $1$2, $3$4, and $5$6's Shadow.
 
 r:"^シャドウ(\d+)体追加$"=Add $1 shadow
+シャドウ★6化=Shadow★6
+sr:"^([べ-・ー＆]+)(（.+）)?のシャドウが★6になる。$"=$1$2's shadow becomes ★6.
+sr:"^([べ-・ー＆]+)(（.+）)?と([べ-・ー＆]+)(（.+）)?\n?の\n?シ\n?ャ\n?ド\n?ウ\n?が\n?★\n?6\n?に\n?な\n?る。$"=$1$2 and $3$4's shadow becomes ★6.
+sr:"^([べ-・ー＆]+)(（.+）)?、([べ-・ー＆]+)(（.+）)?、([べ-・ー＆]+)(（.+）)?\n?の\n?シ\n?ャ\n?ド\n?ウ\n?が\n?★\n?6\n?に\n?な\n?る。$"=$1$2, $3$4, and $5$6's shadow becomes ★6.
 
+r:"^バトル時間が(\d+)秒になる。$"=The battle time is $1 seconds.
+バトル時間制限=Battle time limit
 
 危険度詳細=Danger Details
 ボス魔法ダメージカット=Boss M.DMG cut
@@ -38,6 +44,7 @@ r:"^シャドウ(\d+)体追加$"=Add $1 shadow
 物理ダメージ=P.DMG
 トレジャークエストはすべてクリアしました。=Cleared all treasure quests.
 sr:"^バトル開始時、(.+)が(\D+)(.+)％カット状態になる。$"=At the start of the battle, $2 Dealt on the $1 will be cut into $3%.
+
 
 編成キャラ数制限=Limited Formation Characters 
 r:"^編成可能キャラ数が(\d+)キャラになる。$"=Characters that can be organized is $1 characters.
@@ -59,6 +66,10 @@ r:"^パーティキャラの最大HPが(\d+)％ダウンする。$"=The maximum 
 全PHASEクリア達成！=Achieved All Phase Clear!
 すべてのPHASEをクリアしました！\n\nここからはEXTRA PHASEに突入し\nまだ勝利していないクエストに\n挑戦することができます。=Cleared all phases!\n\nFrom here you can enter the EXTRA PHASE and challenge quests that you have not yet won.
 
+ノゾミ、ムイミ、カヤ=Nozomi, Muimi, Kaya
+スペシャルバトルの=Special battle
+[FFFFFF]久遠の園を象る者のMODE1をクリアしよう[-]=[FFFFFF] Let's clear Mode1, an elephant in Kuon no Garden [-]
+途中でリタイアした場合、この内容はキャンセルされます。=If you retire on the way, this content will be canceled.
 
 
 ５つのPHASEからなる期間限定クエスト『次元断層』が登場しました。\nクエストに３回勝利すると次のPHASEに進めますよ。討伐したモンス\nターは強化されて復活するので、気を引き締めて挑みましょう、主さま。=A limited-time quest "Dimensional Fault" consisting of 5 PHASE has appeared. If you win the quest three times, you will advance to the next PHASE. Defeated monsters will be strengthened and revived, so brace yourself and take on the challenge, Lord.

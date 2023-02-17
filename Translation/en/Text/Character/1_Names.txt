@@ -115,7 +115,7 @@
 ラム=Ram
 レイ=Rei
 ネア=Nea
-
+リリ=Lily
 クリア=Clear
 
 カズマサ=Kazumasa

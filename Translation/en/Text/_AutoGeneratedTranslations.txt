@@ -1,7 +1,1 @@
-﻿天楼閃薙斬=Tenno Sennagi Zan
-天楼廻刃斬+=Tensho turn blade slashing+
-ビビらせてやる！+=I'll let you go!\n+
-冒険、思い出話=Adventure, memories
-【物理】前衛で、伝説の剣「天楼覇断剣」を振るう少女。\n小技を駆使する通常の戦闘スタイルから一転、ユニオン\nバースト後は「天楼覇断剣」を携え、敵を薙ぎ払う。=[Physics] A girl who shakes the legendary sword "Tensho Haiku Sword" in the avant -garde.\nShe turns from her normal battle style, who makes full use of her tricks, and after the Union Burst, carries her enemy with her "Tenro Haiku Sword".
-こっちだこっち！=Here!
-装備中=In the equipment
+﻿
