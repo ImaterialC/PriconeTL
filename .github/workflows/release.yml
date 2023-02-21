@@ -35,6 +35,8 @@ jobs:
           Invoke-WebRequest -URI "https://github.com/bbepis/XUnity.AutoTranslator/releases/download/v5.2.0/XUnity.AutoTranslator-BepInEx-5.2.0.zip" -OutFile "AutoTrans.zip"
           Expand-Archive -Path "AutoTrans.zip" -DestinationPath "newrelease"
           Invoke-WebRequest -URI "https://github.com/FineBrewDev/BepInEx.FullScreenizer/releases/download/1.0/FullScreenizer.dll" -OutFile "./newrelease/BepInEx/plugins/FullScreenizer.dll"
+          Invoke-WebRequest -URI "https://github.com/priconnEnjoyer/XUnity.AutoTranslator/releases/latest/download/XUnity.AutoTranslator.Plugin.Core.dll" -OutFile "./newrelease/BepInEx/plugins/XUnity.AutoTranslator/XUnity.AutoTranslator.Plugin.Core.dll"
+          Invoke-WebRequest -URI "https://github.com/priconnEnjoyer/XUnity.AutoTranslator/releases/latest/download/XUnity.Common.dll" -OutFile "./newrelease/BepInEx/core/XUnity.Common.dll"
 
       - name: Getting patch files
         run: |
