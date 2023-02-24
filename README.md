@@ -18,6 +18,7 @@ Please use at your own risk!!!  We are not responsible for any actions taken tow
 5. BepInEx and other files must at the same folder as "PrincessConnectReDive.exe"
 (see picture)
 6. run the game. 
+![unknown](https://user-images.githubusercontent.com/105358849/220214406-429aeff9-c488-4e3f-a023-4f9e65336127.png)
 
 Game Address：[Direct Link](https://dmg.priconne-redive.jp/)
 
