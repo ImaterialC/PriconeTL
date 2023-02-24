@@ -13,6 +13,8 @@ jobs:
       changes: ${{ steps.changelog.outputs.changes }}
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Preparing
         run: |
@@ -52,7 +54,7 @@ jobs:
       - name: Generating changelog
         id: changelog
         run: |
-          $ChangedFiles = git diff --name-status 20230216
+          $ChangedFiles = git diff --name-status (git describe --tags)
           $TextChange = "`n## Text `n"
           $TextureChange = "`n## Texture `n"
 
