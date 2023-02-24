@@ -18,6 +18,6 @@ cache/
 tools/
 core/
 plugins/
-config/
+config/*.*
 config/AutoTranslatorConfig.ini
 *.ini
