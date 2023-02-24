@@ -13,7 +13,7 @@ Lv強化=Level Up
 おまかせ強化=Optimize
 まとめて装備=Equip All
 装備する=Equip
-入手方法=How to\nObtain
+入手方法=How to Obtain
 解放OK！=Ready to\nUnlock!
 未開放ユニット=Locked unit
 限定キャラのため解放できません。=Limited character cannot be unlocked.
@@ -210,7 +210,7 @@ EXスキルスロット=EX skill slot
 UB予約を有効にする=Enable UB reservation
 [3C404E]リタイアすると報酬は獲得できませんが、\nクリアするまで何度でも再挑戦できます。[-]=[3C404E]If you retire, you won't get any rewards,\nYou can try again until you clear it.[-]
 r:"^(\d+)文字以上(\d+)文字以下で入力してください。$"=Please enter between $1-$2 character.
-強化上限に達しています。上限解放を行ってください。="You have reached the enhancement limit.\You can enhance by select "Uncap"."
+強化上限に達しています。上限解放を行ってください。="You have reached the enhancement limit.\nYou can enhance by select "Uncap"."
 ===rank up===
 ランクアップ確認=Rank Up Character
 以下のアイテムを装備してランクアップします。\nよろしいですか？=Equip the following items?
@@ -263,7 +263,7 @@ RANKボーナス詳細のステータス=Status Details
 
 ランクアップへ=To Rank Up
 ★6才能開花=★6 Ascension
-原鉱=ore
+原鉱=Ore
 グロウスフィア=Growsphere
 作成確認=Creation Confirmation
 装備やメモリーピースを消費して、\n専用装備を作成します。=Consume Items and memory shards to create Unique Equipment.

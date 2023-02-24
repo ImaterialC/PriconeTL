@@ -37,7 +37,7 @@ r:"^開催日時:([0-9/: ]+)～([0-9/: ]+)$"=Period: $1 to $2
 イベント=Event
 イ=I
 ベント=Event
-討伐証=Medals
+討伐証=Medal
 討伐証交換=Medal Gacha
 イベントクエスト=Event Quest
 イベント\nミッション=Event\nMissions
@@ -87,13 +87,11 @@ r:"^([1-9])回目の報酬をリセット$"=Reward Reset $1
 リンノート=udding Notes
 スキップチケット解放=Unlock Skip Ticket
 
-ダメージ割合=DMG Ratio
-与えた総ダメージ=Total DMG
+ダメージ割合=Damage Ratio
+与えた総ダメージ=Total damage
 
-んなの想い= Feelings
 編成不可=Cannot\nUse
-こ=Let's
-れからも一緒に= be together
+
 前編へ=To Part 1
 後編へ=To Part 2
 [3C404E]リタイアするとボスバトル報酬を\n獲得することができません。\nボスチケットは消費されません。\n\nよろしいですか？\n[-]=[3C404E]You will not be able to earn boss battle rewards if you retire.\nBoss tickets are not consumed.\n\nIs this OK?[-]
@@ -140,7 +138,7 @@ r:"^(\d+)回目～$"="Lap $1+"
 報酬ラインナップをリセットしました。=The reward lineup has been reset.
 r:"^合計 (\d+)$"=Total $1
 r:"^残り (\d+)/(\d+)$"=$1/$2 Remaining
-r:"^(\d)回目の報酬ラインナップをすべて獲得しました。$"=You have obtained all of the $1 reward lineup.
+r:"^(\d+)回目の報酬ラインナップをすべて獲得しました。$"=You have obtained all of the $1 reward lineup.
 次の報酬ラインナップに切り替えます。=Switch to the next reward lineup.
 
 討伐証交換で、リセット対象アイテムを入手すると、即時ラインナップのリセットが行えます。\n\nリセット対象アイテムを入手した後も、リセットせずに引き続き同じラインナップ内から交換することも可能です。\n\n6回目以降のラインナップリセットは、討伐証交換報酬のラインナップを交換しきった場合に限り、リセットを行えます。=Once you have obtained the lineup reset rewards from the Victory Medal Gacha, you can reset the lineup immediately.\n\nYou also have the option to continue using the same lineup without resetting.\n\nFrom lineup 6 onward, you can reset only after obtaining the entire Victory Medal lineup.

@@ -52,7 +52,7 @@ r:"^現在、スキップチケットの消費枚数が\n(\d+)枚に設定され
 Lv上限に達した状態で消費したスタミナは\nマスターコインに変換されます。=The consumed stamina was converted to Master Coin.
 プレイヤー経験値は最大に達しているので受け取れませんでした。=The Player EXP could not be received because You reached the max Level.
 経験値の最大値が更新されるまで表示しない=Do not display until the maximum\nvalue of the exp value is updated
-チケットで再戦=Use Skip Tix
+チケットで再戦=Replay with Ticket
 このキャラのユニオンバースト中は速度を変更できません=Speed cannot be changed during Union Burst of this character
 ===Posting===
 ※80文字以下=※ More than 80 characters

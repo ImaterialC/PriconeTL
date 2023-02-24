@@ -1,7 +1,7 @@
 アドベンチャー=Adventure
 ドベンチャー=dventure
 
-冒険先一覧=Adv. List
+冒険先一覧=Adventure List
 まとめて\n帰還確認=Mass\nReturn
 まとめて\n出発=Mass\nDeparture
 パーティ上限=Party Limit
@@ -13,7 +13,7 @@ sr:"^(.+)が現れた！$"=$1 appeared!
 メモリーピース対象=M.Shard target
 人数=People
 人数:=People
-10キャラ=10 Chara
+10キャラ=10 Characters
 おまかせ=Random
 全選択解除=Cancel All
 必要戦力=Requirement
@@ -25,7 +25,7 @@ sr:"^(.+)が現れた！$"=$1 appeared!
 r:"^(\d+)ジュエル1時間短縮$"=$1 Jewels for 1h reduction
 1チケット1時間短縮=1 Tix for 1h reduction
 ジュエルを使って必要時間を短縮！=Use Jewels to shorten time!
-チケットを使って必要時間を短縮！=Use Ticket to shorten time!
+チケットを使って必要時間を短縮！=Use a Ticket to shorten time!
 r:"^\[FF7C4E\,D62146\]残り ([0-9/]+)回\[-\]$"=[FF7C4E,D62146]$1 Left[-]
 チケットが不足しています。=There is a shortage of tickets.
 チケットやジュエルを使って時間を短縮！=Time to shorten time using tickets and jewels!
@@ -35,6 +35,7 @@ r:"^\[FF7C4E\,D62146\]残り ([0-9/]+)回\[-\]$"=[FF7C4E,D62146]$1 Left[-]
 これ以上短縮できません。=Can't shorten it anymore.
 帰還したパーティはありません。=There is no party that has returned.
 冒険中のパーティはありません。=There is no party during the adventure.
+時間短縮アイテムが設定されていません。=Time reduction items are not set.
 
 時間短縮詳細=Time Reduction Details
 繰り返し出発5回目=5th departure
@@ -52,7 +53,7 @@ r:"^\[FF7C4E\,D62146\]残り ([0-9/]+)回\[-\]$"=[FF7C4E,D62146]$1 Left[-]
 パーティ確認=Confirmed Party
 
 このパーティは帰還していません。=This party has not returned.
-パーティ数上限=Reached Max Pt
+パーティ数上限=Party Limit
 冒険中のパーティが上限に達しています。=The party during the adventure has reached max limit.
 
 短縮する=Shorten
@@ -72,7 +73,7 @@ r:"^本日の残り撤退可能回数  ([0-9/]+)$"=Today's retreat: $1
 
 報酬詳細=Reward details
 キャンペーン=Campaign
-終了日時=End DT
+終了日時=Finish date
 
 r:"^残り必要時間が(\d+)分未満のアドベンチャーに対して\nジュエルで時間短縮が設定されます。\n※時間短縮は1時間単位で行われます。$"=Adventures with less than $1m  will be set\nwith Jewels to reduce time.\n※Reduce time is a multiple of 1 hour.
 
@@ -174,13 +175,13 @@ sr:"^(.+)のアドベンチャーから撤退しました。$"=Retreat from the 
 
 
 1.ユピテル樹海=1. Jupiter Tree Sea
-スィオネ\n樹林=Sion\nForest
+スィオネ\n樹林=Sion Forest
 スィオネ樹林=Sion Forest
-ヘリケ巨木=Heriki huge tree
-イオカステ\n岩山=Iocuste\nRocky mountain
-イオカステ岩山=Iocuste Rocky mountain
-ハルパリ\n大滝=Harpari\nLarge waterfall
-ハルパリ大滝=Harpari\nLarge waterfall
+ヘリケ巨木=Heriki Huge Tree
+イオカステ\n岩山=Mt. Iocuste
+イオカステ岩山=Mt. Iocuste
+ハルパリ\n大滝=Harpari Waterfall
+ハルパリ大滝=Harpari Waterfall
 ムネメー川=Muneeme River
 
 アドベンチャーでは、仲間にしたキャラを冒険させることができます。一定の時間が経過すると冒険から帰還し、『EX装備』等のアイテムを獲得します。結果報告を確認し報酬を受け取りましょう。=In adventure, you can adventure the characters you made friends with. After a certain amount of time has passed, you will return from the adventure and acquire items such as "EX Equipment". Check the result report and receive the reward.

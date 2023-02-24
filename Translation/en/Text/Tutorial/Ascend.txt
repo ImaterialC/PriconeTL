@@ -1,0 +1,3 @@
+[3C404EFF]このキャラは、=[3C404EFF]This character
+[3C404EFF]このキャラは、[3C404EFF]才能開花ができるようですね。=[3C404EFF]This character seems to be able to ascend.
+[3C404EFF]このキャラは、[3C404EFF]才能開花ができるようですね。[3C404EFF]\n才能開花について説明いたします。=This character seems to be able to ascend.\nI will explain the ascend.

@@ -29,13 +29,13 @@ sr:"^(.{3,18})×(\d+)$"=$1 × $2
 期限あり=Limited Time
 期限なし=No Limit
 プレゼントの種類=Present Type
-メモリーピース=Memo Shards
+メモリーピース=Memory Shards
 コイン=Coins
 その他=Other
 
 ===items===
 受け取り期限=Deadline
-獲得日時=Earned date and time
+獲得日時=Earned
 受け取り日時=Date and time
 プリンセスアリーナの防衛報酬です。=Princess Arena defense reward.
 バトルアリーナの防衛報酬です。=Battle Arena defense reward.

@@ -21,7 +21,7 @@
 攻略せよ！『天上の浮城』=Conquest! "Heaven's Fortress"
 試練の先の理想郷=An Ideal World Beyond the Trials
 
-探索せよ！『砂瀑の底都』=Investigate! "Sandfall Depths Capital"
+探索せよ！『砂瀑の底都』=Investigate! "Sandfall's Capital"
 甘くて優しいおすそ分け=Sweet and Gentle Sharing
 
 -----------------------
@@ -54,5 +54,5 @@ sr:"^『絶世の卵』を使った卵かけご飯を味わうため、『毒瘴
 遥か空高くにそびえる『天上の浮城』を訪れた美食殿一同。冒険に心踊らすコッコロや『甘美な報酬』を求め張り切るペコリーヌ。浮つく二人をたしなめるものの、内心抱く興味を隠せないキャルなのだった。=The entire Gourmet Dining Hall visited the "Heaven's Fortress" which soars far into the sky. Kokkoro is excited about the adventure, and Pecorine is eager for the "Sweet Reward. Cal, who is trying to keep them from getting too carried away, cannot hide the interest he feels inside.
 古文書に記された『試練』を乗り越えたものの『甘美な報酬』らしきものが見当たらず落ち込む美食殿一同。しかし城内に湧く泉の水こそが求めていた報酬であることに気付き、皆で舌鼓を打つのであった。=After overcoming the "ordeal" described in the ancient document, all the gourmets were depressed because they could not find anything that looked like a "luscious reward". However, they realized that the water from the spring in the castle was the reward they had been looking for, and they all tasted it with their palates.
 ダンジョン　第15話=Dungeon Episode 15
-砂漠の地下深くにある『砂瀑の底都』にやってきた美食殿一同。探していた伝説のサボテンを見つけたものの、地底に棲みついていたゴブリンの群れに根こそぎ奪われてしまい、そのあとを追うのだった。=The entire Gourmet Guild team arrives at the "Sandfall Depths Capital" deep underground in the desert. They find the legendary cactus they were looking for, but it is uprooted by the goblins who live in the depths of the earth, and they go after it.
+砂漠の地下深くにある『砂瀑の底都』にやってきた美食殿一同。探していた伝説のサボテンを見つけたものの、地底に棲みついていたゴブリンの群れに根こそぎ奪われてしまい、そのあとを追うのだった。=The entire Gourmet Guild team arrives at the "Sandfall's Capital" deep underground in the desert. They find the legendary cactus they were looking for, but it is uprooted by the goblins who live in the depths of the earth, and they go after it.
 どうにかサボテンを手に入れた美食殿一同。ゴブリンたちの窮状を察したシェフィの提案でサボテンを分け合って食べることにする。ゴブリンたちも調理に加わり、一同は極上の甘味を味わうのであった。=The entire Gourmet Guild team somehow manages to get their hands on a cactus. Sheffy, sensing the plight of the goblins, suggested that they share the cactus and eat it. The goblins join in the cooking, and everyone tastes the sweetest of tastes.

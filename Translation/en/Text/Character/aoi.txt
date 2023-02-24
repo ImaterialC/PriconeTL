@@ -28,7 +28,7 @@ r:"^敵が毒状態の時、敵単体に(\d+)の物理ダメージ\n敵が毒状
 
 ===Skill 1 (Without UE) (Need non-UE)
 目の前の敵１キャラに物理中ダメージを与え、さらに毒状態にする。=Deals moderate P.DMG to an enemy directly in front and inflicts Poison.
-r:"^敵単体に(\d+)の物理ダメージ\n(\d+)ダメージを与える毒状態にする$"=Deals $1 P.DMG to an enemy.\nInflicts Poison that deals $2 damage per second.
+r:"^敵単体に(\d+)の物理ダメージ\n(\d+)ダメージを与える毒状態にする$"=Deals $1 P.DMG to an enemy.\nInflicts Poison that deals $2 P.DMG/s.
 
 ===Skill 2
 r:"^敵単体に(\d+)の物理ダメージ\n敵単体を一定時間行動不能にする$"=Deals $1 P.DMG to an enemy.\nRenders an enemy immobile.

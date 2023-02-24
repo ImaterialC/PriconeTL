@@ -7,5 +7,5 @@ sr:"^([べ-・ー＆]+)(\（[\s\S]{2,11}\）|)\n?の\n?ピ\n?ュ\n?ア\n?メ\n?�
 sr:"^([べ-・ー＆]+)(\（.{2,10}\）)?の記憶の欠片が封印されたアイテム。一定数集めると、キャラの秘められた力を解き放つ。$"="A Shard of $1$2's Sealed memories. Collect these items to unleash your characters' hidden power."
 sr:"^([べ-・ー＆]+)(\（.{2,10}\）)?の純真なる記憶の断片が封印されたアイテム。一定数集めると、キャラの最奥に秘められた真の力を解き放つ。$"="A Shard of $1$2's Sealed pure memories. Collect these items to unleash your characters' hidden true power."
 
-女神の秘石=D. Amulet
+女神の秘石=Divine Amulet
 神秘の力を宿した不思議な石。女神\nの秘石ショップで任意のメモリー\nピースを購入することができる。=A mysterious stone that contains mystical powers; any memory piece can be purchased at the Divine Amulet Shop.

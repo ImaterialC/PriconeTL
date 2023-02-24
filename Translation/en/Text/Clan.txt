@@ -62,7 +62,7 @@ r:"^終了まで (\d+)分$"=Ends in $1m
 寄付完了=Donation completion
 
 8時間経過したため、装備リクエストが終了しました。=You received the following equipment.\n8 hours have passed and the equipment request has ended.
-[FF7C4E,D62146]バトルを開始した時点で挑戦回数が消費され、\n編成キャラとそのEX装備に使用制限がかかります。[-]=[FF7C4E,D62146]At the start of the battle, the number of challenges will be used,\nand the use of charas and their EX equipment will be restricted.[-]
+[FF7C4E,D62146]バトルを開始した時点で挑戦回数が消費され、\n編成キャラとそのEX装備に使用制限がかかります。[-]=[FF7C4E,D62146]Attempt are consumed when the battle starts,\nusage restrictions apply to characters\nand their EX equipment in the formation.[-]
 
 [FF7C4E,D62146]サポート以外のキャラのEX装備に使用制限がかかります。[-]=[FF7C4E,D62146]rent char and their EX equipment will be restricted.[-]
 [FF7C4E,D62146]バトルを開始した時点で上記のキャラと、[-]=[FF7C4E,D62146]Attempt will be used and the use of charas except[-]
@@ -92,7 +92,7 @@ sr:"^([0-9]{1,2}月)の順位：$"=$1 Rank:
 フレンドバトル=Friend Battle
 クランメンバーが設定しているパーティはありません。=There is no party set by the clan member.
 メッセージを入力してください=Enter a message
-r:"^挑戦回数:([0-3‐])$"=Attem.:$1
+r:"^挑戦回数:([0-3‐])$"=Attempt: $1
 
 ラン=Clan 
 クランバトルへ=To Clan Battle
@@ -172,7 +172,7 @@ r:"^トレーニング (\d)段階目$"=Training Tier $1
 モンスター討伐演出設定=Monster Subjugation Speed Setting
 モンスター討伐演出を再生するか設定します。=Set monster subjugation speed.
 
-バトルログ=Fight Log
+バトルログ=Battle Log
 トレーニング\nモード=Training Mode
 トレーニング\\nモード=Training\\n Mode
 マイログ=My log
@@ -199,9 +199,9 @@ sr:"^(.+) (\d)段階目$"=Tier $2 $1
 絞り込み=Search
 レポート=Report
 全て=All
-討伐情報がありません。=no clear info.
-討伐情報がありません=no clear info.
-バトル情報がありません。=no battle info.
+討伐情報がありません。=No clear info.
+討伐情報がありません=No clear info.
+バトル情報がありません。=No battle info.
 獲得可能なアイテムがありません。=no items that can be obtained.
 モンスター詳細=Monster Details
 開催期間が終了しました=This Clan Battle is\nno longer in progress.
@@ -283,7 +283,7 @@ sr:"^(\d+月) (\d+)周目 (.+)$"=[$1]Lap $2: $3
 ===Battle TL===
 バトル終了=End of battle
 クリップボードにコピー=Copy to clipboard
-総ダメージ=Total DMG
+総ダメージ=Total damage
 ユニオンバースト発動時間=UB Timings
 バトル時間=Fight Time
 
@@ -375,11 +375,11 @@ sr:"^(\d+月)のランキング結果$"=($1) Ranking Results
 [FF7C4E,D62146]トレーニングバトルの結果はクランバトルの成績に反映されません。[-]=[FF7C4E,D62146]Training battle results are not reflected in clan battle results.[-]
 [FF7C4E,D62146]時間持越しでのバトルのため、チャレンジ報酬は獲得できません。[-]=[FF7C4E,D62146]Challenge rewards cannot be earned due to left-over time battle.[-]
 ===Boss===
-持越し時間：=C.Over Time:
+持越し時間：=Finish left over:
 sr:"^(.+)　Lv.(\d+)$"=$1 lv.$2
 r:"^(\d)体目$"=B-$1
 
-与えたダメージ=DMG Dealt
+与えたダメージ=Damage Dealt
 全段階合計=All Tier Score Total
 バトルTL=Battle TL
 お気に入り=Favorite
@@ -391,6 +391,7 @@ sr:"^\[FF9393,E82F71\](\d+月)クラン内ランキング一覧\[-\]$"=[FF9393,E
 sr:"^(\d+月)全クランランキング$"=Global Ranking($1)
 ===My Log
 イログ=y Log
+r:"^模擬戦ログ保存件数([0-9/ ]+)$"=Number of mock battle logs saved: $1
 ===Battle Log detail windows
 「１件のみ表示」は、同一編成のうちダメージが最も高いログを表示します。="Display only one" displays the log with the highest damage in the same line-up.
 １件のみ表示=Display only one
@@ -450,10 +451,10 @@ sr:"^\(クラン内ランキング　(\d+位)\)$"=(in-clan Rank $1)
 ===(?!.*My)^.*$
 
 まだ誰も挑戦していません=No attempts made yet.
-
-sr:"^([べ-・ー＆]+)に$"=hit $1 for
+r:"^([^\n]{2,10})が$"=[00FF0099]$1[-] attacked
+sr:"^([べ-・ー＆]+)に$"=$1 for
 r:"^\[FFBB00\,CE4F00\](\d+)\[-\]\[3C404E\]ダメージ\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Damage[-]
-r:"^\[FFBB00\,CE4F00\](\d+)\[-\]\[3C404E\]ダメージ\[-\]\[3C404E\]で撃破\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Damage[-][3C404E](kill)[-]
+r:"^\[FFBB00\,CE4F00\](\d+)\[-\]\[3C404E\]ダメージ\[-\]\[3C404E\]で撃破\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Damage[-][FF7C4E,D62146](kill)[-]
 
 削除=Delete
 トレーニングマイログ削除確認=My Log Training Deletion Confirmation

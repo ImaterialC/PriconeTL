@@ -28,7 +28,7 @@ r:"^味方全体の物理攻撃力を(\d+)アップ\n自分の物理防御力を
 S1
 S2
 自分の周囲の味方すべてのＨＰを中回復させる。=Recovers HP of all nearby allies by a small amount.
-r:"^範囲内の味方のＨＰを(\d+)回復$"=Cast Time: 1.65s\nRecovers HP of all allies within 200 range by $1.
+r:"^範囲内の味方のＨＰを(\d+)回復$"=Recovers HP of all allies within range by $1.
 ex
 ルミナススマイル=Radiant Smile
 Skills+

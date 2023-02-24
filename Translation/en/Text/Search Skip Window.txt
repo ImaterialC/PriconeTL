@@ -16,12 +16,12 @@
 ピュアメモリーピース=Pure Shards
 レア度=Rarity
 アイテム種類=Item Type
-チケット=Tickets
+チケット=Ticket
 １クエストの使用チケット枚数=Tickets used per quest
 全クエスト=All Quests
 サイドスト…=Side-story
-残り挑戦回数がありません。=There are no challenges remaining.
-[FF7C4E,D62146]残り挑戦回数がありません。[-]=[FF7C4E,D62146]There are no challenges remaining.[-]
+残り挑戦回数がありません。=No attempts remaining.
+[FF7C4E,D62146]残り挑戦回数がありません。[-]=[FF7C4E,D62146]No attempts remaining.[-]
 実行可能なクエストがありません。=There are no available quests.
 本日挑戦できないクエストのみ選択されています。=Only quests that cannot be challenged\nare selected.
 装備済み=Equipped

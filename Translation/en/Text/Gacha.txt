@@ -15,11 +15,16 @@ Sダッシュ=J:Start
 r:"^([0-9.]+)Year Anniversaryガチャ$"=$1 Year Anniversary Gacha
 r:"^([0-9.]+)th Anniversaryガチャ$"=$1th Anniversary Gacha
 限定スタートダッシュガチャ=Limited Start Dash Gacha
-r:"^★3確定 プリコネフェス(\d*)記念ガチャチケット$"=Guarantee ★3 PriCone-FES $1 Memorial gacha ticket
 ★3確定 ガチャチケットについて=Guarantee ★3 Gacha Ticket
 Anniv. スペシャル交換チケットについて=Anniv. Sp Exchange Ticket
-r:"^★3確定 ([0-9.]+)周年記念ガチャチケット$"=Guarantee ★3 $1th Anniversary Gacha Ticket
 
+★3確定 アニメガチャチケットについて=Guarantee ★3 Anime Gacha Ticket
+★3確定 プリコネフェス記念ガチャチケット=Guarantee ★3 Pricone-FES Memorial Gacha Ticket
+r:"^★3確定 プリコネフェス(\d*)記念ガチャチケット$"=Guarantee ★3 PriCone-FES $1 Memorial gacha ticket
+r:"^★3確定 ([0-9.]+)周年記念ガチャチケット$"=Guarantee ★3 $1th Anniversary Gacha Ticket
+★3確定プラチナガチャ=Guarantee ★3 Platinum Gacha
+★3確定ガチャ=Guarantee ★3 Gacha
+sr:"^★3確定( )?(.*)?(ガチャ)(チケット)?$"=Guarantee ★3 $2 $3 $4
 出現率UP=Boosted rates
 
 選択人数が不足しています。=The number of selections is insufficient.
@@ -194,9 +199,10 @@ sr:"^「([べ-・ー＆]+)(\（.+\）)?」\n\nにピックアップ対象を変�
 ・交換対象のキャラのメモリーピース交換チケット1枚につき1キャラのメモリーピース×100と交換できるチケットです。\n・獲得したメモリーピースは直接付与されます。メモリーピースの所持数が上限に達している場合、プレゼントボックスに贈られます。\n※交換対象のキャラは、各チケットのメモリーピース交換ダイアログ内をご確認ください。=•Each character's Memory Shard exchange ticket can be exchanged for {{C}} character's Memory Shard × {{B}}.\n・ Acquired Memory Shard will be given directly. If you have reached the maximum number of Memory Shards, you will be given to the present box.\n※ For the characters to be exchanged, please check the memory piece exchange dialog for each ticket.
 ・★3確定 ガチャチケット1枚につき特定の★3キャラが1キャラ獲得できるチケットです。\n・出現するキャラにつきましては各チケットの［提供割合］ボタンよりご確認ください。\n・★3確定 ガチャチケットではキャラ交換Ptを獲得できません。\n・すでに仲間になったキャラが出現した場合、「女神の秘石」に変換されます。\n・変換された女神の秘石は、プレゼントボックスに贈られずに、直接所持数に加算されます。\n・女神の秘石の所持数が上限に達している場合、プレゼントボックスに贈られます。\n・ガチャは1回ごとに提供割合にもとづいて抽選を行います。そのため、提供割合が1％のキャラが、100回中1回必ず出現するわけではありません。=・Each Gacha Ticket is a ticket to acquire a specific 3★ character.\n・Refer to the [Percentage] button on each ticket for the character that will appear.\n・You will not be able to exchange Pts for a character with a Guarantee 3★ Gacha Ticket.\n・When a character who is already a member appears, it will be converted into the "Divine Amulets".\n・The converted Divine Amulets will not be sent to your gift box, but will be directly added to your possession count.\n・ If the maximum number of Divine Amulets in your possession has been reached, they will be sent to your Gift Box.\n・The lottery will be drawn based on the offered percentage for each gacha. Therefore, a character with a donation ratio of 1% is not guaranteed to appear once out of every 100 times.
 
-r:"^([0-9.]+)th Anniv. スペシャル交換チケットについて$"=About $1th Anniv. special exchange tickets
-★3確定 アニメガチャチケットについて=Guarantee ★3 Anime Gacha Ticket
-★3確定 プリコネフェス記念ガチャチケット=Guarantee ★3 Pricone-FES Memorial Gacha Ticket
+r:"^([0-9.]+)th Anniv/. スペシャル交換チケットについて$"=About $1th Anniv. special exchange tickets
+r:"^([0-9.]+)th Anniv/. スペシャル交換チケットを所持していません。$"=Insufficient $1th Anniv. Special Exchange Ticket.
+r:"^([0-9.]+)th Anniv/. スペシャル交換チケット$"=$1th Anniv. Special Exchange Ticket
+
 チケットガチャではキャラ交換Ptは獲得できません。=Character exchange Pt cannot be earned\nwith this Gacha Ticket .
 sr:"^(.+)\nを消費してガチャを1回引きます。よろしいですか\?$"=Use $1 to draw Gacha.\nIs this OK?
 ===Guarantee 3===
@@ -205,16 +211,14 @@ sr:"^(.+)\nを消費してガチャを1回引きます。よろしいですか\?
 
 有償ジュエルが不足しています。=Not enough paid jewels..
 このガチャは有償ジュエルで引くことができます。=This gacha can be drawn only with a paid jewel.
-★3確定プラチナガチャ=Guarantee ★3 Platinum Gacha
-★3確定ガチャ=Guarantee ★3 Gacha
 [FFBB00,CE4F00]有償ジュエル限定\n限定★3確定ガチャ開催！[-]=[FFBB00,CE4F00]Guarantee ★3 Limited character\nGuaranteed Gacha[-]
 [FFBB00,CE4F00]有償ジュエル限定\n★3確定プラチナガチャ開催！[-]=[FFBB00,CE4F00]Limited Guarantee ★3\nPaid Jewel Platinum Gacha! [-]
 有償ジュエルを消費してガチャを 10 回引きます。\nよろしいですか？=Consume paid jewel and draw 10 gacha.\nIs this OK?
 有償ジュエルを消費してガチャを 1 回引きます。\nよろしいですか？=Consume paid jewel and draw 1 gacha.\nIs this OK?
 ===Special Tickets use===
 スペシャル キャラ交換ガチャセット=Special Character Exchange
-4th Anniv. SPキャラ交換ガチャセット=4th Anniv. Special Character Exchange
-選択可能キャラ一覧=Select a char
+r:"^([0-9.]+)th Anniv. SPキャラ交換ガチャセット$"=$1th Anniv. Special Character Exchange
+選択可能キャラ一覧=Select a character
 キャラ一覧から仲間にしたいキャラを選択してください。=Choose the character you want.
 未解放=Unowned
 解放済み=Unlocked

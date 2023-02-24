@@ -1,4 +1,4 @@
-予定帳=Schedule Book
+予定帳=Schedule
 主さま、ご用事が立て込んでいらっしゃるようですね。\n日々のご予定の管理はわたくしにおまかせくださいまし。=Aruji-sama, it seems that your business is built in. Leave it to me for your daily plan.
 
 まとめておまかせ=Do it all

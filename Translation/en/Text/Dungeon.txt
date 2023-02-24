@@ -33,8 +33,8 @@ r:"^あと(\d+)時間(\d+)分は挑戦できません。$"=Can't challenge for $
 
 ==========Tittle dungeon
 砂=S
-瀑の底都=andfall Depths Capital
-砂瀑の底都=Sandfall Depths\nCapital
+瀑の底都=aandfall's Capital
+砂瀑の底都=Sandfall's Capital
 
 天=H
 上の浮城=eaven's Fortress
@@ -75,7 +75,7 @@ sr:"^\[2874AE,12304D\](.+)\[-\]$"="[2874AE,12304D]$1[-]"
 ===[2874AE,12304D]毒瘴の闇稜[-]=[2874AE,12304D]Darkblight Crag[-]
 ===[2874AE,12304D]緑竜の骸嶺[-]=[2874AE,12304D]Dragoncorpse\nPeak[-]
 ===[2874AE,12304D]天上の浮城[-]=[2874AE,12304D]Heaven's Fortress[-]
-===[2874AE,12304D]砂瀑の底都[-]=[2874AE,12304D]Sandfall Depths\nCapital[-]
+===[2874AE,12304D]砂瀑の底都[-]=[2874AE,12304D]Sandfall's Capital[-]
 
 雲をつらぬく山脈=A mountain that\npierces the clouds.
 深い森の奥に存在する1本の大樹=A massive tree\ndeep within the forest.

@@ -4,7 +4,7 @@
 バ=B
 リプレイ=Replay
 マイパーティ保存=Save Party
-ダメージレポート=DMG Report
+ダメージレポート=Damage Report
 r:"^(\d+)/時間$"=$1/hour
 r:"^(\d+)日前$"=$1d ago
 r:"^(\d+)時間前$"=$1h ago
@@ -21,6 +21,7 @@ r:"^(\d+)分前$"=$1m ago
 対戦履歴=History
 受け取る=Receive
 遊び方=Tips
+確認したい遊び方を選択してください。=Select tips you want to see.
 リスト更新=Refresh List
 歴代最高ランク=All-Time Best Rank
 報酬一覧= Prize List
@@ -67,6 +68,7 @@ sr:"^\[3C404E\]対戦相手のランキングが(\d+位)に変更されました
 
 報酬獲得=Rewards
 タイム報酬は時間経過で溜まります。=Time rewards built up as time passes.
+1～50位のプレイヤーのため、表示できません。=Cannot be displayed players ranked 1st-50th.
 対戦履歴はありません。=There is no match history.
 r:"^\[3C404E\](\d)勝(\d)敗\[-\]$"="[3C404E]win:$1 lose:$2[-]"
 r:"^\[3B3F4D\]ランキングが\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3B3F4D\]位アップし、\[-\]\[FFBB00\,CE4F00\](\d+)\[-\]\[3B3F4D\]位になりました。\[-\]$"=[3B3F4D]Climb [FFBB00,CE4F00]$1[-] rank, Current Rank: [FFBB00,CE4F00]$2[-].[-]
