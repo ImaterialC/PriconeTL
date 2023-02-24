@@ -21,3 +21,5 @@ plugins/
 config/*.*
 config/AutoTranslatorConfig.ini
 *.ini
+config/BepInEx.cfg
+config/AutoTranslatorConfig.ini
