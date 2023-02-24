@@ -128,7 +128,7 @@ EXスキルスロット=EX skill slot
 ===Rank Up Detail===
 未装備のステータス=Unequipped Stats
 装備強化MAX=MAX Refineme
-未装備=Unequ
+未装備=Unequip
 ランクアップ詳細=Rank Up Detail
 装備強化MAXのステータス=MAX Refinement Stats
 上限に達したアイテムは\\nプレゼントに送られます。=Items that reach the limit\\nwill be sent as gifts.

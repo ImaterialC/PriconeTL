@@ -40,7 +40,7 @@ sr:"^(\d+)年(\d+月) クランバトル（([0-9 :/]+)まで）$"=Clan Battle $2
 稽古場バトルをリタイアしますか？=Do you want to retire the rehearsal area battle?
 稽古場バトルリタイア=Rehearsal room battle retirement
 申請相手のフレンドが上限に達しています。=The friend of the application partner has reached the upper limit.
-無料対象のためアイテムやマナは消費しません。=Items and mana are not consumed because they are free.
+無料対象のためアイテムやマナは消費しません。=Free, no item or mana cost.
 r:"^難易度「(.+)」のクリア報酬です。$"="It is a clear reward for the difficulty "$1"."
 初回クリア報酬獲得=Get first time clear reward
 ===Mission

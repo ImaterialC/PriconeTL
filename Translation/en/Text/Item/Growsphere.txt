@@ -62,7 +62,7 @@ r:"^\[3C404E\]無料で強化できるのは\[-\]\[FF7C4E,D62146\]Lv(\d+)\[-\]\[
 ・専用装備上限解放\n・専用装備レベルアップ=・ Unlock Level Cap of Unique Equipment\n・ Unique Equipment Level Up
 ・専用装備上限解放=・ Unlock Level Cap of Unique Equipment
 ・専用装備レベルアップ=・ Unique Equipment Level Up
-無料強化分が完了したものがあります。=Some of the free enhancements have been completed.
+無料強化分が完了したものがあります。=Some free enhancements have been completed.
 無料強化完了=Free Enhancement Completed
 一括強化完了=Completion of Batch Enhancement
 ・ランクアップ\n・レベルアップ\n・装備装着\n・装備強化=・Rank-up\n・Level up\n・Equipped an equipment\n・Equipment enhancement
