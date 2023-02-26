@@ -63,8 +63,8 @@ jobs:
 
       - name: Generating version files
         run: |
-          Write-Output "::notice Version: ${{ env.RELEASE_NAME }}"
-          "${{ env.RELEASE_NAME }}" | Out-File -FilePath "newrelease/Version.txt" -Encoding utf8
+          Write-Output "::notice Version: ${{ env.RELEASE_TAG }}"
+          "${{ env.RELEASE_TAG }}" | Out-File -FilePath "newrelease/Version.txt" -Encoding utf8
 
       - name: Generating changelog
         id: changelog
@@ -125,14 +125,14 @@ jobs:
 
       - name: Generating artifact
         run: |
-          Compress-Archive -Path "newrelease/*" -CompressionLevel Fastest -DestinationPath 'PriconneTL_${{ env.RELEASE_NAME }}.zip'
-          Write-Output "Compressed artifact from newrelease: PriconneTL_${{ env.RELEASE_NAME }}.zip"
+          Compress-Archive -Path "newrelease/*" -CompressionLevel Fastest -DestinationPath 'PriconneTL_${{ env.RELEASE_TAG }}.zip'
+          Write-Output "Compressed artifact from newrelease: PriconneTL_${{ env.RELEASE_TAG }}.zip"
 
       - name: Upload artifact
         uses: actions/upload-artifact@v3
         with:
           name: release
-          path: "PriconneTL_${{ env.RELEASE_NAME }}.zip"
+          path: "PriconneTL_${{ env.RELEASE_TAG }}.zip"
 
       - name: Publish Release
         uses: ncipollo/release-action@v1
@@ -141,7 +141,7 @@ jobs:
           name: ${{ env.RELEASE_NAME }}
           body: ${{ steps.changelog.outputs.changes }}
           tag: ${{ env.RELEASE_TAG }}
-          artifacts: "./PriconneTL_${{ env.RELEASE_NAME }}.zip"
+          artifacts: "./PriconneTL_${{ env.RELEASE_TAG }}.zip"
 
   announce:
     name: Discord Announcement
