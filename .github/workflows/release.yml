@@ -101,7 +101,7 @@ jobs:
                 }
               }
               $Splitted = $FileName.Split("/")
-              if ("Text" -in $FileName) {
+              if ("Text" -in $Splitted) {
                 if ( $Splitted[4] ) {
                   $Log += $Splitted[3] + ": " + (Split-Path -LeafBase $FileName) + "`n"
                 }
