@@ -56,7 +56,7 @@ jobs:
         run: |
           Copy-Item "Translation"  -Destination "newrelease/BepInEx" -Recurse
           Write-Output "Copied Translation into newrelease"
-          Copy-Item "config" -Destination "newrelease/BepInEx" -Recurse\
+          Copy-Item "config" -Destination "newrelease/BepInEx" -Recurse
           Write-Output "Copied config into newrelease"
 
       - name: Generating version files
