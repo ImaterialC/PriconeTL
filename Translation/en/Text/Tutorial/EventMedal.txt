@@ -1,0 +1,12 @@
+[3C404EFF]みなさんお疲れ様です！=Thank you for your hard work!
+[3C404EFF]Thank you for your hard work![3C404EFF]\n先ほど獲得したアイテムは、[3C404EFF]この周辺の魔物を倒すと手に入る、[3C404EFF]\n特別な討伐証のようですね。=Thank you for your half work! The items you earned earlier seem to be a special subjugation proof that you can get when you defeat the monsters around this.
+[3C404EFF]集めて、ギルド管理協会に持ってきていただければ、=If you collect and bring it to the Guild Management Association,
+[3C404EFF]If you collect and bring it to the Guild Management\nAssociation,[3C404EFF]\n報酬と交換させていただきますよ！[3C404EFF]\nさっそく交換してみましょう！=IF YOU COLLECT AND BRING It THE GUILD ManagementASSOCIATION, we will exchange it for reward!\nLet's replace it!
+[3C404EFF]さっそく討伐証を交換してみましょう。=Let's replace the subjugation certificate.
+[3C404EFF]Let's replace the subjugation certificate.[3C404EFF]\n[3C404EFF]報酬はランダムで交換なので、[3C404EFF]何と交換されるか楽しみですね！=The reward is randomly replaced, so I'm looking forward to what to exchange!
+[3C404EFF]いかがでしたでしょうか？=What did you think?
+[3C404EFF]What did you think?[3C404EFF]\n[3C404EFF]みなさまのお役に立つものがあればよいのですが。=What did you Think? I wish there was something useful for everyone.
+[3C404EFF]What did you think?[3C404EFF]\n[3C404EFF]みなさまのお役に立つものがあればよいのですが。[3C404EFF]\nこれからも、[3C404EFF]たくさん討伐証をお持ちください。=What did you Think? I wish there was something useful for everyone.\nPlease continue to bring a lot of subjugation.
+[3C404EFF]イベントクエストを進めることで出現する魔物は、=The monsters that appear by proceeding with the event quest are
+[3C404EFF]イベントクエストを進めることで出現する魔物は、[3C404EFF]\n凶暴で屈強、[3C404EFF]討伐に苦労してしまうでしょう。=The monster that appears by advancing the event quest will have a ferocious, strong and defeated subjugation.
+[3C404EFF]ですが、[3C404EFF]見事勝利を勝ち取ることができれば、[3C404EFF]\nたくさんの討伐証が手に入ります！[3C404EFF]\n冒険を進めて、[3C404EFF]魔物に挑戦しましょう！=However, if you can win a wonderful victory, you will get a lot of subjugation!\nLet's proceed with the adventure and challenge the demons!

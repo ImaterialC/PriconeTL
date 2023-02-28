@@ -29,7 +29,7 @@ r:"^メインストーリーが\n(\d+)つ解放されました。$"=$1 main stor
 r:"^メインストーリーが\n(\d+)個解放されました。$"=$1 main stories\nhas been unlocked.
 r:"^サイドストーリーが\n(\d+)つ解放されました。$"=$1 side stories\nhas been unlocked.
 r:"^サイドストーリーが\n(\d+)個解放されました。$"=$1 side stories\nhas been unlocked.
-
+r:"^信頼度エピソードが\n(\d+)個解放されました。$"=$1 Intimacy stories\nhas been unlocked.
 イベントストーリー解放=Event Story Unlock
 限定ショップにアイテムが\n追加されました。=An item has been added to the limited shop.
 オート進行解放コンテンツ一覧=List of Auto Advance Unlock Content

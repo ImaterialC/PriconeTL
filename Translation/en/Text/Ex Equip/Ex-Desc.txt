@@ -34,6 +34,17 @@ Pink ----------------------------------------------------------
 獄炎をまとう竜の牙から作られた大槍。穂先で大地をなぞるだけで炎が吹き上がり、瞬く間に周囲を煉獄に変えてしまうという。=A large spear made from the fang of a hellfire dragon. It is said that just by tracing the ground with the tip, flames will shoot up, turning the surroundings into purgatory in the blink of an eye.
 
 Gold ----------------------------------------------------------
+【クラン】ウィズダムオブノーブル=[Clan] Wizdom of Noble
+【クラン】ワイズオブノーブル=[Clan] Sagacity of Noble
+【クラン】シャーマンの叡智=[Clan] Wisdom of Shaman
+【クラン】シャーマンの賢明さ=[Clan] Sagacity of Shaman
+【クラン】ビショップの叡智=[Clan] Wisdom of Bishop
+【クラン】ビショップの賢明さ=[Clan] Sagacity of Bishop
+【クラン】アルケミストの叡智=[Clan] Wisdom of Alchemist
+【クラン】アルケミストの賢明さ=[Clan] Sagacity of Alchemist
+【クラン】メイガスの叡智=[Clan] Wisdom of Magus
+【クラン】メイガスの賢明さ=[Clan] Sagacity of Magus
+
 【クラン】ブレイブオブガード=[Clan] Brave of Guard
 虹色に輝く鉱石を、一流の職人が心血を注いで加工した盾。人々の絆の力がそのまま堅牢さとなり、どんな攻撃からも使い手を守り抜く。=A shield crafted from a rainbow-ore by a best craftsman. The power of people's bonds becomes robust as it is, protecting the user from any attack.
 

@@ -34,8 +34,12 @@
 緑枠（RANK20～24）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment for green frames (RANK20-24).
 橙枠（RANK23～28）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment for orange frames (RANK23-28).
 
-
 虹色に輝く不思議な力をまとった宝\n石。=A jewel with a mysterious rainbow-colored power.
+
+ランダムな原鉱が獲得できる。=You can get a random original ore.
+ランダム原鉱BOX=Random Original Ore Box
+EX装備の強化に使用すると、強化Ptが1加算される。=When used to enhance the EX equipment, 1 enhanced PT is added.
+
 
 カスタムマイページのフレーム=Custom Home's frame
 マイページに設定できるフレーム画像。=Frame drawing that can be set on Home.

@@ -66,10 +66,10 @@
 今日誕生日だろ？\nほら、プレゼントだ\nこの前土産物屋に行った時に\nいいなって思ってさ！=Is it your birthday today?\nYou see, I think it's good when I went to a souvenir shop the other day!
 よう、誕生日おめでとう！\n今日はオレが厳選した店に\n連れてってやるよ。年に一度の\n大事な日だ、パーッと祝おうぜ！=Happy birthday!\nI'll take you to a carefully selected store today.\nIt's an important day once a year, let's celebrate it!
 誕生日、おめでとな！\nへへっ、ケーキ食ったら\nアジトまで遊びに来いよ\nファミリー総出で祝ってやるぜ=Congratulations on your birthday!\nHehe, if you eat a cake, come to the hideout, let's celebrate with the family.
-ランドソル_繁華街_祭_昼=Land Sol_ Downtown _ Festival_night
+ランドソル_繁華街_祭_昼=Landosol_ Downtown _ Festival_night
 ハッピーバースデー、ってな！\n今日は一日、遊び倒そうぜ\n夜が明けるまで\n付き合ってやるからさ=Happy birthday!\nLet's play down all day today, so I'll go out until the night is dawn
 お誕生日おめでとうございます\nあなたの成長をお祝いできて\nとてもうれしいです。これからも\nよろしくお願いしますね♪=Happy birthday I'm very happy to celebrate your growth.\nThank you for your continued support ♪
-ランドソル_お役所=Land Sol_ Office
+ランドソル_お役所=Landosol_ Office
 ハッピーバースデー！\nこちらギルド管理協会から…\nではなく、私からの贈り物です\n受け取ってくれますか？=happy Birthday!\nThis is a gift from me, not from the Guild Management Association ...
 誕生日、おめでと！\n今日はあんたのやりたいことに\n付き合ってあげるわ！\nさ、まずはなにをしましょっか♪=happy Birthday!\nI'll go out with what you want to do today!\nWell, first of all, what are you doing ♪
 美食殿 ギルドハウス=Gyeiden Guild House
@@ -137,7 +137,7 @@
 誕生日おめでとうデス！\nプレゼントはショーグン専用の\nマイ手裏剣デース！\nいっぱい投げ込んでクダサーイ！=Happy birthday death!\nThe present is my shuriken dace exclusively for Shogun!\nThrow a lot and Kudasai!
 今日はおめでとうゴザルデス！\n乾杯の音頭はワタシがとりマス！\nお手をハイシャクデース！\n朝までワッショイデース！=Congratulations Gozardes today!\nThe toast of the toast is a trout!\nHigh shaku dates!\nWasshoei day until morning!
 ショーグンのお誕生日を\nお祝いするデス！　バースデー\nソングをこの笛で演奏しマス！\nピッピヒョーロロープープーー♪=Death celebrating Shogun's birthday!\nPlay the birthday song with this whistle and mass!\nPippi Hyolo Loppoo ♪
-ランドソル_繁華街_ハロウィン_夜=Land Sol_ Downtown _ Halloween_Night
+ランドソル_繁華街_ハロウィン_夜=Landosol_ Downtown _ Halloween_Night
 お誕生日アッパレデース！\nショーグンのためにパレードを\n用意しまシタよー！\n盛大にお祝いするデース！=Birthday Appare Dace!\nPrepare a parade for Shogun!\nA dace that celebrates grandly!
 騎士きゅんお・た・お・め～！\n今日はアゲてアゲて\nオールで祝いまくっから～\nカクゴしとき～♪=Knight Kyun O, O, Me ~!\nToday, I'm gonna celebrate and celebrate with all ~ Kakugo ~ ♪
 レイジ・レギオン拠点=Rage Legion base

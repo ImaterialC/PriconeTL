@@ -34,8 +34,8 @@ EXクエスト一覧=EX Floors
 
 模擬戦で使用=Training Use
 本戦で使用=Main Use
-未所持/戦闘不能/制限Lv以下のキャラは編成できません。=Unclaimed/Uncombatable/Too low Lvl\ncannot be organized.
-本戦の場合、本戦使用済みのキャラは編成されません。=In real battle, already used character cannot be organized.
+未所持/戦闘不能/制限Lv以下のキャラは編成できません。=Unclaimed/Uncombatable/Too low Lvl\ncannot be deployed.
+本戦の場合、本戦使用済みのキャラは編成されません。=In the main battle, already-used characters\ncannot be deployed again.
 本日の編成キャラ数=Today's chars
 
 ルナの塔バトル開始確認=Battle Start Confirmation

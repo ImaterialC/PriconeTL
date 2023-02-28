@@ -46,3 +46,7 @@ r:"^キャラの装備強化に使用すると、装備強化Ptが(\d+)加算さ
 
 クリアランク★3を獲得したクエス\nトの、プレイ時間をスキップするチケット。=A ticket that can skip quests that have a 3★ clear rank.
 プラチナガチャやピックアップガ\nチャを1回引くことができるガチャチケット。=A gacha ticket that can be used to draw the Premium or Focus Gacha.
+アドベンチャーのクエストにかかる\n時間を短縮することができるチケッ\nト。=A ticket that reduces the time required to complete an adventure quest.
+
+キャラ専用装備の作成に必要なアイ\nテム。=An item necessary for creating character-exclusive equipment.
+古より伝わる、装備者の力の極限を\n超えて引き上げるとされる指輪。装\n備するとプレイヤーLvを超えてキャ\nラLv限界突破が可能。=A ring handed down since ancient times, said to raise the limit of the wearer's power beyond the maximum. When equipped, it allows the character to break through their level cap beyond the player's level.

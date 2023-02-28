@@ -1,0 +1,4 @@
+[3C404EFF]緊急事態です！[3C404EFF]\n[3C404EFF]今までとは比べものにならないほどの力を持つ、=It's an emergency!\nIt has the power that is incomparable to before,
+[3C404EFF]緊急事態です！[3C404EFF]\n[3C404EFF]今までとは比べものにならないほどの力を持つ、[3C404EFF]\n強力な魔物が出現しました！=It's an emergency!\nA powerful monster has a power that is so powerful that it has become comparable to before!
+[3C404EFF]このままでは大変なことに……[3C404EFF]お願いします！[3C404EFF]\nあなたの力を貸してください！！=It would be a big deal as it is ... please!\nPlease lend your power!\n!
+[3C404EFF]こちらから、[3C404EFF]新たに現れた強力な魔物に挑戦する事ができます。[3C404EFF]\n[3C404EFF]頑張って挑戦してみてください！=From here, you can challenge a newly emerged powerful monster.\nPlease do your best and try it!
