@@ -112,7 +112,7 @@ jobs:
               }
               else {
                 if ( $FileWStatus[0] -ne "D" ) {
-                  $Log += ($FileName[4].Split(" "))[0] + "`n"
+                  $Log += $Splitted[3] + ": " + $Splitted[4].Split(" ")[0] + "`n"
                   $TextureChange += $Log
                 }
               }
