@@ -21,11 +21,11 @@ jobs:
           $DateWithoutDot = Get-Date -Format 'yyyyMMdd'
           $charNumber = 64
           while (git tag -l $ReleaseTag) {
-              $charNumber++
               $char = [char]$charNumber
-              $ReleaseTag = $DateWithoutDot + $char
+              $ReleaseTag = $DateWithoutDot + $char.ToString().ToLower()
+              $charNumber++
           }
-          $TodayDate = (Get-Date -Format 'yyyy.MM.dd') + $char
+          $TodayDate = (Get-Date -Format 'yyyy.MM.dd') + $char.ToString().ToLower()
           "RELEASE_NAME=Pricone UI EN DMM v$TodayDate" >> $Env:GITHUB_ENV
           "RELEASE_TAG=$ReleaseTag" >> $Env:GITHUB_ENV
 
@@ -61,13 +61,13 @@ jobs:
 
       - name: Generating version files
         run: |
-          Write-Output "::notice Version: ${{ env.RELEASE_TAG }}"
+          Write-Output "Version: ${{ env.RELEASE_TAG }}"
           "${{ env.RELEASE_TAG }}" | Out-File -FilePath "newrelease/Version.txt" -Encoding utf8
 
       - name: Generating changelog
         id: changelog
         run: |
-          Write-Output "::notice Logs:"
+          Write-Output "Logs:"
           Write-Output "Latest tag: $(git describe --tags --abbrev=0)"
 
           $ChangedFiles = git diff --name-status (git describe --tags --abbrev=0)
@@ -160,4 +160,4 @@ jobs:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         uses: Ilshidur/action-discord@0c4b27844ba47cb1c7bee539c8eead5284ce9fa9
         with:
-          args: "<@&967698392870436874> Aruji-sama, look like there is a new update dropped, why don't we check it out?\n"
+          args: "<@&967698392870436874> Aruji-sama, look like there is a new update dropped, why don't we check it out?\n${{ needs.build.outputs.changes }}\n"
