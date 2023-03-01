@@ -35,6 +35,7 @@ PriconeTL is an unofficial English UI patch for [Cygames' Princess Connect Re:Di
 1. Download the latest release asset from [latest release](https://github.com/ImaterialC/PriconeTL/releases/latest "Releases")
 2. Extract all files from zip files to your `priconner` folder
 3. Make sure your `priconner` folder looks like this
+
 ![filestructure](https://user-images.githubusercontent.com/105358849/220214406-429aeff9-c488-4e3f-a023-4f9e65336127.png)
 
 ### Automatic
@@ -64,6 +65,7 @@ doorstop_config.ini
 winhttp.dll
 
 Vanilla state of priconner folder was like the below picture:
+
 ![vanilla_state](https://cdn.discordapp.com/attachments/1042973733272424491/1042973733540868228/unknown.png)
 
 ## ![Kyouka](https://static.wikia.nocookie.net/princess-connect/images/3/39/Kyouka_Box_Icon.png/revision/latest/scale-to-width-down/40?cb=20190925113712) SETTINGS AND OPTIONS
