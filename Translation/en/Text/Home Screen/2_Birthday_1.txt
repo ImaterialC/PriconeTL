@@ -36,7 +36,7 @@ peko
 今日、誕生日なんですよね！\nおめでとうございます！\n特別な日の特製特大ケーキ、\n一緒に食べませんか？=It's your birthday today! \nCongratulations! Would you like to eat a special extra-large cake for a special day?
 
 SPeco
-水着で過ごす、あなたの誕生日！\n開放的でわくわくしちゃいます！\nさぁ、今日は二人で\nおもいっきりはしゃぎましょう！=Never thought I'd be spending your birthday in a swimsuit! But it's kind of thrilling. to be honest! Today's your special day. so Ices make the absolute most of it togethed
+水着で過ごす、あなたの誕生日！\n開放的でわくわくしちゃいます！\nさぁ、今日は二人で\nおもいっきりはしゃぎましょう！=Never thought I'd be spending your birthday in a swimsuit! But it's kind of thrilling. to be honest! Today's your special day. so Ices make the absolute most of it together
 お誕生日おめでとうございます！\nお魚、貝、タコ、エビ、カニ…\n海の幸満載のバースデー\nパーティーにしましょうね！=Happy birthday!\nFish, shellfish, octopus, shrimp, crab ... Let's make a birthday party full of seafood!
 
 Kyaru
@@ -72,7 +72,7 @@ makoto
 へぇ、今日が誕生日だったのか\nおめでとさん！\nんじゃ、せっかくだし\nなんかおごってやるよ！=Huh, was it your birthday today\nCongratulations! Well, it's a great deal I'll treat you to something!
 
 Smakoto
-今日、誕生日なんだろ？\n食材の買い出し、付き合えよ\nあとでなんか作ってやるからさ\nおまえの好きなもの…教えろよな=It's your birthday, right? Then come help mc do somc grocery shopping. I'll make us something later, so tell me vhat you want to eat.
+今日、誕生日なんだろ？\n食材の買い出し、付き合えよ\nあとでなんか作ってやるからさ\nおまえの好きなもの…教えろよな=It's your birthday, right? Then come help mc do some grocery shopping. I'll make us something later, so tell me what you want to eat.
 誕生日なんだってな。そうだな…\n砂浜特訓メニューのプレゼント、\nってのは冗談で、\nあとでカキ氷でもおごってやるよ=It's your birthday. That's right... I'll give you a special sandy beach training menu, just kidding, I'll buy you shaved ice later
 
 Saren
@@ -125,7 +125,7 @@ Nozomi
 
 XNozomi
 誕生日おめでとう！\nバースデーソングでお祝いするよ！\nキミだけのためのライブ、\n楽しんでってね！=Happy birthday! Let's celebrate with a birthday song! This is a live performance just for you,enjoy it!
-ハッピーバースデー！\nはい、プレゼント\n私のサイン入りだよ\n大事にしてね！=Happy birthday! Here—a present for you! It's even got my autograph. I hope youll treasure it!
+ハッピーバースデー！\nはい、プレゼント\n私のサイン入りだよ\n大事にしてね！=Happy birthday! Here—a present for you! It's even got my autograph. I hope you'll treasure it!
 
 Eriko
 お誕生日おめでとうございます\nプレゼントを用意しましたわ\n婚姻届と、結婚指輪と、\n二人の新居です=Happy birthday, my love. I got a few presents for you! A marriage application, a wedding ring, and a lovely new home for two.
@@ -135,7 +135,7 @@ Kaori
 誕生日おめでとうさ～！\nお祝いに私が、\n24時間連続で祝いの踊りを\n踊り続けてあげるさ～！=Happy birthday to you!\nFor your present, I'll perform a non-stop birthday dance for 24 hours straight!
 おお～！\n今日はキミの誕生日なの～？\nそうと聞いたら\n全力でお祝いするさ～！=Wow~!\nIs today your birthday?\nIf that's the case, I'll celebrate with all my might~!
 SKaori
-ばっちり準備万端さー！\n何って、キミの誕生日だよー！\nさぁ手と手を繋いで、\nレッツダンスさー！=REverything all ready! For what? Your birthday, of course! Come on! Let's hold hands and dance!
+ばっちり準備万端さー！\n何って、キミの誕生日だよー！\nさぁ手と手を繋いで、\nレッツダンスさー！=Everything all ready! For what? Your birthday, of course! Come on! Let's hold hands and dance!
 誕生日、めでたいさ～！\n体が勝手に踊りだすさ～、あっ！\nぶつかってごめんねぇ、でも\nやわいとこだから平気だよねー？=Birthday's are a joyous occasion~! My body can't help but dance~ Ah! Sorry for bumping into you, but it's okay since it was a soft spot, right~?
 
 Rino
@@ -154,7 +154,7 @@ Maho
 誕生日、おめでとうさん♪\n王子はんの誕生日を\n一緒にお祝いできて幸せやわぁ♪\nこれからもほっこりしようなぁ～=Congratulations on your birthday, happy to celebrate the birthday of PrinceHan together♪ It looks like it will be relaxing in the future~
 
 SMaho
-今日は王子はんの誕生日やねぇ\nほんま、めでたい日やわぁ\n魔法でお祝いの花火\nあげるからしっかり見といてな=Ain't nothin' worth celebrating morc than my prince's birthday. I'll whip up some firework for you, so keep your eyes peeled.
+今日は王子はんの誕生日やねぇ\nほんま、めでたい日やわぁ\n魔法でお祝いの花火\nあげるからしっかり見といてな=Ain't nothin' worth celebrating more than my prince's birthday. I'll whip up some firework for you, so keep your eyes peeled.
 お誕生日おめでとうなぁ～\nまだまだ暑いさかい\n今日は、和菓子と冷やし抹茶で\nお祝いしまひょ♪=Happy birthday ~ It's still hot today. Let's celebration with Japanese sweets and chilled matcha♪
 
 Shizuru
@@ -258,7 +258,7 @@ Suzuna
 ハッピーバースデー！\nうちがお祝いしてあげる☆\nん～誕生日に一緒なんて\nカップルみたいかも？=happy Birthday! We will celebrate☆\n Hmm~ To be together on your birthday. Maybe we're like a couple?
 
 Hatsune
-お誕生日だね。おめでとうー！\nお祝いに超能力で…\nあっで、でも眠くなっちゃうし～\nじゃあ……………………カプッ♪=Happy birthday! I'll use my superpowers to throw you a big celebratio Wait. That'll just make me tired, so... *nibble*
+お誕生日だね。おめでとうー！\nお祝いに超能力で…\nあっで、でも眠くなっちゃうし～\nじゃあ……………………カプッ♪=Happy birthday! I'll use my superpowers to throw you a big celebration Wait. That'll just make me tired, so... *nibble*
 お誕生日のお祝いに、\nハツネ膝枕をプレゼント！\n寝心地いいよ～☆\nん～なんだか私も眠く…すやぁ～=To celebrate your birthday, \nHatsune knee pillow as a gift! \nIt's so comfortable~☆\nHm~ I'm kind of sleepy too...\nSuyaa~
 
 monika

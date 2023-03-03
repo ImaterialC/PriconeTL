@@ -7,7 +7,7 @@
 お誕生日おめでとうございます！\nこんな日に\nあなたと一緒に居られるなんて…\n友達ができるよりうれしいです♪=happy birthday!\nI'm glad I can stay with you on this day ... more than I can make a friend ♪
 お兄ちゃん、お誕生日\nおめでとうございますっ！\nなんだかアカリもうれしくて\nウズウズしてきちゃいます♪=Happy birthday, your brother!\nSomehow I'm so happy that I'm sorry ♪
 お兄ちゃん、お誕生日の\nお祝いしちゃいますよ！\nプレゼントはア・カ・リ♪\nな～んて、ドキドキしましたか？=My brother, I'm celebrating my birthday!\nThe present is a ka -ri ♪, did you be thrilled?
-ランドソル_繁華街_クリスマス_昼=Landsol _ Downtown _ Christmas _ daytime
+ランドソル_繁華街_クリスマス_昼=Landosol _ Downtown _ Christmas _ daytime
 お兄ちゃんのお誕生日\nアカリ、全力でお祝いします♪\n今ならお兄ちゃんのしたいこと\nなんでもしていいですよ？=My brother's birthday Akari will celebrate with all my might ♪ Can I do what my brother wants to do now?
 ハッピーバースデーお兄ちゃん！\nサンタでエンジェルな\nアカリが、いーっぱい\nお祝いしてあげますね♪=Happy Birthday Brother!\nAn angel Akari in Santa will celebrate a lot ♪
 舞台_クリスマス_昼=Stage _ Christmas _ daytime
@@ -56,7 +56,7 @@
 あなた様の誕生日…この日を\n共に迎えることができて私は\n幸せですわ…これからも毎年\n私とだけお祝いいたしましょう…=Your birthday ... I'm happy to be able to welcome this day together ... I'll continue to celebrate only with me every year ...
 あなた様が生まれた日…つまり\n私たちの運命が始まった日ですわ\n祝杯をあげましょう\nさぁ、これをお飲みになって…=The day when you were born ... It's the day when our fate has begun. Let's give a celebration, we've drank this ...
 誕生日おめでとうございます\nふたりきりでお祝いする準備は\nできていますわ\nそのあとは…クスクス=Happy birthday I'm ready to celebrate alone. After that ... Couscous
-ランドソル王城_玉座の間=Landsol Wang Castle _ Saiza
+ランドソル王城_玉座の間=Landosol Wang Castle _ Saiza
 誕生日？　どうでもいいじゃない\nいつ世界に生まれたかじゃなくて\n何を成すかが大事なのだから=birthday?\nIt doesn't matter, it's not about when you were born in the world, but what to do
 あなた、今日が誕生日らしいけど\nいつまで祝えるかしらね…？\n来年まで生き延びてたら\nその時は祝福してあげるわ=You're a birthday today, but how long can you celebrate ...?\nIf you survive until next year, I'll bless you at that time
 さて助手くん、\n呼ばれた理由は分かるかな？\nふふ、私にはお見通しなのさ…！\n誕生日、おめでとうっ♪=Well, assistant, do you know why you were called?\nFufu, I have a view to me ...!\nCongratulations on your birthday ♪
@@ -89,7 +89,7 @@
 牧場_温泉施設_舞台=Ranch _ hot spring facility _ stage
 お祝いの気持ちを込めて\nささやかだけどこの花を贈ります\nお兄ちゃん、お誕生日\nおめでとうございます…♪=I will give you this flower with a feeling of celebration, but my brother, happy birthday ... ♪ ♪ ♪ ♪
 貴方、誕生日ですって？\nそれはおめでとうございます\n何か食べたいものはありまして？\nご馳走くらいしてあげますわよ=You are your birthday?\nCongratulations on that? Is there anything you want to eat?\nI'll give you a treat
-ランドソル_王城周辺_執務室=Landsol _Stojo area _ Office room
+ランドソル_王城周辺_執務室=Landosol _Stojo area _ Office room
 お誕生日、おめでとうございます\n陛下の騎士として、\n今後とも一層励んでくださいな\nわたくしも手助けいたしますゆえ=Congratulations on your birthday.
 あのさ。弟たちに作ったケーキ、\n余ってるから食べてくんない\nべつに無理にとは言わないけど\nあー…あと、おたおめ=Thata.\nI don't say it's impossible to eat because there are extra cakes for my brothers, but ... and congratulations
 いいけど、あんた、\n今日が誕生日なんだって？\nおめでと。よかったね\nキラーペンシルあげるよ=Good, but today is your birthday?\ncongratulations.\nI'm glad I give you a killer pencil
@@ -127,7 +127,7 @@
 お誕生日、おめでとうございます\n夏の太陽のようなあなたに贈る\nバースデーソングを作りました\n気に入ってくれるといいのですが=Congratulations on your birthday. I made a birthday song to you like the summer sun. I hope you like it.
 レイ様があげるというので\n私からもプレゼントです\nべ、別に仕方なくじゃないです\nちゃんと心は込めてるので！=Ray -sama gives me, so it's a gift from me, so it's inevitable.
 大したものじゃないですけど\n作ってみたのでどーぞ\nどうして僕にって…\nわ、私も誕生日ぐらい祝います！=It's not a big deal, but I made it, so how to do it ... Wow, I will celebrate my birthday!
-ランドソル_繁華街_ハロウィン_フェス=Landsol_ Downtown _ Halloween_fest
+ランドソル_繁華街_ハロウィン_フェス=Landosol_ Downtown _ Halloween_fest
 今日はあなたの誕生日だね\nカボチャの料理を用意したけど\nお口に合うかな…合えばいいな\n一応これ、手作りなんだ…♪=Today is your birthday, but I prepared a pumpkin dish, but it would fit your mouth ... I wish I could fit it. This is a handmade ... ♪
 ハロウィン姿の私をプレゼント♪\nこの格好見て目が幸せにな～れ\nってあれれ、ちょっと残念そうだ\nふふ、なにを想像してたのかな？=Presenting me in Halloween ♪ I looked happy with this look, and it looks a bit disappointing, what did you imagine?
 今日はあなたの誕生日だよね\nだったら、私がケーキを焼いて\nあげよっか？　こう見えて、\n料理には自信があるんだよ♪=If it was your birthday today, would I bake the cake?\nIt looks like this and I'm confident in cooking ♪

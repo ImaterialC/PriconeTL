@@ -5,13 +5,13 @@
 自分の物理攻撃力を15480アップ\n自分の物理クリティカルを200アップ\n物理攻撃クリティカル時のダメージを5％アップさせるフィールドを展開する=Up 15480 up your physical attack power by ア 自分 物 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5
 
 
-味方全体の物理攻撃力を大アップさせ、物理クリティカルを中アップさせる。=Make the physical attack power of all allies as a whole, and improve physical criticals.
+味方全体の物理攻撃力を大アップさせ、物理クリティカルを中アップさせる。=Make the physical attack power of all allies as a whole, and improve physical critical.
 敵全体に105148の物理ダメージ\n自分のＴＰを1000失わせる\n七冠の権能を解除する=105148 physical damage to all enemies Release the power of the seven crowns that lose 1000 TP
 
 敵全体に物理特大ダメージを与え、\n七冠の権能を解除する。自分のＴＰ\nを-1000する。=Dains physical oversized damage to all enemies and cancel the seven crowns.\n-1000 your TP.
 
 味方全体の物理攻撃力を5160アップ\n味方全体の物理クリティカルを75アップ\n味方全体の行動速度をアップ=Up 5160 physical attack power of all allies increases the physical critical of all allies 75
 
-味方全体の物理攻撃力を特大アップさせ、物理クリティカルを中アップさせ、行動速度を大アップさせる。=Oversized the physical attack power of all allies, increase physical criticals, and increase the speed of action.
+味方全体の物理攻撃力を特大アップさせ、物理クリティカルを中アップさせ、行動速度を大アップさせる。=Oversized the physical attack power of all allies, increase physical critical, and increase the speed of action.
 
 目の前の敵１キャラに物理大ダメージを与え、さらに物理防御力を小ダウンさせる。=It deals physical -college damage to one enemy in front of you, and also reduces physical defense.

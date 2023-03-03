@@ -66,3 +66,5 @@ ignore$
 ^\QTranslation/en/Text/Character/1_Names.txt\E$
 ^\QTranslation/en/Text/Character/2_Voice Actress.txt\E$
 ^\QTranslation/en/Text/Character/3_Guild Names.txt\E$
+^\QREADME.md\E$
+.+resizer.+
