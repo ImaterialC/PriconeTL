@@ -1,27 +1,32 @@
-===Profileムイミ
+Profileムイミ
 ム=M
 イミ=uimi
 さまよえる謎の少女=A young wanderer with a mysterious past
-===Skills
-===UB
+Skills
+UB
+【物理】前衛で、伝説の剣「天楼覇断剣」を振るう少女。\n小技を駆使する通常の戦闘スタイルから一転、ユニオン\nバースト後は「天楼覇断剣」を携え、敵を薙ぎ払う。=(Physical) A headstrong waif who deals out punishment from the vanguard with her legendary sword. When she equips the Spiresbane Blade following her Union Burst. she shifts her fighting style from more technical skills to an all-out offensive rush.
+
 天楼覇断剣=Tenrou Sennagi Slash
 目の前の敵１キャラに物理特大ダメージを与える。さらにＴＰが無くなるまでの間天楼覇断剣を装備する。=Deals massive P.DMG to an enemy directly in front. Equips the Spiresbane Blade until TP is fully depleted.\nChanges her Skills' Effects until her TP is Depleted (100 TP/s) and changes her rotation into Loop Rotation (UB).\nChanges her Skills' Effects back after TP reaches 0.\n(UB Does Not Cost Any TP)
-===S1
+S1
+ビビらせてやる！=Feeling Scared Yet?!
+ビビらせてやる！+=Feeling Scared Yet?!+
 前方範囲内の敵すべてに物理小ダメージを与え、さらにスタンさせて小さく吹き飛ばす。=Deals small P.DMG to all enemies in range, inflicts Stun, and knocks them back slightly.
-r:"^斬撃で範囲内の敵に(\d+)の物理ダメージ\n蹴りで範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵を一定時間行動不能にする$"=Deals $1 P.DMG to enemies in range with a slash.\nDeals $2 P.DMG to enemies in range with a kick.\nRenders enemies in range immobile for a set period of time.
-===S2
+r:"^斬撃で範囲内の敵に(\d+)の物理ダメージ\n蹴りで範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵を一定時間行動不能にする$"=Cast time: 0.34s\n►Deals $1 P.DMG to enemies within range.\n►Deals $2 P.DMG to enemies within range.\n►Inflict stun on targets damaged by act 1 for 1.5s.\n►Knock targets damaged by act 2.
+S2
+こっちだこっち！=Right This way!
 前方範囲内の敵すべての物理防御力を小ダウンさせる。=Lowers the P.DEF of all enemies in range by a small amount.
-r:"^範囲内の敵の物理防御力を(\d+)ダウン$"=Lowers P.DEF of enemies in range by $1.
-===ex
+r:"^範囲内の敵の物理防御力を(\d+)ダウン$"=►Lowers P.DEF of enemies in range by $1.
+ex
 ポテンシャルフォース=Potential Force
-===Skills+
-===UB
-===S1
+Skills+
+UB
+S1
 前方範囲内の敵すべてに物理中ダメージを与え、さらにスタンさせて小さく吹き飛ばす。=Deals medium P.DMG to all enemies in range, inflicts Stun, and knocks them back slightly.
-===S2
-===ex
+S2
+ex
 ポテンシャルフォース+=Potential Force+
-===UE
+UE
 絆の証=Proof of Bonds
 このスキルのスキルレベルは「天楼覇断剣」と連動しています=The skill level of this skill is linked to "Spiresbane Blade"
 

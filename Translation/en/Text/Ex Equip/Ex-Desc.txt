@@ -35,15 +35,15 @@ Pink ----------------------------------------------------------
 
 Gold ----------------------------------------------------------
 【クラン】ウィズダムオブノーブル=[Clan] Wizdom of Noble
-【クラン】ワイズオブノーブル=[Clan] Sagacity of Noble
-【クラン】シャーマンの叡智=[Clan] Wisdom of Shaman
-【クラン】シャーマンの賢明さ=[Clan] Sagacity of Shaman
-【クラン】ビショップの叡智=[Clan] Wisdom of Bishop
-【クラン】ビショップの賢明さ=[Clan] Sagacity of Bishop
-【クラン】アルケミストの叡智=[Clan] Wisdom of Alchemist
-【クラン】アルケミストの賢明さ=[Clan] Sagacity of Alchemist
-【クラン】メイガスの叡智=[Clan] Wisdom of Magus
-【クラン】メイガスの賢明さ=[Clan] Sagacity of Magus
+【クラン】ワイズオブノーブル=[Clan] Wise of Noble
+【クラン】ウィズダムオブシャーマン=[Clan] Wisdom of Shaman
+【クラン】ワイズオブビショップ=[Clan] Wise of Shaman
+【クラン】ウィズダムオブビショップ=[Clan] Wisdom of Bishop
+【クラン】ワイズオブビショップ=[Clan] Wise of Bishop
+【クラン】ウィズダムオブアルケミスト=[Clan] Wisdom of Alchemist
+【クラン】ワイズオブアルケミスト=[Clan] Wise of Alchemist
+【クラン】ウィズダムオブメイガス=[Clan] Wisdom of Meigas
+【クラン】ワイズオブメイガス=[Clan] Wise of Meigas
 
 【クラン】ブレイブオブガード=[Clan] Brave of Guard
 虹色に輝く鉱石を、一流の職人が心血を注いで加工した盾。人々の絆の力がそのまま堅牢さとなり、どんな攻撃からも使い手を守り抜く。=A shield crafted from a rainbow-ore by a best craftsman. The power of people's bonds becomes robust as it is, protecting the user from any attack.

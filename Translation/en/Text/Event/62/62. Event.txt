@@ -1,6 +1,7 @@
 願福寄災の招き猫=Beckoning Cat of Blessings and Calamities
 r:"^ランドソル 市街地([0-9\-\(\)\w （）]*)$"=Landsol urban area $1
 猫と駄菓子の喫茶店　カフェ・ ナッシュカッツェにようこそ=Welcome to Café Nashicatze - The Coffee Shop for Cats and Snacks
+猫と駄菓子の喫茶店 カフェ・ナッシュカッツェにようこそ=Welcome to Café Nashicatze - The Coffee Shop for Cats and Snacks
 
 猫専用のカフェメニュー=Café Menu Exclusive for Cats
 三足のわらじ=Three-Legged Straw Sandals
@@ -16,3 +17,11 @@ r:"^ランドソル 市街地([0-9\-\(\)\w （）]*)$"=Landsol urban area $1
 猫グッズを作ろう♪=Let's Make Cat Goods ♪
 スパイとの付き合い方=How to Get Along with Spies
 おろしたてのエプロン=Freshly Laundered Apron
+
+
+
+
+
+
+カフェの戦闘服はエプロン=Cafe combat uniforms are apron
+[3C404EFF]なにやら思いがけない方向に事態が転がってしまったが……[3C404EFF]\n[3C404EFF]この制服に身を包んでいると、[3C404EFF]不思議と気合が入るようだ！[3C404EFF]\n[3C404EFF]軍人には軍服、[3C404EFF]カフェ店員には[3C404EFF]エプロン、[3C404EFF]だな！=The situation has rolled in an unexpected direction, but when you are dressed in this uniform, you seem to be wondering!\nMilitary uniform for soldiers, apron for cafe clerks!

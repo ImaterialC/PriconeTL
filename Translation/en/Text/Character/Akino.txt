@@ -36,7 +36,7 @@ r:"^毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Deploys a 1
 ===EX Skill
 フレイムソウル=Burning Soul
 バトル開始時に自分の物理攻撃力を中アップさせる。=Moderate boost to own physical attack at start of battle.
-r:"^自分の物理攻撃力を(\d+)アップ$"=Boosts own physical attack by $1.
+r:"^自分の物理攻撃力を(\d+)アップ$"=►Boosts own physical attack by $1.
 ===EX Skill+
 バトル開始時に自分の物理攻撃力を中アップさせ、さらに自分の物理防御力を小アップさせる。=Moderate boost to own physical attack at start of battle.\nSmall boost to own physical defense at start of battle.
 r:"^自分の物理攻撃力を(\d+)アップ\n自分の物理防御力を(\d+)アップ$"=Boosts own P.ATK by $1.\nBoosts own P.DEF by $2.

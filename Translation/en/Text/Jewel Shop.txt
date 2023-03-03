@@ -111,3 +111,6 @@ sr:"^(\d{4})年(\d+月)$"=$2 $1
 ===NPC===
 ジュエルはよく考えて\n使うことね\n無駄遣い厳禁！=Think carefully\nwhen spending Jewels.\nDon't waste them!
 マナ購入で、「マナ」と「スキップチケット」が手に入ります。\nさらにオマケで「メモリーピース」「女神の秘石」「探索挑戦回数増加」\nが手に入るかもしれませんよ。=Buying Mana will get you both Mana and skip tickets.\nYou may also receive bonuses such as Memory Shards,\nDivine Amulets and additional Grotto attempts.
+
+決済手続=Payment Procedure
+r:"^DMMポイントを消費して、\n購入手続きを完了しますか?\n所持DMMポイント:(\d+)\n(\[[0-9A-F]{6}\])?ここで購入したジュエルやマナは\nDMM版でご利用いただけます。(\[-\])?$"=Do you want to use your DMM points to complete the purchase?\nYou currently have $1 DMM points.\n$2The jewels and mana purchased here\ncan be used on the DMM version.$3

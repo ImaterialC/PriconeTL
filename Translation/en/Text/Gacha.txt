@@ -69,6 +69,7 @@ r:"^ストーリー (\d+)話$"=Story Episode $1
 [FF7C4E,D62146]女神の秘石に変換されます。　[-]=[FF7C4E,D62146]It will be converted into Divine Amulet[-]
 キャラ交換へ=Character\nExchange
 このプライズは現在選択されています。=This prize is currently selected.
+
 ==Time==
 次回ガチャリセット時間=Next Gacha Reset
 イベント限定キャラをGET！=GET event-limited characters!
@@ -143,6 +144,11 @@ sr:"^\[FFBB00,CE4F00\]「([べ-・ー＆]+)(\（.{3,10}\）)?(\s|)」(「|)([べ
 2等に当選し、以下のプライズを入手しました。=You won the 2nd prize and got the following prizes.
 3等に当選し、以下のプライズを入手しました。=You won the 3rd prize and got the following prizes.
 r:"^(1?[4-9,0])等に当選し、以下のプライズを入手しました。$"=You won the $1th prize and got the following prizes.
+アメス賞に当選し、以下のプライズを入手しました。=You won the Ameth prize and got the following prizes.
+シェフィ賞に当選し、以下のプライズを入手しました。=You won the Sheffy prize and got the following prizes.
+キャル賞に当選し、以下のプライズを入手しました。=You won the Kyaru prize and got the following prizes.
+コッコロ賞に当選し、以下のプライズを入手しました。=You won the Kokkoro prize and got the following prizes.
+ペコリーヌ賞に当選し、以下のプライズを入手しました。=You won the Pecorine prize and got the following prizes.
 獲得したプライズは直接所持数に加算されます。=The prizes you win will be added directly to your inventory.
 1等  0.50％\n2等  1.00％\n3等  5.00％\n4等  10.00％\n5等  23.50％\n6等  60.00％\n\n※1回ごとに、その提供割合にもとづいて抽選を行っております。\n※『1回引く』と『10回引く』（1～9プライズ目まで）は、\n同じ提供割合です。\n=1st   0.50%\n2nd  1.00%\n3rd  5.00%\n4th 10.00%\n5th 23.50%\n6th 60.00%\n\n※A lottery is held for each time based on the ratio\nof provision.\n※"1回引く" and "10回引く" (1st to 9th prizes)\nare the same ratio.\n
 
