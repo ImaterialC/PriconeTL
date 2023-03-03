@@ -59,10 +59,12 @@ Simply delete patch files which were extracted to `priconner` folder
 There are no Priconne files that modified or damaged while installing this patch so you can simply delete them manually. Your game will turn it back to a vanilla state.
 
 Files that must delete for uninstalling were:
-> BepInEx
-> changelog.txt
-> doorstop_config.ini
-> winhttp.dll
+```
+BepInEx
+changelog.txt
+doorstop_config.ini
+winhttp.dll
+```
 
 Vanilla state of priconner folder was like the below picture:
 
