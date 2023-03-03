@@ -1,5 +1,5 @@
 願福寄災の招き猫=Beckoning Cat of Blessings and Calamities
-r:"^ランドソル 市街地([0-9\-\(\)\w （）]*)$"=Landsol urban area $1
+r:"^ランドソル 市街地([0-9\-\(\)\w （）]*)$"=Landosol urban area $1
 猫と駄菓子の喫茶店　カフェ・ ナッシュカッツェにようこそ=Welcome to Café Nashicatze - The Coffee Shop for Cats and Snacks
 猫と駄菓子の喫茶店 カフェ・ナッシュカッツェにようこそ=Welcome to Café Nashicatze - The Coffee Shop for Cats and Snacks
 

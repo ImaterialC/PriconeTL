@@ -115,7 +115,7 @@
 廃校の危機=The End Is Nigh
 転校生パニック！=New Student Shuffle!
 個人レッスンは誰が？=Who Gets to Tutor?
-ランドソルに存在する学舎の一つ。ギルド管理協会が\n運営する公立の教育機関。共学で、通学している生徒\nの年齢、種族、学力もさまざま。=A public school in Landosol run underthe Guild Association. Ages, educational level and backgrounds vary wildly among its students.
+ランドソルに存在する学舎の一つ。ギルド管理協会が\n運営する公立の教育機関。共学で、通学している生徒\nの年齢、種族、学力もさまざま。=A public school in Landosol run under the Guild Association. Ages, educational level and backgrounds vary wildly among its students.
 ------------Weissflügel-------------
 
 ヴ=W
