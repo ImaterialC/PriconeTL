@@ -60,9 +60,9 @@ There are no Priconne files that modified or damaged while installing this patch
 
 Files that must delete for uninstalling were:
 > BepInEx
-changelog.txt
-doorstop_config.ini
-winhttp.dll
+> changelog.txt
+> doorstop_config.ini
+> winhttp.dll
 
 Vanilla state of priconner folder was like the below picture:
 
