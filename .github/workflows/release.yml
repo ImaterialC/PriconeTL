@@ -16,54 +16,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Preparing
-        run: |
-          $DateWithoutDot = Get-Date -Format 'yyyyMMdd'
-          $charNumber = 64
-          while (git tag -l $ReleaseTag) {
-              $char = [char]$charNumber
-              $ReleaseTag = $DateWithoutDot + $char.ToString().ToLower()
-              $charNumber++
-          }
-          $TodayDate = (Get-Date -Format 'yyyy.MM.dd') + $char.ToString().ToLower()
-          "RELEASE_NAME=Pricone UI EN DMM v$TodayDate" >> $Env:GITHUB_ENV
-          "RELEASE_TAG=$ReleaseTag" >> $Env:GITHUB_ENV
-
-          Write-Output "::group::Logs"
-          Write-Output "Release Name: Pricone UI EN DMM v$TodayDate"
-          Write-Output "Tag: $ReleaseTag"
-          Write-Output "Creating release folder..."
-          New-Item -ItemType Directory -Force -Path "newrelease"
-          Write-Output "::endgroup::"
-
-      - name: Downloading core files
-        run: |
-          try {
-            Invoke-WebRequest -URI "https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x86_5.4.21.0.zip" -OutFile "BepInEx.zip"
-            Expand-Archive -Path "BepInEx.zip" -DestinationPath "newrelease"
-            Invoke-WebRequest -URI "https://github.com/bbepis/XUnity.AutoTranslator/releases/download/v5.2.0/XUnity.AutoTranslator-BepInEx-5.2.0.zip" -OutFile "AutoTrans.zip"
-            Expand-Archive -Path "AutoTrans.zip" -DestinationPath "newrelease"
-            Invoke-WebRequest -URI "https://github.com/FineBrewDev/BepInEx.FullScreenizer/releases/download/1.0/FullScreenizer.dll" -OutFile "./newrelease/BepInEx/plugins/FullScreenizer.dll"
-            Invoke-WebRequest -URI "https://github.com/priconnEnjoyer/XUnity.AutoTranslator/releases/latest/download/XUnity.AutoTranslator.Plugin.Core.dll" -OutFile "./newrelease/BepInEx/plugins/XUnity.AutoTranslator/XUnity.AutoTranslator.Plugin.Core.dll"
-            Invoke-WebRequest -URI "https://github.com/priconnEnjoyer/XUnity.AutoTranslator/releases/latest/download/XUnity.Common.dll" -OutFile "./newrelease/BepInEx/core/XUnity.Common.dll"
-          }
-          catch {
-            Write-Output "::error $_"
-            exit
-          }
-
-      - name: Getting patch files
-        run: |
-          Copy-Item "Translation"  -Destination "newrelease/BepInEx" -Recurse
-          Write-Output "Copied Translation into newrelease"
-          Copy-Item "config" -Destination "newrelease/BepInEx" -Recurse
-          Write-Output "Copied config into newrelease"
-
-      - name: Generating version files
-        run: |
-          Write-Output "Version: ${{ env.RELEASE_TAG }}"
-          "${{ env.RELEASE_TAG }}" | Out-File -FilePath "newrelease/Version.txt" -Encoding utf8
-
       - name: Generating changelog
         id: changelog
         run: |
@@ -129,8 +81,64 @@ jobs:
           Write-Output $Changelog
           Write-Output "::endgroup::"
 
-      - name: Generating artifact
+      - name: Preparing
         run: |
+          $DateWithoutDot = Get-Date -Format 'yyyyMMdd'
+          $charNumber = 0
+          do {
+            $char = [char]$charNumber
+            $ReleaseTag = $DateWithoutDot + $char.ToString().ToLower()
+            if ($charNumber -eq 0) {
+              $charNumber = 64
+            }
+            $charNumber++
+          }
+          while (git tag -l $ReleaseTag)
+          $TodayDate = (Get-Date -Format 'yyyy.MM.dd') + $char.ToString().ToLower()
+          "RELEASE_NAME=Pricone UI EN DMM v$TodayDate" >> $Env:GITHUB_ENV
+          "RELEASE_TAG=$ReleaseTag" >> $Env:GITHUB_ENV
+
+          Write-Output "::group::Logs"
+          Write-Output "Release Name: Pricone UI EN DMM v$TodayDate"
+          Write-Output "Tag: $ReleaseTag"
+          Write-Output "Creating release folder..."
+          New-Item -ItemType Directory -Force -Path "newrelease"
+          Write-Output "::endgroup::"
+
+      - name: Downloading core files
+        run: |
+          try {
+            Invoke-WebRequest -URI "https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x86_5.4.21.0.zip" -OutFile "BepInEx.zip"
+            Expand-Archive -Path "BepInEx.zip" -DestinationPath "newrelease"
+            Invoke-WebRequest -URI "https://github.com/bbepis/XUnity.AutoTranslator/releases/download/v5.2.0/XUnity.AutoTranslator-BepInEx-5.2.0.zip" -OutFile "AutoTrans.zip"
+            Expand-Archive -Path "AutoTrans.zip" -DestinationPath "newrelease"
+            Invoke-WebRequest -URI "https://github.com/FineBrewDev/BepInEx.FullScreenizer/releases/download/1.0/FullScreenizer.dll" -OutFile "./newrelease/BepInEx/plugins/FullScreenizer.dll"
+            Invoke-WebRequest -URI "https://github.com/priconnEnjoyer/XUnity.AutoTranslator/releases/latest/download/XUnity.AutoTranslator.Plugin.Core.dll" -OutFile "./newrelease/BepInEx/plugins/XUnity.AutoTranslator/XUnity.AutoTranslator.Plugin.Core.dll"
+            Invoke-WebRequest -URI "https://github.com/priconnEnjoyer/XUnity.AutoTranslator/releases/latest/download/XUnity.Common.dll" -OutFile "./newrelease/BepInEx/core/XUnity.Common.dll"
+          }
+          catch {
+            Write-Output "::error $_"
+            exit
+          }
+
+      - name: Generating version files
+        run: |
+          Write-Output "Version: ${{ env.RELEASE_TAG }}"
+          "${{ env.RELEASE_TAG }}" | Out-File -FilePath "newrelease/Version.txt" -Encoding utf8
+
+      - name: Generating artifact (Textureless)
+        run: |
+          Copy-Item "config" -Destination "newrelease/BepInEx" -Recurse
+          Write-Output "Copied config into newrelease"
+          Copy-Item "Translation/en/Text"  -Destination "newrelease/BepInEx/Translation/en/Text" -Recurse
+          Write-Output "Copied Text into newrelease"
+          Compress-Archive -Path "newrelease/*" -CompressionLevel Fastest -DestinationPath 'PriconneTL_${{ env.RELEASE_TAG }}_NoTexture.zip'
+          Write-Output "Compressed artifact from newrelease: PriconneTL_${{ env.RELEASE_TAG }}_NoTexture.zip"
+
+      - name: Generating artifact (Normal)
+        run: |
+          Copy-Item "Translation/en/Texture"  -Destination "newrelease/BepInEx/Translation/en/Texture" -Recurse
+          Write-Output "Copied Texture into newrelease"
           Compress-Archive -Path "newrelease/*" -CompressionLevel Fastest -DestinationPath 'PriconneTL_${{ env.RELEASE_TAG }}.zip'
           Write-Output "Compressed artifact from newrelease: PriconneTL_${{ env.RELEASE_TAG }}.zip"
 
@@ -138,7 +146,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: release
-          path: "PriconneTL_${{ env.RELEASE_TAG }}.zip"
+          path: "PriconneTL*.zip"
 
       - name: Publish Release
         uses: ncipollo/release-action@v1
@@ -147,7 +155,9 @@ jobs:
           name: ${{ env.RELEASE_NAME }}
           body: ${{ steps.changelog.outputs.changes }}
           tag: ${{ env.RELEASE_TAG }}
-          artifacts: "./PriconneTL_${{ env.RELEASE_TAG }}.zip"
+          artifacts: |
+            "./PriconneTL_${{ env.RELEASE_TAG }}.zip"
+            "./PriconneTL_${{ env.RELEASE_TAG }}_NoTexture.zip"
 
   announce:
     name: Discord Announcement
