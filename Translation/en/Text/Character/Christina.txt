@@ -11,6 +11,9 @@ Story
 
 Skill name
 ナンバーズアヴァロン=Numbers Avalon
+インジェクション=Injection
+オーバーレイ+=Overlay+
+オーバーレイ=Overlay
 イグナイトエグゼ+=Ignite EX+
 イグナイトエグゼ=Ignite EX
 

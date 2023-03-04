@@ -12,3 +12,6 @@ r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の味方のＴＰを
 スウィートサービス=Sweet Service
 最も物理攻撃力の高い味方１キャラの傍に移動し、そのキャラを中心とした範囲内の味方すべての物理攻撃力を大アップ、ＨＰを小回復するフィールドを展開する。=Moves to the side of the character with the highest P.ATK, and creates a field that greatly increases the P.ATK of all allies within range centering on that character and restores a small amount of HP.
 r:"^物理攻撃力を(\d+)アップさせるフィールドを展開する\n毎秒ＨＰを(\d+)回復するフィールドを展開する$"=Cast time: 1.05s\n►Deploys a field of radius 150 that boosts P.ATK by $1 for 12s.\n►Deploys a field of radius 150 that recovers HP by $2 per second for 7s.
+
+キャッツチルアウト=Cats Chill Out
+キャッツチルアウト+=Cats Chill Out+

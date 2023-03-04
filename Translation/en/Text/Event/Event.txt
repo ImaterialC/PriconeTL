@@ -168,13 +168,13 @@ sr:"^\[3C404E\]([^ ]+) x\[-\]\[FFBB00,CE4F00\](\d+)\[-\]$"=[3C404E]$1 × [-][FFB
 イベントを進めて、ボスに挑戦！\nボスNORMALを討伐すると、\n限定キャラ解放！！=Advance the event and challenge the boss! If you defeat the boss NORMAL, the limited character will be Unlock! !!
 アイテムが不足しています=Not enough items
 未読EPISODE=Unread Episode
-sr:"^\[3C404E\]([べ-・ー＆]+)との信頼度エピソード\n「\[FFBB00,CE4F00\](.+)\[-\]」が\n解放されました。\[-\]$"="[3C404E]$1 Intimacy  Episode\n"[FFBB00,CE4F00]$2[-]"\nHas been unlocked.[-]"
+sr:"^\[3C404E\]([べ-ヺー＆]+)との信頼度エピソード\n「\[FFBB00,CE4F00\](.+)\[-\]」が\n解放されました。\[-\]$"="[3C404E]$1 Intimacy  Episode\n"[FFBB00,CE4F00]$2[-]"\nHas been unlocked.[-]"
 sr:"^イベント「エピソード・オブ・パイレーツ　([\s\S]+)」のスペシャルエピソードが解放されました。$"="The special episode of the event "Episode of \n$1" has been unlocked."
 sr:"(.+)(（.{2,10}）)?が解放されました。$"=$1$2 has been Unlock.
 sr:"(.+)が\n解放されました。$"=$1\nhas been Unlock.
 イベント限定キャラ解放=Event Limited Character Unlocked
 条件を達成したためスキップチケットを使用することができるようになりました。=Because you have met the conditions\nYou can now use Skip Tickets.
-sr:"([べ-・ー＆]+)との信頼度$"=Intimacy with $1
+sr:"([べ-ヺー＆]+)との信頼度$"=Intimacy with $1
 信頼度エピソード解放=Intimacy Episode Unlock
 閲覧する=Watch
 
