@@ -32,7 +32,7 @@ sr:"^ヨリと(.{2,10})は第三回戦のレトロゲーム勝負に挑む。ヨ
 甘い秘密=A Sweet Secret
 ラビリスタはクレープに現実に帰るための仕掛けを施していた。さらに、それを実行するためにはソルオーブが必要だと語る。それぞれ手分けして進めていくことを決め、一同はひとまず身体を休めるのだった。=Labyrista had a trick in their crepes to help them return to reality.She also tells us that she needs the Sol Orb to carry it out.They decided to split up and proceed, and they all rested for the time being.
 迷い竜の涙=Tears of a Lost Dragon
-sr:"^シェフィと(.{2,10})は同じ夢の中にいた。一方、コッコロとラビリスタは内通者について話し合う。この話は互いの胸の内に納めておくこととし、ラビリスタは残りのソルオーブの在り処を告げる。$"=Sheffy and Oni-chan were in the same dream.Meanwhile, Coccolo and Labyrista discuss the inside man.They decide to keep the story to themselves, and Labirista tells them where the rest of the Sol Orb is.
+sr:"^シェフィと(.{2,10})は同じ夢の中にいた。一方、コッコロとラビリスタは内通者について話し合う。この話は互いの胸の内に納めておくこととし、ラビリスタは残りのソルオーブの在り処を告げる。$"=Sheffy and Oni-chan were in the same dream.Meanwhile, Coccolo and Labyrista discuss the inside man.They decide to keep the story to themselves, and Labyrista tells them where the rest of the Sol Orb is.
 夜襲=Night Attack
 sr:"^シェフィと(.{2,10})の夢に現れたミネルヴァは、自らが囚われている場所を告げ、助けを求める。一方ラビリスタのもとにはネネカとクリスティーナが現れ、七冠たちの戦いが始まるのであった。$"=Minerva appears in Sheffy and Oni-chan's dream, tells them where she is being held captive, and asks for help.Meanwhile, Neneka and Christina appear to Labyrista, and the battle of the Seven Crowns begins.
 女王vs女君&大妃=Queen vs.
