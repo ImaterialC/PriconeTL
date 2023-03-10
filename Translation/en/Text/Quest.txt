@@ -89,6 +89,9 @@ sr:"^\[3C404E\]リタイアするとクエスト報酬を獲得できず、\nス
 r:"^\[3C404E\]\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個使用して\nスタミナを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]回復しました。\[-\]\n\n本日の回復可能回数 ([0-9/]+)回\[-\]$"=[3C404E]Use [FFBB00,CE4F00]$1[-] Jewels \nto recover [FFBB00,CE4F00]$2[-] Stamina\n\nRecharges left today: $3[-]
 ===Attempt restore===
 r:"^\[3C404E\]\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個使用して\n残り挑戦回数を\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]回復しました。\[-\]\n\n本日の回復可能回数 ([0-9/]+)回\[-\]$"=[3C404E]Use [FFBB00,CE4F00]$1[-] Jewels\nto recover [FFBB00,CE4F00]$2[-] Attempts\n\nRecharges left today: $3[-]
+
+r:"^\[3C404E\]ジュエルを\[-\]\[FFBB00,CE4F00\](\d+)\[-\]\[3C404E\]個消費して、\n以下のクエストの残り挑戦回数を回復しました。\[-\]$"=[3C404E]Consume [FFBB00,CE4F00]$1[-] Jewels,\nThe number of remaining Attempts for the following quests has been restored.[-]
+
 ===Skip Table===
 本日の回復可能回数上限に達しました。=Today's recoverable limit was reached.
 スキップ回数=Skip count

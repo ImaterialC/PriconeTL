@@ -33,6 +33,7 @@ r:"^おやつテーブルLv.(\d+)$"=Snack Table lv.$1
 
 天露の金甘水=Natural Dew Gold Sweet Water
 アースサボテンのハニーパンケーキ=Earth Cactus Honey Pancakes
+深海直送の無限海鮮箱=Unlimited Seafood Box Delivered Directly from the Deep Sea
 ====Furniture===
 教室の黒板=Classroom Blackboard
 教室の机=Classroom Desk

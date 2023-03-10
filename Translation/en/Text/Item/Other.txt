@@ -33,8 +33,8 @@
 赤枠（RANK17～21）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment for red frames (RANK17-21).
 緑枠（RANK20～24）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment for green frames (RANK20-24).
 橙枠（RANK23～28）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the fragments and blueprints required when creating RANK equipment for orange frames (RANK23-28).
-
-虹色に輝く不思議な力をまとった宝\n石。=A jewel with a mysterious rainbow-colored power.
+空枠（RANK27～32）のRANK装備作成時に必要な欠片・設計図の代用として使える、貴重な資材。=A valuable material that can be used as a substitute for the pieces and blueprints required when creating RANK equipment for empty frames (RANK27-32).
+虹色に輝く不思議な力をまとった宝石。=A jewel with a mysterious rainbow-colored power.
 
 ランダムな原鉱が獲得できる。=You can get a random original ore.
 ランダム原鉱BOX=Random Original Ore Box
@@ -46,4 +46,4 @@ EX装備の強化に使用すると、強化Ptが1加算される。=When used t
 主さま、カスタムマイページのフレームを獲得いたしましたよ。\nフレームを設定してマイページを飾ってみましょう。=Lord, we have won the custom My page frame. Set the frame and decorate your page.
 
 ===Dedicated Ring
-sr:"^([べ-ヺー＆]+)(\（.{3,10}\）)?(\s|)専用リング$"=Dedicated $1$2's Ring
+sr:"^([べ-ヺー＆]+)(（.+）)?\s?専用リング$"=Dedicated $1$2's Ring

@@ -172,7 +172,7 @@ sr:"^(.+)のアドベンチャーから撤退しました。$"=Retreat from the 
 ワイルドライフ・アドベンチャー！=Wildlife Adventure!
 アオハル登⼭♪徒歩で来た☆=Youth Climbing♪ Came on foot☆
 迷い猫との思い出=Memories of a lost cat
-
+冒険は山あり「谷」あり=Adventures Have Their Ups and "↓" Downs
 
 アドベンチャーでは、仲間にしたキャラを冒険させることができます。一定の時間が経過すると冒険から帰還し、『EX装備』等のアイテムを獲得します。結果報告を確認し報酬を受け取りましょう。=In adventure, you can adventure the characters you made friends with. After a certain amount of time has passed, you will return from the adventure and acquire items such as "EX Equipment". Check the result report and receive the reward.
 

@@ -9,7 +9,7 @@ r:"^目の前の敵単体に(\d+)の物理ダメージ\n２番目に近い敵単
 ===S1
 ===S2
 味方全体の物理攻撃力を小アップさせる。=Small boost to P.ATK of all allies.
-r:"^味方全体の物理攻撃力を(\d+)アップ$"=Boosts all allies' P.ATK by $1.
+r:"^味方全体の物理攻撃力を(\d+)アップ$"=Boosts allies' P.ATK by $1.
 ===ex
 うさぎさんパワー=Bunny Power
 ===Skills+

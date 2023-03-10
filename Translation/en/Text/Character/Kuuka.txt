@@ -39,9 +39,9 @@ r:"^敵全体を挑発する\n自分の物理防御力を(\d+)アップ\n自分�
 【挑発】敵全体を挑発し、さらに自分の物理防御力を大アップさせる。=[Taunt] Taunts all enemies. Small boost to own physical defense.
 r:"^敵全体を挑発する\n自分の物理防御力を(\d+)アップ$"=Provokes all enemies.\nBoosts own physical defense by $1.
 ===Skill 2
-r:"^自分の魔法防御力を(\d+)アップ"=Boost own M.DEF by $1.
+r:"^自分の魔法防御力を(\d+)アップ$"=►Boost own M.DEF by $1.
 自分の魔法防御力を大アップする。=Moderate boost to own M.DEF.
 ===EX skill
 バトル開始時に自分の魔法防御力を大アップさせる。=Large boost to own M.DEF at start of battle.
 バトル開始時に自分の魔法防御力を中アップさせる。=Moderate boost to own M.DEF at start of battle.
-r:"^自分の魔法防御力を(\d+)アップ$"=Boosts own M.DEF by $1.
+r:"^自分の魔法防御力を(\d+)アップ$"=►Boosts own M.DEF by $1.

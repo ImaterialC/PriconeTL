@@ -37,7 +37,7 @@ Gold ----------------------------------------------------------
 【クラン】ウィズダムオブノーブル=[Clan] Wizdom of Noble
 【クラン】ワイズオブノーブル=[Clan] Wise of Noble
 【クラン】ウィズダムオブシャーマン=[Clan] Wisdom of Shaman
-【クラン】ワイズオブビショップ=[Clan] Wise of Shaman
+【クラン】ワイズオブシャーマン=[Clan] Wise of Shaman
 【クラン】ウィズダムオブビショップ=[Clan] Wisdom of Bishop
 【クラン】ワイズオブビショップ=[Clan] Wise of Bishop
 【クラン】ウィズダムオブアルケミスト=[Clan] Wisdom of Alchemist

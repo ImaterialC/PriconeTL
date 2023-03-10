@@ -63,6 +63,10 @@ r:"^あと(\d+)時間(\d+)分は挑戦できません。$"=Can't challenge for $
 雲=C
 海の山脈=loudtop Peak
 雲海の山脈=Cloudtop Peak
+
+紺=A
+碧の王砦=zure King's Fortress
+紺碧の王砦=Azure King's Fortress
 ===Select===
 エリア選択確認=Area Selection
 sr:"^エリア「(.+)」に挑戦しますか？$"="Do you want to challenge the area\n"$1"?"
@@ -85,6 +89,7 @@ sr:"^\[2874AE,12304D\](.+)\[-\]$"="[2874AE,12304D]$1[-]"
 厳峰に佇む竜の寝床=The perilous peak where a\ndragon makes its nest.
 天空の番人が静かに眠る聖城=The divine fortress where\nthe guardians sleep.
 砂の大瀑布が落ちゆく果ての都=The Capital on the\nEnd of the Great Sandfall
+紺碧の底に君臨する海王の城砦=Under the deep blue sea lies\nThe fortress of the sea king.
 
 r:"^([0-9/]+)階( EX)?$"=$1F$2
 ===Boss Name
@@ -93,13 +98,26 @@ r:"^([0-9/]+)階( EX)?$"=$1F$2
 ゴブリンロード＆ゴブミニオン=Goblin Lord & Goblin Minion
 ゴブリンメイスター=Goblin Meister
 ゴブリンロード=Goblin Lord
+ポセイドン・海神の剣=Poseidon: Sea God Sword
+ポセイドン・雷撃の槍=Poseidon: Lightning Spear
+ポセイドン・激波の拳=Poseidon: Raging Wave Fist
+ポセイドン・嵐撃の槍=Poseidon: Storm Spear
+ポセイドン・大洋の杖=Poseidon: Ocean Staff
+[FFBB00,CE4F00]ポセイドン・海神の剣[-]=[FFBB00,CE4F00]Poseidon: Sea God Sword[-]
+[FFBB00,CE4F00]ポセイドン・雷撃の槍[-]=[FFBB00,CE4F00]Poseidon: Lightning Spear[-]
+[FFBB00,CE4F00]ポセイドン・激波の拳[-]=[FFBB00,CE4F00]Poseidon: Raging Wave Fist[-]
+[FFBB00,CE4F00]ポセイドン・嵐撃の槍[-]=[FFBB00,CE4F00]Poseidon: Storm Spear[-]
+[FFBB00,CE4F00]ポセイドン・大洋の杖[-]=[FFBB00,CE4F00]Poseidon: Ocean Staff[-]
+
 ===Tips and Help Button===
 ボスバトル=Boss battle
 確認したい遊び方を選択してください=Please select how to play want to check
 仲間にしたすべてのキャラで挑む総力戦です。各階層を突破すると「ダンジョンコイン」とランダムで「装備アイテム」\n「メモリーピース」といった報酬が獲得できます。=A battle uses the total power of all recruited characters, Completing floors will earn you Dungeon Coins and random rewards like equipment or Memory Shards.
 各ダンジョンの最後にいるモンスターを倒すとギルドハウスで役に立つアイテムをもらえます。それぞれギルドハウスに設置するとスタミナを生産します。アイテムGETを目指し、ダンジョンを進みましょう。=Defeating the boss at the end of each dungeon rewards you with useful items for your Guildhouse that produce stamina once placed. Fight your way through the dungeons to earn these prizes!
 ダンジョン「砂瀑の底都」のボスバトルではバトルモードが３段階\n変化します。モンスター詳細を確認して、それぞれのバトルでどう\n戦うか、しっかり作戦を立ててくださいまし。=In the boss battle of the dungeon "Sandfall Bottom City", the battle mode changes in 3 stages. Please check the details of the monsters and plan how to fight in each battle.
+ダンジョン「紺碧の王砦」のボスバトルでは挑戦するたびに攻撃パ\nターンが変化します。モンスター詳細を確認して、それぞれのバト\nルでどう戦うか、しっかり作戦を立ててくださいまし。=The attack pattern changes every time you challenge the boss battle of the dungeon "Azure King's Fortress". Please check the details of the monsters and plan how you will fight in each battle.
 
+この機能はまだ解放されていません。=This feature has not been released yet.
 ===Special Dungeon===
 階層一覧=Layer List
 スペシャルダンジョン=Special Dungeon

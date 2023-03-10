@@ -18,7 +18,7 @@ Skill name
 イグナイトエグゼ=Ignite EX
 
 UB
-r:"^敵単体に(\d+)の物理ダメージ\n一定時間全ての物理攻撃を回避する$"=►Deals $1 P.DMG to an enemy.\n►Dodges all P.ATKs.
+r:"^敵単体に(\d+)の物理ダメージ\n一定時間全ての物理攻撃を回避する$"=►Deals unavoidable $1 P.DMG to an enemy.\n►Dodges all P.ATKs for 3(+0.01×Lv)s.
 目の前の敵１キャラに物理大ダメージを与え、さらに自分は一定時間全ての物理攻撃を回避する。この攻撃は必ず命中し、クリティカルする。=Deals large P.DMG to an enemy directly in front and dodges all P.ATKs for set period of time. This attack never misses and is always a critical hit.
 
 Skill 1+
@@ -31,3 +31,7 @@ Skill 2
 r:"^敵単体に(\d+)の物理ダメージ\n敵単体の物理防御力を(\d+)ダウン$"=►Deals $1 P.DMG to an enemy.\n►Lowers an enemy's P.DEF by $2.
 目の前の敵１キャラに物理中ダメージを与え、さらに物理防御力を小ダウンさせる。=Deals moderate P.DMG to an enemy directly in front and lowers their P.DEF by a small amount.
 
+UB+
+アルティマスアヴァロン=Ultimas Avalon
+目の前の敵１キャラに物理防御力を一定値無視する物理大ダメージを２回与え、物理防御力を小ダウンさせる。さらに自分は一定時間全ての物理攻撃を回避する。この攻撃は必ず命中し、クリティカルする。=Deals two massive P.DMG hits to the enemy in front, ignoring a certain amount of their P.DEF and slightly lowering their P.DEF. The user also gains P.ATK evasion for a period of time. The skill always hits and criticals.
+r:"^敵単体に物理防御力を(\d+)無視する(\d+)の物理ダメージ\n敵単体に物理防御力を(\d+)無視する(\d+)の物理ダメージ\n敵単体の物理防御力を(\d+)ダウン\n一定時間全ての物理攻撃を回避する$"=►Deals unavoidable $2 P.DMG to an enemy, ignoring $1 of their P.DEF.\n►Deals unavoidable $4 P.DMG to an enemy, ignoring $3 of their P.DEF.\n►Lowers an enemy's P.DEF by $5 for 18s.\n►Dodges all P.ATKs for 3(+0.01×Lv)s.

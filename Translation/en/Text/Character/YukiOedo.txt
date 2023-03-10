@@ -2,7 +2,7 @@
 
 可愛いボクを緊急投与だよ♪=Emergency Dose for Cute Me ♪
 天使なボクが癒しちゃう♪=Angel-like Me Will Heal You ♪
-r:"^味方全体の魔法攻撃力を(\d+)アップ\n味方全体の行動速度アップ\n敵全体の魔法防御力を(\d+)ダウン$"=►Increases the M.ATK of all allies by $1.\n►Increases the speed of all allies' actions.\n►Reduces the M.DEF of all enemies by $2
+r:"^味方全体の魔法攻撃力を(\d+)アップ\n味方全体の行動速度アップ\n敵全体の魔法防御力を(\d+)ダウン$"=►Increases the M.ATK of all allies by $1.\n►Increases the speed of allies' actions.\n►Reduces the M.DEF of all enemies by $2
 味方全体の魔法攻撃力と行動速度を大アップさせる。さらに敵全体の魔法防御力を小ダウンさせる。=Greatly increases magic attack power and action speed of all allies. Also, slightly lowers magic defense of all enemies.
 
 天使なボクが癒しちゃう♪=An angel will heal ♪

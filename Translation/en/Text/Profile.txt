@@ -33,8 +33,8 @@ sr:"^(\d+月)(\d{1,2})日"=$1 $2
 称号変更=Title change
 キャラ表示切替=Change Chara
 カードデザイン=Card Design
-デザイン変更=change design
-フレームデザイン=Frame design
+デザイン変更=Change
+フレームデザイン=Frame Design
 コメント=Comment
 表示選択=Display selection
 基本デザイン=Template
@@ -70,6 +70,7 @@ r:"^※全角(\d+)文字以内$"=※Up to  $1 character
 友達を招待=Invite friends
 所属なし=None
 クランに所属していません。=You do not belong to a Clan.
+
 ===Clan Profile Card===
 クランランキング=Clan Ranking
 マイプロフ=My Profile

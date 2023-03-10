@@ -26,7 +26,6 @@ S1
 r:"^最大３キャラに各(\d+)の物理ダメージ\n自分のＴＰを(\d+)回復$"=Deals $1 P.DMG to a maximum of 3 characters.\nRecovers own TP by $2.
 S2
 目の前の敵１キャラに物理中ダメージを与え、さらに自分のＴＰを小回復させる。=Inflicts moderate P.DMG to one enemy directly in front while also recovering own TP by a small amount.
-r:"^敵単体に(\d+)の物理ダメージ\n自分のＴＰを(\d+)回復$"=Deals $1 P.DMG to an enemy.\nRecovers own TP by $2.
 ex
 エンハンスエイム=Enhanced Aim
 Skills+

@@ -13,6 +13,10 @@
 
 プライバシーポリシーを確認し同意する=Agree with Privacy Policy
 プライバシーポリシー=Privacy Policy
+アカウント削除申請=Delete Account
+利用規約・権利表記=Terms of Services & Copyright Notice
+機能を選択してください。=Please select the function.
+
 入力確認=Repeat PW
 ※数字、大文字、小文字を組み合わせた8文字以上16文字以下=※Must have Numbers,Upper-case,and Lower-case Letters within 8-16 characters.	
 連携パスワードを入力してください=Input your Bind Password below

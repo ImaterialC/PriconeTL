@@ -14,7 +14,7 @@
 翠霊譜ルーンノーツ=Spirit Runes Notes
 
 ===UB (6 star)
-r:"^味方全体のＨＰを(\d+)回復\n味方全体の物理攻撃力を(\d+)アップ\n味方全体の物理攻撃クリティカル時のダメージを28％アップ\n毎秒ＨＰを(\d+)回復する\n精霊を唱喚する$"=Recovers HP of all allies by $1.\nBoosts all allies’ P.ATK by $2 for 18s.\nBoosts all allies’ P.Crit dmg by 28％ for 18s.\ngrants HP regen by $3 for 18.5s.\nSummons a spirit next to foremost ally.
+r:"^味方全体のＨＰを(\d+)回復\n味方全体の物理攻撃力を(\d+)アップ\n味方全体の物理攻撃クリティカル時のダメージを28％アップ\n毎秒ＨＰを(\d+)回復する\n精霊を唱喚する$"=Recovers HP of all allies by $1.\nBoosts allies' P.ATK by $2 for 18s.\nBoosts allies' P.Crit dmg by 28％ for 18s.\ngrants HP regen by $3 for 18.5s.\nSummons a spirit next to foremost ally.
 
 【召喚】味方全体のＨＰを中回復し、物理攻撃力を特大アップさせ、物理攻撃クリティカル時のダメージを中アップさせ、継続ＨＰ回復状態を付与する。さらに最も前の味方のそばに精霊を唱喚する。=[Summon] Moderate HP recovers of all allies, massive boost their P.ATK, and moderate boost their P.Crit damage, and grants continuous small HP recovery. Furthermore, summons a spirit next to foremost ally.
 

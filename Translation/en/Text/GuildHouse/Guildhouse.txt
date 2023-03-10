@@ -1,23 +1,5 @@
 ===Guildhouse===
 データの取得に失敗しました。\nタイトルへ戻ります。=Data acquisition failed.\nReturn to the title.
-んなのカレンダー=veryone's Calendar
-この日付は選択できません。=This date cannot be selected.
-壁画の獲得演出を閲覧すると確認できます。=You can check it by viewing the mural acquisition production.
-この月のカレンダーストーリーは全て既読になっています。=All calendar stories for this month have been read.
-イラスト一覧=Illustration list
-ギルドハウス遷移時に演出を再生するか\nメニューから設定を変更できます。=You can replay the scene at the guild house\nor change the setting from the menu.
-カレンダーストーリーをスキップしますか？=Do you want to skip calendar stories?
-メモリアルサウンドボックスを購入すると解放されます。=Unlocked upon purchase of the Memorial Sound Box.
-『みんなのカレンダー』では、毎日少しずつランドソルを囲む壁に\n壁画が描き足されていく様子を楽しむことができます。\n主さま、ご一緒にみなさまの活動を見届けましょう。="Everyone's calendar" can enjoy the way the mural will be drawn by the wall that surrounds the Landosol every day. Main, let's watch everyone's activities together.
-カレンダーから日付を選択して、過去の出来事を\n見返すこともできますよ。活動を振り返りたくなったときや、\n見逃してしまったときは、カレンダーを開いてくださいまし。=You can also select a date from the calendar and revert the past events. When you want to look back on the activities, or miss it, please open the calendar.
-カレンダーストーリー確認=Calendar Story Confirmation
-もう一度カレンダーストーリーを再生しますか？=Do you want to play the calendar story again?
-全て既読=All read
-来月へ=Next month
-先月へ=Last month
-Lvアップ=LV up
-情報=Info
-移動=Go
 
 Lv上限：=Max Lv:
 r:"^(\d+)ルピを消費してLvアップ可能$"=Ready to Lv up using [FFBB00,CE4F00]$1[-] Rupies
@@ -48,11 +30,6 @@ Like情報=Like Info
 以下のアイテムを受け取りました。=You have received the following items.
 引き出せるマナがありません。=There is no mana to take out.
 
-翌日へ=→day
-前日へ=←day
-
-翌月へ=Next month
-前月へ=Previous month
 
 設置=Place
 売却不可=Cannot Sell

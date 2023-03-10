@@ -6,8 +6,8 @@ Summer Suzume Summer Suzume
 ===Skills
 ===UB
 トロピカルバケーション=Tropical Vacation
-味方全体の物理防御力と魔法防御力を小アップさせ、さらに継続ＨＰ回復状態を付与する。=Small boost to all allies' P.DEF and M.DEF. Grants HP regen to all allies.
-r:"^味方全体の物理防御力を(\d+)アップ\n味方全体の魔法防御力を(\d+)アップ\n毎秒ＨＰを(\d+)回復する$"=Boosts all allies' P.DEF by $1.\nBoosts all allies' M.DEF by $1.\nRecovers HP by $1 every second.
+味方全体の物理防御力と魔法防御力を小アップさせ、さらに継続ＨＰ回復状態を付与する。=Small boost to allies' P.DEF and M.DEF. Grants HP regen to all allies.
+r:"^味方全体の物理防御力を(\d+)アップ\n味方全体の魔法防御力を(\d+)アップ\n毎秒ＨＰを(\d+)回復する$"=Boosts allies' P.DEF by $1.\nBoosts allies' M.DEF by $1.\nRecovers HP by $1 every second.
 ===S1
 【召喚】自分の前に、目の前の敵１キャラを攻撃するぷちゴーレムを召喚する。=[Summon] Summons a mini-golem in front of oneself, which attacks an enemy directly in front.
 r:"^ぷちゴーレムを召喚する$"=Summons a Mini-Golem.

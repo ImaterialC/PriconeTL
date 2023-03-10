@@ -5,7 +5,7 @@
 r:"^バトル開始後(\d+)秒間自分の物理攻撃力を(\d+)％アッ\nプさせる。$"=Boost own physical attack by $2% for $1s after the start of battle.
 r:"^バトル開始後(\d+)秒間自分の魔法攻撃力を(\d+)％アッ\nプさせる。$"=Boost own magic attack by $2% for $1s after the start of battle.
 
-開始時物/魔ダメカット付与=Starting P./M. DMG Cut
+開始時物/魔ダメカット付与=Starting P/M. DMG Cut
 r:"^バトル開始後(\d+)秒間自分に(\d+)％の物理/魔法ダメー\nジカット効果を付与する。$"=Applies physical & magical damage cut to own by $2% for $1s\nafter the start of battle.
 
 開始時物理ダメカット付与=Starting P.Damage Cut
