@@ -1,8 +1,8 @@
-ランドソル_飲食店内_猫カフェ_昼=Landsol_Inside the restaurant_ Cat Cafe_nime
+ランドソル_飲食店内_猫カフェ_昼=Landosol_Inside the restaurant_ Cat Cafe_nime
 
 コーヒーとたい焼きのあんこが\n織りなすハーモニー…！\nにゃはは♪　相性バツグンにゃ！\nこのセットは爆売れ必至だにゃ♪=Coffee and anko taiyaki create a harmony...! Nyahaha♪ The compatibility is excellent! This set is sure to sell like hotcakes♪
 猫従業員のシフト組んでるにゃ…\nこの子は連勤だから休ませて…\n…ねえキミ、ヘルプ頼めるにゃ？\n猫みたいにかわいく接客してにゃ=Making a shift for our cat employees... This one has been working too much, so they need a break. Hey, can I ask for your help? Can you serve customers as cute as a cat?
-ん？　目が冴えて眠れない？\nにゃはは、コーヒー飲みすぎにゃ\nじゃあ眠くなるまでお姉さんが\n頭ポンポンしてあげるにゃ～♪=Hm? Can't sleep because you're feeling alert? Nyahaha, did you drink too much coffee? Then until you feel sleepy, onee-san will give you headpats~♪
+ん？　目が冴えて眠れない？\nにゃはは、コーヒー飲みすぎにゃ\nじゃあ眠くなるまでお姉さんが\n頭ポンポンしてあげるにゃ～♪=Hm? Can't sleep because you're feeling alert? Nyahaha, did you drink too much coffee? Then until you feel sleepy, onee-san will give you headpat~♪
 猫とコーヒーに癒されるにゃ～\nでもあたしにとって最大の癒しは\nいっつもそばで微笑んでくれる\nキミの存在なんだにゃ～♪=I'm healed by cats and coffee~ But for me, the biggest healing is your presence always by my side, smiling at me~ ♪
 今日もお疲れさまにゃ！\n休憩に温かいコーヒー飲むにゃ？\nお代は従業員割引で200ルピ！\n福利厚生バッチリ完備にゃ～♪=Well done today, nya! Would you like to take a break and have a warm cup of coffee, nya? The cost is 200 Rupies with employee discount, nya! Our employee benefits are superb, nya~♪
 

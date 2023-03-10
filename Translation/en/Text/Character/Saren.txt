@@ -27,7 +27,7 @@ S2
 最も近くの味方１キャラのＴＰを中回復し、物理攻撃力と魔法攻撃力を小アップさせる。=Recovers the TP of the closest party member by a moderate amount, and raise P.ATK and M.ATK by small amount.
 
 Same with yukari
-エレガンスエール=Eleganth Ovation
+エレガンスエール=Elegant Ovation
 r:"^味方単体のＴＰを(\d+)回復\n味方単体の物理攻撃力を(\d+)アップ\n味方単体の魔法攻撃力を(\d+)アップ$"=►Recovers an ally's TP by $1.\n►Boosts an ally's P.ATK by $2 for 12s.\n►Boosts an ally's M.ATK by $3 for 12s.
 
 
