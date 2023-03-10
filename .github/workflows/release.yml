@@ -19,12 +19,14 @@ jobs:
       - name: Preparing
         run: |
           $DateWithoutDot = Get-Date -Format 'yyyyMMdd'
-          $charNumber = 0
+          $charNumber = 64
           do {
             $char = [char]$charNumber
-            $ReleaseTag = $DateWithoutDot + $char.ToString().ToLower()
-            if ($charNumber -eq 0) {
-              $charNumber = 64
+            if ($charNumber -eq 64) {
+              $ReleaseTag = $DateWithoutDot
+            }
+            else {
+              $ReleaseTag = $DateWithoutDot + $char.ToString().ToLower()
             }
             $charNumber++
           }
@@ -167,16 +169,16 @@ jobs:
         run: |
           Copy-Item "config" -Destination "newrelease/BepInEx" -Recurse
           Write-Output "Copied config into newrelease"
-          Copy-Item "Translation/en/Text"  -Destination "newrelease/BepInEx/Translation/en/Text" -Recurse
+          Copy-Item "Translation/en/Text" -Destination "newrelease/BepInEx/Translation/en/Text" -Recurse
           Write-Output "Copied Text into newrelease"
-          Compress-Archive -Path "newrelease/*" -CompressionLevel Fastest -DestinationPath 'PriconneTL_${{ env.RELEASE_TAG }}_NoTexture.zip'
-          Write-Output "Compressed artifact from newrelease: PriconneTL_${{ env.RELEASE_TAG }}_NoTexture.zip"
+          Compress-Archive -Path "newrelease/*" -DestinationPath 'PriconneTL_${{ env.RELEASE_TAG }}_Textureless.zip'
+          Write-Output "Compressed artifact from newrelease: PriconneTL_${{ env.RELEASE_TAG }}_Textureless.zip"
 
       - name: Generating artifact (Normal)
         run: |
           Copy-Item "Translation/en/Texture"  -Destination "newrelease/BepInEx/Translation/en/Texture" -Recurse
           Write-Output "Copied Texture into newrelease"
-          Compress-Archive -Path "newrelease/*" -CompressionLevel Fastest -DestinationPath 'PriconneTL_${{ env.RELEASE_TAG }}.zip'
+          Compress-Archive -Path "newrelease/*" -DestinationPath 'PriconneTL_${{ env.RELEASE_TAG }}.zip'
           Write-Output "Compressed artifact from newrelease: PriconneTL_${{ env.RELEASE_TAG }}.zip"
 
       - name: Upload artifact
@@ -194,7 +196,7 @@ jobs:
           tag: ${{ env.RELEASE_TAG }}
           artifacts: |
             "./PriconneTL_${{ env.RELEASE_TAG }}.zip"
-            "./PriconneTL_${{ env.RELEASE_TAG }}_NoTexture.zip"
+            "./PriconneTL_${{ env.RELEASE_TAG }}_Textureless.zip"
 
   announce:
     name: Discord Announcement
