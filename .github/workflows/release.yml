@@ -31,12 +31,11 @@ jobs:
             $charNumber++
           }
           while (git tag -l $ReleaseTag)
-          $TodayDate = (Get-Date -Format 'yyyy.MM.dd') + $char.ToString().ToLower()
-          "RELEASE_NAME=Pricone UI EN DMM v$TodayDate" >> $Env:GITHUB_ENV
+          "RELEASE_NAME=Pricone UI EN DMM v$ReleaseTag" >> $Env:GITHUB_ENV
           "RELEASE_TAG=$ReleaseTag" >> $Env:GITHUB_ENV
 
           Write-Output "::group::Logs"
-          Write-Output "Release Name: Pricone UI EN DMM v$TodayDate"
+          Write-Output "Release Name: Pricone UI EN DMM v$ReleaseTag"
           Write-Output "Tag: $ReleaseTag"
           Write-Output "::endgroup::"
 
@@ -107,6 +106,7 @@ jobs:
           }
           Write-Output "::endgroup::"
           
+          $TextChange = "- Updated many texts' name`n"
           $TextureChange = "- Updated many, many textures' name`n"
 
           Write-Output "::group::Final Changelog and Discord Notification message"
@@ -181,11 +181,17 @@ jobs:
           Compress-Archive -Path "newrelease/*" -DestinationPath 'PriconneTL_${{ env.RELEASE_TAG }}.zip'
           Write-Output "Compressed artifact from newrelease: PriconneTL_${{ env.RELEASE_TAG }}.zip"
 
-      - name: Upload artifact
+      - name: Upload artifact (Textureless)
         uses: actions/upload-artifact@v3
         with:
-          name: release
-          path: "PriconneTL*.zip"
+          name: "PriconneTL_${{ env.RELEASE_TAG }}_Textureless"
+          path: "PriconneTL_${{ env.RELEASE_TAG }}_Textureless.zip"
+          
+      - name: Upload artifact (Normal)
+        uses: actions/upload-artifact@v3
+        with:
+          name: "PriconneTL_${{ env.RELEASE_TAG }}"
+          path: "PriconneTL_${{ env.RELEASE_TAG }}.zip"
 
       - name: Publish Release
         uses: ncipollo/release-action@v1
