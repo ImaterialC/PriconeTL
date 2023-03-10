@@ -50,7 +50,7 @@ jobs:
           Write-Output "::endgroup::"
 
           $TextChange = ""
-          $TextureChange = ""
+          $TextureChanges = ""
           $ConfigChanges = ""
 
           Write-Output "::group::Convertion"
@@ -104,9 +104,10 @@ jobs:
               }
           }
           Write-Output "::endgroup::"
+          
+          $TextureChange = "- Updated many, many textures' name`n"
 
           Write-Output "::group::Final Changelog and Discord Notification message"
-
           "changes<<EOF" >> "$env:GITHUB_OUTPUT"
           "`n#Download`n" >> "$env:GITHUB_OUTPUT"
           "Choose a version:`n" >> "$env:GITHUB_OUTPUT"
@@ -136,7 +137,7 @@ jobs:
           }
           "EOF" >> "$env:GITHUB_OUTPUT"
 
-          Write-Output 
+          Write-Output "## Text: `n$TextChange`n## Texture: `n$TextureChange## Other: `n$ConfigChanges"
           Write-Output "::endgroup::"
 
       - name: Generating version files
