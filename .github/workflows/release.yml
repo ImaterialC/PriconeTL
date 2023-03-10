@@ -50,7 +50,7 @@ jobs:
           Write-Output $ChangedFiles
           Write-Output "::endgroup::"
 
-          $TextChange = ""
+          $TextChanges = ""
           $TextureChanges = ""
           $ConfigChanges = ""
 
@@ -84,18 +84,18 @@ jobs:
                       else {
                           $Log += (Split-Path -LeafBase $FileName) + "`n"
                       }
-                      $TextChange += $Log
+                      $TextChanges += $Log
                   }
                   else {
                       $Name = $Splitted[3] + ": " + $Splitted[4].Split(" ")[0] + "`n"
                       if ( $FileWStatus[0] -eq "D" ) {
-                          $TextureChange = $TextureChange.Replace("- Added $Name","- Updated $Name")
+                          $TextureChanges = $TextureChanges.Replace("- Added $Name","- Updated $Name")
                           $ChangedFiles = $ChangedFiles.Replace("A`t$($FileWStatus[1])", "M`t$($FileWStatus[1])")
                           Write-Output "$file`n=> Updated Texture"
                       }
                       else {
                           $Log += $Name
-                          $TextureChange += $Log
+                          $TextureChanges += $Log
                           Write-Output "$file`n=>$Log"
                       }
                   }
@@ -106,8 +106,8 @@ jobs:
           }
           Write-Output "::endgroup::"
           
-          $TextChange = "- Updated many texts' name`n"
-          $TextureChange = "- Updated many, many textures' name`n"
+          $TextChanges = "- Updated many texts' name`n"
+          $TextureChanges = "- Updated many, many textures' name`n"
 
           Write-Output "::group::Final Changelog and Discord Notification message"
           "changes<<EOF" >> "$env:GITHUB_OUTPUT"
@@ -115,11 +115,11 @@ jobs:
           "Choose a version:`n" >> "$env:GITHUB_OUTPUT"
           "|[Normal](https://github.com/ImaterialC/PriconeTL/releases/download/${{ env.RELEASE_TAG }}/PriconneTL_${{ env.RELEASE_TAG }}.zip)|[Textureless](https://github.com/ImaterialC/PriconeTL/releases/download/${{ env.RELEASE_TAG }}/PriconneTL_${{ env.RELEASE_TAG }}_Textureless.zip)`n|-|-|" >> "$env:GITHUB_OUTPUT"
           "`n# Changelog`n" >> "$env:GITHUB_OUTPUT"
-          if ($TextChange) {
-              "## Text `n$TextChange`n" >> "$env:GITHUB_OUTPUT"
+          if ($TextChanges) {
+              "## Text `n$TextChanges`n" >> "$env:GITHUB_OUTPUT"
           }
-          if ($TextureChange) {
-              "## Texture `n$TextureChange" >> "$env:GITHUB_OUTPUT"
+          if ($TextureChanges) {
+              "## Texture `n$TextureChanges" >> "$env:GITHUB_OUTPUT"
           }
           if ($ConfigChanges) {
               "## Other `n$ConfigChanges" >> "$env:GITHUB_OUTPUT"
@@ -128,18 +128,18 @@ jobs:
 
           "discord_changes<<EOF" >> "$env:GITHUB_OUTPUT"
           "**Changelog**" >> "$env:GITHUB_OUTPUT"
-          if ($TextChange) {
-              "`nText:`n$($TextChange.replace("-", "> •"))`n" >> "$env:GITHUB_OUTPUT"
+          if ($TextChanges) {
+              "`nText:`n$($TextChanges.replace("-", "> •"))`n" >> "$env:GITHUB_OUTPUT"
           }
-          if ($TextureChange) {
-              "`nTexture:`n$($TextureChange.replace("-", "> •"))" >> "$env:GITHUB_OUTPUT"
+          if ($TextureChanges) {
+              "`nTexture:`n$($TextureChanges.replace("-", "> •"))" >> "$env:GITHUB_OUTPUT"
           }
           if ($ConfigChanges) {
               "`nOther: `n$($ConfigChanges.replace("-", "> •"))" >> "$env:GITHUB_OUTPUT"
           }
           "EOF" >> "$env:GITHUB_OUTPUT"
 
-          Write-Output "## Text: `n$TextChange`n## Texture: `n$TextureChange## Other: `n$ConfigChanges"
+          Write-Output "## Text: `n$TextChanges`n## Texture: `n$TextureChanges## Other: `n$ConfigChanges"
           Write-Output "::endgroup::"
 
       - name: Generating version files
@@ -151,19 +151,13 @@ jobs:
 
       - name: Downloading core files
         run: |
-          try {
-            Invoke-WebRequest -URI "https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x86_5.4.21.0.zip" -OutFile "BepInEx.zip"
-            Expand-Archive -Path "BepInEx.zip" -DestinationPath "newrelease"
-            Invoke-WebRequest -URI "https://github.com/bbepis/XUnity.AutoTranslator/releases/download/v5.2.0/XUnity.AutoTranslator-BepInEx-5.2.0.zip" -OutFile "AutoTrans.zip"
-            Expand-Archive -Path "AutoTrans.zip" -DestinationPath "newrelease"
-            Invoke-WebRequest -URI "https://github.com/FineBrewDev/BepInEx.FullScreenizer/releases/download/1.0/FullScreenizer.dll" -OutFile "./newrelease/BepInEx/plugins/FullScreenizer.dll"
-            Invoke-WebRequest -URI "https://github.com/priconnEnjoyer/XUnity.AutoTranslator/releases/latest/download/XUnity.AutoTranslator.Plugin.Core.dll" -OutFile "./newrelease/BepInEx/plugins/XUnity.AutoTranslator/XUnity.AutoTranslator.Plugin.Core.dll"
-            Invoke-WebRequest -URI "https://github.com/priconnEnjoyer/XUnity.AutoTranslator/releases/latest/download/XUnity.Common.dll" -OutFile "./newrelease/BepInEx/core/XUnity.Common.dll"
-          }
-          catch {
-            Write-Output "::error $_"
-            exit
-          }
+          Invoke-WebRequest -URI "https://github.com/BepInEx/BepInEx/releases/download/v5.4.21/BepInEx_x86_5.4.21.0.zip" -OutFile "BepInEx.zip"
+          Expand-Archive -Path "BepInEx.zip" -DestinationPath "newrelease"
+          Invoke-WebRequest -URI "https://github.com/bbepis/XUnity.AutoTranslator/releases/download/v5.2.0/XUnity.AutoTranslator-BepInEx-5.2.0.zip" -OutFile "AutoTrans.zip"
+          Expand-Archive -Path "AutoTrans.zip" -DestinationPath "newrelease"
+          Invoke-WebRequest -URI "https://github.com/FineBrewDev/BepInEx.FullScreenizer/releases/download/1.0/FullScreenizer.dll" -OutFile "./newrelease/BepInEx/plugins/FullScreenizer.dll"
+          Invoke-WebRequest -URI "https://github.com/priconnEnjoyer/XUnity.AutoTranslator/releases/latest/download/XUnity.AutoTranslator.Plugin.Core.dll" -OutFile "./newrelease/BepInEx/plugins/XUnity.AutoTranslator/XUnity.AutoTranslator.Plugin.Core.dll"
+          Invoke-WebRequest -URI "https://github.com/priconnEnjoyer/XUnity.AutoTranslator/releases/latest/download/XUnity.Common.dll" -OutFile "./newrelease/BepInEx/core/XUnity.Common.dll"
 
       - name: Generating artifact (Textureless)
         run: |
@@ -181,28 +175,23 @@ jobs:
           Compress-Archive -Path "newrelease/*" -DestinationPath 'PriconneTL_${{ env.RELEASE_TAG }}.zip'
           Write-Output "Compressed artifact from newrelease: PriconneTL_${{ env.RELEASE_TAG }}.zip"
 
-      - name: Upload artifact (Textureless)
+      - name: Upload artifact
         uses: actions/upload-artifact@v3
         with:
-          name: "PriconneTL_${{ env.RELEASE_TAG }}_Textureless"
-          path: "PriconneTL_${{ env.RELEASE_TAG }}_Textureless.zip"
-          
-      - name: Upload artifact (Normal)
-        uses: actions/upload-artifact@v3
-        with:
-          name: "PriconneTL_${{ env.RELEASE_TAG }}"
-          path: "PriconneTL_${{ env.RELEASE_TAG }}.zip"
+          path: |
+            "PriconneTL_${{ env.RELEASE_TAG }}.zip"
+            "PriconneTL_${{ env.RELEASE_TAG }}_Textureless.zip"
 
       - name: Publish Release
-        uses: ncipollo/release-action@v1
-        with:
-          makeLatest: true
-          name: ${{ env.RELEASE_NAME }}
-          body: ${{ steps.changelog.outputs.changes }}
-          tag: ${{ env.RELEASE_TAG }}
-          artifacts: |
-            "./PriconneTL_${{ env.RELEASE_TAG }}.zip"
-            "./PriconneTL_${{ env.RELEASE_TAG }}_Textureless.zip"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create \
+            --latest \
+            --title ${{ env.RELEASE_NAME }}
+            --notes ${{ steps.changelog.outputs.changes }} \
+            ${{ env.RELEASE_TAG }} \
+            artifact/*
 
   announce:
     name: Discord Announcement
