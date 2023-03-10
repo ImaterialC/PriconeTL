@@ -96,7 +96,7 @@ jobs:
                       else {
                           $Log += $Name
                           $TextureChanges += $Log
-                          Write-Output "$file`n=>$Log"
+                          Write-Output "$file`n=> $Log"
                       }
                   }
               }
@@ -105,9 +105,6 @@ jobs:
               }
           }
           Write-Output "::endgroup::"
-          
-          $TextChanges = "- Updated many texts' name`n"
-          $TextureChanges = "- Updated many, many textures' name`n"
 
           Write-Output "::group::Final Changelog and Discord Notification message"
           "changes<<EOF" >> "$env:GITHUB_OUTPUT"
@@ -129,13 +126,13 @@ jobs:
           "discord_changes<<EOF" >> "$env:GITHUB_OUTPUT"
           "**Changelog**" >> "$env:GITHUB_OUTPUT"
           if ($TextChanges) {
-              "`nText:`n$($TextChanges.replace("-", "> •"))`n" >> "$env:GITHUB_OUTPUT"
+              "Text:`n$($TextChanges.replace("-", "> •"))`n" >> "$env:GITHUB_OUTPUT"
           }
           if ($TextureChanges) {
-              "`nTexture:`n$($TextureChanges.replace("-", "> •"))" >> "$env:GITHUB_OUTPUT"
+              "Texture:`n$($TextureChanges.replace("-", "> •"))" >> "$env:GITHUB_OUTPUT"
           }
           if ($ConfigChanges) {
-              "`nOther: `n$($ConfigChanges.replace("-", "> •"))" >> "$env:GITHUB_OUTPUT"
+              "Other: `n$($ConfigChanges.replace("-", "> •"))" >> "$env:GITHUB_OUTPUT"
           }
           "EOF" >> "$env:GITHUB_OUTPUT"
 
@@ -166,31 +163,30 @@ jobs:
           Copy-Item "Translation/en/Text" -Destination "newrelease/BepInEx/Translation/en/Text" -Recurse
           Write-Output "Copied Text into newrelease"
           Compress-Archive -Path "newrelease/*" -DestinationPath 'PriconneTL_${{ env.RELEASE_TAG }}_Textureless.zip'
-          Write-Output "Compressed artifact from newrelease: PriconneTL_${{ env.RELEASE_TAG }}_Textureless.zip"
+          Get-Item "PriconneTL_${{ env.RELEASE_TAG }}_Textureless.zip" -ErrorAction Stop
 
       - name: Generating artifact (Normal)
         run: |
           Copy-Item "Translation/en/Texture"  -Destination "newrelease/BepInEx/Translation/en/Texture" -Recurse
           Write-Output "Copied Texture into newrelease"
           Compress-Archive -Path "newrelease/*" -DestinationPath 'PriconneTL_${{ env.RELEASE_TAG }}.zip'
-          Write-Output "Compressed artifact from newrelease: PriconneTL_${{ env.RELEASE_TAG }}.zip"
+          Get-Item "PriconneTL_${{ env.RELEASE_TAG }}.zip" -ErrorAction Stop
 
       - name: Upload artifact
         uses: actions/upload-artifact@v3
         with:
-          path: |
-            "PriconneTL_${{ env.RELEASE_TAG }}.zip"
-            "PriconneTL_${{ env.RELEASE_TAG }}_Textureless.zip"
+          if-no-files-found: error
+          path: "PriconneTL_*.zip"
 
       - name: Publish Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh release create \
-            --latest \
-            --title ${{ env.RELEASE_NAME }}
-            --notes ${{ steps.changelog.outputs.changes }} \
-            ${{ env.RELEASE_TAG }} \
+          gh release create `
+            --latest `
+            --title ${{ env.RELEASE_NAME }} `
+            --notes ${{ steps.changelog.outputs.changes }} `
+            ${{ env.RELEASE_TAG }} `
             artifact/*
 
   announce:
