@@ -159,6 +159,8 @@ sr:"^(.+)のアドベンチャーから撤退しました。$"=Retreat from the 
 追われて大ピンチ！=Chased and in a big pinch!
 木の陰に隠れる=Hide behind a tree
 岩の陰に隠れる=Hide in the rock
+森のトランポリン？=A trampoline in the forest?
+起こさないように…=Don't wake up ...
 
 思い出=Memories
 夜は秘密のガールズトーク=Secret Girl Talk at Night
