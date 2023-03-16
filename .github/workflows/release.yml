@@ -129,7 +129,7 @@ jobs:
             --title "${{ env.RELEASE_NAME }}" `
             --notes-file RELEASE_NOTE `
             ${{ env.RELEASE_TAG }} `
-            ReleaseAssets/*
+            ./ReleaseAssets/*.zip
 
   announce:
     name: Discord Announcement
