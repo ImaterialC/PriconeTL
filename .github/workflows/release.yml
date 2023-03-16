@@ -119,22 +119,17 @@ jobs:
           Compress-Archive -Path "newrelease/*" -DestinationPath 'PriconneTL_${{ env.RELEASE_TAG }}.zip'
           Get-Item "PriconneTL_${{ env.RELEASE_TAG }}.zip" -ErrorAction Stop
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v3
-        with:
-          if-no-files-found: error
-          path: "PriconneTL_*.zip"
-
       - name: Publish Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh release create `
             --latest `
-            --title ${{ env.RELEASE_NAME }} `
+            --title "${{ env.RELEASE_NAME }}" `
             --notes-file RELEASE_NOTE `
             ${{ env.RELEASE_TAG }} `
-            artifact/*
+            PriconneTL_${{ env.RELEASE_TAG }}.zip `
+            PriconneTL_${{ env.RELEASE_TAG }}_Textureless.zip
 
   announce:
     name: Discord Announcement

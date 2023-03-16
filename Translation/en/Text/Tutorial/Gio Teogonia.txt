@@ -53,7 +53,7 @@
 [3C404EFF]それに[3C404EFF]迷い込んだのは、[3C404EFF]あたしたちだけじゃないみたいよ。[3C404EFF]\n[3C404EFF]ほら……[3C404EFF]あっち。=It seems we're not the only ones who got lost here. Look over there.
 
 
-[3C404EFF]あ……っ！　[3C404EFF]魔物ッス！[3C404EFF]\n[3C404EFF]たしかに[3C404EFF]ランドソルの近くにいっぱいいるやつらばっかりッスね。=Ah...! Those are monsters! They're the same ones that were near Landosole.
+[3C404EFF]あ……っ！　[3C404EFF]魔物ッス！[3C404EFF]\n[3C404EFF]たしかに[3C404EFF]ランドソルの近くにいっぱいいるやつらばっかりッスね。=Ah...! Those are monsters! They're the same ones that were near Landosol.
 
 
 [3C404EFF]はい。[3C404EFF]どうやら彼らも[3C404EFF]先ほどの洞窟を抜けてきたようです。[3C404EFF]\n勝手気ままに、[3C404EFF]この地を荒らし回っています。=Yes. It seems they also came out of the cave earlier. They've been rampaging around this area recklessly.
@@ -62,7 +62,7 @@
 [3C404EFF]ちょっと放ってはおけないですよね～……[3C404EFF]\n[3C404EFF]なので、[3C404EFF]わたしたちはあの魔物たちを倒しながら、[3C404EFF]\nしばらくこの世界を探索するつもりです。=We can't just leave them alone, can we? So we're planning on exploring this world while defeating those monsters for a while.
 
 
-[3C404EFF]そういうことでしたら……！[3C404EFF]\n陛下、[3C404EFF]わたくしもお供いたします！[3C404EFF]\n[3C404EFF]ランドソルより遥か彼方の地でも、[3C404EFF]わたくしの忠義は不変ですわ～っ！！=In that case...! Your Majesty, I too shall accompany you! Even in a land far beyond Landosole, my loyalty remains unwavering!
+[3C404EFF]そういうことでしたら……！[3C404EFF]\n陛下、[3C404EFF]わたくしもお供いたします！[3C404EFF]\n[3C404EFF]ランドソルより遥か彼方の地でも、[3C404EFF]わたくしの忠義は不変ですわ～っ！！=In that case...! Your Majesty, I too shall accompany you! Even in a land far beyond Landosol, my loyalty remains unwavering!
 
 
 [3C404EFF]ったく、[3C404EFF]相変わらず騒がしいわね。[3C404EFF]\n[3C404EFF]まーいいわ。[3C404EFF]ちょうど他のギルドにも声かけようと思ってたしね。[3C404EFF]\nさっさと周辺を探索していきましょ。=Geez, you're as noisy as ever. Well, whatever. I was actually planning on reaching out to other guilds anyway. Let's quickly explore the surrounding area.

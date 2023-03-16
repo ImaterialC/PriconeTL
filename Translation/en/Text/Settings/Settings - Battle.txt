@@ -35,7 +35,7 @@ Bアリーナ=B Arena
 クランバトルを開始する前に、模擬戦・トレーニングバトルのバトル速度設定を確認するダイアログを開きます。=Confirmation for battle speed settings for CB training.
 
 ルナの塔バトル開始前の確認ダイアログ=Tower of Luna Confirmation Prompt
-クランバトルを開始する前に、模擬戦・トレーニングバトルのバトル速度設定を確認するダイアログを開きます。=Confirmation for battle speed settings for Clan Batle.
+クランバトルを開始する前に、模擬戦・トレーニングバトルのバトル速度設定を確認するダイアログを開きます。=Confirmation for battle speed settings for Clan Battle.
 
 ルナの塔 バトル速度の上限設定=Tower of Luna Speed Limit Settings
 ルナの塔において、バトル速度の上限を設定できます。=Settings to adjust speed in Tower of Luna

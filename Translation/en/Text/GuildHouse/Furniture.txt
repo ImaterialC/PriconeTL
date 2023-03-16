@@ -20,11 +20,11 @@ sr:"^\[3C404E\]\[3C404E\]\[FFBB00,CE4F00\](\d+時間)?(\d+分)?\[-\]で(.+)×\[F
 ===furniture effect===
 マナ生成機=Mana Creation Device
 r:"^マナ生成機Lv.(\d+)$"=Mana Creation Device Lv.$1
-自動的にマナを作ってくれる卵型の器。常に美しい緑色の光を放っている。取扱いには資格が必要だが、カリンが資格を持っているおかげで設置できている。=An egg-shaped device that automatically makes mana and emits a beatuful, green light. You need to be qualified to use it, but the device can be easily set up thanks to Karin's certification.
+自動的にマナを作ってくれる卵型の器。常に美しい緑色の光を放っている。取扱いには資格が必要だが、カリンが資格を持っているおかげで設置できている。=An egg-shaped device that automatically makes mana and emits a beautiful, green light. You need to be qualified to use it, but the device can be easily set up thanks to Karin's certification.
 
 ポーション生成機=Potion Creation Device
 r:"^ポーション生成機Lv.(\d+)$"=Potion Creation Device Lv.$1
-この装置の上から水を注ぐと不思議なポーションに変化する。爽やかな甘みがあり、飲むと疲れを癒してくれる。もちろん疲れていなくても飲んで構わない。=When ater is poured over it, it changes into a magical potion. its refreshing, sweet taste helps one recover from fatigue, trough it can be enjoyed at any time.
+この装置の上から水を注ぐと不思議なポーションに変化する。爽やかな甘みがあり、飲むと疲れを癒してくれる。もちろん疲れていなくても飲んで構わない。=When water is poured over it, it changes into a magical potion. its refreshing, sweet taste helps one recover from fatigue, trough it can be enjoyed at any time.
 
 カリンの机=Karin's Table
 r:"^カリンの机Lv.(\d+)$"=Karin's Table Lv.$1
@@ -32,7 +32,7 @@ r:"^カリンの机Lv.(\d+)$"=Karin's Table Lv.$1
 
 おやつテーブル=Snack Table
 r:"^おやつテーブルLv.(\d+)$"=Snack Table lv.$1
-誰もが一度は夢見たはずの、食べても食べても時間がたつと元に戻っているお菓子の山。おなかいっぱい食べて、幸せ＆元気いっぱいに！=An endless montain of sweets that is somethinf out of a dream. Eat to your heart's content and be happy!
+誰もが一度は夢見たはずの、食べても食べても時間がたつと元に戻っているお菓子の山。おなかいっぱい食べて、幸せ＆元気いっぱいに！=An endless mountain of sweets that is something out of a dream. Eat to your heart's content and be happy!
 
 
 ====Furniture===
