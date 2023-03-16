@@ -131,7 +131,7 @@ jobs:
         run: |
           gh release create `
             --latest `
-            --title ${{ env.RELEASE_NAME }} `
+            --title "${{ env.RELEASE_NAME }}" `
             --notes-file RELEASE_NOTE `
             ${{ env.RELEASE_TAG }} `
             artifact/*
