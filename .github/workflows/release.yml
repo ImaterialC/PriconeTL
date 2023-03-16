@@ -90,6 +90,7 @@ jobs:
         run: |
           Write-Output "Creating release folder..."
           New-Item -ItemType Directory -Force -Path "newrelease"
+          New-Item -ItemType Directory -Force -Path "ReleaseAssets"
           Write-Output "Version: ${{ env.RELEASE_TAG }}"
           "${{ env.RELEASE_TAG }}" | Out-File -FilePath "newrelease/Version.txt" -Encoding utf8
 
@@ -109,21 +110,15 @@ jobs:
           Write-Output "Copied config into newrelease"
           Copy-Item "Translation/en/Text" -Destination "newrelease/BepInEx/Translation/en/Text" -Recurse
           Write-Output "Copied Text into newrelease"
-          Compress-Archive -Path "newrelease/*" -DestinationPath 'PriconneTL_${{ env.RELEASE_TAG }}_Textureless.zip'
-          Get-Item "PriconneTL_${{ env.RELEASE_TAG }}_Textureless.zip" -ErrorAction Stop
+          Compress-Archive -Path "newrelease/*" -DestinationPath 'ReleaseAssets/PriconneTL_${{ env.RELEASE_TAG }}_Textureless.zip'
+          Get-Item "ReleaseAssets/PriconneTL_${{ env.RELEASE_TAG }}_Textureless.zip" -ErrorAction Stop
 
       - name: Generating artifact (Normal)
         run: |
           Copy-Item "Translation/en/Texture"  -Destination "newrelease/BepInEx/Translation/en/Texture" -Recurse
           Write-Output "Copied Texture into newrelease"
-          Compress-Archive -Path "newrelease/*" -DestinationPath 'PriconneTL_${{ env.RELEASE_TAG }}.zip'
-          Get-Item "PriconneTL_${{ env.RELEASE_TAG }}.zip" -ErrorAction Stop
-
-      - name: Upload artifact
-        uses: actions/upload-artifact@v3
-        with:
-          if-no-files-found: error
-          path: "PriconneTL_*.zip"
+          Compress-Archive -Path "newrelease/*" -DestinationPath 'ReleaseAssets/PriconneTL_${{ env.RELEASE_TAG }}.zip'
+          Get-Item "ReleaseAssets/PriconneTL_${{ env.RELEASE_TAG }}.zip" -ErrorAction Stop
 
       - name: Publish Release
         env:
@@ -134,7 +129,7 @@ jobs:
             --title "${{ env.RELEASE_NAME }}" `
             --notes-file RELEASE_NOTE `
             ${{ env.RELEASE_TAG }} `
-            artifact/*
+            ReleaseAssets/*
 
   announce:
     name: Discord Announcement
