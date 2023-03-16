@@ -24,7 +24,7 @@ r:"^マナ生成機Lv.(\d+)$"=Mana Creation Device Lv.$1
 
 ポーション生成機=Potion Creation Device
 r:"^ポーション生成機Lv.(\d+)$"=Potion Creation Device Lv.$1
-この装置の上から水を注ぐと不思議なポーションに変化する。爽やかな甘みがあり、飲むと疲れを癒してくれる。もちろん疲れていなくても飲んで構わない。=When ater is poured over it, it changes into a magical potion. its refreshing, sweet taste helps one recover from fatigue, trough it can be enjoyed at any time.
+この装置の上から水を注ぐと不思議なポーションに変化する。爽やかな甘みがあり、飲むと疲れを癒してくれる。もちろん疲れていなくても飲んで構わない。=When water is poured over it, it changes into a magical potion. its refreshing, sweet taste helps one recover from fatigue, trough it can be enjoyed at any time.
 
 カリンの机=Karin's Table
 r:"^カリンの机Lv.(\d+)$"=Karin's Table Lv.$1
