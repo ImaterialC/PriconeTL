@@ -34,7 +34,7 @@
 [3C404EFF]な、[3C404EFF]何とか勝てたみたい……？=W-We somehow managed to win...?
 [3C404EFF]本当？　[3C404EFF]今度こそ本当の本当なの？[3C404EFF]\n[3C404EFF]この先があるなんて言わないわよね……？[3C404EFF]\n[3C404EFF]アタシもう、[3C404EFF]へとへと……=Really? Is it really, really true this time? You're not going to say there's a future ahead, are you, ? I'm exhausted already.
 [3C404EFF]ふふっ……[3C404EFF]私もですぅ。[3C404EFF]\n早く牧場に戻って、[3C404EFF]牛さんのお世話をしたり、[3C404EFF]\n温泉のお手伝いをしたいですぅ……=Fufu... Me too. I want to go back to the ranch quickly and take care of the cows, assisting with the hot springs bathing, ...
-[3C404EFF]アタシも。[3C404EFF]あぁ、[3C404EFF]シオリさんの焼いてくれるパンも食べたいな！[3C404EFF]\nもちろん[3C404EFF]溶かしたとろとろチーズもつけて。[3C404EFF]\n[3C404EFF]あー、[3C404EFF]思い出したらお腹空いてきちゃった！=Me too. Ah, I want to eat Shioli-san's freshly-baked bread too! Of course, with melted and gooey cheese. Ah, thinking about it is making me hungry!
+[3C404EFF]アタシも。[3C404EFF]あぁ、[3C404EFF]シオリさんの焼いてくれるパンも食べたいな！[3C404EFF]\nもちろん[3C404EFF]溶かしたとろとろチーズもつけて。[3C404EFF]\n[3C404EFF]あー、[3C404EFF]思い出したらお腹空いてきちゃった！=Me too. Ah, I want to eat Shiori-san's freshly-baked bread too! Of course, with melted and gooey cheese. Ah, thinking about it is making me hungry!
 [3C404EFF]ち、[3C404EFF]小さいネズミたちがたくさん！[3C404EFF]\n[3C404EFF]後から後から出てきますぅ！=Th-there are a lot of small mice! They keep coming out one after another!
 [3C404EFF]クックック……[3C404EFF]\n我がネズミ一家を支える力……[3C404EFF]\nそれは[3C404EFF]数だ……！=Hehehe... The power to support my mouse family... That is quantity...!
 [3C404EFF]ちょっとー！！[3C404EFF]\n１、[3C404EFF]２、[3C404EFF]３……[3C404EFF]何匹いるのよ！？[3C404EFF]\n[3C404EFF]こんなにたくさん出てくるなんて聞いてないわよ！=Hey!! 1, 2, 3... How many are there!? I didn't hear that so many of them would come out!

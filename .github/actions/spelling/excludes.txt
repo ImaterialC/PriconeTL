@@ -54,7 +54,7 @@ ignore$
 \.woff2?$
 \.xlsx?$
 \.zip$
-^\.github/actions/spelling/
+^\.github/
 ^\Q.github/workflows/spelling.yml\E$
 
 (?:^|/)tools/
