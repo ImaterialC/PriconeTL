@@ -6,7 +6,7 @@ r:"^(\[[0-9A-F,]{6,13}\])階\[-\]$"=$1F[-]
 パーティ=Party
 保存パーティ=Save Party
 ルナの塔においてバトル速度の上限を設定できます。=You can set the upper limit\nof battle speed in the Luna Tower
-バトル速度の上限設定=Battle Speed Upper Limit Setting
+バトル速度の上限設定=Battle Speed Limit Settings
 このパーティを保存しますか？=Do you want to save this party?
 対象タブ=Tab
 パーティ名=Party Name
@@ -41,7 +41,7 @@ EXクエスト一覧=EX Floors
 ルナの塔バトル開始確認=Battle Start Confirmation
 本戦を開始しますか？=Do you want to start?
 
-今後このメッセージを表示しない=Don't display this message\nin the future.
+今後このメッセージを表示しない=Don't show this message again
 
 r:"^\[3C404E\]リタイアするとスタミナが\[FFBB00,CE4F00\](\d+)\[-\]消費され、\nキャラのHP・TPがバトル前の状態に戻ります。\n\nよろしいですか？\[-\]$"=[3C404E]Retiring will consume [FFBB00,CE4F00]$1[-] stamina and return your character's HP and TP to their pre-battle state.\n\nAre you sure?[-]
 

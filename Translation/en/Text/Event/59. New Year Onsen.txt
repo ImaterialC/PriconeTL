@@ -5,8 +5,6 @@
 sr:"^(\d+日)目の日替わり湯$"="$1 day of Daily Onsen"
 日替わり湯解放=Unlock Daily Onsen
 穢れし湯ノ神・陽卵=Defiled Onsen God / Yotamago
-湯けむり忘年奇譚　 初日の出に盃を=Yukemuri Bōnen Kitan A sake cup at the first sunrise
-湯けむり忘年奇譚　初日の出に盃を=Yukemuri Bōnen Kitan A sake cup at the first sunrise
 
 ホマレさま、ミツキさま、ミサトさまが湯番として、毎日さまざまな\n日替わり湯を用意されるようでございます。浴客として訪れた皆さまへの\n個性豊かなおもてなしの一幕を楽しみましょう。=Homare, Mitsuki, and Misato seem to have various daily Onsen every day. Let's enjoy the unique hospitality for those who have visited as a bath.
 

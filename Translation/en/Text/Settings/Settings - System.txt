@@ -70,7 +70,9 @@ Lvアップ可能な効果つき家具がある場合、通知を表示するか
 みんなのカレンダー演出設定=Everyone's Calendar Animation Settings
 毎日初回のギルドハウス遷移時、みんなのカレンダーの演出を再生するか設定します。\n※「再生しない」を選択した場合も、ギルドハウス内のカレンダーから演出を確認できます。=Disables Calendar Animation in Guildhouse.
 
+サポートキャラ★変更後の確認ダイアログ=Support Character ★ Change Confirmation Prompt
 クランバトル サポートキャラ★変更後の確認ダイアログ=CB Support Character ★ Change Confirmation Prompt
+クランバトルおよびみんなの稽古場でサポートキャラの★変更を行った後、\n確認ダイアログを表示するか設定します。=Sets whether or not to display a confirmation prompt\nafter changing the star level for CB or Everyone's Rehearsal Room support character.
 クランバトルでサポートキャラの★変更を行った後、確認ダイアログを表示するか設定します。=Sets whether or not to display a confirmation prompt\nafter changing the star level for CB support character.
 
 アイテム所持上限時のダイアログ表示=Confirmation Prompt when reaching item limit
@@ -110,3 +112,5 @@ Lvアップ可能な効果つき家具がある場合、通知を表示するか
 ランクアップ装備作成で原鉱を消費する際の確認ダイアログ=Consuming Ore confirmation dialogue
 ムービー中にBGMが使用されている場面では「BGM」「ムービー」両方を調節することでミュートができます。=In the scene where BGM is used in the movie, you can mute by adjusting both "BGM" and "Movie".
 
+
+キャラ強化=Character Enhancements

@@ -23,28 +23,30 @@ sr:"^オート進行で(メイン|イベント)クエスト(.+)まで進めた�
 オート進行終了=End of Auto Advance
 オート進行報酬一覧=List of Auto Advance Rewards
 [FF7C4E,D62146]所持上限を超えたアイテムはプレゼントに送られました。[-]=[FF7C4E,D62146]Items that exceed the upper limit of the possession\nhave been sent to the present. [-]
-r:"^イベントストーリーが\n(\d+)つ解放されました。$"=$1 event stories\nhas been unlocked.
-r:"^イベントストーリーが\n(\d+)個解放されました。$"=$1 event stories\nhas been unlocked.
-r:"^メインストーリーが\n(\d+)つ解放されました。$"=$1 main stories\nhas been unlocked.
-r:"^メインストーリーが\n(\d+)個解放されました。$"=$1 main stories\nhas been unlocked.
-r:"^サイドストーリーが\n(\d+)つ解放されました。$"=$1 side stories\nhas been unlocked.
-r:"^サイドストーリーが\n(\d+)個解放されました。$"=$1 side stories\nhas been unlocked.
-r:"^信頼度エピソードが\n(\d+)個解放されました。$"=$1 Intimacy stories\nhas been unlocked.
+サブストーリー=Sub Story
+メインストーリー解放=Main Story Unlock
+信頼度エピソード=Intimacy Episodes
+サブストーリー解放=Substory Unlock
+r:"^イベントストーリーが\n(\d+)[つ個]解放されました。$"=$1 Event Stories\nhas been unlocked.
+r:"^メインストーリーが\n(\d+)[つ個]解放されました。$"=$1 Main Stories\nhas been unlocked.
+r:"^サイドストーリーが\n(\d+)[つ個]解放されました。$"=$1 Side Stories\nhas been unlocked.
+r:"^サブストーリーが\n(\d+)[つ個]解放されました。$"=$1 Sub Stories\nhas been unlocked.
+r:"^信頼度エピソードが\n(\d+)[つ個]解放されました。$"=$1 Intimacy Episodes\nhas been unlocked.
+
 イベントストーリー解放=Event Story Unlock
 限定ショップにアイテムが\n追加されました。=An item has been added to the limited shop.
 オート進行解放コンテンツ一覧=List of Auto Advance Unlock Content
 キャラクターストーリー解放=Character Story Unlock
 sr:"^([べ-ヺー＆]+)の\n絆ランクが(\d+)になりました。$"=$1\nThe bond rank is $2.
-sr:"^([べ-ヺー＆]+)の\n絆ランクが(\d+)になりました。$"=$1\nThe bond rank is $2
 
-特別なコンテンツの解放のため、オート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=Auto progress has been stopped to unlock special content. The following stamina consumption is performed by this auto progression. * Stamina consumption at retirement and defeat is not included.
+特別なコンテンツの解放のため、オート進行を停止しました。\n本オート進行により以下のスタミナ消費は実行されています。\n※リタイア、敗北時のスタミナ消費は含まれていません。=For unlocking special content, auto-progress has been stopped.\nThe following stamina consumption has been executed by this auto-progress.\n※ Stamina consumption during retreat or defeat is not included.
 
 最小=Min
 最大=Max
 自動選択する=Auto select
-ストーリーのオート再生時、複数の選択肢が表示された際に、選択肢を自動選択させるか設定します。\n「自動選択する」を選択すると、一番上の選択肢が自動選択されます。\n「自動選択しない」を選択すると、複数の選択肢が表示された際に、オート再生が一時停止します。\n※表示される選択肢が１つだけの場合、設定によらず自動選択されます。=Set whether to automatically select an option when multiple options are displayed during auto-play of the story.\nIf you select "Auto Select", the top option will be automatically selected.\nIf you select "Do not auto-select", auto-play will pause when multiple options are displayed.\n※If only one option is displayed, it will be automatically selected regardless of the settings.
+ストーリーのオート再生時、複数の選択肢が表示された際に、選択肢を自動選択させるか設定します。\n「自動選択する」を選択すると、一番上の選択肢が自動選択されます。\n「自動選択しない」を選択すると、複数の選択肢が表示された際に、オート再生が一時停止します。\n※表示される選択肢が１つだけの場合、設定によらず自動選択されます。=When autoplaying the story, choose whether to automatically select a choice when multiple\nchoices are displayed. Selecting "Automatic selection" will automatically\nselect the top choice. Selecting "Do not select automatically" will pause the autoplay\nwhen multiple choices are displayed.\n※ If only one choice is displayed, it will be automatically selected regardless of the setting.
 ストーリーのオート再生設定=Story auto playback setting
-クエスト挑戦時に挑戦回数の設定を、最小回数か最大回数のどちらにするか設定します。=Set whether to set the minimum number of times or the maximum number of times when challenging the quest.
+クエスト挑戦時に挑戦回数の設定を、最小回数か最大回数のどちらにするか設定します。=setting configures whether the number of challenge attempts during a quest\nshould be set to the minimum or maximum value.
 挑戦回数上限設定=Challenge limit setting
 自動選択しない=Do not auto select
 

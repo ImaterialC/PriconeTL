@@ -1,2 +1,0 @@
-
-次元断層においてバトル速度の上限を設定できます。=You can set the upper limit\nof the battle speed in the Dimension Vault.

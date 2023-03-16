@@ -1,5 +1,5 @@
 EX装備ショップアイテム表示順=Ex Equipment Shop Item Display Order
-EX装備ショップで販売されているアイテムを、所持数の昇順か、レア度の降順のどちらで表示するか設定します。=Set whether to display the items sold at the Ex Equipment shop in ascending order of possession or descending order of rarity.
+EX装備ショップで販売されているアイテムを、所持数の昇順か、レア度の降順のどちらで表示するか設定します。=Set whether to display items sold in the EX Equipment Shop in\nascending order of quantity owned or descending order of rarity.
 
 アドベンチャーおまかせ編成=Adventure Auto Formation
 おまかせ編成時に、重視する内容を設定できます。=You can set which one will focus on when you select Random.

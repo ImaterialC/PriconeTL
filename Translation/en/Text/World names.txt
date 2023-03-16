@@ -2,6 +2,10 @@
 このクエストは今後解放される予定です。=This quest will be released in the future
 エルピス島へ=To Elpis Island
 アストライア大陸へ=To Astria Continent
+ジオ・テオゴニアへ=To Gio Teogonia
+ジオ・テオゴニア=Gio Teogonia
+エルピス島=Elpis Island
+アストライア大陸=Astraea Continent
 
 r:"^(|1\.)ジュノー平野(.*)$"=$1 Juno Plains $2
 r:"^(|2\.)パラス高原(.*)$"=$1 Pallas Peaks $2
@@ -64,7 +68,7 @@ r:"^(|58\.)クルース(|\n　　　　　)密林・東部(.*)$"=$1 Cruz Dense F
 r:"^(|59\.)クルース(|\n　　　　　)密林・西部(.*)$"=$1 Cruz Dense Forest (West) $3
 r:"^(|60\.)カウダ(|\n　　　　　)砂浜・北部(.*)$"=$1 Kauda Beach (North) $3
 r:"^(|61\.)カウダ(|\n　　　　　)砂浜・南部(.*)$"=$1 Kauda Beach (South) $3
-
 r:"^(|62\.)プロピーナ岬(.*)$"=$1 Cape Propina $2
+r:"^(|63\.)アパレーユ(\n　　　　　)?街道・西側(.*)$"=$1 Aparelle Highway (West) $3
 ===*6 Quest
 sr:"^([べ-ヺー＆]+)(（.+）)?の解放クエスト$"=$1$2 Ascension Quest

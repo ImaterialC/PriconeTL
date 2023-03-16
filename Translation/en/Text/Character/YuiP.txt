@@ -11,6 +11,8 @@
 トゥインクルブースト=Twinkle Boost
 トゥインクルブースト+=Twinkle Boost+
 自分のＴＰを中回復し、さらに自分の魔法攻撃力と魔法クリティカルと魔法攻撃クリティカル時のダメージを小アップさせる。このスキルの魔法攻撃力アップと魔法攻撃クリティカル時のダメージアップの上昇量は、このスキルを使用するたび、最大５回まで増加する。=Moderately recovers own TP, also slightly boost own M.ATK, M.crit, and M.crit dmg. This skill's M.ATK up and M.crit dmg up can be stacks up to 5 times each time this skill is used.
+自分のＴＰを中回復し、さらに自分の魔法攻撃力を中アップ、魔法クリティカルと魔法攻撃クリティカル時のダメージを小アップさせる。このスキルの魔法攻撃力アップと魔法攻撃クリティカル時のダメージアップの上昇量は、このスキルを使用するたび、最大５回まで増加する。=Moderately recovers own TP and M.ATK, also slightly boost own M.crit, and M.crit dmg. This skill's M.ATK up and M.crit dmg up can be stacks up to 5 times each time this skill is used.
+
 
 r:"^自分のＴＰを(\d+)回復\n自分の魔法攻撃力を(\d+)アップ\n自分の魔法クリティカルを25アップ\n自分の魔法攻撃クリティカル時のダメージを5％アップ$"=Cast time: 0.59s\n►Recovers own TP by $1.\n►Boosts own M.ATK by $2 for 90s.\n►Boosts own M.crit by 25 for 90s.\n►Boosts own M.crit dmg by 5% for 90s.
 

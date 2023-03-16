@@ -5,7 +5,7 @@
 連携パスワードについて選択してください。=Please select one of the following options:
 
 
-[3C404E]データ連携には、「プレイヤーID」が必要です。\nプレイヤーIDは、スクリーンショットやメモで、\n忘れないようにしてください。\n※プレイヤーIDの確認は、タイトル画面の右下や、\nフッターメニュー「メニュー」内の「プロフィール」\nから行えます。[-]=[3C404E]Data Bind required to store you game progress.\nPlease save your game ID's and Password\nwith Screenshot or any notes.\nCheck your "ID" in Title Screen or Profile Menu\n(example: xxx xxx xxx)[-]
+[FF7C4E,D62146]データ連携には、「プレイヤーID」が必要です。\nプレイヤーIDは、スクリーンショットやメモで、\n忘れないようにしてください。\n※プレイヤーIDの確認は、タイトル画面の右下や、\nフッターメニュー「メニュー」内の「プロフィール」\nから行えます。[-]=[FF7C4E,D62146]Data Bind required to store you game progress.\nPlease save your game ID's and Password\nwith Screenshot or any notes.\nCheck your "ID" in Title Screen or Profile Menu\n(example: xxx xxx xxx)[-]
 プライバシーポリシーは必ず確認し、次の画面で連携パスワードの設定をしてください。=Make sure to check Privacy Policy first, and then,set your Bind Password on the next screen.\nBind Password is re-usable as many time as you like.
 連携パスワードの設定を行います。よろしいですか？=Setting-up the Link Password. Is this OK?
 設定する=Set
@@ -27,8 +27,6 @@
 サーバーエラー=Server Error
 エラーが発生しました。\n画面を更新してください。=An error has occurred\nPlease update the screen.
 [3C404E]このゲームデータは他のPC版アカウントと連携しています。\nPC版アカウントと連携可能なゲームデータは1つのみです。[-]=[3C404E]This game data is linked to another PC account.\nOnly one game data can be linked to a PC account.[-].
-
-[3C404E]データ連携には、「プレイヤーID」が必要です。\nプレイヤーIDは、スクリーンショットやメモで、\n忘れないようにしてください。\n※プレイヤーIDの確認は、タイトル画面の右下や、\nフッターメニュー「メニュー」内の「プロフィール」\nから行えます。[-]=[3C404E]A player ID is required to link data.\nPlease write down your player ID or take a screenshot\nso that you do not forget it.\n*You can view your player ID at the bottom right of the\ntitle screen, or in Profile under Menu in the menu bar.[-].
 
 [3C404E]連携パスワードの設定が完了しました。\n\n連携パスワードは、\n他の人に教えないようにしてください。[-]=[3C404E]Link password setting is complete.\n\nPlease do not give the link password to other people.[-]
 データ連携パスワード設定完了=Data Link Password Setting Completed

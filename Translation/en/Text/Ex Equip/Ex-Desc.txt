@@ -45,6 +45,32 @@ Gold ----------------------------------------------------------
 【クラン】ウィズダムオブメイガス=[Clan] Wisdom of Meigas
 【クラン】ワイズオブメイガス=[Clan] Wise of Meigas
 
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した耳飾り。愛する人を守り抜くと誓うとき、雄大な自然の恩恵を与えるという。=Rainbow-colored ore crafted into earrings by top artisans. Said to give the blessings of nature when vowing to protect loved ones.
+月と星々から光を奪うという伝承が残るドレス。周囲の光を吸収して力に変えることで、無尽蔵の魔力をとめどなく供給できる。=A dress with a legend of stealing light from the moon and stars. Absorbs surrounding light and can endlessly supply magical power.
+伝承に謳われる精霊の加護を宿した霊剣。風の元素をまとうその刃はあらゆる鎧を両断し、使い手に勝利をもたらしたという。=A spirit sword carrying the blessings of legendary spirits. Its wind-element blade can cut through any armor and bring victory to its wielder.
+古代王国の伝承にも残る魔法書。あらゆる属性魔法について記されており、太古の魔法使いはそれらを駆使して敵の軍勢を打ち破ったという。=A magic book with knowledge on every attribute spell. Ancient wizards wielded them to defeat their enemies.
+幾千の人々の平和への祈りが形を成したローブ。その純粋な願いの力からもたらされる加護は、祈祷の効果を極限にまで高めるという。=A robe formed by prayers for peace from thousands. Its blessings significantly amplify effects of prayers.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した耳飾り。愛する人を守り抜くと誓うとき、雄大な自然の恩恵を与えるという。=Earrings processed with all the heart and soul by top-class craftsmen from minerals that shine in rainbow colors. It is said to provide the blessings of majestic nature when vowing to protect a loved one till the end.
+非常に強力な癒しの力を有する耳飾り。結晶の形状も相まって、傷ついた者のために流された慈母の涙であると信じられている。=Earrings with powerful healing abilities. Believed to be tears of a loving mother with crystal shape on top.
+高位の占い師が身に着ける首飾り。運命を読み取る力があるといわれ、迷える者に進むべき正しい未来を示してくれる。=A necklace for high-ranking fortune-tellers. Capable of predicting fate and guiding a lost soul towards the right future.
+稀代の大道芸人が遺した手記。魔法を大道芸に応用する方法が記されている。その柔軟な発想は、既存の魔導書とは一線を画す。=A record left by a renowned street performer on how to apply magic to street performances. His ideas are distinct from existing magic books.
+あらゆる負傷者を分け隔てなく癒した祈り手について記された本。その物語は、読んだ者に慈愛の精神と癒しの奇跡を授けるという。=A book detailing a healer capable of healing any injured person. Its story grants readers compassionate spirit and healing miracles.
+禍々しい輝きを放つ、赤い宝石がはめ込まれた魔導書。強力な魔法と引き換えに術者の生命力を奪うとされ取り扱いには慎重を要する。=A red gemmed magic book with ominous shine. Its dangerous spells come at the cost of draining the user's life force.
+暴虐の限りを尽くした将軍が身に着けていたという手甲。殴打の威力を高める突起部は、半端な鎧であれば容赦なく粉砕してしまう。=Guards worn by a tyrant general. The spiked parts have sufficient power to pulverize any armor with ease.
+森を根城にする、ある義賊が使っていたクロスボウ。その一矢はどんなに深い森の中でも、標的を見失うことなく射抜いてしまうという。=A crossbow used by a certain bandit with the forest as their stronghold. Its arrow never misses a target, even in deep forests.
+勇猛な白馬を思わせる戦弓。騎馬戦を得意とする騎士のために作られた特注品であり、弦を素早く引き絞ることに特化した性能となっている。=A battle bow reminiscent of a brave white horse. Custom-made for horse-mounted knights, its special feature is its quick-draw capability.
+謎多き暗殺者が任務の際に用いていたナイフ。他人の命を奪うたびに鋭さが増すが、その刃はやがて持ち主にも向けられると伝わっている。=A knife used by a mysterious assassin. Its sharpness increases with every life it takes, but it's said that it eventually turns on its owner.
+神霊への畏敬の念を込めて打たれた霊剣。怒り猛る神々を鎮めるための剣であり、使い手の霊感を大きく高める効果があるという。=A spirit sword created with awe for the divine. Calms raging gods and increases its wielder's spiritual sense.
+一般騎士などが用いる、シンプルな盾。安価でありながら性能も決して低くはなく、人気が高い。=A simple shield used by common knights. Low-cost yet performs well, making it popular.
+
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した宝石。愛する人を守り抜くという決意に呼応し、比類なき英知を授けてくれるという。=A gemstone crafted by top-notch craftsmen with a mineral that glows rainbow colors. It is said to provide unparalleled intelligence in response to the determination to protect loved ones.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した首飾り。愛する人を守り抜くという決意に呼応し、驚くべき奇跡を発現させるという。=A necklace crafted by top-notch craftsmen with a mineral that glows rainbow colors. It is said to manifest amazing miracles in response to the determination to protect loved ones.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した腕輪。愛する人を守り抜くという決意に呼応し、聖なる光で邪を払う力を得るという。=A bracelet crafted by top-notch craftsmen with a mineral that glows rainbow colors. It is said to grant the power to dispel evil with holy light in response to the determination to protect loved ones.
+虹色に輝く鉱石を、一流の職人が心血を注いで加工した指輪。愛する人を守り抜くという決意に呼応し、大いなる繁栄を約束するという。=A ring crafted by top-notch craftsmen with a mineral that glows rainbow colors. It is said to promise great prosperity in response to the determination to protect loved ones.
+虹色に輝く鉱石を、職人が丁寧に加工した宝石。誰かを守りたいと強く願うと、呼応するかのように新たな知恵を与えてくれる。=A gemstone carefully crafted by craftsmen with a mineral that glows rainbow colors. If you strongly wish to protect someone, it will provide new wisdom in response.
+虹色に輝く鉱石を、職人が丁寧に加工した首飾り。誰かを守りたいと強く願うと、呼応するかのように不思議な力を現すという。=A necklace carefully crafted by craftsmen with a mineral that glows rainbow colors. It is said to manifest a mysterious power in response to the strong desire to protect someone.
+虹色に輝く鉱石を、職人が丁寧に加工した指輪。誰かを守りたいと強く願うと、呼応するかのように幸運を招き寄せてくれる。=A ring carefully crafted by craftsmen with a mineral that glows rainbow colors. It is said to attract good fortune in response to the strong wish to protect someone.
+
 【クラン】ブレイブオブガード=[Clan] Brave of Guard
 虹色に輝く鉱石を、一流の職人が心血を注いで加工した盾。人々の絆の力がそのまま堅牢さとなり、どんな攻撃からも使い手を守り抜く。=A shield crafted from a rainbow-ore by a best craftsman. The power of people's bonds becomes robust as it is, protecting the user from any attack.
 
@@ -182,9 +208,6 @@ Gold ----------------------------------------------------------
 
 伊藤美来すこすこ侍=Mika Ito Samurai Mail
 貴族が決闘の際に着用する服装。見事な装飾が目を引くが、使われている生地は強力な魔物の皮であり、並の鎧よりはるかに堅牢である。=Clothes worn by nobles during duel. The stunning decorations are eye-catching, but the fabric used is a strong monster skin, much more robust than the average armor.
-
-
-
 
 Silver---------------------------------------------------------------------------------
 【クラン】ウィッシュオブセージ=[Clan] Wish of Sage

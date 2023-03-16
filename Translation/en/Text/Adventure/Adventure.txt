@@ -140,7 +140,7 @@ r:"選択は(\d+)キャラまでです。$"=Up to $1 characters can be selected.
 遠征中=During the expedition
 帰還したパーティがあります。=There is a party that has returned.
 一括帰還確認=Batch Return
-アドベンチャー遷移時に、帰還したパーティがある場合\nアドベンチャーパーティ一覧を表示するか設定します。=If there is a returned party when the adventure transition is transition, set the adventure party list.
+アドベンチャー遷移時に、帰還したパーティがある場合\nアドベンチャーパーティ一覧を表示するか設定します。=Setting to display the Adventure Party list when transitioning to\nAdventure if there is a party that has returned.
 アドベンチャー設定=Adventure Settings
 アドベンチャーパーティ一覧表示=Adventure party list display
 「表示する」を選択すると、帰還したパーティがある場合\n「アドベンチャーパーティ一覧」を表示します。=If you select "Display", the "Adventure Party List" will be displayed if there is a party that has returned.
@@ -151,30 +151,6 @@ r:"選択は(\d+)キャラまでです。$"=Up to $1 characters can be selected.
 
 sr:"^(.+)のアドベンチャーから撤退しました。$"=Retreat from the $1 Adventure.
 アドベンチャー撤退=Adventure Retreat
-
-足元注意！=Watch your step!
-怪鳥、襲来=Monster Bird Attack
-もがいて逃げる=Struggle and escape
-おとなしくしている=Be quiet
-追われて大ピンチ！=Chased and in a big pinch!
-木の陰に隠れる=Hide behind a tree
-岩の陰に隠れる=Hide in the rock
-森のトランポリン？=A trampoline in the forest?
-起こさないように…=Don't wake up ...
-
-思い出=Memories
-夜は秘密のガールズトーク=Secret Girl Talk at Night
-お腹が空いたらひと休み！=If You are Hungry, Take a Break!
-⼩さな⼀歩、⼤きな冒険！=Small Steps, Big Adventures!
-幸せあふれる朝のひととき=A Happy Morning Time
-混沌が通るぞ道を退け=Chaos Will pass, Clear the Way
-迷える悪魔の狂詩曲=Rhapsody of the Lost Devil
-『急がば舞い上がれ』ですね！=It's "Hurry Up and Soar!"
-エルフたちのためのニギヤカ大冒険=Lively Adventure for Elves
-ワイルドライフ・アドベンチャー！=Wildlife Adventure!
-アオハル登⼭♪徒歩で来た☆=Youth Climbing♪ Came on foot☆
-迷い猫との思い出=Memories of a lost cat
-冒険は山あり「谷」あり=Adventures Have Their Ups and "↓" Downs
 
 アドベンチャーでは、仲間にしたキャラを冒険させることができます。一定の時間が経過すると冒険から帰還し、『EX装備』等のアイテムを獲得します。結果報告を確認し報酬を受け取りましょう。=In adventure, you can adventure the characters you made friends with. After a certain amount of time has passed, you will return from the adventure and acquire items such as "EX Equipment". Check the result report and receive the reward.
 

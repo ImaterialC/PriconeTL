@@ -14,5 +14,3 @@ sr:"^ストーリーイベント「(.+)」の\nミッション「(.+)を1体倒�
 既に設定されています。=It has already been set.
 
 エンジョイ＆リフレッシュ！でこぼこガールズ・キャンプ=Enjoy & refresh! Bubko Girls Camp
-トゥインクルサマーゲーム　夏海にきらめく三つの想い=Twinkle Summer Games: Three Sparkling Thoughts on the Summer Sea
-リトル・サマー・メモリーズ渚でみつけた小さな幸せ=Little Summer Memories: A Little Happiness Found on the Shore

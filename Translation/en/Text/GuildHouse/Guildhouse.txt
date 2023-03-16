@@ -4,6 +4,7 @@
 Lv上限：=Max Lv:
 r:"^(\d+)ルピを消費してLvアップ可能$"=Ready to Lv up using [FFBB00,CE4F00]$1[-] Rupies
 Lvアップ可能な家具があります。=There is furniture that can be leveled up.
+すでに最大Lvに達しています。=Already at Max Level.
 
 家具効果=Furniture\nEffect
 収納BOX=Storage
@@ -166,7 +167,7 @@ r:"^プレイヤーLv(\d+)以上 / (\d+)ルピ$"=P. Lv$1 or more & $2 Rupies
 
 ルピ=Rupies
 消費ルピ=Use
-Lvアップ条件=LVup Req.
+Lvアップ条件=Next LvUp
 Lvアップする=LvUp
 Lvアップ確認=LVup Confirmation
 必要時間=Time
@@ -183,8 +184,8 @@ Lvアップ中止確認=LV-up Cancellation Confirmation
 ===upgrade done===
 r:"^\[3C404E\]Lv(\d+)→\[-\]\[FFBB00,CE4F00\]Lv(\d+)\[-\]$"=[3C404E]Lv$1→[-][FFBB00,CE4F00]Lv$2[-]
 
-sr:"^(\d+時間|)(\d+分|)で(.+)×(\d+)生産、(\d+)まで保管可能\(あと(\d+時間|)(\d+分|)(\d+秒|)\)$"=$3 × $4 every $1$2. Can be store up to $5.($6$7$8 left)
-sr:"^(\d+時間|)(\d+分|)で(.+)×(\d+)生産、(\d+)まで保管可能$"=$3 × $4 every $1$2. Can be store up to $5.
+sr:"^(\d+時間)?(\d+分)?で(.+)×(\d+)生産、(\d+)まで保管可能\(あと(\d+時間)?(\d+分)?(\d+秒)?\)$"=Produce $3 × $4 every $1$2. Can store up to $5.($6$7$8 left)
+sr:"^(\d+時間)?(\d+分)?で(.+)×(\d+)生産、(\d+)まで保管可能$"=$3 × $4 every $1$2. Can store up to $5.
 r:"^(\d+)秒$"=$1s
 r:"^(\d+)分$"=$1m
 r:"^(\d+)時間$"=$1h

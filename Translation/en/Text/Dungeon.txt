@@ -92,22 +92,7 @@ sr:"^\[2874AE,12304D\](.+)\[-\]$"="[2874AE,12304D]$1[-]"
 紺碧の底に君臨する海王の城砦=Under the deep blue sea lies\nThe fortress of the sea king.
 
 r:"^([0-9/]+)階( EX)?$"=$1F$2
-===Boss Name
 最大HP=Max HP
-モンスター詳細一覧=Monster Details List
-ゴブリンロード＆ゴブミニオン=Goblin Lord & Goblin Minion
-ゴブリンメイスター=Goblin Meister
-ゴブリンロード=Goblin Lord
-ポセイドン・海神の剣=Poseidon: Sea God Sword
-ポセイドン・雷撃の槍=Poseidon: Lightning Spear
-ポセイドン・激波の拳=Poseidon: Raging Wave Fist
-ポセイドン・嵐撃の槍=Poseidon: Storm Spear
-ポセイドン・大洋の杖=Poseidon: Ocean Staff
-[FFBB00,CE4F00]ポセイドン・海神の剣[-]=[FFBB00,CE4F00]Poseidon: Sea God Sword[-]
-[FFBB00,CE4F00]ポセイドン・雷撃の槍[-]=[FFBB00,CE4F00]Poseidon: Lightning Spear[-]
-[FFBB00,CE4F00]ポセイドン・激波の拳[-]=[FFBB00,CE4F00]Poseidon: Raging Wave Fist[-]
-[FFBB00,CE4F00]ポセイドン・嵐撃の槍[-]=[FFBB00,CE4F00]Poseidon: Storm Spear[-]
-[FFBB00,CE4F00]ポセイドン・大洋の杖[-]=[FFBB00,CE4F00]Poseidon: Ocean Staff[-]
 
 ===Tips and Help Button===
 ボスバトル=Boss battle

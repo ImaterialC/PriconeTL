@@ -19,7 +19,7 @@ O型=Type O
 エルフ=Elvenfolk
 ドラゴン族=Dragonfolk
 この専用装備は今後登場予定です。=This Unique Equipment will be introduced at a later date.
-このキャラ専用装備は強化Lv上限まで強化しています。=Already at maximum Lv.
+このキャラ専用装備は強化Lv上限まで強化しています。=This UE cannot be refined any further.
 現在の最高ランクです=Current highest rank
 
 現在のランク以降に必要な装備の確認ができます。=You can check the necessary equipment after the current rank.

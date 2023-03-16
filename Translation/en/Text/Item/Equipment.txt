@@ -501,3 +501,8 @@ sr:"^「(.+)」([の設計図欠片\n]+)。$"="A$2 of $1."
 デモンズコアワンド=Demon's Core Wand
 デモンズデストラクション=Demons Destruction
 デモンズスカーブレード=Demon's Scarblade
+
+デモニックテールタイ=Demonic Tail Tie
+ディアブロメンブランス=Diablo Men's Bracelet
+パラソルアサルト=Parasol Assault
+双角魔の首飾り=Twin Horn Devil's Necklace

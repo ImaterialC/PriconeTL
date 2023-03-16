@@ -38,6 +38,10 @@
 
 ランダムな原鉱が獲得できる。=You can get a random original ore.
 ランダム原鉱BOX=Random Original Ore Box
+
+ランダムなEXPポーションが獲得できる。=Random EXP potions can be obtained.
+ランダムEXPポーションBOX=Random EXP Potion BOX
+
 EX装備の強化に使用すると、強化Ptが1加算される。=When used to enhance the EX equipment, 1 enhanced PT is added.
 
 

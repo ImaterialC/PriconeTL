@@ -1,5 +1,6 @@
 トゥインクルウィッシュ=Twinkle Wish
 美食殿=Gourmet Guild
+Bishokuden
 カルミナ=Carmina
 ラビリンス=Labyrinth
 ラビリンスギルド拠点=Labyrinth Guild base

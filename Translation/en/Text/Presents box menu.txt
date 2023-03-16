@@ -17,13 +17,13 @@
 「信頼度エピソード」で獲得したアイテムです。=item acquired from "Intimacy Episode"
 運営からのお詫びの品です。=It is an apology item from the operation.
 
+プレゼントに送られたアイテムがあります。=There are items sent to the present.
 ガチャ更新によりキャラ交換Ptを変換したアイテムです。=It is an item that converted character replacement PT by gacha update.
 ===Item List Receive===A->Item,B->Number
 
 ===Item Receive===
 sr:"^\[3C404E\]([\s\S]+)×\[-\]\[FFBB00,CE4F00\](\d+)\[-\]$"=[3C404E]$1 × [-][FFBB00,CE4F00]$2[-]
-sr:"^(.{3,18})×(\d+)$"=$1 × $2
-
+sr:"^(\D+)×(\d+)$"=$1 × $2
 ===sort===
 フィルタ=Filter
 期限あり=Limited Time
