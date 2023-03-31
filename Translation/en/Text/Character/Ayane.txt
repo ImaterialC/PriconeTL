@@ -2,7 +2,7 @@
 ぷうきちといつも一緒！=Together forever with Pukichi!
 偉大なクマ王ぷうきち=Great Bear King Pukichi
 ===Bio
-【物理】前衛で、戦場をかき乱す、くまっ子。ユニオンバーストで、相手を思い切り吹き飛ばすと同時にスタンと大ダメージを与えることで敵陣形を大きく乱す。=[Physical] The Ayane/Pukichi duo stuns and smashes enemies from the frontline. Her Union Burst deals massive damage while sending enemies flying.
+【物理】前衛で、戦場をかき乱す、くまっ子。ユニオンバーストで、相手を思い切り吹き飛ばすと同時にスタンと大ダメージを与えることで敵陣形を大きく乱す。=[Physical] The Ayane/Pukichi duo stuns and smashes enemies from the vanguard. Her Union Burst deals massive damage while sending enemies flying.
 
 ===Profile
 屋内でできる遊び=Indoor Activities
@@ -25,8 +25,8 @@ r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵を一定時間
 前方範囲内の敵すべてに物理中ダメージを与え、スタンさせる。さらに、目の前の敵１キャラに物理大ダメージを与え、行動速度を小ダウンさせる。=Deals moderate P.DMG and inflicts Stun to all enemies in range and reduces an enemy’s action speed by a small amount.
 
 ===Skill 1 
-r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵を一定時間行動不能にする$"=Deals $1 P.DMG to enemies within 325 range. \nRenders enemies within 325 range immobile for 1.5s.
-
+r:"^範囲内の敵に(\d+)の物理ダメージ\n範囲内の敵を一定時間行動不能にする$"=►Deals $1 P.DMG to enemies within range. \n►Renders enemies within range immobile.
+same with Shizuru Noir
 前方範囲内の敵すべてに物理小ダメージを与え、さらにスタンさせる。=Deals small P.DMG and inflicts Stun to all enemies in range 
 
 ===Skill 2

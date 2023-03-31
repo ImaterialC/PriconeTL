@@ -118,6 +118,7 @@
 ネア=Nea
 リリ=Lily
 クリア=Clear
+ライラエル=Lyrael
 
 カズマサ=Kazumasa
 ユウキ=Yuuki

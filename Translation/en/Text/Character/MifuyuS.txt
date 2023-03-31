@@ -7,7 +7,7 @@ r:"^敵単体に(\d+)の物理ダメージ\n味方全体の物理攻撃力を(\d
 ===S1
 目の前の敵１キャラに物理中ダメージを与え、さらにその周囲の敵すべてに物理小ダメージを与える。=Deals small P.DMG to an enemy directly in front, and additional small P.DMG to enemies nearby the target.
 ===S2
-自分の物理攻撃力を中アップさせ、さらに物理クリティカルを大アップさせる。=Moderate boost to own P.ATK and P.Crit Rate rate.
+自分の物理攻撃力を中アップさせ、さらに物理クリティカルを大アップさせる。=Moderate boost to own P.ATK and P.Crit rate.
 ===ex
 サマーマーセナリー=Summer Mercenary
 ===Skills+

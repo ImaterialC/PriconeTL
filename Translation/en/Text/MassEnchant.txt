@@ -33,3 +33,6 @@
 まとめておまかせ強化キャラ詳細=Auto Enhancement Character Details
 
 まとめておまかせ強化を利用すれば、多くのキャラをよりお手軽に強化できるようです。強化条件を設定し、キャラをさらに強くしてみましょう。=It seems that many characters can be more easily enhanced by using the enhancements. Set the enhancement conditions and make the characters stronger.
+
+
+アイテム、もしくはマナが不足しているため強化できません。=Cannot be enhanced due to lack of Items or Mana.

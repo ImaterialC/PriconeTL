@@ -1,5 +1,4 @@
 r:"^辺境の地([0-9\-\(\)\w （）]*)$"=Frontier Land $1
-シンデレラレッスン　華やかなる日々はリンゴの味=Cinderella Lesson Gorgeous days are the Taste of Apple
 魔物の姫=Demon Princess
 
 学びの楽しさ=Joy of learning

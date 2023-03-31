@@ -3,14 +3,13 @@ r:"^※(\d+)文字以内で入力してください。名前は後でも変更�
 登録する=Register
 プレイヤー名登録=Player Name Registration
 
-{{B}}[3C404E]プレイヤー名は[-] [FFBB00,CE4F00]{{D}}[-] {{C}}で\nよろしいですか？[-][-]={{B}}[3C404E]The player name is[-] [FFBB00,CE4F00]{{D}}[-][3C404E] \n[-]Is it OK?[-]
 名前登録確認=Name Registration Confirmation
 
 [3C404E]プレイヤー名の登録が完了しました。[-]=[3C404E]Player name registration is complete.[-]
 名前登録完了=Name Registration Completed
 
 ===Locked menu===
-sr:"^メインクエスト\n([0-9\-\(\)（）\w ]*)クリアで解放$"=Clear Main Quest\n$1
+r:"^メインクエスト(.*)クリアで解放$"=Clear Main Quest\n$1
 ===Birthday Registration
 誕生日登録=Birthday Registration
 登録した誕生日はプロフィールから確認できます。=Registered birthday can be check on profile.

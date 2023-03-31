@@ -159,5 +159,5 @@
 /_Game(Clone)/UI Root/ViewsArea/View/ViewSharedItemList(Clone)/SlideObj/Main/TabObject/MemoryPieceTab/State_Normal/Label=ChangeFontSize(13)
 /_Game(Clone)/UI Root/ViewsArea/View/ViewSharedItemList(Clone)/SlideObj/Main/TabObject/MemoryPieceTab/State_Active/Label=ChangeFontSize(13)
 /_Game(Clone)/UI Root/ViewsArea/View/ViewSharedItemList(Clone)/WidgetOff(Clone)/SlideObj/Main/TabObject/MemoryPieceTab/State_Normal/Label=ChangeFontSize(13)
-
 /_Game(Clone)/UI Root/ViewsArea/View/ViewSharedItemList(Clone)/SlideObj/Main/NodeItemDetail/ExEquip/ExEquipStatus/Scroll/ScrollView/EquipmentInfo/UITable/Head/ItemDescription/ItemDescriptionLabel=ChangeFontSize(11)
+/_Game(Clone)/UI Root/ViewsArea/View/ViewUnitDetail(Clone)/Right/UnitRarityUp(Clone)/Right/RarityUpButton/Label=ChangeFontSize(25)

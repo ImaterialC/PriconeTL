@@ -16,8 +16,8 @@ r:"^敵全体に(\d+)の物理ダメージ\n一定時間無敵状態になる\n�
 \nTaunt to all enemies for 3s.
 敵全体に物理大ダメージを与え、短時間無敵状態になり敵全体を挑発する。=Inflicts heavy P.DMG to all enemies, becomes invincible for a short time, and provokes all enemies.
 
-r:"^敵単体に(\d+)の物理ダメージ\n敵単体のＴＰを(\d+)失わせる$"=Cast Time:059s\nDeals $1 P.DMG to the highest TP enemy target.\nReduce an enemy's TP by $2.
+r:"^敵単体に(\d+)の物理ダメージ\n敵単体のＴＰを(\d+)失わせる$"=Cast Time:0.59s\nDeals $1 P.DMG to the highest TP enemy target.\nReduce an enemy's TP by $2.
 最もＴＰが多い敵１キャラに物理中ダメージを与え、ＴＰを中ダウンさせる。ＴＰが最大値に達しているキャラを除く。=Inflicts moderate P.DMG to the character with the most TP and moderately lowers TP. Excludes characters whose TP has reached the maximum value.
 
-r:"^敵全体の物理攻撃力を(\d+)ダウン\n敵全体の物理クリティカルを(\d+)ダウン\n敵全体のＴＰ上昇を(\d+)ダウン$"=Cast Time:059s\nLowers all enemies’ P.ATK by $1 for 12s\nLowers all enemies’ P.Crit rate by $2 for 12s\nLowers all enemies’ TP boost by $3 for 12s
+r:"^敵全体の物理攻撃力を(\d+)ダウン\n敵全体の物理クリティカルを(\d+)ダウン\n敵全体のＴＰ上昇を(\d+)ダウン$"=Cast Time:0.59s\nLowers all enemies’ P.ATK by $1 for 12s\nLowers all enemies’ P.Crit rate by $2 for 12s\nLowers all enemies’ TP boost by $3 for 12s
 敵全体の物理攻撃力を大ダウンさせ、物理クリティカルとＴＰ上昇を中ダウンさせる。=Large decreases the P.ATK of all enemies, and moderately decreases P.Crit rate and TP Boost.

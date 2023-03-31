@@ -1,9 +1,6 @@
 イドストーリー=ide Story
 サイドストーリー=Side Story
 
-絆、つないで。こころ、結んで。=Bonds, connect. Tie your heart.
-新春グルメプリンセス！　一投にかけた乙女たち=New Year Gourmet Princess! "The maidens who took the plunge
-デビュタント・シャングリ・ラ　聖夜のラブゲーム=Debutante Shangri-La Sacred Night Love Game
 
 
 sr:"^\[3C404E\]\[FFBB00\,CE4F00\](.+)\[-\]が解放されました。\[-\]$"=[3C404E]The [FFBB00,CE4F00]$1[-] has been unlocked.[-]

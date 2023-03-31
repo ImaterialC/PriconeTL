@@ -5,7 +5,7 @@
 
 風雲初春ノ渦=Wind and Cloud Early Spring Swirl
 
-r:"^敵単体に(\d+)の物理ダメージ\n敵単体のクリティカルを受けた際のダメージを6％アップ\n敵が朧ろ状態の時、自分の物理攻撃力を(\d+)アップ\n敵が朧ろ状態の時、自分の物理クリティカルを(\d+)アップ$"=Deals $1 P.DMG to an enemy.\nReduce 6% P.Crit dmg resistance to an enemy for 18s.\nWhen the enemy in stun state:\nBoosts own physical attack by $2 for 90s\nBoosts own P.Crit Rate rate by $3 for 90s.
+r:"^敵単体に(\d+)の物理ダメージ\n敵単体のクリティカルを受けた際のダメージを6％アップ\n敵が朧ろ状態の時、自分の物理攻撃力を(\d+)アップ\n敵が朧ろ状態の時、自分の物理クリティカルを(\d+)アップ$"=Deals $1 P.DMG to an enemy.\nReduce 6% P.Crit dmg resistance to an enemy for 18s.\nWhen the enemy in stun state:\nBoosts own physical attack by $2 for 90s\nBoosts own P.Crit rate by $3 for 90s.
 
 目の前の敵１キャラに物理特大ダメージを与え、クリティカルを受けた際のダメージを小アップさせる。対象が朧ろ状態だった場合、自分の物理攻撃力と物理クリティカルを中アップさせる。=Inflicts a large amount of P.DMG to the enemy in front, and slightly boost the damage taken when receiving a critical hit. Moderately boost own P.ATK and P.crit when the target is in a stunned state.
 

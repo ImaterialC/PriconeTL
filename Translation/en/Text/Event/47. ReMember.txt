@@ -6,8 +6,8 @@
 こ=F
 れからも一緒に=rom now on together
 んなの想い=veryone's Thoughts
-Re:member　僕の願いが紡ぐ未来【前編】=Re: Member The Future Spun By My Desires [Part 1]
-Re:member　僕の願いが紡ぐ未来【後編】=Re: Member The Future Spun By My Desires [Part 2]
+Re:member　僕の願いが紡ぐ未来【前編】=Re: Member's future spun by my wish[Part 1]
+Re:member　僕の願いが紡ぐ未来【後編】=Re: Member's future spun by my wish[Part 2]
 
 sr:"^(\[[0-9A-F]{6}\])?(.+)と(.+)を倒そう(\[-\])?$"=$1Defeat the $2 and $3.$4
 

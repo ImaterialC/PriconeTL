@@ -22,6 +22,9 @@ Lvアップ=LV up
 移動=Go
 思い出を振り返る=Memories
 全てのイラストを獲得すると閲覧できます。=You can browse by acquiring all illustrations.
+全てのイラストを獲得しました。\n「思い出を振り返る」から\n全イラスト獲得記念の演出を閲覧できます。\n閲覧にはデータダウンロードが必要です。=Acquired all illustrations.\nYou can view the production of all illustrations acquisition commemoration from "Reminiscing Memories".\nData download is required for viewing.
+全イラストを獲得=Acquired All Illustrations
+
 
 キャラ検索=Character Search
 検索対象キャラ=Search Character
