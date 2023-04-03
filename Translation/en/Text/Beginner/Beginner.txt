@@ -9,7 +9,8 @@ r:"^※(\d+)文字以内で入力してください。名前は後でも変更�
 名前登録完了=Name Registration Completed
 
 ===Locked menu===
-r:"^メインクエスト(.*)クリアで解放$"=Clear Main Quest\n$1
+r:"^メインクエスト([\s\S]*)クリアで解放$"=Clear Main Quest\n$1
+r:"^メインクエスト([\s\S]*)クリアで$"=Main Quest $1 has been cleared.
 ===Birthday Registration
 誕生日登録=Birthday Registration
 登録した誕生日はプロフィールから確認できます。=Registered birthday can be check on profile.

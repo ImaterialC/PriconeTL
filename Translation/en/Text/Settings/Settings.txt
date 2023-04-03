@@ -24,7 +24,9 @@ SDカード保存設定=Transfer data to SD
 シリアルコードを入力してください。=Please enter a serial code.
 データ=data
 サポート、フレンド=Support, friend
-絆ランク演出=Kizuna rank production
+絆ランク演出=Bond Rank production
+バースデーストーリーの通知=Birthday Story Notification
+バースデーストーリーが追加された際、通知を表示するか設定します。=When the birthday story is added, display the notification.
 
 無効なシリアルコードです。\n再度入力してください。=Invalid Serial Code.\nPlease try again.
 [3C404E]無効なシリアルコードです。\n連続で無効なシリアルコードが入力されたため一時的に[-][FF7C4E,D62146]機能を制限[-][3C404E]しました。[-]=[3C404E] Invalid serial code.\nTemporarily [FF7C4E,D62146]restricted functionality[-] due to consecutive invalid serial codes entered[-]

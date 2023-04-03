@@ -13,7 +13,7 @@ EX装備ショップで販売されているアイテムを、所持数の昇順
 
 EX装備選択を閉じる際の確認ダイアログ=Confirmation dialog when closing Ex Equipment selection
 
-EX装備選択で変更を反映せずに閉じる際に、確認ダイアログを表示するか設定します。=Set whether to display a confirmation dialog when closing without commit changes in Ex Equipment selection.
+EX装備選択で変更を反映せずに閉じる際に、確認ダイアログを表示するか設定します。=Set whether to display a confirmation dialog\nwhen closing without commit changes in Ex Equipment selection.
 
 EX装備上限解放の確認ダイアログ=Confirmation dialog for unlocking the upper limit of Ex Equipment
 EX装備を上限解放する際に、消費アイテムを確認するダイアログを開きます。=Open a dialog to confirm consumable items when unlock the limit break of Ex Equipment.

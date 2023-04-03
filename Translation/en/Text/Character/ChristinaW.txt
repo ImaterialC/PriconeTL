@@ -1,4 +1,4 @@
-【物理】前衛で、戦場を跳ね回るラビット姿の誓約女君。物理攻撃を全て回避するスキルと攻撃力の強化で敵陣に単身特攻をかけ、ＵＢの範囲攻撃で敵を内から薙ぎ倒す。=[Physical] A vowed woman in a rabbit costume who jumps around the battlefield in the VG. Use her skills to avoid all P.ATK and strengthen her P.ATK to launch a single attack on the enemy, and knockback the enemies with her AOE UB.
+【物理】前衛で、戦場を跳ね回るラビット姿の誓約女君。物理攻撃を全て回避するスキルと攻撃力の強化で敵陣に単身特攻をかけ、ＵＢの範囲攻撃で敵を内から薙ぎ倒す。=[Physical] A Regina Geas in a rabbit costume who jumps around the battlefield in the VG. Use her skills to avoid all P.ATK and strengthen her P.ATK to launch a single attack on the enemy, and knockback the enemies with her AOE UB.
 
 ブルートゥスアヴァロン=Brutus Avalon
 グリーディカオス=Greedy Chaos
@@ -15,4 +15,4 @@ r:"自分の物理攻撃力を(\d+)アップ\n一定時間全ての物理攻撃�
 狂乱の街角インタビュー=Crazy Street Corner Interview
 ほっぷすてっぷ大乱闘☆=Hop Step Brawl☆
 ありのままの獣=Untamed Beasts.
-誓約女君にお仕置きを=Punishment for the Pledged Woman
+誓約女君にお仕置きを=Punishment for the Regina Geas

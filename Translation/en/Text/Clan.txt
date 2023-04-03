@@ -26,7 +26,7 @@ r:"^\[FFBB00\,CE4F00\](\d+)時間前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1h ag
 r:"^\[FFBB00\,CE4F00\](\d+)分前\[-\]\[3C404E\]\[-\]$"=[FFBB00,CE4F00]$1m ago[-]
 
 ===Liked for stamina
-sr:"^(\[.*\])(.{1,10})さんにいいねをして\nスタミナを10獲得しました。\[-\]$"=$1You Liked $2-san\nand you got 10 stamina.[-]
+sr:"^(\[.*\])(.{1,10})さんにいいねをして\nスタミナを(\d+)獲得しました。(\[-\])?$"=$1You Liked $2-san\nand you got $3 stamina.$4
 
 r:"^\[3C404E\]\[3C404E\]クランメンバーに\[FFBB00,CE4F00\](\d+)\[-\]回いいねされて、\nマナ×\[FFBB00,CE4F00\](\d+)\[-\]を獲得しました。\[-\]\[-\]$"=[FFBB00,CE4F00]$1[-][3C404E] Clan Member liked you,\nReceive Mana × [FFBB00,CE4F00]$2[-][-]
 

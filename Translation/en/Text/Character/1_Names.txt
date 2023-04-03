@@ -116,7 +116,8 @@
 ラム=Ram
 レイ=Rei
 ネア=Nea
-リリ=Lily
+プレシア=Precia
+リリ=Lilie
 クリア=Clear
 ライラエル=Lyrael
 

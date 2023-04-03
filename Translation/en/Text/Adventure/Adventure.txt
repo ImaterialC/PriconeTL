@@ -76,6 +76,9 @@ r:"^本日の残り撤退可能回数  ([0-9/]+)$"=Today's retreat: $1
 キャンペーン=Campaign
 終了日時=Finish date
 
+冒険開始に必要な戦力が不足しています。=Insufficient power to start the adventure.
+戦力不足=Lack Power
+
 r:"^残り必要時間が(\d+)分未満のアドベンチャーに対して\nジュエルで時間短縮が設定されます。\n※時間短縮は1時間単位で行われます。$"=Adventures with less than $1m  will be set\nwith Jewels to reduce time.\n※Reduce time is a multiple of 1 hour.
 
 r:"^本日のジュエルでの短縮残り回数　([0-9/]+)$"=Today's Jewel usage: $1

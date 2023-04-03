@@ -102,9 +102,6 @@ sr:"^(\[[0-9A-F,]{6,13}\])限定「([べ-ヺー＆]+)(（.+）)?」登場！\n�
 sr:"^(\[[0-9A-F,]{6,13}\])★3キャラ出現率2倍！限定「([べ-ヺー＆]+)(（.+）)?」「([べ-ヺー＆]+)(（.+）)?」(登場|出現率UP)！\n対象キャラを仲間にする度に対象メモピ(\d+)個GET！\[-\]$"="$1Boosted rates for the Limited ★3 $2$3 & $4$5!\nEach pull a target Chara will Gets $6 Memory Shards![-]"
 
 
-
-
-
 下記リストの中からプライズのメモリーピースキャラを\n選択してください。=Select the prize memory shard character\nfrom the list below.
 [3C404E]『10回引く』は[FFBB00,CE4F00]★2以上[-]1キャラ確定！\n※すでに仲間にしているキャラは女神の秘石に変換されます。[-]=[3C404E]A [FFBB00,CE4F00]★2 or higher[-] character is guaranteed with each 10x draw!\n※Already recruited characters will be converted to Divine Amulets[-].
 
@@ -250,10 +247,20 @@ r:"^([0-9.]+)th Anniv. SPキャラ交換ガチャセット$"=$1th Anniv. Special
 選べるプライズガチャ=Choose prize gacha
 
 選択のピックアップキャラがプライズと一致していません。=The selection Focus chara\ndoes not match with the prize.
+===SP FES
+スペシャルフェスガチャ=SpFES Gacha
+[3C404E]キャラ交換Ptが共通のガチャ[-]=[3C404E]Exchange Pt Sp FES Chara Gacha[-]
+SPフェスキャラ交換Ptが共通のガチャ=Exchange Pt Sp FES Chara Gacha
+SPフェスキャラ交換Ptの説明=SpFES Character exchange Pt description
+所持SPフェスキャラ交換Pt=SpFES Char. Exchange Pts
+SPフェスキャラ交換Ptリセット=SpFES Char. Exchange Pt Reset
+SPフェスキャラ交換Ptが不足しています。=Insufficient SpFES character exchange Pt.
+r:"^\[FF9DC3\,EC4B89\]終了まであと([0-9: ]+)\[-\]$"=[FF9DC3,EC4B89]End in: $1[-] to end
 
-=======sr:"^・([べ-ヺー＆]+)(（.+）)?\n・([べ-ヺー＆]+)(（.+）)?$"=$1$2\n$3$4
-======sr:"^・([べ-ヺー＆]+)(（.+）)?\n・([べ-ヺー＆]+)(（.+）)?\n・([べ-ヺー＆]+)(（.+）)?$"=$1$2\n$3$4\n$5$6
 
-======sr:"^・([べ-ヺー＆]+)(（.+）)?\n・([べ-ヺー＆]+)(（.+）)?\n・([べ-ヺー＆]+)(（.+）)?\n・([べ-ヺー＆]+)(（.+）)?\n・([べ-ヺー＆]+)(（.+）)?\n・([べ-ヺー＆]+)(（.+）)?$"=$1$2\n$3$4\n$5$6\n$7$8\n$9$10\n$11$12
+有償ジュエルで=Use Paid Jewels
+ペシャルフェス=Special Festival
+sr:"^\[FFBB00\,CE4F00\]★3キャラ出現率2倍\n限定「([べ-ヺー＆]+)(（.+）)?」出現率UP！\[-\]$"=[FFBB00,CE4F00]Boosted rates for the Limited ★3\n「$1$2」![-]
+
 
 sr:"^(.{2,12}ガチャ)「(\d+)回引く」$"=$1 "Draw $2 Times".

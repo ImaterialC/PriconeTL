@@ -57,7 +57,7 @@ sr:"^ムイミと(.{2,10})は、同様にカヤに助けられたペコリー\n�
 描かれたピースを組み合わせて、パズルの完成を目指しましょう。\nどんな光景が浮かび上がるのか、わたくしも楽しみでございます。=Combine the drawn pieces and aim to complete the puzzle. I am also looking forward to what kind of scenery will emerge.
 リーダーはどっちだ！閲覧で操作可能=Which one is the leader! Can be operated by viewing
 勝ちたい理由閲覧で操作可能=Can be operated by browsing why you want to win
-聞き上手な誓約女君閲覧で操作可能=Can be operated by viewing the oath woman who is a good listener
+聞き上手な誓約女君閲覧で操作可能=Can be operated by viewing the Regina Geas who is a good listener
 秘めたる本当の実力……？閲覧で操作可能=Hidden true power...? Can be operated by viewing
 友と書いてライバルと読む閲覧で操作可能=Write with friends and read with rivals Can be operated by browsing
 悪と正義の高笑い閲覧で操作可能=Can be operated by laughter viewing of evil and justice
@@ -75,7 +75,7 @@ sr:"^ムイミと(.{2,10})は、同様にカヤに助けられたペコリー\n�
 クリスティーナの追想　その1=Reminiscence of Christina Part 1
 クリスティーナの追想　その2=Reminiscence of Christina Part 2
 クリスティーナの追想　その3=Reminiscence of Christina Part 3
-聞き上手な誓約女君=good listener sworn woman
+聞き上手な誓約女君=good listener Regina Geas
 秘めたる本当の実力……？=Hidden true power...?
 ダイゴの追想　その1=Daigo's Memories Part 1
 ダイゴの追想　その2=Daigo's Memories Part 2

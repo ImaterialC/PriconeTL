@@ -22,13 +22,17 @@ r:"^ボイスなし\n\(([.0-9]+) ([MG])B\)$"=Voice OFF\n($1 $2B)
 停止=Stop
 このムービーをスキップしてもよろしいですか？=Are you sure you want to skip this movie?
 第=Part
+r:"^(\d+)章$"= 1 Chapter $1
 r:"^第?(\d+)章 第(\d+)話が\n解放可能になりました。$"=Ch $1 Ep $2\nStory has been unlock.
 r:"^第?(\d+)部 第(\d+)章 第(\d+)話が\n解放可能になりました。$"=Part $1 Ch $2 Ep $3\nStory been unlock.
 r:"^第?(\d+)部 第(\d+)章 幕間が\n解放可能になりました。$"=Part $1 Ch $2 Epilogue\nStory been unlock.
 r:"^第(\d+)部 第(\d+)章$"=Part $1 Chapter $2
 r:"^(\d+)部 第(\d+)章$"= $1 Chapter $2
+r:"^第(\d+)章$"=Chapter $1
 r:"^(\d+)部 第(\d+)章 第(\d+)話$"=Part $1 Chapter $2 Episode $3
-r:"^幕間・(.{1,5})$"=Intermission $1
+r:"^幕間・(.{1,5})$"=Interlude $1
+
+r:"^サブストーリー(.{1,4})$"=Substory $1
 r:"^第([0-9.]+)話$"=Episode $1
 sr:"(.+)が\n?解放可能になりました。$"=$1\nhas been unlocked.
 前途多難の冒険レクチャー？=Adventure lecture with a lot of precipitation?
@@ -37,6 +41,11 @@ sr:"(.+)が\n?解放可能になりました。$"=$1\nhas been unlocked.
 r:"^メインストーリーが\n(\d+)つ解放されました。$"=$1 Main Story\nhas been unlocked.
 エクストラストーリーから閲覧できます。=You can browse from the Extra Story.
 このストーリーは閲覧済みの場合のみスキップ可能です。=This story can be skipped only if you have watch.
+
+スキップしたストーリーは後から読み返せます。=Skipped stories can be reread later.
+個別にストーリーを閲覧することもできます。=You can also browse individual stories.
+メインシナリオ第2部 第16章 幕間までのストーリーを\nスキップして閲覧済みにしますか？\n\nスキップした場合、以下の報酬を獲得できます。=Do you want to skip the story up to the main scenario part 2 chapter 16 interlude and mark it as read?\n\nIf you skip it, you will get the following rewards.
+
 ===Story Menu==
 
 メイン=Main
