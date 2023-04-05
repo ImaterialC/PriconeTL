@@ -34,7 +34,7 @@ r:"^本日の回復可能回数 (\d+)/(\d+)回$"=Recharges left today: $1/$2
 ===hearts===
 ここで手に入れたアイテムで\n専用装備を作成できるみたいね\nアイテムが集まったら\nさっそく作ってみましょ！=Looks like the items found here are useful for crafting Unique Equipment. Once you've got enough let's try it out ourselves!
 
-攻略すると珍しいアイテムが\n手に入りますよ\nこのアイテムで専用装備を\n作成できるようです=It seems these quests may yield some rather rare resources. We can use them to craft Unique Equipment, my lord.
+攻略すると珍しいアイテムが\n手に入りますよ\nこのアイテムで専用装備を\n作成できるようです=It seems these quests may yield some rather rare resources. We can use them to craft Unique Equipment, Aruji-sama.
 
 専用装備の作成に必要な\nアイテムを獲得できますよ\nたくさん集めてどんどん\n強くなりましょう！=If we collect enough items here, we might be able to make some Unique Equipment! This is our chance to get even stronger!
 こちらでは「プリンセスハート（欠片）」を手に入れられます。\nたくさん集めると、キャラ専用装備を作るのに必要な\n「プリンセスハート」を作成することができますよ。=Princess Heart Shards can be obtained here.\nCollect a lot of them, and you will be able to make Princess Heart,which is required to craft our Unique Equipment.

@@ -1,7 +1,7 @@
 予定帳=Schedule
 主さま、ご用事が立て込んでいらっしゃるようですね。\n日々のご予定の管理はわたくしにおまかせくださいまし。=Aruji-sama, it seems that your business is built in. Leave it to me for your daily plan.
 
-まとめておまかせ=Do it all
+まとめておまかせ=Complete all
 リストの設定=List Setting
 実行=Do
 
@@ -27,7 +27,7 @@
 ルナの塔に1回挑戦しよう=Attempt a Tower of Luna 1 time
 クランバトルに1回挑戦しよう=Attempt a Clan Battle 1 time
 ダンジョンに1回挑戦しよう=Attempt a Dungeon 1 time
-マナを購入しよう=Buy a Mana
+マナを購入しよう=Buy 1 set of Manas
 
 限定ショップで買い物をしよう=Purchase at the Limited Shop
 通常ショップで買い物をしよう=Purchase at the Normal Shop

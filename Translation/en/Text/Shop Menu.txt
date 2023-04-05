@@ -15,7 +15,7 @@ r:"^残り(\d+)回$"=$1 Times Left
 全て選択=Select All
 すべて解除=Cancel
 [FF7C4E,D62146]限定キャラはメモリーピースによる解放はできません。[-]=[FF7C4E,D62146]Limited characters can not be\nunlock by Memory Shards.[-]
-主さま、旅の準備を整えて\nより充実した冒険をいたし\nましょう=My Lord, let us prepare for our journey. It will make for an even more fulfilling adventure.
+主さま、旅の準備を整えて\nより充実した冒険をいたし\nましょう=Aruji-sama, let us prepare for our journey. It will make for an even more fulfilling adventure.
 
 これ以上、\n購入できません=Cannot purchase\nany more.
 これ以上、\\n購入できません=Cannot purchase\nany more.

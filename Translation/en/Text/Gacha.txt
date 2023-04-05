@@ -255,7 +255,7 @@ SPフェスキャラ交換Ptの説明=SpFES Character exchange Pt description
 所持SPフェスキャラ交換Pt=SpFES Char. Exchange Pts
 SPフェスキャラ交換Ptリセット=SpFES Char. Exchange Pt Reset
 SPフェスキャラ交換Ptが不足しています。=Insufficient SpFES character exchange Pt.
-r:"^\[FF9DC3\,EC4B89\]終了まであと([0-9: ]+)\[-\]$"=[FF9DC3,EC4B89]End in: $1[-] to end
+r:"^(\[[0-9A-F,]{6,13}\])終了まであと([0-9: ]+)\[-\]$"=$1End in: $2[-] to end
 
 
 有償ジュエルで=Use Paid Jewels

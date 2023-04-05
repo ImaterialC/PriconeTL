@@ -51,7 +51,7 @@ sr:"^(\[[0-9A-F]{6}\])?(ガーゴイル|マグスガーゴイル|ガードガー
 ここで腕試しを\nしていきましょう！\n全力全開、\nがんばっちゃいますよ～！=Let's try your skills here! I'll do my best, I'll do my best!
 ここで腕試しが\nできるみたいね。\n試してみるのも\nいいんじゃない？=It looks like you can try your skills here. Isn't it good to try it?
 腕試しをがんばれば、\n報酬がもらえますよ。\n挑戦していきましょう☆=If you do your best to test your skills, you will be rewarded.\nLet's try☆
-こちらでは、さまざまなタイプのボスと腕試しができます。\n何度でも挑戦することができますので、\n主さまに合った難易度で挑戦してみましょう。=Here My lord can test your skills with different types of bosses. My lord can try as many times as My lord like, so let's try it with the difficulty level that suits My lord.
+こちらでは、さまざまなタイプのボスと腕試しができます。\n何度でも挑戦することができますので、\n主さまに合った難易度で挑戦してみましょう。=Here Aruji-sama can test your skills with different types of bosses. Aruji-sama can try as many times as Aruji-sama like, so let's try it with the difficulty level that suits Aruji-sama.
 腕試しができるようです。\nここで練習を重ね、実戦に\n活かしてまいりましょう。=It seems that you can try your skills. Let's practice here and use it in the actual battle.
 ここでは腕試しが\nできるんですって。\n自分の実力を測るのに、\nちょうどよさそうね。=You can try your skills here. It looks good to measure your ability.
 

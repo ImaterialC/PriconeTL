@@ -106,7 +106,7 @@
 ユキ=Yuki
 ミオ=Mio
 ヨリ=Yori
-リマ=Lima
+リマ=Rima
 レム=Rem
 ルカ=Ruka
 ユニ=Yuni

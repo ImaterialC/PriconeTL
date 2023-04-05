@@ -47,8 +47,8 @@ r:"^\[3C404EFF\]あ、\[3C404EFF\](.{2,10})さん。\[3C404EFF\]\n\[3C404EFF\]�
 [3C404EFF]ううん、[3C404EFF]違う……[3C404EFF]\n[3C404EFF]ずっと見えないようにしてくれてたんだ。=No, that's not it... she was keeping it from me on purpose.
 [3C404EFF]ニャットちゃんを拾ってきたのは私だから。[3C404EFF]\n私が、[3C404EFF]気を遣わなくても済むように。=I'm the one who brought Nyat-chan home. I wanted to spare you the worry.
 [3C404EFF]グルルルル……=Gurururururu...
-[3C404EFF]ニャットちゃん、[3C404EFF]心配してくれてるの？[3C404EFF]\n[3C404EFF]ごめんね、[3C404EFF]大丈夫だから。=Nyat-chan, are you worried?\nI'm sorry, it's okay.
-[3C404EFF]ただでさえお世話になっているのに[3C404EFF]\n[3C404EFF]これ以上、[3C404EFF]負担を掛け続けるわけにはいきません。=Even though she just took care of me
+[3C404EFF]ニャットちゃん、[3C404EFF]心配してくれてるの？[3C404EFF]\n[3C404EFF]ごめんね、[3C404EFF]大丈夫だから。=Nyat-chan, are you worried?\nI'm sorry, it's okay.                   
+[3C404EFF]ただでさえお世話になっているのに[3C404EFF]\n[3C404EFF]これ以上、[3C404EFF]負担を掛け続けるわけにはいきません。=Even though she just took care of me.                                
 I cannot continue to burden ourselves with this.
 [3C404EFF]私も、[3C404EFF]ちょっとずつだけど元気になってきたし。[3C404EFF]\n[3C404EFF]今なら何か[3C404EFF]新しいお仕事とかできるかも……=Especially since I'm starting to feel a little better myself. Maybe I can find a new job or something...
 [3C404EFF]こんなこともあろうかと……[3C404EFF]じゃーん。=Just in case, ta-da!
@@ -95,12 +95,12 @@ r:"^\[3C404EFF\](.{2,10})さんも？\[3C404EFF\]\nええ、\[3C404EFF\]申込�
 [3C404EFF]マ、[3C404EFF]マヒルさん……[3C404EFF]\nもう鞄がぎゅうぎゅうで、[3C404EFF]これ以上入らないです。=Mahiru-san, my bag is already packed and won't fit anything else.
 [3C404EFF]っとと、[3C404EFF]そっか。[3C404EFF]わりぃ。[3C404EFF]\nつい心配であれもこれも用意しちまった。=Oh, right. Sorry about that. I just got worried and prepared too much.
 [3C404EFF]でもシオシオが合宿か～[3C404EFF]\n[3C404EFF]この前、[3C404EFF]相談を受けた時はびっくりしたべよ。=But, when Shioshio said she wanted to go to the training camp, I was surprised.
-[3C404EFF]ごめんなさい、[3C404EFF]急な話で。[3C404EFF]\n[3C404EFF]でも、[3C404EFF]私……[3C404EFF]どうしても、[3C404EFF]やってみたいんです。=I'm sorry it's such short notice. But... I really want to try it.
+[3C404EFF]ごめんなさい、[3C404EFF]急な話で。[3C404EFF]\n[3C404EFF]でも、[3C404EFF]私……[3C404EFF]どうしても、[3C404EFF]やってみたいんです。=I'm sorry it's such short notice. But... I really want to try it.                     
 [3C404EFF]謝ることねぇべさ、[3C404EFF]やりたい事があんのはいい事だべ。[3C404EFF]\n[3C404EFF]オラにも、[3C404EFF]いつか漫才で大爆笑を取るっていう立派な夢があるべさ。=No need to apologize. It's a good thing to have something you want to do. Even I have a great dream of someday making people laugh with a comedy act.
 [3C404EFF]だからシオシオが行きてぇなら……[3C404EFF]オラ、[3C404EFF]心から応援する。[3C404EFF]\n[3C404EFF]つって、[3C404EFF]今生の別れってわけでもねぇしな。=So if Shioshio wants to go... I'll support you from the bottom of my heart. And this isn't a farewell for life or anything like that.
 [3C404EFF]お！　[3C404EFF]そうこう言ってる間に、[3C404EFF]お迎えが来たみたいだべ。=Oh! Looks like your ride is here while we were talking.
 準備万端だね。=You're well-prepared.
-[3C404EFF]ええ、[3C404EFF]今日のために備えましたから。[3C404EFF]\n……それじゃ、[3C404EFF]マヒルさん。[3C404EFF]行ってきますね。=Yes, I've prepared for today. Well then, Mahiru-san, I'm off.
+[3C404EFF]ええ、[3C404EFF]今日のために備えましたから。[3C404EFF]\n……それじゃ、[3C404EFF]マヒルさん。[3C404EFF]行ってきますね。=Yes, I've prepared for today. Well then, Mahiru-san, I'm off.                                      
 [3C404EFF]ああ、[3C404EFF]いってらっしゃい。=Yeah, take care.
 [3C404EFF]しっかり頑張るべ、[3C404EFF]シオシオ。=Shiosiodo your best, Shiosio.
 r:"^\[3C404EFF\]それから、シオリと(.{2,10})は馬車に揺られ、\[3C404EFF\]\nランドソルから離れたハンターズギルドの合宿所へ向かった。$"=And then, Shiori and $1 rode a carriage and headed to the Hunter's Guild training camp, away from Landosol.
@@ -110,12 +110,12 @@ r:"^\[3C404EFF\]それから、シオリと(.{2,10})は馬車に揺られ、\[3C
 [3C404EFF]主さまから、[3C404EFF]こちらの合宿では[3C404EFF]\nサバイバルで役立つスキルを[3C404EFF]\nご教授いただけるとお聞きしたのです。=I heard from Aruji-sama that this training camp will teach you some useful skills in survival.
 [3C404EFF]今後の冒険に役立つ技術を習得することで、[3C404EFF]\n[3C404EFF]より一層、[3C404EFF]主さまのお役に立てるようになれればと。=I hope that it will be able to help the Aruji-sama even more helpful to you by learning techniques that will be useful for future adventures.
 [3C404EFF]わんっ！=Woof!
-[3C404EFF]こちらの、[3C404EFF]わんわんの主さまもご一緒に、[3C404EFF]です。=And the Wanwan-Arujisama is also joining us.
+[3C404EFF]こちらの、[3C404EFF]わんわんの主さまもご一緒に、[3C404EFF]です。=And the Wan-wan Aruji-sama is also joining us.
 [3C404EFF]それに、[3C404EFF]わたくしの里でも[3C404EFF]\n昨今は[3C404EFF]自然との共生が課題になってまして。=Also, in my village, coexistence with nature has become an issue lately.
 [3C404EFF]里を守るために[3C404EFF]魔物を追い払ったりもしますが、[3C404EFF]\n[3C404EFF]お互い平和に暮らせるなら、[3C404EFF]それに越したことはありませんから。=While we do repel monsters to protect the village, living in peace with each other is the best thing possible.
 [3C404EFF]あとは……[3C404EFF]主さまが合宿に参加されるなら、[3C404EFF]\nやはり、[3C404EFF]ここはわたくしも[3C404EFF]ご同行せねばと思いまして。[3C404EFF]\nはせ参じた次第にございます。=Furthermore, if Aruji-sama is going to participate in the training camp, then I feel I must accompany him.
-[3C404EFF]そうだったんですね。[3C404EFF]\n[3C404EFF]よろしくお願いします、[3C404EFF]コッコロちゃん。=I see.\nThank you, Kokkoro-chan.
-[3C404EFF]はい、[3C404EFF]こちらこそ[3C404EFF]よろしくお願いします。[3C404EFF]\nシオリさま。=No, thank you, Shiori-sama.
+[3C404EFF]そうだったんですね。[3C404EFF]\n[3C404EFF]よろしくお願いします、[3C404EFF]コッコロちゃん。=I see.\nThank you, Kokkoro-chan.         
+[3C404EFF]はい、[3C404EFF]こちらこそ[3C404EFF]よろしくお願いします。[3C404EFF]\nシオリさま。=No, thank you, Shiori-sama.            
 合宿受付=Training camp reception
 [3C404EFF]──はい、[3C404EFF]こちらが合宿の詳細資料になります。[3C404EFF]\n部屋番号の確認も[3C404EFF]お願いしますね。=──Yes, this is the detailed information about the camp. Please also confirm your room number.
 [3C404EFF]ありがとうございます。[3C404EFF]\n[3C404EFF]私とコッコロちゃんは[3C404EFF]同じお部屋ですね。=Thank you. Kokkoro-chan and I are in the same room, right?
@@ -131,7 +131,7 @@ r:"^\[3C404EFF\]それから、シオリと(.{2,10})は馬車に揺られ、\[3C
 [3C404EFF]こ、[3C404EFF]これ以上こんな場所にいられるかーーっ！！=I can't take this kind of place anymore!!
 教官の声=An instructor's voice
 [3C404EFF]そんな根性でレンジャー幹部になれると思ってるのか貴様ァ！[3C404EFF]\nここまで流した血と汗と涙を裏切るなッ！　[3C404EFF]腕立て伏せ用意！=Do you really think you can become a ranger officer with that attitude?! Don't betray the blood, sweat, and tears you shed up to this point! Get ready for push-ups!
-[3C404EFF]くぅっ！　[3C404EFF]りょ、[3C404EFF]了解っ……！　[3C404EFF]一、[3C404EFF]ニっ……！=Kuu! Ro, roger...! One, two...!
+[3C404EFF]くぅっ！　[3C404EFF]りょ、[3C404EFF]了解っ……！　[3C404EFF]一、[3C404EFF]ニっ……！=Kuu! Ro, roger...! One, two...!              
 あの、あれは一体……？=What is that...?
 [3C404EFF]ああ、[3C404EFF]レンジャーの幹部候補生クラスだね。[3C404EFF]\n[3C404EFF]たまに出るんだ。[3C404EFF]訓練の厳しさに脱走しようとする輩が。=Oh, that's the ranger officer candidate class. They occasionally have people who try to escape the harshness of training.
 [3C404EFF]大丈夫！　[3C404EFF]君たちは一般のレンジャー育成コースだから。[3C404EFF]\nあそこまでは厳しくないよ。[3C404EFF]あそこまでは。=Don't worry, you guys are in the regular ranger development course, so it won't be that harsh. Not that harsh.
