@@ -67,6 +67,9 @@ r:"^終了まで (\d+)分$"=Ends in $1m
 [FF7C4E,D62146]サポート以外のキャラのEX装備に使用制限がかかります。[-]=[FF7C4E,D62146]rent char and their EX equipment will be restricted.[-]
 [FF7C4E,D62146]バトルを開始した時点で上記のキャラと、[-]=[FF7C4E,D62146]Attempt will be used and the use of charas except[-]
 
+[3C404E][3C404E]クランを[-][FF7C4E,D62146]脱退[-][3C404E]します。\nよろしいですか？[-][-]=[3C404E]You will [FF7C4E,D62146]withdraw[-][ from the clan.\nIs that okay?
+[FF7C4E,D62146]脱退後24時間はクランに所属・結成ができません。[-]=[FF7C4E,D62146]You will not be able to belong to or\nform a clan for 24 hours after leaving.[-]
+
 At the start of the battle, usage restrictions apply to the above characters and EX equipment for characters other than support characters.
 
 残り挑戦回数が0回です。=The remaining attempt is 0.

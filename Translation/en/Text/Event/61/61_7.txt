@@ -69,7 +69,7 @@ r:"^\[3C404EFF\]そんな、\[3C404EFF\]私の方こそ\[3C404EFF\]コッコロ�
 [3C404EFF]この音は……！=What's that sound...?!
 [3C404EFF]なんか、[3C404EFF]鈴みたいな音が鳴ってんな。[3C404EFF]\n[3C404EFF]……あっ、[3C404EFF]シオシオ！？　[3C404EFF]どこ行くべさ？=It sounds like a bell. ...Ah, Shio-shio?! Where are you going?     
 [3C404EFF]確か、[3C404EFF]こっちの方だと思ったんだけど……=CI thought I heard something in this direction...    
-[3C404EFF]もー、[3C404EFF]シオシオ。[3C404EFF]急に走り出したらびっくりするべ？=Mo, Shiosio.\ndon't just suddenly start running like that, it's startling!          
+[3C404EFF]もー、[3C404EFF]シオシオ。[3C404EFF]急に走り出したらびっくりするべ？=Mo, Shio-shio.\ndon't just suddenly start running like that, it's startling!          
 [3C404EFF]すみません。[3C404EFF]牧場の周りに[3C404EFF]侵入者がいたらわかるよう、[3C404EFF]\nトラップを仕掛けておいたんです。=I'm sorry. I set up traps around the ranch so that we would know if there were any intruders.               
 [3C404EFF]ニャットちゃん？　[3C404EFF]そこに何かあるの？=Nyatt-chan? Is there something over there?           
 [3C404EFF]これは果物……[3C404EFF]だべか？[3C404EFF]\nそれもてんこ盛りに置いてあるべ。=It looks like a pile of fruit... and it's all fresh and ripe. But who could have left it here...                
@@ -79,7 +79,7 @@ r:"^\[3C404EFF\]そんな、\[3C404EFF\]私の方こそ\[3C404EFF\]コッコロ�
 [3C404EFF]なるほどなぁ。[3C404EFF]\nそんなことがあったんだべか。=I see. So that's what happened.             
 [3C404EFF]そんなら、[3C404EFF]この果物はシオシオたちへのお礼かもしんねぇな。=In that case, this fruit might be a thank you to us, Shio-shio.
 [3C404EFF]私たちへの[3C404EFF]お礼……[3C404EFF]ですか？=A thank you to us...?                
-[3C404EFF]虫歯が痛くてつらかったのを、[3C404EFF]\nシオシオたちが治してくれたってわかってたんだべ。=I knew that Shiosio and others were cured that the painful cavities.                
+[3C404EFF]虫歯が痛くてつらかったのを、[3C404EFF]\nシオシオたちが治してくれたってわかってたんだべ。=I knew that Shio-shio and others were cured that the painful cavities.                
 [3C404EFF]そう……[3C404EFF]でしょうか。=Is that so...?              
 [3C404EFF]んだ。[3C404EFF]きっとそうだべ。=Yeah. I'm sure that's it.              
 [3C404EFF]にしても、[3C404EFF]お礼はいいけんど……[3C404EFF]\n[3C404EFF]ちっとオラたちだけじゃ食べ切れねぇ量だな。=Anyway, a thank you is nice, but we can't eat this much by ourselves.               
@@ -102,7 +102,7 @@ r:"^\[3C404EFF\]この声は……(.{2,10})さん？$"=This voice is... $1-san?
 [3C404EFF]すみません、[3C404EFF]お待たせしましたっ。=Sorry for the wait.            
 [3C404EFF]ふふっ、[3C404EFF]主さまも元気いっぱいです。[3C404EFF]\nそれでは参りましょう。=Fufufu, Aruji-sama is full of energy too. Let's go then.
 わんっ！=Woof!  
-[3C404EFF]行こう、[3C404EFF]ニャットちゃん。=Let's go, Nyat-chan.       
+[3C404EFF]行こう、[3C404EFF]ニャットちゃん。=Let's go, Nyatt-chan.       
 [3C404EFF]そんじゃ、[3C404EFF]あんちゃんたちの分も[3C404EFF]\nたーんとご馳走作っておくべ。=Well then, we'll make plenty of treats for An-chan and the others.              
 [3C404EFF]シオシオ、[3C404EFF]いってらっしゃい！=Take care, Shio-shio!
 [3C404EFF]いってきます、[3C404EFF]マヒルさんっ。=I'm off, Mahiru-san.             

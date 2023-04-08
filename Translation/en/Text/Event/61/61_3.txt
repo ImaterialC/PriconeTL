@@ -11,7 +11,7 @@
 [3C404EFF]ゴールでございます。[3C404EFF]\nよくできました、[3C404EFF]主さま♪=You have reached the goal. Well done, Aruji-sama!
 [3C404EFF]うん、[3C404EFF]向こうも順調そうだ。[3C404EFF]\n[3C404EFF]この調子なら、[3C404EFF]当日も十分入賞を狙えそうだな。=Yeah, it seems to be going well over there too. If we keep this up, we can aim for a good placement on the day of the competition.
 [3C404EFF]私が参加するのが狩猟競技部門、[3C404EFF]\n[3C404EFF]コッコロちゃんはアジリティ……[3C404EFF]障害物競走の部門ですよね。=I'll be participating in the hunting competition, and Kokkoro-chan will be participating in the agility obstacle course, right?
-[3C404EFF]ええ。[3C404EFF]わんわんの主さまの大きさですと、[3C404EFF]\n魔物を相手取るよりも、[3C404EFF]こちらの方が適切かと思いまして。=Yes. Since the size of a Wan-wan Aruji-sama, I thought it would be more appropriate than fighting monsters.
+[3C404EFF]ええ。[3C404EFF]わんわんの主さまの大きさですと、[3C404EFF]\n魔物を相手取るよりも、[3C404EFF]こちらの方が適切かと思いまして。=Yes. Since the size of a Wan-wan aruji-sama, I thought it would be more appropriate than fighting monsters.
 [3C404EFF]いい判断だと思う。[3C404EFF]\n[3C404EFF]レンジャーアニマルは、[3C404EFF]必ずしも魔物と戦う必要はない。=I think that's a good judgement. Ranger animals don't necessarily have to fight monsters.
 [3C404EFF]対象のいる場所を教えたり、[3C404EFF]匂いで追跡したり……[3C404EFF]\nこちらの指示を聞いて、[3C404EFF]そうしたサポートをするのも立派な仕事だ。=It's also a great job to teach them where the targets are or to track them with their sense of smell and support us by following our instructions.
 タオル持ってきたよ。=I brought a towel.
@@ -168,7 +168,7 @@
 [3C404EFF]コッコロちゃんも……？=What about Kokkoro-chan...?
 [3C404EFF]はい。[3C404EFF]わたくしも、[3C404EFF]今でこそ主さま……[3C404EFF]\n[3C404EFF]わんわんの方の主さまと一緒におりますが、[3C404EFF]\n[3C404EFF]元の飼い主の方を捜したこともございます。=Yes. I too, even now, am with Aruji-sama... the one who goes Wan-wan, but I also searched for his original owner.
 [3C404EFF]帰れる場所、[3C404EFF]帰りたい場所が分かっているなら[3C404EFF]\nそこへお送りしてさしあげるべきだと。[3C404EFF]\n[3C404EFF]そう、[3C404EFF]思っておりますから。=If they have a place to return to, a place they want to return to, they should be sent there. That's what I believe.
-[3C404EFF]ふふっ、[3C404EFF]主さまは元気いっぱいですね。[3C404EFF]\n明日は主さまも、[3C404EFF]わんわんの主さまも[3C404EFF]ご一緒にまいりましょう。=Hehe, Aruji-sama is full of energy. Let's all go together tomorrow, the Aruji-sama and the Wan-wan Aruji-sama.
+[3C404EFF]ふふっ、[3C404EFF]主さまは元気いっぱいですね。[3C404EFF]\n明日は主さまも、[3C404EFF]わんわんの主さまも[3C404EFF]ご一緒にまいりましょう。=Hehe, Aruji-sama is full of energy. Let's all go together tomorrow, the Aruji-sama and the Wan-wan aruji-sama.
 頑張ろうね。=Let's do our best.
 [3C404EFF]……[3C404EFF]はいっ。=......Yes.
 [3C404EFF]こうして、シオリたちは魔物たちの生息地──[3C404EFF]\n密林の調査任務へと挑むことになるのだった。=And so, Shiori and the others set out on a mission to investigate the creatures' habitat - the dense forest.

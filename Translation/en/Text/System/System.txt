@@ -1,5 +1,5 @@
 プレゼント=Presents
-ミッション=Mission
+ミッション=Missions
 お知らせ=Notice
 クラン=Clan
 ショップ=Shop

@@ -99,7 +99,7 @@ Likeした人=Liked by You
 最近のLike情報はありません。=There is no recent LIKE information.
 
 ===Furniture shop===
-sr:"^(\d+)年(\d+月)(\d+)日 ([0-9:]+)まで$"=Untill $2 $3, $1 $4(JST)
+sr:"^(\d+)年(\d+月)(\d+)日 ([0-9:]+)まで$"=Until $2 $3, $1 $4(JST)
 該当する家具はありません。=There is no applicable furniture.
 テーマ=Theme
 インテリア=Decor

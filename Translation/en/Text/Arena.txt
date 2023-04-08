@@ -52,6 +52,7 @@ r:"^プリセット(\d+)$"=Preset $1
 編成制限のため選択できません。=Cannot be selected due to organization restrictions.
 保存完了=Save Completed
 バトルアリーナではオートのみになります。=In the battle arena it will only be auto.
+バトルアリーナでは選択できません。=Cannot be selected in Battle Arena.
 [3B3F4D]クールタイム中です。\nジュエル×[-][FFBB00,CE4F00]10[-][3B3F4D]を使用して\nクールタイムを解除しますか？[-]=[3B3F4D]You are currently on cooldown.\nuse Jewels × [FFBB00,CE4F00]10[-]\n to reset cooldown?[-]
 [FF7C4E,D62146]スキップ設定になっています。[-]=[FF7C4E,D62146]It's set to skip.[-]
 [3C404E]パーティ編成が時間切れになりました。\n対戦相手を選択し直してください。[-]=[3C404E]The party formation has expired.\nPlease reselect your opponent.[-]

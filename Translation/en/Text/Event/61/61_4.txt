@@ -39,7 +39,7 @@
 でも……！=but...!
 [3C404EFF]こちらにはニャットさまがいますから。[3C404EFF]\n[3C404EFF]さあ、[3C404EFF]お早く！=We have Nyatt-sama here. Now, hurry!                                               
 ……分かった！=...Okay, I got it!
-[3C404EFF]さあ、[3C404EFF]わんわんの方の主さまはこちらへ……[3C404EFF]主さま？=Now, Wan-wan Aruji-sama let's go... Aruji-sama?
+[3C404EFF]さあ、[3C404EFF]わんわんの方の主さまはこちらへ……[3C404EFF]主さま？=Now, Wan-wan aruji-sama let's go... Aruji-sama?
 [3C404EFF]ウゥゥゥ…………=Woo..................
 [3C404EFF]どうにか、[3C404EFF]注意をそらせたみたいですね……[3C404EFF]\nコッコロちゃんたち、[3C404EFF]無事に逃げられてたらいいけど……=Looks like we managed to distract it... I hope Kokkoro-chan and the others were able to escape safely...
 [3C404EFF]はっはっはっ……=Haa haa haa...
@@ -97,7 +97,7 @@ r:"^\[3C404EFF\]コッコロちゃんや(.{2,10})さん、\[3C404EFF\]\nみん�
 [3C404EFF]大丈夫です、[3C404EFF]私が見張ってますから。[3C404EFF]\nだから[3C404EFF]安心してください。=It's okay. I'm keeping watch, so please don't worry.                                
 [3C404EFF]……ニャットちゃん、[3C404EFF]どこにいるんだろう。[3C404EFF]\n[3C404EFF]今頃[3C404EFF]何してるかな。=......I wonder where Nyatt-chan is. I wonder what he's doing right now.                     
 [3C404EFF]ニャットさまは夜型なのですね。[3C404EFF]\n[3C404EFF]こうしてそばにいると、[3C404EFF]安心します。=Nyatt-sama is a nocturnal animal. I feel relieved when I'm near him like this.                          
-[3C404EFF]でも、[3C404EFF]少しはお休みになってくださいまし。[3C404EFF]\n[3C404EFF]わたくし、[3C404EFF]わんわんの主さまは抱えられても[3C404EFF]\nニャットさまはさすがにお連れできませんよ。=But please get some rest. I can carry Wan-wan Aruji-sama, but I can't bring Nyatt-sama along, of course.                      
+[3C404EFF]でも、[3C404EFF]少しはお休みになってくださいまし。[3C404EFF]\n[3C404EFF]わたくし、[3C404EFF]わんわんの主さまは抱えられても[3C404EFF]\nニャットさまはさすがにお連れできませんよ。=But please get some rest. I can carry Wan-wan aruji-sama, but I can't bring Nyatt-sama along, of course.                      
 [3C404EFF]朝になったら、[3C404EFF]すぐにシオリさまを捜しましょう。[3C404EFF]\nそれまで休める時に休むのも、[3C404EFF]大切でございますから。=As soon as it's morning, let's search for Shiori-sama. It's important to rest when we can until then.                          
 [3C404EFF]こうしてシオリとコッコロは不慣れな環境の中、[3C404EFF]\n密林でのサバイバルを開始するのであった。=Thus, Shiori and Kokkoro started their survival in the unfamiliar jungle environment. 
 [3C404EFF]一方、その頃──=──Meanwhile, at that time────

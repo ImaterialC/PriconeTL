@@ -97,8 +97,8 @@ r:"^\[3C404EFF\]だからこそ、\[3C404EFF\]この合宿の間は\[3C404EFF\](
 [3C404EFF]あ、[3C404EFF]ありがとうございます……[3C404EFF]コッコロちゃん。=Oh, Thank you very much.........Kokkoro-chan.          
 [3C404EFF]大変助かりました、[3C404EFF]主さま。[3C404EFF]\n食器の方は、[3C404EFF]あとでわたくしが食堂に返却しておきますね。=Thank you for your help, Aruji-sama. I will return the dishes to the dining room later.
 [3C404EFF]くぅーん……=Kuun......       
-[3C404EFF]ニャットさま、[3C404EFF]わんわんの主さま。[3C404EFF]\n[3C404EFF]そのような悲しげなお顔をされても、[3C404EFF]今はどうか我慢してくださいまし。[3C404EFF]\n[3C404EFF]明日になればきっと元気になられますよ。=Nyatt-sama, and Wan-wan Aruji-sama. Please endure for now, even if you look sad. You will surely feel better tomorrow.
-[3C404EFF]主さま、[3C404EFF]ニャットさまたちのお世話を[3C404EFF]お願いいたします。=Aruji-sama, please take care of Nyat-sama and the others.
+[3C404EFF]ニャットさま、[3C404EFF]わんわんの主さま。[3C404EFF]\n[3C404EFF]そのような悲しげなお顔をされても、[3C404EFF]今はどうか我慢してくださいまし。[3C404EFF]\n[3C404EFF]明日になればきっと元気になられますよ。=Nyatt-sama, and Wan-wan aruji-sama. Please endure for now, even if you look sad. You will surely feel better tomorrow.
+[3C404EFF]主さま、[3C404EFF]ニャットさまたちのお世話を[3C404EFF]お願いいたします。=Aruji-sama, please take care of Nyatt-sama and the others.
 任せて！=Leave it to me!
 [3C404EFF]では、[3C404EFF]失礼いたします。=Well then, if you'll excuse me.
 [3C404EFF]誰だー、[3C404EFF]合宿の建物内にパートナーを連れ込んでるやつは。[3C404EFF]\n[3C404EFF]自分の室内か、[3C404EFF]専用の宿舎に泊まらせる規則のはずだぞー？=Who is it, bringing a partner into the training building during camp? The rule is to stay in your own room or in the designated dormitory, isn't it?
@@ -130,12 +130,12 @@ r:"^\[3C404EFF\]お姉ちゃんやマヒルさん……\[3C404EFF\]\nリンち�
 [3C404EFF]私、[3C404EFF]一人だったら心細かったと思います。[3C404EFF]\nでも、[3C404EFF]コッコロちゃんが居てくれたから、[3C404EFF]大丈夫になりました。=I think I would have felt very lonely if I were alone. But with you here, I feel okay.
 [3C404EFF]わたくしこそ……[3C404EFF]\nシオリさまとご一緒できて[3C404EFF]大変うれしいです。=I feel the same way... I'm very happy to be with Shiori-sama.               
 r:"^\[3C404EFF\]絶対、\[3C404EFF\]合格しましょうね。\[3C404EFF\]\n私と、\[3C404EFF\]コッコロちゃんと[3C404EFF](.{2,10})さんと……$"=Let's definitely pass the test. Together with me, Kokkoro-chan, and $1-san...                 
-[3C404EFF]はい。[3C404EFF]ニャットさまと、[3C404EFF]わんわんの主さま。[3C404EFF]\nみんなで。=Yes,\ntogether with Nyatt-sama and the Wan-wan Aruji-sama. With everyone.              
+[3C404EFF]はい。[3C404EFF]ニャットさまと、[3C404EFF]わんわんの主さま。[3C404EFF]\nみんなで。=Yes,\ntogether with Nyatt-sama and the Wan-wan aruji-sama. With everyone.              
 [3C404EFF]さ、[3C404EFF]明日も早いですから[3C404EFF]そろそろお休みにならないと。=Well, it's getting late, so we should probably go to bed soon.           
 [3C404EFF]私は、[3C404EFF]みんなに……[3C404EFF]お世話になってるみんなに、[3C404EFF]\n少しでも恩返しできるようになりたい。=I want to be able to repay everyone...... who has taken care of me even a little bit.               
 [3C404EFF]もっと……[3C404EFF]もっと欲張りになりたい。[3C404EFF]\n[3C404EFF]もっと、[3C404EFF]たくさん。[3C404EFF]もっと、[3C404EFF]幸せに。=I want to be more... even more greedy. More, a lot more. More happiness.                       
-[3C404EFF]そして、[3C404EFF]そこには……[3C404EFF]ニャットちゃんも居てほしい。=And I want Nyat-chan to be there with me in that future where we can live together...                  
-[3C404EFF]ニャットちゃんと、[3C404EFF]一緒に生きていける未来を作るために……[3C404EFF]\n[3C404EFF]私が……[3C404EFF]頑張って……=So I will do my best... to create a future where Nyat-chan and I can live together...
+[3C404EFF]そして、[3C404EFF]そこには……[3C404EFF]ニャットちゃんも居てほしい。=And I want Nyatt-chan to be there with me in that future where we can live together...                  
+[3C404EFF]ニャットちゃんと、[3C404EFF]一緒に生きていける未来を作るために……[3C404EFF]\n[3C404EFF]私が……[3C404EFF]頑張って……=So I will do my best... to create a future where Nyatt-chan and I can live together...
 [3C404EFF]翌朝、合宿所──=The next morning at the training camp──
 r:"^\[3C404EFF\]コッコロちゃん、\[3C404EFF\]それに(.{2,10})さんにも。\[3C404EFF\]\n\[3C404EFF\]色々とお騒がせしました。$"=Kokkoro-chan, and $1-san as well. We caused you a lot of trouble yesterday.
 [3C404EFF]お元気になられてよかったです。[3C404EFF]シオリさま。=I'm glad to see you're feeling better, Shiori-sama.              
@@ -144,7 +144,7 @@ r:"^\[3C404EFF\]コッコロちゃん、\[3C404EFF\]それに(.{2,10})さんに�
 r:"^\[3C404EFF\]はい、\[3C404EFF\](.{2,10})さんにも心配をかけちゃいましたね。\[3C404EFF\]\nその分、\[3C404EFF\]私もいっぱい頑張りますから。\[3C404EFF\]どうぞ頼ってください。$"=Yes, we worried you too, $1-san. So I'll work even harder from now on. Please rely on me.
 r:"^\[3C404EFF\]全員揃ってるな。\[3C404EFF\]\n(.{2,10})くんも連絡ありがとうね。$"=Everyone is here. Thank you for getting in touch, $1-kun.                    
 [3C404EFF]えっと、[3C404EFF]私たちに何か用事があるって話でしたけど……=Um, we were told that you had something to discuss with us...
-[3C404EFF]二人はレンジャーアニマルの訓練コースも受講してたよね？[3C404EFF]\n[3C404EFF]そこのニャットちゃんとわんちゃんとでさ。=You both also took the Ranger Animal training course, right? With Nyat-chan and Wan-chan there.
+[3C404EFF]二人はレンジャーアニマルの訓練コースも受講してたよね？[3C404EFF]\n[3C404EFF]そこのニャットちゃんとわんちゃんとでさ。=You both also took the Ranger Animal training course, right? With Nyatt-chan and Wan-chan there.
 [3C404EFF]もし興味があれば、[3C404EFF]でいいんだけど。[3C404EFF]\n競技会に出てみる気はない？=If you're interested, would you like to try entering a competition?    
 [3C404EFF]競技会……[3C404EFF]ですか？=A competition...?          
 [3C404EFF]そう。[3C404EFF]君たちの連れてる子が認定されるには、[3C404EFF]\n競技会に出て、[3C404EFF]優秀な成績を収めるのがてっとり早い。=Yes. The quickest way for your partners to be recognized is to participate in a competition and achieve excellent results.
@@ -152,7 +152,7 @@ r:"^\[3C404EFF\]全員揃ってるな。\[3C404EFF\]\n(.{2,10})くんも連絡�
 [3C404EFF]単純に、[3C404EFF]受験回数が一回増えるものと思ってもらえればいい。[3C404EFF]\n[3C404EFF]君たちにとっては損しない話だと思うけど……[3C404EFF]どうする？=Simply, you just need to think that the number of examinations will increase by one time. so it's not a bad deal for you. What do you think?
 [3C404EFF]──私、[3C404EFF]受けます。=──I'll do it.                    
 [3C404EFF]シオリさま……=Shiori-sama...           
-[3C404EFF]ニャットちゃんが人間の役に立つ……[3C404EFF]\n魔物でも、[3C404EFF]この世界に居ていいんだって証明ができるなら。=If Nyat-chan can prove that she can be useful to humans... if a monster can prove that he can be in this world.
+[3C404EFF]ニャットちゃんが人間の役に立つ……[3C404EFF]\n魔物でも、[3C404EFF]この世界に居ていいんだって証明ができるなら。=If Nyatt-chan can prove that she can be useful to humans... if a monster can prove that he can be in this world.
 [3C404EFF]その最短の道が目の前にあるなら、[3C404EFF]\n迷わないって決めたんです。[3C404EFF]だから……=then I have decided not to hesitate if the shortest path to that goal is right in front of me. That's why...       
 [3C404EFF]わたくしもお供します、[3C404EFF]シオリさま。=I'll accompany you, Shiori-sama.
 [3C404EFF]よし、[3C404EFF]それじゃあ明日から早速特訓だ。[3C404EFF]\n[3C404EFF]これまで以上に厳しくなるから、[3C404EFF]覚悟しておいてくれ。=Alright then, let's start training right away from tomorrow. It will be even more rigorous than before, so be prepared.

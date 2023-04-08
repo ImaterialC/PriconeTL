@@ -37,7 +37,7 @@
 [3C404EFF]……もしかしたら、[3C404EFF]どうしても弓を引かなきゃいけない。[3C404EFF]\nそんな場面があるかもしれません。=...There may be a situation where You absolutely have to shoot your bow.                     
 [3C404EFF]でも、[3C404EFF]それは[3C404EFF]最後の手段です。[3C404EFF]\n[3C404EFF]選ばなければならなくなった時の、[3C404EFF]本当に[3C404EFF]最後の。=But that's the last resort.\nReally the last when you have to choose.                                     
 [3C404EFF]それしかないように見えても。[3C404EFF]\n[3C404EFF]最後の最後の瞬間まで、[3C404EFF]私は[3C404EFF]道を探します。=Even if it seems like there's no other choice, I'll keep looking for a way until the very last moment.                         
-[3C404EFF]みんなにも、[3C404EFF]ニャットちゃんをそう見てほしいから。[3C404EFF]\n[3C404EFF]そのためには、[3C404EFF]まず私が実践しないと、[3C404EFF]ですよね。=Because I want everyone to see Nyat-chan the way I do. And in order to do that, I have to set an example.                                
+[3C404EFF]みんなにも、[3C404EFF]ニャットちゃんをそう見てほしいから。[3C404EFF]\n[3C404EFF]そのためには、[3C404EFF]まず私が実践しないと、[3C404EFF]ですよね。=Because I want everyone to see Nyatt-chan the way I do. And in order to do that, I have to set an example.                                
 [3C404EFF]それに、[3C404EFF]あの大猿さまは[3C404EFF]\n森で迷った主さまを[3C404EFF]守ってくださいました。=And also, Great Ape-san protected the Aruji-sama who was lost in the forest.           
 [3C404EFF]主さまの命の恩人なら、[3C404EFF]\n[3C404EFF]わたくしもまた、[3C404EFF]そのご恩に報いなければいけませんね。=If he's the Aruji-sama's benefactor, then I also have to repay him for his kindness.                      
 [3C404EFF]ドクターさま、[3C404EFF]大猿さまの虫歯治療、[3C404EFF]\n[3C404EFF]どうかお願いいたします。=Doctor-sama, please treat Great Ape-san's cavities.                        
@@ -51,7 +51,7 @@
 [3C404EFF]到着しました。[3C404EFF]\nここから先が[3C404EFF]ハンターズギルド管轄の魔物保護区です。=We've arrived. Beyond this point is the Hunter's Guild's monster protection zone.
 [3C404EFF]何が起きるかわかりません。[3C404EFF]\n[3C404EFF]十分に注意して進みましょう。=We don't know what will happen. Let's proceed with caution.                              
 [3C404EFF]作戦内容ですが、[3C404EFF]大猿さんに接近したのち、[3C404EFF]\n麻酔矢や眠り薬などで対象を眠らせます。=As for the plan, we'll approach the Great Ape and put it to sleep using tranquilizer darts and sleeping drugs.                           
-r:"\[3C404EFF\]私と(.{2,10})さんは\[3C404EFF\]周囲を警戒しつつ、\[3C404EFF\]\nドクターの治療が終わるまで待機……\[3C404EFF\]\n\[3C404EFF\]コッコロちゃんは治療のお手伝い、[3C404EFF]という感じですね。=$1-san and I will be on alert while the doctor treats it. Kokkoro will assist in the treatment.                          
+r:"\[3C404EFF\]私と(.{2,10})さんは\[3C404EFF\]周囲を警戒しつつ、\[3C404EFF\]\nドクターの治療が終わるまで待機……\[3C404EFF\]\n\[3C404EFF\]コッコロちゃんは治療のお手伝い、[3C404EFF]という感じですね。$"=$1-san and I will be on alert while the doctor treats it. Kokkoro will assist in the treatment.                          
 [3C404EFF]ところでドクターさま。[3C404EFF]\n麻酔薬などに余裕はあるでしょうか？[3C404EFF]\n[3C404EFF]大猿さまが暴れた場合に備えて[3C404EFF]鎮静させるためにも……=By the way, Doctor, do you have enough anesthetic? Just in case the Great Ape goes berserk...              
 [3C404EFF]いや、[3C404EFF]麻酔薬や鎮痛剤の用意はしているが……[3C404EFF]\n余裕があるとはとても言えないな。=Well, I have prepared anesthetics and painkillers, but I can't say I have much extra.                 
 [3C404EFF]それならば、[3C404EFF]わたくしに考えがあります。=In that case, I have an idea.                 
@@ -68,7 +68,7 @@ r:"\[3C404EFF\]私と(.{2,10})さんは\[3C404EFF\]周囲を警戒しつつ、\[
 [3C404EFF]あれは……[3C404EFF]わたくしたちが最初に見た姿ですね。[3C404EFF]\n[3C404EFF]どうやら大猿さまは[3C404EFF]昂られると、[3C404EFF]あのお姿になるご様子。=That's the same appearance we saw before. Apparently, when the Great Ape gets agitated, it takes that form.                                          
 [3C404EFF]大人しい姿の時であればよかったのですが……[3C404EFF]\n[3C404EFF]あの様子では、[3C404EFF]話を聞いてくださるのは難しいかと。=It would have been better if it was in its calm state, but it might be difficult to get it to listen in this state.         
 r:"^\[3C404EFF\]……作戦の位置に着きましょう。\[3C404EFF\]\n\[3C404EFF\]ドクターはこちらで待機、\[3C404EFF\]私とコッコロちゃん、\[3C404EFF\]\nそして(.{2,10})さんで\[3C404EFF\]大猿さんに対応します。$"=...Let's go to the planned location. The doctor will wait here while Kokkoro, $1-san, and I handle the Great Ape-san.
-[3C404EFF]わんわんの主さまはこちらで待機を。[3C404EFF]\n[3C404EFF]いい子にしていてくださいね。=Wan-wan Aruji-sama, please wait here and behave yourself, okay?
+[3C404EFF]わんわんの主さまはこちらで待機を。[3C404EFF]\n[3C404EFF]いい子にしていてくださいね。=Wan-wan aruji-sama, please wait here and behave yourself, okay?
 [3C404EFF]はっはっはっはっ……！=Hah hah hah hah hah...!
 [3C404EFF]承知した。[3C404EFF]だが、[3C404EFF]決して無理をしないと約束してくれよ。[3C404EFF]\n[3C404EFF]君たちの治療をしなければならないなんて[3C404EFF]御免だからな。=Understood. But promise me you won't overdo it. I don't want to have to treat you guys.                               
 [3C404EFF]はい。[3C404EFF]必ずみんなで無事に帰りましょう。=Yes, let's all return safely.                             
@@ -83,7 +83,7 @@ r:"^\[3C404EFF\]……作戦の位置に着きましょう。\[3C404EFF\]\n\[3C4
 [3C404EFF]パニックを避けるためです。[3C404EFF]\n私たちとあの大猿さん、[3C404EFF]お互いの安全のために。=It's to avoid causing panic. From their perspective, we suddenly attacked them.                        
 [3C404EFF]私たちには[3C404EFF]虫歯の治療という目的がありましたけど、[3C404EFF]\n[3C404EFF]向こうからすれば、[3C404EFF]いきなり襲いかかられたと感じたはずです。=We had the purpose of treating tooth decay, but from the other side, we felt that we were suddenly attacked.
 [3C404EFF]目を覚ました時、[3C404EFF]そんな私たちに取り囲まれていたら。[3C404EFF]\n自分の身を守ろうと、[3C404EFF]とっさに攻撃を仕掛けることも──=If He woke up surrounded by us, He might have tried to defend themselves and attack us...        
-[3C404EFF]あっ！　[3C404EFF]主さまっ……！=Oh no! Wan-wan Aruji-sama!                
+[3C404EFF]あっ！　[3C404EFF]主さまっ……！=Oh no! Wan-wan aruji-sama!                
 [3C404EFF]対象、[3C404EFF]あるじちゃんに気づきました！[3C404EFF]\n[3C404EFF]……こちらに視線を向けてますね。=The target, Aruji-chan, noticed us! He looking this way!
 [3C404EFF]はっはっはっはっ……=Hah hah hah hah hah...
 [3C404EFF]ウオォォ──……=Woooo──...          

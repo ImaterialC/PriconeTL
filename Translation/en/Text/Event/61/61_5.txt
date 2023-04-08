@@ -6,7 +6,7 @@
 [3C404EFF]ああ、[3C404EFF]シオリさま。[3C404EFF]よくぞご無事で……！=Ah, Shiori-sama! I'm glad you're safe...!                      
 [3C404EFF]コッコロちゃん。[3C404EFF]それにニャットちゃんも！=Kokkoro-chan, and Nyatt-chan too!                  
 [3C404EFF]先ほど、[3C404EFF]シオリさまが残された目印を発見しまして。[3C404EFF]\n跡を追って、[3C404EFF]こちらへたどり着くことができました。=Earlier, Shiori-sama's mark was found. We followed it and were able to make it here.               
-[3C404EFF]あははっ、[3C404EFF]ニャットちゃん。[3C404EFF]くすぐったい……♪=Ahaha, Nyat-chan, you tickle...♪              
+[3C404EFF]あははっ、[3C404EFF]ニャットちゃん。[3C404EFF]くすぐったい……♪=Ahaha, Nyatt-chan, you tickle...♪              
 [3C404EFF]おお、[3C404EFF]よしよし……♪[3C404EFF]\n[3C404EFF]ずっとお会いしとうございました、[3C404EFF]主さま。=Oh, good boy...♪ I've been wanting to meet you, Aruji-sama.           
 [3C404EFF]ところでシオリさま。[3C404EFF]\n人間の方の主さまはどちらにいらっしゃるのでしょうか。=By the way, Shiori-sama, where is the human Aruji-sama?                
 [3C404EFF]昨日は別行動でしたので、[3C404EFF]\n[3C404EFF]主さまが心配で[3C404EFF]昨晩はなかなか寝付けなかったのです。[3C404EFF]\n[3C404EFF]ニャットさまが居てくれたおかげで、[3C404EFF]少し安心できましたが。=Yesterday, he went on a separate trip, so I was worried about Aruji-sama and couldn't sleep well last night. Thanks to Nyatt-sama being there, I was able to relax a little, but...
@@ -33,7 +33,7 @@ r:"^\[3C404EFF\]ただし、\[3C404EFF\]警戒は解かないでください。\
 [3C404EFF]大猿さまが果実を採ってくださったのですか。[3C404EFF]\n[3C404EFF]くんくん……[3C404EFF]ふむ、[3C404EFF]毒などはない種類のようですが。[3C404EFF]\n[3C404EFF]これを、[3C404EFF]わたくしたちに？=Did the great ape-sama gather these fruits? Sniff... Hmm, it seems to be a non-toxic variety. \nThis is for us?                         
 [3C404EFF]ウホ……？=Uho...?         
 [3C404EFF]あんなに暴れていたのが信じられないくらい、[3C404EFF]\n大人しいですね。[3C404EFF]\nなんだか歓迎されているみたいですし……=Can't believe how calm he is now, after being so wild earlier. It's like he's welcome us...
-[3C404EFF]ええ、[3C404EFF]とてもつぶらな瞳をされております。[3C404EFF]\nまるでわんわんの主さまのような──=Yes, with those big round eyes of his, he's just like Wan-wan Aruji-sama.
+[3C404EFF]ええ、[3C404EFF]とてもつぶらな瞳をされております。[3C404EFF]\nまるでわんわんの主さまのような──=Yes, with those big round eyes of his, he's just like Wan-wan aruji-sama.
 [3C404EFF]あ、[3C404EFF]ああっ。[3C404EFF]そんなにぺろぺろしないでくださいまし。[3C404EFF]\n[3C404EFF]主さま、[3C404EFF]めっ、[3C404EFF]でございますよ。=Oh, oh my! Please don't lick me so much. Aruji-sama, please.                                                     
 [3C404EFF]そういえばお腹が空きましたね……[3C404EFF]\n[3C404EFF]非常用の食料は食べてしまいましたから、[3C404EFF]夜が明けてからは何も……=Come to think of it, I'm getting quite hungry now... We've already eaten all the emergency rations, so we have nothing left for when the morning comes...
 [3C404EFF]昨日のような危険はなさそうですから、[3C404EFF]\nここはありがたくご相伴にあずかるとしましょう。=There doesn't seem to be any danger like yesterday, so let's just be grateful and enjoy what we have here.
@@ -57,7 +57,7 @@ r:"^\[3C404EFF\]ただし、\[3C404EFF\]警戒は解かないでください。\
 [3C404EFF]今も口からよだれを垂らしておられますから、[3C404EFF]\n[3C404EFF]きっとお腹は空いていると思うのですが……=He's still drooling from his mouth, so I think he's hungry, but...                   
 [3C404EFF]ウ、[3C404EFF]ウゥゥゥ……=U, woooo.....   
 [3C404EFF]一生懸命目をそらそうとしていますけど……[3C404EFF]\nなんだか無理をして我慢しているような……？[3C404EFF]\n[3C404EFF]あの、[3C404EFF]よかったら一緒に食べませんか？=I'm trying to avoid eye contact as hard as I can... but it seems like I'm forcing myself to endure something...? Um, would you like to eat together?
-[3C404EFF]おや、[3C404EFF]わんわんの主さまが果物を……[3C404EFF]\n大猿さまにお渡しされましたね。=Oh, my, the Wan-wan Aruji-sama has given fruit to Great Ape-sama.                                      
+[3C404EFF]おや、[3C404EFF]わんわんの主さまが果物を……[3C404EFF]\n大猿さまにお渡しされましたね。=Oh, my, the Wan-wan aruji-sama has given fruit to Great Ape-sama.                                      
 [3C404EFF]ウ、[3C404EFF]ウホ…………=U, Uho...........     
 [3C404EFF]くぅーん…………？？？=Kuun.......???                     
 [3C404EFF]ウホ…………=Uho …………

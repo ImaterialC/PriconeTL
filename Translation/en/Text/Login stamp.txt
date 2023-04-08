@@ -1,5 +1,5 @@
 おかえりなさいませ、\n主さま=Welcome back,\nAruji-sama
-明日はこちらをご用意して\nお待ちしてますね=I will have this ready\nfor Aruji-sama tomorrow.
+明日はこちらをご用意して\nお待ちしてますね=I will have this ready\nfor you tomorrow,\nAruij-sama.
 
 sr:"^(.+)×(\d+)を\n獲得しました$"=Receive\n$1 × $2.
 sr:"^(.+)×(\d+)\n(.+)×(\d+)を\n獲得しました$"=Receive\n$1 × $2\n$3 × $4.

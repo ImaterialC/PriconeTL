@@ -69,3 +69,6 @@ BOSS出現クエスト直前=Before the BOSS
 特別なコンテンツが解放された場合、オート進行が停止する場合があります。=Stop Auto Advance when special content is unlocked.
 バトル中のボス会話をスキップするか設定します。=Skip or set the boss conversation in the battle.
 ボスバトル時会話のスキップ設定=Skip setting of conversation during boss battles
+
+オート進行中サポート確認=Auto Advance Support Confirmation
+オート進行中は2戦目以降も\n選択したサポートキャラが\n編成されます。=During the Auto Advance,\nthe selected support character will be organized\neven after the second battle onward.

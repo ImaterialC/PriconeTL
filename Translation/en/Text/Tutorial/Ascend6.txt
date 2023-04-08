@@ -7,7 +7,7 @@
 
 [3C404EFF]たくさん強い敵と戦って、[3C404EFF]\n[3C404EFF]わたしたちがんばりましたね！=We fought many strong enemies, but we did our best!
 
-[3C404EFF]それでコロ助、[3C404EFF]次は何をすればいいの？=So, Coro-chan, what should we do next?
+[3C404EFF]それでコロ助、[3C404EFF]次は何をすればいいの？=So, Korosuke, what should we do next?
 
 [3C404EFF]聞き及ぶところによると、[3C404EFF]最後の試練は[3C404EFF]\n大いなる力を持つ[3C404EFF]自身の影を討ち倒すことのようでございます。=According to what I've heard, the final trial is to defeat our own shadows, which possess great power.
 

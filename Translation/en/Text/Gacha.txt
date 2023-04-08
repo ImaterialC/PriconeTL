@@ -1,5 +1,8 @@
 ガ=G
 チャ=acha
+
+カムバック スペシャルフェス=Return SpecialFes
+ムバック スペシャルフェス=-Ching: Return SpecialFes
 チャ結果=acha Results
 Sダッシュ=J:Start
 プリフェス=PriFES

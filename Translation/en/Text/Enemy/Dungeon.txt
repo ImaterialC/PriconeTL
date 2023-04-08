@@ -1,3 +1,5 @@
+アークガーディアン=Arch Guardian
+
 エルダータイラント=Elder Tylant
 ・前方3キャラに物理防御力ダウン。=・physical defense Down in the front three characters.
 　を与え、さらに麻痺状態にする。=　Is given and further stuns.
