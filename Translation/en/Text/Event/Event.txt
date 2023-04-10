@@ -270,10 +270,10 @@ sr:"([べ-ヺー＆]+)との信頼度$"=Intimacy with $1
 ===NPC (Karin)===
 お疲れ様です！\nここでは、討伐証と報酬を\n交換することができます！=Otsukaresama! You can exchange Victory Medals for rewards here!
 受け取ることができる\n報酬があるようです\n確認してみてください=You've got rewards\nwaiting to be collected!
-報酬がもらえますよ！\nチェックしてみてください=Don't forget to collect!\nYour Mission reward!
+報酬がもらえますよ！\nチェックしてみてください=Don't forget to collect!\nYour mission reward!
 終わっちゃいましたねー\n討伐証は努力の証！\n報酬と交換しましょう！=That's it for the event! Those Victory Medal are proof of your efforts, though, so don't forget to exchange them!
 お疲れ様でした\n討伐証の交換、\nお忘れないように！=Welcome back! Don't let those Victory Medals go unexchanged!
-ギルド管理協会です！\n討伐証をお持ちでしたら、\n報酬交換できますよ=It is a guild management association! If you have a defeat, you can exchange rewards
+ギルド管理協会です！\n討伐証をお持ちでしたら、\n報酬交換できますよ=Greetings from the Guild Management Association! You can defeat monsters and exchange them for rewards here.
 イベントでは、特別なストーリーを楽しめます。\nイベントストーリーはイベントクエストを進めると解放されていきます。=This event features a special story.\nNew episodes will be unlocked as you progress through the event quest.
 強力なボス、VERY HARDが登場します。\nVERY HARDボスは１日に１体討伐が可能です。\n準備をしっかりして、気を引き締めて挑みましょう。=This event features a powerful Very Hard difficulty boss.\n it can only be defeated once each day.\n You will need to prepare well if you hope to conquer it.
 討伐証交換は、報酬ゲットのチャンスです。\n報酬の中には、イベントに登場するキャラ{{A}}もあります。\nたくさん集めてキャラを仲間にしましょう。=The Victory Medal Exchange is an opportunity to obtain rewards.\nAmong these rewards are Memory Shards for characters related to the Event. Try to collect plenty of them to unlock new party members!

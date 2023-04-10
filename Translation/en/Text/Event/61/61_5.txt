@@ -93,7 +93,7 @@ r:"^\[3C404EFF\](.{2,10})さんが拾ってきてくれたあの欠片。\[3C404
 [3C404EFF]そこで、[3C404EFF]わたくしたちは考えました。[3C404EFF]\n[3C404EFF]虫歯であるなら、[3C404EFF]治してしまえばよいのではと。=Therefore, we thought that if it was a cavity, we could just treat it.                              
 それで……この状況は？=So... what is the situation now?
 [3C404EFF]大猿さんみたいに、[3C404EFF]私たち人間と近い猿の魔物は[3C404EFF]\n基本的に歯の数が一致します。=Monsters like Great Ape-san, who are close to humans, generally have the same number of teeth as humans.
-r:"^\[3C404EFF\]なので、\[3C404EFF\](.{2,10))さんに協力してもらって\[3C404EFF\]\n治療する前のシミュレーションをさせてもらえればな、\[3C404EFF\]って。$"=So, if we could get $1-san's help and simulate it before treatment, that would be great.
+r:"^\[3C404EFF\]なので、\[3C404EFF\](.{2,10})さんに協力してもらって\[3C404EFF\]\n治療する前のシミュレーションをさせてもらえればな、\[3C404EFF\]って。$"=So, if we could get $1-san's help and simulate it before treatment, that would be great.
 [3C404EFF]虫歯を治して、[3C404EFF]痛みで暴れ回ることがなくなれば……[3C404EFF]\n[3C404EFF]一番平和に物事が解決しますから。=Treating the cavities and eliminating the pain will lead to the most peaceful solution.                                             
 [3C404EFF]あ、[3C404EFF]コッコロちゃん。[3C404EFF]そっちのガーゼを取ってください。[3C404EFF]\n万が一ということがあるので。=Oh, Kokkoro-chan, please grab that gauze over there just in case.                    
 [3C404EFF]はい、[3C404EFF]シオリさま。[3C404EFF]\n[3C404EFF]こちらの器具は不要でしょうか？=Yes, Shiori-sama. Do you need this tool here?                                   

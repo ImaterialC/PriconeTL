@@ -51,6 +51,7 @@ Like情報=Like Info
 この月は選択できません。=Cannot select this month
 受け取っていないアイテムはありません。=No items you can collect at the moment.
 
+Likeする=Like!
 ===gifting===
 絆ランクアップに必要なギフトアイテムが足りません。=There is not enough gift items needed for the rankup.
 これ以上絆ランクを上げられません。=You can't raise the bond rank anymore.
