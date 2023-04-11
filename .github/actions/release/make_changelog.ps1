@@ -42,7 +42,9 @@ foreach ($file in $ChangedFiles) {
         }
         else {
             $Log += $Splitted[3] + ": " + $Splitted[4].Split(" ")[0] + "`n"
-            $Texture += $Log
+            if (!$Texture -match $Log) {
+                $Texture += $Log
+            }
         }
     }
     elseif ($file -match ".+config/.+") {
