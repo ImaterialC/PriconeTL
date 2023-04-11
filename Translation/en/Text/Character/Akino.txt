@@ -8,7 +8,7 @@ Profile
 慈善事業=Charitable Business Ventures
 
 Skills
-ノーブルアサルト=Benevolent Beatdown
+ノーブルアサルト=Noble Assault
 ノーブルプロミネンス=Noble Prominence
 フレイムソウル+=Burning Soul+
 フレイムソウル=Burning Soul

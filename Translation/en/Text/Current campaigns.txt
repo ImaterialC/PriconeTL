@@ -37,3 +37,5 @@ r:"^あと(\d+)時間$"=$1h left
 r:"^あと(\d+)分$"=$1m left
 
 r:"^Lv(\d+)まで$"=Until Lv$1
+
+アプリ配信期間終了=End of app period

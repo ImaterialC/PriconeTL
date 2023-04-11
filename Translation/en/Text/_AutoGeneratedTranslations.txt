@@ -1,1 +1,2 @@
-﻿
+﻿r:"^Ver([0-9.]+)$"=PriconneTL 20230411 NVIDIA\n\nVer$1\n\n\nアプリ配信期間終了=End of application distribution period
+で!=and!

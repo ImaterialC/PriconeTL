@@ -139,8 +139,8 @@
 店仕舞い=Closing Shop
 呪縛の先に=Beyond the Curse
 混戦のゆくえ=Fate of the Chaotic Battle
-ランドソル大食い対決！=Land-Sol's Eating Competition Showdown!
-それゆけクレジッタ=Go for it, Creditter!
+ランドソル大食い対決！=Landosol's Eating Competition Showdown!
+それゆけクレジッタ=Go for it, Creditta!
 ホマレの誘い=Homare's Invitation
 迷い猫、迷い竜=Stray Cat, Stray Dragon
 商人の心得=The Knowledge of a Merchant

@@ -109,7 +109,7 @@ r:"^\[3C404EFF\]そこの(.{2,10})くんは見学かな。\[3C404EFF\]\n\[3C404E
 [3C404EFF]だから、[3C404EFF]その……[3C404EFF]一緒に頑張りましょうっ。=So, let's do our best together.
 そうだね、頑張ろう！=Yeah, let's do our best!
 [3C404EFF]ええ。[3C404EFF]全員で合格する……[3C404EFF]\nそのために、[3C404EFF]こうして夜に集まって[3C404EFF]勉強会を開いております。=Yes, we're all here to pass together... that's why we're having this study group at night. We want to support our master's studies while also improving ourselves.
-[3C404EFF]主さまのお勉強をサポートしつつ、[3C404EFF]\nわたくしたちも[3C404EFF]更なるレベルアップを図れればと。=That's right. Today we covered herbology and trap classification, so if you review around this area...
+[3C404EFF]主さまのお勉強をサポートしつつ、[3C404EFF]\nわたくしたちも[3C404EFF]更なるレベルアップを図れればと。=While supporting Aruji-sama's studies, I hope we can also raise our level further.
 [3C404EFF]そうですね。[3C404EFF]今日は薬草学と罠の分類のところでしたから、[3C404EFF]\nこの辺りを予習すれば……[3C404EFF]こほっ。=That's right. Today we covered herbology and trap classification, so if you review around this area...
 [3C404EFF]こほ、[3C404EFF]こほっ。[3C404EFF]……すみません。=*coughs* Ahem, sorry about that.
 [3C404EFF]シオリさま、[3C404EFF]大丈夫ですか？=Shiori-sama, are you okay?

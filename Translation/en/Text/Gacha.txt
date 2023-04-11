@@ -46,7 +46,6 @@ r:"^あと ([0-9:]{8})$"=$1 Left
 プライズ=Prize
 キャラ詳細=Characters Details
 有償ジュエルで！=Use Paid Jewels!
-毎日   時にリセット=Resets daily
 r:"^ストーリー (\d+)話$"=Story Episode $1
 
 キャラ交換=Character Exchange
@@ -181,8 +180,9 @@ sr:"^「([べ-ヺー＆]+)(（.+）)?」\n\nにピックアップ対象を変更
 [3C404E]アイテムやメモリーピースをGET！[-]=[3C404E] Get item and memory shards! [-]
 所持上限を超えるアイテムはプレゼントに送られます。=Items over the possession limit will be sent to the present box.
 日   回無料！=Daily free!
-   日最大     度引ける=   day         Times
-   時と     時リセット=&      Reset
+   日最大     度引ける=   day,         Times
+   時と     時リセット= &        : Reset
+毎日   時にリセット=am    :00 Reset   
 無料=free
 1度= 
 だけ引ける!=Once Pull!
