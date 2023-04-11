@@ -4,7 +4,7 @@ AkariA
 
 AkariX
 お兄ちゃんのお誕生日\nアカリ、全力でお祝いします♪\n今ならお兄ちゃんのしたいこと\nなんでもしていいですよ？=Onii-chan, Happy Birthday!\nAkari will celebrate with all her might♪\nIf there's anything Onii-chan wants to do now,\nyou can tell me, okay?
-ハッピーバースデーお兄ちゃん！\nサンタでエンジェルな\nアカリが、いーっぱい\nお祝いしてあげますね♪=Happy Birthday Onii-chan!\nSanta's angelic Akari will celebrate\n your birtday with you♪
+ハッピーバースデーお兄ちゃん！\nサンタでエンジェルな\nアカリが、いーっぱい\nお祝いしてあげますね♪=Happy Birthday Onii-chan!\nSanta's angelic Akari will celebrate\n your birthday with you♪
 
 AkinoX
 今日はあなたさまの\n誕生日ですもの\nささやかに、とは言いません\n盛大にお祝いいたしましょう！=Since today is your birthday,\nlet's celebrate it in a grand way,\nnot in a modest way!
@@ -22,7 +22,7 @@ AoiCa
 
 AoiWo
 あなたのお誕生日を祝う言葉を\nわ、私が…！？　し、幸せすぎて\nちょっと怖いですが…せーのっ\nお誕生日おめでとうございます！=I, me...? It's a little scary because I'm so happy...\n Here goes nothing! Happy Birthday to you!
-今日はあなたのお誕生日をお祝い\nさせてください！　歌に、花束の\n贈呈…それと100通の手紙です\n…では心を込めて歌います！=Today, let me celebrate your birthday!\nWith a song, a boquet... and 100 letters\n... Now, I will sing with all my heart!
+今日はあなたのお誕生日をお祝い\nさせてください！　歌に、花束の\n贈呈…それと100通の手紙です\n…では心を込めて歌います！=Today, let me celebrate your birthday!\nWith a song, a bouquet... and 100 letters\n... Now, I will sing with all my heart!
 
 AoiSt
 お、おお、お誕生日\nおめでとうございます！\nああ…他の誰かの誕生日を\n祝えるだけでも幸せです…=Oh, Happy Birthday!\nAh... It makes me happy just to be able to celebrate someone else's birthday...
