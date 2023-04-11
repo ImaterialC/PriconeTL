@@ -4,14 +4,14 @@ if ($Changelog -match "Changelog") {
     $Changelog = $Changelog.Remove(0, $Changelog.IndexOf("Changelog"))
 
     $Replacement = @{
-        "details"   = "";
-        "summary"   = "";
-        "<>"        = "";
-        "</>"       = "";
-        "Changelog" = "**Changelog:**";
-        "Text"      = "Text:";
-        "Texture"   = "Texture:";
-        "-"         = "•"
+        "<summary>"  = "";
+        "</summary>" = "";
+        "<details>"  = "";
+        "</details>" = "";
+        "Changelog"  = "**Changelog:**";
+        "Text"       = "Text:";
+        "Texture"    = "Texture:";
+        "-"          = "•"
     }
     ($Replacement | ConvertTo-Json | ConvertFrom-Json).PSObject.Properties.Name | ForEach-Object {
         $Changelog = $Changelog.Replace($_, $Replacement.$_)

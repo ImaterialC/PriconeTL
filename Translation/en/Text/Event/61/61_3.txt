@@ -49,7 +49,7 @@
 派手に転んでたけど、怪我してない？=You fell elegantly, were you injured?
 [3C404EFF]ぎゃ～～～～～っ！！　[3C404EFF]最悪、[3C404EFF]最悪、[3C404EFF]最悪！[3C404EFF]\n[3C404EFF]あんなとこ見られてたなんて、[3C404EFF]\n[3C404EFF]アタシのクールで完璧なイメージが……！=Gya～～～～～!!\nThe worst, the worst, the worst! My cool and perfect image was seen in such a place...                      
 [3C404EFF]……ちっ、[3C404EFF]なんつーところで鉢合わせんだよ。=Tch, why did we have to bump into each other in this kind of place?
-[3C404EFF]カリザ……！？=CKariza.....!? 
+[3C404EFF]カリザ……！？=Kariza.....!? 
 [3C404EFF]わーっ、[3C404EFF]カリザくんだ～[3C404EFF]\n[3C404EFF]カリザくんもさっきの競走にでてたの～？=Wow, it's Kariza-kun~! Were you also participating in the race earlier?
 [3C404EFF]あぁ？　[3C404EFF]んな訳ねェだろうが。[3C404EFF]\n[3C404EFF]オレぁ、[3C404EFF]ママゴトしに来たんじゃねーっての。=Ahh?\nAs if. I didn't come here to playing house.                    
 [3C404EFF]ふぇ…………？=Fe.......?
