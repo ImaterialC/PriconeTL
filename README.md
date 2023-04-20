@@ -9,7 +9,8 @@ Princess Connect! Re:Dive Translation Project
 **At 2023 April 12 Cygame change game system from Mono Unity 32bit into IL2CPP Unity 64bit.**
 **this patch no longer available**
 
-**pain peko**
+Our team build new framework that can work for current Priconne, 
+we will make sure our patch is safe before distributed.
 
 ---
 **!!! WARNING !!!**
