@@ -1,4 +1,3 @@
-
 # PriconeTL (Archived)
 
 Princess Connect! Re:Dive Translation Project
@@ -12,4 +11,3 @@ Princess Connect! Re:Dive Translation Project
 
 # Go to https://github.com/ImaterialC/PriconneRe-TL for current version
 ---
-[![ko-fi](https://img.shields.io/badge/_-kofi-red.svg?logo=kofi&labelColor=555555&style=for-the-badge)](https://ko-fi.com/E1E5HG8RP) [![saweria](https://img.shields.io/badge/_-Saweria.co-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](https://saweria.co/imaterial "Saweria.co") [![saweria](https://img.shields.io/badge/_-Patreon-red.svg?logo=patreon&labelColor=555555&style=for-the-badge)](https://patreon.com/imaterial "Saweria.co")
